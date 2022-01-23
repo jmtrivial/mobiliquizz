@@ -19,6 +19,7 @@ L'utilisateur doit alors deviner le nom de la ville.
 ## Ingrédients de l'implémentation
 
 * le fichier de la [population légale 2019](https://www.insee.fr/fr/statistiques/6011070?sommaire=6011075) publiée par l'INSEE où il faudra ensuite convertir le code de la commune en quelque chose d'exploitable dans OSM
+* utiliser un [tirage aléatoire pondéré](https://observablehq.com/@nextlevelshit/rejection-sampling-in-javascript)
 
 ## Ressources et liens
 
