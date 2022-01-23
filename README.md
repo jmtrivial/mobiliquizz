@@ -19,7 +19,7 @@ L'utilisateur doit alors deviner le nom de la ville.
 ## Ingrédients de l'implémentation
 
 * le fichier de la [population légale 2019](https://www.insee.fr/fr/statistiques/6011070?sommaire=6011075) publiée par l'INSEE où il faudra ensuite convertir le code de la commune en quelque chose d'exploitable dans OSM
-* utiliser un tirage aléatoire pondéré en [fabriquant un tableau très grand](https://observablehq.com/@nextlevelshit/rejection-sampling-in-javascript) ou [en utilisant une boucle](https://stackoverflow.com/questions/43566019/how-to-choose-a-weighted-random-array-element-in-javascript) par exemple
+* utiliser un tirage aléatoire pondéré en [fabriquant un tableau très grand](https://observablehq.com/@nextlevelshit/rejection-sampling-in-javascript) ou [en utilisant une boucle](https://stackoverflow.com/questions/43566019/how-to-choose-a-weighted-random-array-element-in-javascript) par exemple. La méthode avec la boucle [semble plus efficace](https://blobfolio.com/2019/randomizing-weighted-choices-in-javascript/).
 
 ## Ressources et liens
 
