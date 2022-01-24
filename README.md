@@ -2,7 +2,9 @@
 
 Un quizz pour reconnaître les villes suivant leurs infrastructures de mobilité. Source d'inspiration: [ce tweet de Appéré Yveline](https://twitter.com/PourkwoiPaww/status/1484915052251693056?s=20).
 
-## Comment ça fonctionnera
+L'outil est encore en cours de développement, accessible à l'adresse https://jmtrivial.github.io/mobiliquizz/web/
+
+## Comment ça fonctionne
 
 À chaque connexion, une ville est tirée au sort parmi toutes les villes du pays, en privilégiant les villes à grand nombre d'habitants. 
 Les données cartographiques de la ville dédiée à la mobilité cyclable sont récupérées depuis OpenStreetMap, puis affichées à l'utilisateur, sans autre contexte que la forme de ces tracés.
@@ -14,12 +16,12 @@ L'utilisateur doit alors deviner le nom de la ville.
 * utiliser autre chose que les données de mobilité cyclables (à définir)
 * afficher le nombre d'habitants de la ville pour aider, ou sa surface
 * permettre une saisie libre du nom (avec un outil de calcul de similarité, pour éviter les mauvaises réponses uniquement dûes à un mauvais usage des accents, majuscules, tirets, espaces, ...)
-* proposer 4 solutions (à la manière de qui veut gagner des millions) pour un mode facile
+* proposer 4 solutions (à la manière de **qui veut gagner des millions**) pour un mode facile
 
 ## Ingrédients de l'implémentation
 
 * le fichier de la [population légale 2019](https://www.insee.fr/fr/statistiques/6011070?sommaire=6011075) publiée par l'INSEE où il faudra ensuite convertir le code de la commune en quelque chose d'exploitable dans OSM
-* utiliser un tirage aléatoire pondéré en [fabriquant un tableau très grand](https://observablehq.com/@nextlevelshit/rejection-sampling-in-javascript) ou [en utilisant une boucle](https://stackoverflow.com/questions/43566019/how-to-choose-a-weighted-random-array-element-in-javascript) par exemple. La méthode avec la boucle [semble plus efficace](https://blobfolio.com/2019/randomizing-weighted-choices-in-javascript/).
+* utiliser un tirage aléatoire pondéré en fonction du nombre d'habitants.
 
 ## Ressources et liens
 
