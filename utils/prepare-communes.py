@@ -9,12 +9,16 @@ import os
 import re
 from itertools import accumulate
 import json
+import math
 
-# Paramètre du script: taille des commuens à garder
+# Paramètre du script: taille des communes à garder
 min_population = 50000
 
-# fichier de sortie
-sortie = "../web/liste_communes.json"
+# territoire de référence
+territoire = "france"
+
+# dossier de sortie
+dir_sortie = "../web/data"
 
 # opendata population légale 2019
 url = "https://www.insee.fr/fr/statistiques/fichier/6011070/ensemble.zip"
@@ -83,14 +87,22 @@ print("filtrage des données")
 # filtrage des communes suivant leur taille (on ne garde que les plus grosses)
 data = [ d for d in data if d[1] >= min_population ]
 
+# on applique un log pour réduire l'influence des grandes villes dans le tirage au sort
+data = [ [d[0], d[1] ** (8/10)] for d in data]
+
 # ajout de la somme cummulée
 cumul = list(accumulate([d[1] for d in data]))
-data = [d + [c] for d, c in zip(data, cumul)]
+data = [[d[0], c] for d, c in zip(data, cumul)]
 
 
-# écriture dans un fichier json
 dossier, script = os.path.split(os.path.abspath(__file__))
-sortie_complete = dossier  + os.path.sep + sortie
+dossier_data = os.path.abspath(dossier  + os.path.sep + dir_sortie)
+# création du dossier cible
+if not os.path.exists(dossier_data):
+    os.makedirs(dossier_data)
+
+# écriture dans un fichier json
+sortie_complete = dossier_data + os.path.sep + territoire + "-" + str(min_population) + ".json"
 print("écriture du résultat dans le fichier", sortie_complete)
 
 with open(sortie_complete, 'w') as outfile:
