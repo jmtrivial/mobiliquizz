@@ -1,0 +1,50 @@
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Mobiliquizz</title>
+    <meta name="description" content="Un quizz où on devine la ville à partir de son réseau de mobilité douce.">
+    <meta name="author" content="Jean-Marie Favreau">
+
+    <meta property="og:title" content="Mobiliquizz">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://jmtrivial.github.io/mobiliquizz/web/">
+    <meta property="og:description" content="Un quizz où on devine la ville à partir de son réseau de mobilité douce.">
+    <!-- TODO meta property="og:image" content="image.png"-->
+
+    <!-- TODO link rel="icon" href="/favicon.svg" type="image/svg+xml" -->
+
+    <link rel="stylesheet" href="css/style.css?v=1.0">
+    
+    <!-- include leaflef -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+   integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A=="
+   crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"
+   integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA=="
+   crossorigin=""></script>
+</head>
+
+<body>
+    <div id="main">
+        <div id="head">
+            <h1><span class="intro">Mobiliquizz</span> — jouons à reconnaître une ville</h1>
+            <p id="question">Reconnaissez-vous cette ville grâce à l'indice visuel ci-dessous ?</p>
+        </div>
+        <div id="middle">
+            <div id="map">
+            </div>
+        </div>
+        <div id="footer">
+            <p id="indice1" class="selected question"><span class="intro">Indice :</span> pistes cyclables de la ville mystère</p>
+            <p id="indice2" class="question"><span class="intro">Indice :</span> pistes et bandes cyclables de la ville mystère</p>
+            <p id="petites-lignes">
+                Mobiliquizz est un logiciel libre dont le <a href="https://github.com/jmtrivial/mobiliquizz">code source est disponible en ligne</a>, et qui s'appuie sur les données géographiques d'<a href="https://www.openstreetmap.org/">OpenStreetMap</a>, et sur les données <a href="https://www.insee.fr/fr/statistiques/6011070?sommaire=6011075">population légale 2019</a> de l'INSEE.
+            </p>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
