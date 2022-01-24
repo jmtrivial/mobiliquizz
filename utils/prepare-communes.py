@@ -92,7 +92,7 @@ data = [ [d[0], d[1] ** (8/10)] for d in data]
 
 # ajout de la somme cummulée
 cumul = list(accumulate([d[1] for d in data]))
-data = [[d[0] + ", " + territoire, c] for d, c in zip(data, cumul)]
+data = [[d[0], c] for d, c in zip(data, cumul)]
 
 
 dossier, script = os.path.split(os.path.abspath(__file__))
