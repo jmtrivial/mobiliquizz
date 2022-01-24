@@ -15,7 +15,7 @@ import math
 min_population = 50000
 
 # territoire de référence
-territoire = "france"
+territoire = "France"
 
 # dossier de sortie
 dir_sortie = "../web/data"
@@ -92,7 +92,7 @@ data = [ [d[0], d[1] ** (8/10)] for d in data]
 
 # ajout de la somme cummulée
 cumul = list(accumulate([d[1] for d in data]))
-data = [[d[0], c] for d, c in zip(data, cumul)]
+data = [[d[0] + ", " + territoire, c] for d, c in zip(data, cumul)]
 
 
 dossier, script = os.path.split(os.path.abspath(__file__))
@@ -102,7 +102,7 @@ if not os.path.exists(dossier_data):
     os.makedirs(dossier_data)
 
 # écriture dans un fichier json
-sortie_complete = dossier_data + os.path.sep + territoire + "-" + str(min_population) + ".json"
+sortie_complete = dossier_data + os.path.sep + territoire.lower() + "-" + str(min_population) + ".json"
 print("écriture du résultat dans le fichier", sortie_complete)
 
 with open(sortie_complete, 'w') as outfile:
