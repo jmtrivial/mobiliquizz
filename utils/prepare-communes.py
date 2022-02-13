@@ -91,7 +91,7 @@ print("filtrage des données niveau 1")
 data_level1 = sorted(data, key=operator.itemgetter(1), reverse=True)[:10]
 
 # sauver dans le dossier data
-sauver_villes(data_level1, "level1")
+sauver_villes(data_level1, "niveau1")
 
 ### Génération des fichiers pour le niveau 2
 
@@ -109,7 +109,7 @@ data_level2 = [ [d[0], d[1] ** (8/10)] for d in data_level2]
 data_level2 = ajouter_somme_cumulee(data_level2)
 
 # sauver dans le dossier data
-sauver_villes(data_level2, "level2")
+sauver_villes(data_level2, "niveau2")
 
 
 
