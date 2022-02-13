@@ -12,8 +12,6 @@ import json
 import math
 import operator
 
-# Paramètre du script: taille des communes à garder
-min_population = 50000
 
 # territoire de référence
 territoire = "France"
@@ -96,6 +94,9 @@ data_level1 = sorted(data, key=operator.itemgetter(1), reverse=True)[:10]
 sauver_villes(data_level1, "level1")
 
 ### Génération des fichiers pour le niveau 2
+
+# Paramètre du script: taille des communes à garder
+min_population = 50000
 
 print("filtrage des données niveau 2")
 # filtrage des communes suivant leur taille (on ne garde que les plus grosses)
