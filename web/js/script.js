@@ -8,15 +8,12 @@ function get_max_number(jsondata) {
     return jsondata.reduce((max, p) => p[1] > max ? p[1] : max, jsondata[0][1]);
 }
 
-function select_city(jsondata) {    
-    const max_value = get_max_number(jsondata);
-    const r_value = Math.random() * max_value;
+function select_city() {    
+    window.selected_city += 1;
+    if (window.selected_city >= window.jsondata.length)
+        window.selected_city = 0;
     
-    for (let i = 0; i < jsondata.length; ++i) {
-        if (jsondata[i][1] >= r_value) {
-            return jsondata[i][0];
-        }
-    }
+    return window.jsondata[window.selected_city][0];
 
 }
 
@@ -134,7 +131,7 @@ function set_indice_affiche(indice) {
 function display_next_question() {
     // TODO: s'il y a dans l'adresse un paramètre de ville, on l'utilise et on reset l'url
     afficher_entete_jeu();
-    window.ville = select_city(window.jsondata);
+    window.ville = select_city();
     window.use_previous = false;
     get_data_set_interface(window.ville, window.niveau, window.indice);
 }
@@ -149,13 +146,38 @@ function init_question(indice) {
     display_next_question();
 }
 
+// https://stackoverflow.com/questions/2450954/how-to-randomize-shuffle-a-javascript-array
+function shuffle(array) {
+    let currentIndex = array.length,  randomIndex;
+  
+    // While there remain elements to shuffle...
+    while (currentIndex != 0) {
+  
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex--;
+  
+      // And swap it with the current element.
+      [array[currentIndex], array[randomIndex]] = [
+        array[randomIndex], array[currentIndex]];
+    }
+  
+    return array;
+  }
+  
+  
 
+function init_ville_liste(jsondata) {
+    window.jsondata = shuffle(jsondata);
+    window.selected_city = 0;
+}
 
 function init_niveau(jsondata, numero) {
 
     window.nb_correct_dans_niveau = 0;
     window.nb_erreur_dans_niveau = 0;
-    window.jsondata = jsondata;
+
+    init_ville_liste(jsondata);
 
     window.niveau = numero;
     set_niveau_affiche(numero);
@@ -309,7 +331,10 @@ function verifier_reponse() {
 }
 
 function nouvelle_partie() {
-    charger_niveau(window.niveau - 1);
+    if (window.niveau == 1)
+        init_question(1);
+    else
+        charger_niveau(window.niveau - 1);
 }
 
 function continuer_partie_correct() {
