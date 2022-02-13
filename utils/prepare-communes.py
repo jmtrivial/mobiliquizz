@@ -42,8 +42,8 @@ with tempfile.TemporaryDirectory() as tmpdirname:
         # récupération de la liste des communes de plus de min_population habitants
         print("extraction du fichier de données des communes")
         zipObj.extract(member = filename_communes, path = tmpdirname, pwd=None)
-        col_population = 5  # colonnes à considérer
-        col_commune = 2
+        col_population = 7  # nombre d'habitants
+        col_commune = 6 # nom de la commune
         with open(tmpdirname + os.path.sep + filename_communes, newline='') as csvfile:
             linereader = csv.reader(csvfile, delimiter=';', quotechar='|')
             first=True
@@ -52,24 +52,6 @@ with tempfile.TemporaryDirectory() as tmpdirname:
                     first = False
                 else:
                     data.append([row[col_commune], int(row[col_population])])
-
-        # récupération des noms des communes
-        print("extraction du fichier des noms de communes")
-        zipObj.extract(member = filename_metadonnees, path = tmpdirname, pwd=None)
-        print("chargement du fichier")
-        col_meta_commune = 2 # colonnes à considérer
-        col_meta_nom = 3
-        nom = {}
-        with open(tmpdirname + os.path.sep + filename_metadonnees, newline='') as csvfile:
-            linereader = csv.reader(csvfile, delimiter=';', quotechar='|')
-            first=True
-            for row in linereader:
-                if first:
-                    first = False
-                else:
-                    nom[row[col_meta_commune]] = row[col_meta_nom]
-                    
-        data = [[nom[d[0]]] + d[1:] for d in data]
 
 print("fusion des arrondissements")
 # fusion des communes avec arrondissements
