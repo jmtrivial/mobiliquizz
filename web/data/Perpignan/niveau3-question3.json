@@ -1,0 +1,4103 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 271612830,
+  "lat": 42.6732137,
+  "lon": 2.8842480,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Donnezan",
+    "public_transport": "platform",
+    "ref": "9"
+  }
+},
+{
+  "type": "node",
+  "id": 812381970,
+  "lat": 42.6932065,
+  "lon": 2.9246684,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sabardeil",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 812381973,
+  "lat": 42.6936954,
+  "lon": 2.9229666,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Percier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 822242226,
+  "lat": 42.6942181,
+  "lon": 2.9359118,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Vermeil",
+    "operator": "Sankéo",
+    "public_transport": "platform",
+    "ref": "PEmasv1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 992585101,
+  "lat": 42.6876727,
+  "lon": 2.8995703,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ardennes",
+    "public_transport": "stop_position",
+    "ref": "8",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 992585129,
+  "lat": 42.6846829,
+  "lon": 2.9052447,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Batère",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 992585146,
+  "lat": 42.6904518,
+  "lon": 2.8939690,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guillaut",
+    "public_transport": "platform",
+    "ref": "Perpignan - Guillaut",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 992585198,
+  "lat": 42.6881672,
+  "lon": 2.8970318,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Juin",
+    "public_transport": "stop_position",
+    "ref": "8",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 992585209,
+  "lat": 42.6904587,
+  "lon": 2.9018220,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1342524462,
+  "lat": 42.6872478,
+  "lon": 2.9061319,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Broadway",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1342524575,
+  "lat": 42.6944147,
+  "lon": 2.8896708,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mercader",
+    "public_transport": "platform",
+    "ref": "Perpignan - Mercader",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1342524598,
+  "lat": 42.6942114,
+  "lon": 2.8896438,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mercader",
+    "public_transport": "platform",
+    "ref": "Perpignan - Mercader",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597218,
+  "lat": 42.6985500,
+  "lon": 2.8912770,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Place Péri",
+    "public_transport": "platform",
+    "ref": "Perpignan - Place Péri",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597222,
+  "lat": 42.7008494,
+  "lon": 2.8938921,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Castillet 1",
+    "public_transport": "platform",
+    "ref": "Perpignan - Castillet 1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597226,
+  "lat": 42.7020160,
+  "lon": 2.8944040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Passerelle",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597230,
+  "lat": 42.7019435,
+  "lon": 2.8961012,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "2-3-6-7-9-20",
+    "name": "Wilson",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597235,
+  "lat": 42.7009159,
+  "lon": 2.8918341,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Vauban 2",
+    "public_transport": "platform",
+    "ref": "Perpignan - Vauban 2",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597250,
+  "lat": 42.6981002,
+  "lon": 2.8881181,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Catalogne (Jeantet-Violet)",
+    "network": "Agglo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "12,27,28",
+    "ref_name": "Catalogne, Perpignan",
+    "route_ref": "12;27;28",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "website": "http://www.ctpmperpignan.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597254,
+  "lat": 42.6981767,
+  "lon": 2.8886952,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Catalogne (Point Chaud)",
+    "public_transport": "platform",
+    "ref": "Perpignan - Catalogne (Point Chaud)",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597260,
+  "lat": 42.6985881,
+  "lon": 2.8922261,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597274,
+  "lat": 42.7021370,
+  "lon": 2.8961378,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "2-3-6-7-9-20",
+    "name": "Wilson",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597278,
+  "lat": 42.7003720,
+  "lon": 2.8897692,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "public_transport": "platform",
+    "ref": "Perpignan - Clemenceau",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597282,
+  "lat": 42.7011060,
+  "lon": 2.8925479,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Vauban 1",
+    "public_transport": "platform",
+    "ref": "Perpignan - Vauban 1",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597285,
+  "lat": 42.6994562,
+  "lon": 2.8887032,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Catalogne (Brasserie) 1",
+    "public_transport": "platform",
+    "ref": "Perpignan - Catalogne (Brasserie) 1",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597299,
+  "lat": 42.7022644,
+  "lon": 2.8950343,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Passerelle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597302,
+  "lat": 42.7011081,
+  "lon": 2.8939743,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Castillet 2",
+    "public_transport": "platform",
+    "ref": "Perpignan - Castillet 2",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1668597305,
+  "lat": 42.7024830,
+  "lon": 2.8941253,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Variétés",
+    "public_transport": "platform",
+    "ref": "Perpignan - Variétés",
+    "ref_name": "Variétés, Perpignan",
+    "route_ref": "12",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "website": "http://www.ctpmperpignan.com",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1726272614,
+  "lat": 42.6913598,
+  "lon": 2.8810049,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Assiscle",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1805052016,
+  "lat": 42.6960871,
+  "lon": 2.8781769,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare TGV",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1805052272,
+  "lat": 42.6961522,
+  "lon": 2.8783566,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare TGV",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2090305992,
+  "lat": 42.7109245,
+  "lon": 2.8901413,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Barande",
+    "public_transport": "platform",
+    "ref": "Perpignan - Barande",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306049,
+  "lat": 42.7153547,
+  "lon": 2.8883868,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Giral",
+    "public_transport": "platform",
+    "ref": "Perpignan - Giral",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306067,
+  "lat": 42.7059321,
+  "lon": 2.8921183,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "HLM Saint-Louis",
+    "public_transport": "platform",
+    "ref": "Perpignan - HLM Saint-Louis",
+    "ref_name": "HLM Saint-Louis, Perpignan",
+    "route_ref": "12",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "website": "http://www.ctpmperpignan.com",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306076,
+  "lat": 42.7285280,
+  "lon": 2.8884405,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haut-Vernet",
+    "public_transport": "platform",
+    "ref": "Perpignan - Haut-Vernet",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306102,
+  "lat": 42.7132296,
+  "lon": 2.8892364,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Oiseaux",
+    "public_transport": "platform",
+    "ref": "Perpignan - Les Oiseaux",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306110,
+  "lat": 42.7122993,
+  "lon": 2.8894406,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Oiseaux",
+    "public_transport": "platform",
+    "ref": "Perpignan - Les Oiseaux",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306127,
+  "lat": 42.7325182,
+  "lon": 2.8896139,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monticelli",
+    "public_transport": "platform",
+    "ref": "Perpignan - Monticelli",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2090306162,
+  "lat": 42.7203641,
+  "lon": 2.8864222,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roussillonaise",
+    "public_transport": "platform",
+    "ref_name": "Perpignan - Roussillonaise",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2126097642,
+  "lat": 42.6980246,
+  "lon": 2.8892406,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Catalogne 5 (Rue Sully)",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2126097643,
+  "lat": 42.6981997,
+  "lon": 2.8892735,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Catalogne 5 (Rue Sully)",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2340893207,
+  "lat": 42.6883048,
+  "lon": 2.8859202,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oiseau Blanc",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2343997182,
+  "lat": 42.6832137,
+  "lon": 2.8952877,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2343997188,
+  "lat": 42.6834765,
+  "lon": 2.8956813,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2348597669,
+  "lat": 42.6787965,
+  "lon": 2.8812173,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arcades",
+    "network": "CTPM",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2348597670,
+  "lat": 42.6788201,
+  "lon": 2.8814001,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arcades",
+    "network": "CTPM",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2348597671,
+  "lat": 42.6871079,
+  "lon": 2.8873151,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bacchus",
+    "network": "CTPM",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2348597672,
+  "lat": 42.6871906,
+  "lon": 2.8874033,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bacchus",
+    "network": "CTPM",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2348597673,
+  "lat": 42.6847971,
+  "lon": 2.8891259,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aviateurs",
+    "network": "CTPM",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2879019714,
+  "lat": 42.6649154,
+  "lon": 2.8660611,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cimetière du Sud",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2879019715,
+  "lat": 42.6671185,
+  "lon": 2.8633484,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Suro",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3006958676,
+  "lat": 42.6653602,
+  "lon": 2.8863116,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bretonneau",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3006958677,
+  "lat": 42.6657476,
+  "lon": 2.8868801,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bretonneau",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3007203960,
+  "lat": 42.6907000,
+  "lon": 2.9088389,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lurçat",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3007203961,
+  "lat": 42.6910040,
+  "lon": 2.9083479,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lurçat",
+    "operator": "Sankéo",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3016615465,
+  "lat": 42.6974726,
+  "lon": 2.9260012,
+  "tags": {
+    "alt_name": "Lycée Picasso",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Pablo Picasso",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3016615466,
+  "lat": 42.6976106,
+  "lon": 2.9260414,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Picasso",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3052121015,
+  "lat": 42.6928846,
+  "lon": 2.8882722,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Saint-Martin",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3052141834,
+  "lat": 42.6895694,
+  "lon": 2.8928078,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Arène",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3052141835,
+  "lat": 42.6690666,
+  "lon": 2.8783918,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Commercial Porte d'Espagne",
+    "network": "Sankéo",
+    "operator": "Vectalia",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3052141836,
+  "lat": 42.6907715,
+  "lon": 2.8936152,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guillaut",
+    "public_transport": "platform",
+    "ref": "Perpignan - Guillaut",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3055438238,
+  "lat": 42.6789812,
+  "lon": 2.9004955,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Universitaire",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "8",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3055438239,
+  "lat": 42.6791696,
+  "lon": 2.8999632,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Universitaire",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "8",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3075939986,
+  "lat": 42.6728496,
+  "lon": 2.9048409,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jugan",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3075939987,
+  "lat": 42.6731826,
+  "lon": 2.9046440,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jugan",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106515829,
+  "lat": 42.6853610,
+  "lon": 2.9018467,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106515830,
+  "lat": 42.6859610,
+  "lon": 2.9020154,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106521283,
+  "lat": 42.6832343,
+  "lon": 2.9018023,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campus",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106521284,
+  "lat": 42.6832460,
+  "lon": 2.9019407,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campus",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106522924,
+  "lat": 42.6817298,
+  "lon": 2.9020671,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Taulis",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3106938612,
+  "lat": 42.6812937,
+  "lon": 2.8943724,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassin",
+    "operator": "CTPM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3106938613,
+  "lat": 42.6811678,
+  "lon": 2.8946301,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassin",
+    "operator": "CTPM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3490676867,
+  "lat": 42.7015777,
+  "lon": 2.9026077,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Prat",
+    "public_transport": "platform",
+    "route_ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 3490676868,
+  "lat": 42.7023361,
+  "lon": 2.9022346,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Prat",
+    "public_transport": "platform",
+    "route_ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 3659463016,
+  "lat": 42.7001063,
+  "lon": 2.9349118,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massilia 2",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3733261312,
+  "lat": 42.7258771,
+  "lon": 2.8874464,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital",
+    "public_transport": "platform",
+    "ref": "Perpignan - Hôpital",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4340833290,
+  "lat": 42.6966016,
+  "lon": 2.8801317,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare SNCF",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4922336524,
+  "lat": 42.7011156,
+  "lon": 2.9010854,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bourrat",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4922336525,
+  "lat": 42.7012054,
+  "lon": 2.9011584,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bourrat",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4922369921,
+  "lat": 42.6977438,
+  "lon": 2.9042836,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassanyes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4922370121,
+  "lat": 42.6976449,
+  "lon": 2.9039771,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassanyes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4936985593,
+  "lat": 42.6896014,
+  "lon": 2.8597392,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Milan",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4936985594,
+  "lat": 42.6896543,
+  "lon": 2.8599204,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Milan",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5298354750,
+  "lat": 42.6890632,
+  "lon": 2.8811895,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belfort",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5422065007,
+  "lat": 42.6981759,
+  "lon": 2.9356585,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Saint-Joseph",
+    "public_transport": "platform",
+    "route_ref": "1;4;22;24",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5422135306,
+  "lat": 42.6867465,
+  "lon": 2.9064471,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Broadway",
+    "operator": "Sankeo",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5486906703,
+  "lat": 42.6659246,
+  "lon": 2.9079340,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Tecnosud",
+    "network": "SANKEO",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5486906704,
+  "lat": 42.6658748,
+  "lon": 2.9082247,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Tecnosud",
+    "network": "SANKEO",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5620373774,
+  "lat": 42.6990937,
+  "lon": 2.8883707,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Catalogne (Brasserie) 2",
+    "public_transport": "platform",
+    "ref": "Perpignan - Catalogne (Brasserie) 2",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725254,
+  "lat": 42.7324695,
+  "lon": 2.8893949,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monticelli",
+    "public_transport": "platform",
+    "ref": "Perpignan - Monticelli",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725256,
+  "lat": 42.7289618,
+  "lon": 2.8883914,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haut-Vernet",
+    "public_transport": "platform",
+    "ref": "Perpignan - Haut-Vernet",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725257,
+  "lat": 42.7226017,
+  "lon": 2.8864976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brutus",
+    "public_transport": "platform",
+    "ref_name": "Perpignan - Brutus",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725258,
+  "lat": 42.7228841,
+  "lon": 2.8867495,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brutus",
+    "public_transport": "platform",
+    "ref_name": "Perpignan - Brutus",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725263,
+  "lat": 42.7177689,
+  "lon": 2.8864056,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Maillol",
+    "public_transport": "platform",
+    "ref_name": "Perpignan - Maillol",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5819725264,
+  "lat": 42.7202458,
+  "lon": 2.8862789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roussillonaise",
+    "public_transport": "platform",
+    "ref_name": "Perpignan - Roussillonaise",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5821231582,
+  "lat": 42.6913850,
+  "lon": 2.8811216,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Assiscle",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135582,
+  "lat": 42.7095601,
+  "lon": 2.9707706,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Miraflor",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135583,
+  "lat": 42.7093951,
+  "lon": 2.9711551,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Miraflor",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135718,
+  "lat": 42.7064229,
+  "lon": 2.9529695,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Llaro",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135719,
+  "lat": 42.7067198,
+  "lon": 2.9547453,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Llaro",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135722,
+  "lat": 42.7038953,
+  "lon": 2.9449258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château Roussillon",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5929135723,
+  "lat": 42.7041838,
+  "lon": 2.9437904,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Château Roussillon",
+    "network": "Sankéo",
+    "operator": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "source": "BDOrtho IGN 2018",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5943379160,
+  "lat": 42.6986951,
+  "lon": 2.9299890,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Clos-Banet",
+    "operator": "Vectalia Perpignan Méditerranée",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5943379161,
+  "lat": 42.6992194,
+  "lon": 2.9281751,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Clos-Banet",
+    "operator": "Vectalia Perpignan Méditerranée",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5943379163,
+  "lat": 42.6996885,
+  "lon": 2.9187290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Chaumière",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5943383899,
+  "lat": 42.6960116,
+  "lon": 2.9193731,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Las Cobas",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943519326,
+  "lat": 42.6969894,
+  "lon": 2.9235716,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Séjourné",
+    "public_transport": "platform",
+    "source": "BDOrthoIGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943519896,
+  "lat": 42.6959860,
+  "lon": 2.9166011,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Embruns",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943615218,
+  "lat": 42.6959533,
+  "lon": 2.9152679,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rubens",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943615222,
+  "lat": 42.6943882,
+  "lon": 2.9127845,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Gaudérique",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943726181,
+  "lat": 42.6960984,
+  "lon": 2.9139509,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rubens",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943726183,
+  "lat": 42.6961855,
+  "lon": 2.9122119,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Meissonier",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5943727186,
+  "lat": 42.6964052,
+  "lon": 2.9111166,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Meissonier",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5948488590,
+  "lat": 42.6980986,
+  "lon": 2.9278084,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994308,
+  "lat": 42.6931643,
+  "lon": 2.9243901,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994314,
+  "lat": 42.6935877,
+  "lon": 2.9230098,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994324,
+  "lat": 42.6940100,
+  "lon": 2.9206285,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994325,
+  "lat": 42.6939168,
+  "lon": 2.9205248,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994344,
+  "lat": 42.6932619,
+  "lon": 2.9181773,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5948994345,
+  "lat": 42.6933516,
+  "lon": 2.9183222,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5949173065,
+  "lat": 42.6844643,
+  "lon": 2.9109793,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5949173066,
+  "lat": 42.6847180,
+  "lon": 2.9108979,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5966791450,
+  "lat": 42.6857015,
+  "lon": 2.9065101,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flandres Dunkerque",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5966791451,
+  "lat": 42.6858554,
+  "lon": 2.9062982,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flandres Dunkerque",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5969611748,
+  "lat": 42.6862112,
+  "lon": 2.9038963,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tech",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5969611749,
+  "lat": 42.6863403,
+  "lon": 2.9037890,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tech",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5985723533,
+  "lat": 42.6914151,
+  "lon": 2.8959878,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Raphaël",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN 2018",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5985724243,
+  "lat": 42.6877145,
+  "lon": 2.9007138,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 5985724498,
+  "lat": 42.6896802,
+  "lon": 2.8994042,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5985724503,
+  "lat": 42.6895806,
+  "lon": 2.8996376,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5985724509,
+  "lat": 42.6882824,
+  "lon": 2.9001747,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5993539610,
+  "lat": 42.6914565,
+  "lon": 2.8938071,
+  "tags": {
+    "highway": "bus_stop",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5993539611,
+  "lat": 42.6915837,
+  "lon": 2.8938930,
+  "tags": {
+    "highway": "bus_stop",
+    "network": "Sankéo",
+    "owner": "Perpignan Méditerranée Métropole",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 6126935294,
+  "lat": 42.6942304,
+  "lon": 2.9361374,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Vermeil",
+    "operator": "Sankéo",
+    "public_transport": "platform",
+    "ref": "PEmasv2",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6126940090,
+  "lat": 42.6981631,
+  "lon": 2.9364544,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Saint-Joseph",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6132386001,
+  "lat": 42.6948503,
+  "lon": 2.8791743,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Départementale",
+    "public_transport": "platform",
+    "route_ref": "Flixbus 721, 728, 788, 1721, N707, N740, N758, N781, N788, N1135, N1720; Occitanie Transports 135_1, 200, 210, 220, 390, 400",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6132386002,
+  "lat": 42.6971311,
+  "lon": 2.8668335,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Pierre",
+    "public_transport": "platform",
+    "ref": "St-Pierre",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6271139392,
+  "lat": 42.6680868,
+  "lon": 2.9178934,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Balande",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6304354301,
+  "lat": 42.6666346,
+  "lon": 2.9054833,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Einstein",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6341790794,
+  "lat": 42.7039747,
+  "lon": 2.8909640,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Torcatis",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6341790800,
+  "lat": 42.7032373,
+  "lon": 2.8875854,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pêcheurs",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6700354013,
+  "lat": 42.6907738,
+  "lon": 2.8531814,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Production",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6750561318,
+  "lat": 42.6953766,
+  "lon": 2.8873283,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6771625330,
+  "lat": 42.6970290,
+  "lon": 2.8824864,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cabrit",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6771723428,
+  "lat": 42.6977874,
+  "lon": 2.8853993,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Riquet",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335702,
+  "lat": 42.7253219,
+  "lon": 2.8874663,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital",
+    "public_transport": "platform",
+    "ref": "Perpignan - Hôpital",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335703,
+  "lat": 42.7375043,
+  "lon": 2.8909085,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone Nord",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335704,
+  "lat": 42.7343981,
+  "lon": 2.8901725,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Perrin",
+    "public_transport": "platform",
+    "ref": "Perpignan - Perrin",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335706,
+  "lat": 42.7344330,
+  "lon": 2.8900422,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Perrin",
+    "public_transport": "platform",
+    "ref": "Perpignan - Perrin",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335710,
+  "lat": 42.7407982,
+  "lon": 2.8920659,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Languedoc",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335711,
+  "lat": 42.7408173,
+  "lon": 2.8918962,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Languedoc",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6824335712,
+  "lat": 42.7379125,
+  "lon": 2.8912004,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone Nord",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6907414025,
+  "lat": 42.6942109,
+  "lon": 2.8773450,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foulon",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6907414026,
+  "lat": 42.6940512,
+  "lon": 2.8769776,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foulon",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7056239985,
+  "lat": 42.6754944,
+  "lon": 2.8402555,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Basse",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7804053155,
+  "lat": 42.6992563,
+  "lon": 2.9346048,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Massilia 5",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7804053156,
+  "lat": 42.7000180,
+  "lon": 2.9332043,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Massilia 1",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7804053157,
+  "lat": 42.6987278,
+  "lon": 2.9057048,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Jacques",
+    "operator": "Vectalia Perpignan Méditerranée",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7804053158,
+  "lat": 42.6988574,
+  "lon": 2.9054549,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Jacques",
+    "operator": "Vectalia Perpignan Méditerranée",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7804212178,
+  "lat": 42.7003052,
+  "lon": 2.8900331,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "public_transport": "platform",
+    "ref": "Perpignan - Clemenceau",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7804212181,
+  "lat": 42.6988523,
+  "lon": 2.8784363,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Conflent",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8111431344,
+  "lat": 42.7030549,
+  "lon": 2.9437164,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Roseraie",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8111431355,
+  "lat": 42.7019944,
+  "lon": 2.9434980,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Roseraie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8112812661,
+  "lat": 42.6676853,
+  "lon": 2.9179491,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mas Balande",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8112980358,
+  "lat": 42.6721401,
+  "lon": 2.8897564,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Baillat",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8457383494,
+  "lat": 42.6968349,
+  "lon": 2.9427835,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Llobères",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8457383495,
+  "lat": 42.6995787,
+  "lon": 2.9430900,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Claude Simon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8457383496,
+  "lat": 42.6995359,
+  "lon": 2.9344798,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Massilia 4",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8467752530,
+  "lat": 42.6955782,
+  "lon": 2.9306032,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8467752531,
+  "lat": 42.6977369,
+  "lon": 2.9289894,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152938,
+  "lat": 42.6930186,
+  "lon": 2.9183949,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lescot",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152940,
+  "lat": 42.6940360,
+  "lon": 2.9115580,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lancret",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152941,
+  "lat": 42.6941539,
+  "lon": 2.9097417,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "De Staël",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152942,
+  "lat": 42.6940276,
+  "lon": 2.9095710,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Staël",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152943,
+  "lat": 42.6988514,
+  "lon": 2.8773057,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conflent",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152944,
+  "lat": 42.6987067,
+  "lon": 2.8760719,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grande-Bretagne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152945,
+  "lat": 42.6978721,
+  "lon": 2.8703865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massane",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152946,
+  "lat": 42.6957546,
+  "lon": 2.8604367,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Bruno",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152947,
+  "lat": 42.6924549,
+  "lon": 2.8598926,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lippman",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152948,
+  "lat": 42.6903250,
+  "lon": 2.8560787,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Turin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152949,
+  "lat": 42.6902244,
+  "lon": 2.8559553,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Turin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152950,
+  "lat": 42.6908765,
+  "lon": 2.8535009,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Production",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152951,
+  "lat": 42.6889213,
+  "lon": 2.8494805,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruxelles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152952,
+  "lat": 42.6870896,
+  "lon": 2.8441170,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Madrid",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152953,
+  "lat": 42.6873351,
+  "lon": 2.8437257,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Madrid",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152954,
+  "lat": 42.6890725,
+  "lon": 2.8423708,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diocèse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152955,
+  "lat": 42.6889978,
+  "lon": 2.8429212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diocèse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152956,
+  "lat": 42.6878841,
+  "lon": 2.8400003,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Chênes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152957,
+  "lat": 42.6901252,
+  "lon": 2.8356516,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ducup",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152958,
+  "lat": 42.6901879,
+  "lon": 2.8354236,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ducup",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152959,
+  "lat": 42.6896689,
+  "lon": 2.8325042,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Cayrol",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152978,
+  "lat": 42.6898209,
+  "lon": 2.8326236,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Cayrol",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152979,
+  "lat": 42.6878388,
+  "lon": 2.8401559,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Chênes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152980,
+  "lat": 42.6877135,
+  "lon": 2.8487164,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruxelles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152981,
+  "lat": 42.6920880,
+  "lon": 2.8601267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lippman",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152982,
+  "lat": 42.6958360,
+  "lon": 2.8613395,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Bruno",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152983,
+  "lat": 42.6966868,
+  "lon": 2.8651897,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Pierre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152984,
+  "lat": 42.6980586,
+  "lon": 2.8717668,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massane",
+    "public_transport": "platform",
+    "ref": "Massane"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152985,
+  "lat": 42.6986221,
+  "lon": 2.8760970,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grande-Bretagne",
+    "public_transport": "platform",
+    "ref": "Grande-Bretagne"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152986,
+  "lat": 42.6994952,
+  "lon": 2.8834209,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Police",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152987,
+  "lat": 42.6922349,
+  "lon": 2.9115420,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nature",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152988,
+  "lat": 42.6929314,
+  "lon": 2.9140393,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Gaudérique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152989,
+  "lat": 42.6994534,
+  "lon": 2.9428934,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Claude Simon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152990,
+  "lat": 42.6970332,
+  "lon": 2.9425997,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Llobères",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483152991,
+  "lat": 42.6931300,
+  "lon": 2.9439788,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Saint-Pierre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483505713,
+  "lat": 42.7215118,
+  "lon": 2.8961151,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Sankéo",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8483505714,
+  "lat": 42.7185740,
+  "lon": 2.8952889,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Derain",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483505715,
+  "lat": 42.7169987,
+  "lon": 2.8956441,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poudrière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483505716,
+  "lat": 42.7156434,
+  "lon": 2.8954448,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pêchers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573517,
+  "lat": 42.7126713,
+  "lon": 2.8953592,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Bart",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573518,
+  "lat": 42.7116811,
+  "lon": 2.8954615,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Petit Vivier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573519,
+  "lat": 42.7099171,
+  "lon": 2.8954879,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lauriers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573520,
+  "lat": 42.7084704,
+  "lon": 2.8947241,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lalande",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573521,
+  "lat": 42.7052121,
+  "lon": 2.8922348,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "HLM Saint-Louis",
+    "public_transport": "platform",
+    "ref": "Perpignan - HLM Saint-Louis"
+  }
+},
+{
+  "type": "node",
+  "id": 8483573522,
+  "lat": 42.7019472,
+  "lon": 2.8937667,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Variétés",
+    "public_transport": "platform",
+    "ref": "Perpignan - Variétés",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562727,
+  "lat": 42.7406767,
+  "lon": 2.8920278,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Languedoc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562728,
+  "lat": 42.7402768,
+  "lon": 2.8917209,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Languedoc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562730,
+  "lat": 42.7165932,
+  "lon": 2.8824309,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sacré Coeur",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562731,
+  "lat": 42.7167286,
+  "lon": 2.8822836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sacré Coeur",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562732,
+  "lat": 42.7154963,
+  "lon": 2.8825036,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562733,
+  "lat": 42.7155171,
+  "lon": 2.8826402,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562734,
+  "lat": 42.7135151,
+  "lon": 2.8832924,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagnol",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562735,
+  "lat": 42.7134678,
+  "lon": 2.8831675,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagnol",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562736,
+  "lat": 42.7112585,
+  "lon": 2.8846608,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Desnoyés",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562737,
+  "lat": 42.7112639,
+  "lon": 2.8844908,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Desnoyés",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562738,
+  "lat": 42.7092026,
+  "lon": 2.8857714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Desprès",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562739,
+  "lat": 42.7086369,
+  "lon": 2.8858271,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Desprès",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562740,
+  "lat": 42.7066521,
+  "lon": 2.8862518,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pompiers",
+    "public_transport": "platform",
+    "ref": "Perpignan - Pompiers"
+  }
+},
+{
+  "type": "node",
+  "id": 8509562741,
+  "lat": 42.7066124,
+  "lon": 2.8859610,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pompiers",
+    "public_transport": "platform",
+    "ref": "Perpignan - Pompiers"
+  }
+},
+{
+  "type": "node",
+  "id": 8510914462,
+  "lat": 42.7151923,
+  "lon": 2.8883179,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Giral",
+    "public_transport": "platform",
+    "ref": "Perpignan - Giral"
+  }
+},
+{
+  "type": "node",
+  "id": 8510914463,
+  "lat": 42.7088070,
+  "lon": 2.8908393,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Fort",
+    "public_transport": "platform",
+    "ref": "Perpignan - Paul Fort",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8510914464,
+  "lat": 42.7088364,
+  "lon": 2.8909546,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Fort",
+    "public_transport": "platform",
+    "ref": "Perpignan - Paul Fort",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8510914468,
+  "lat": 42.6962067,
+  "lon": 2.8883122,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pyrénées",
+    "public_transport": "platform",
+    "ref": "Perpignan - Pyrénées",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8510914469,
+  "lat": 42.6964434,
+  "lon": 2.8883922,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pyrénées",
+    "public_transport": "platform",
+    "ref": "Perpignan - Pyrénées",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8651376428,
+  "lat": 42.7008731,
+  "lon": 2.8889672,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Théâtre de l'Archipel",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718496,
+  "lat": 42.6979403,
+  "lon": 2.8780304,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robin",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718497,
+  "lat": 42.6978713,
+  "lon": 2.8778923,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robin",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718499,
+  "lat": 42.6918666,
+  "lon": 2.8805148,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Assiscle",
+    "public_transport": "platform",
+    "short_name": "St-Assiscle"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718500,
+  "lat": 42.6916433,
+  "lon": 2.8806945,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Assiscle",
+    "public_transport": "platform",
+    "short_name": "St-Assiscle"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718502,
+  "lat": 42.6901588,
+  "lon": 2.8798885,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718512,
+  "lat": 42.6902416,
+  "lon": 2.8798650,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778718515,
+  "lat": 42.6889059,
+  "lon": 2.8769267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Panchot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728117,
+  "lat": 42.6890148,
+  "lon": 2.8775389,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Panchot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728125,
+  "lat": 42.6881769,
+  "lon": 2.8745757,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dombasle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728126,
+  "lat": 42.6883188,
+  "lon": 2.8745489,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dombasle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728127,
+  "lat": 42.6874987,
+  "lon": 2.8719096,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728128,
+  "lat": 42.6875746,
+  "lon": 2.8715891,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728136,
+  "lat": 42.6869151,
+  "lon": 2.8697390,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Forest",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728137,
+  "lat": 42.6857636,
+  "lon": 2.8680519,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Forest",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728141,
+  "lat": 42.6848926,
+  "lon": 2.8663125,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fauvelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728142,
+  "lat": 42.6850430,
+  "lon": 2.8669093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fauvelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728144,
+  "lat": 42.6836904,
+  "lon": 2.8638797,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fourneyron",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728145,
+  "lat": 42.6835672,
+  "lon": 2.8640561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fourneyron",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728146,
+  "lat": 42.6820864,
+  "lon": 2.8607134,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Thuir",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728147,
+  "lat": 42.6820800,
+  "lon": 2.8604827,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Thuir",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728148,
+  "lat": 42.6795203,
+  "lon": 2.8548534,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chocolaterie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728149,
+  "lat": 42.6792598,
+  "lon": 2.8543800,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chocolaterie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728157,
+  "lat": 42.6745923,
+  "lon": 2.8508321,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pascot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728158,
+  "lat": 42.6744266,
+  "lon": 2.8513109,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pascot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728159,
+  "lat": 42.6749763,
+  "lon": 2.8491604,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Formation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728160,
+  "lat": 42.6752923,
+  "lon": 2.8487232,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Formation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728162,
+  "lat": 42.6785637,
+  "lon": 2.8517032,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hambourg",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728163,
+  "lat": 42.6810384,
+  "lon": 2.8527640,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728164,
+  "lat": 42.6809645,
+  "lon": 2.8526285,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728165,
+  "lat": 42.6851416,
+  "lon": 2.8588955,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Londres",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728166,
+  "lat": 42.6847699,
+  "lon": 2.8581458,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Londres",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728167,
+  "lat": 42.6831541,
+  "lon": 2.8514014,
+  "tags": {
+    "bus": "yes",
+    "fixme": "vérifier position exacte",
+    "highway": "bus_stop",
+    "name": "Saint-Charles",
+    "public_transport": "platform",
+    "short_name": "St-Charles"
+  }
+},
+{
+  "type": "node",
+  "id": 8778728168,
+  "lat": 42.6830545,
+  "lon": 2.8514430,
+  "tags": {
+    "bus": "yes",
+    "fixme": "vérifier position exacte",
+    "highway": "bus_stop",
+    "name": "Saint-Charles",
+    "public_transport": "platform",
+    "short_name": "St-Charles"
+  }
+},
+{
+  "type": "node",
+  "id": 8913909558,
+  "lat": 42.6993903,
+  "lon": 2.9162272,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Chaumière",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9149629297,
+  "lat": 42.6917197,
+  "lon": 2.9065020,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Péguy",
+    "operator": "Sankéo",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9149629298,
+  "lat": 42.6908877,
+  "lon": 2.9082978,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lurçat",
+    "operator": "Sankéo",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9162503567,
+  "lat": 42.6894850,
+  "lon": 2.8997187,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "La Lunette",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9183382077,
+  "lat": 42.6803700,
+  "lon": 2.8929207,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "operator": "Sankeo",
+    "operator:type": "public",
+    "public_transport": "platform",
+    "ref": "Mas Munoz",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9272339115,
+  "lat": 42.6871600,
+  "lon": 2.8957055,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte",
+    "public_transport": "platform",
+    "ref": "Perpignan - La Butte",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9273783227,
+  "lat": 42.6959059,
+  "lon": 2.9195456,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Las Cobas",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 9275550544,
+  "lat": 42.7286489,
+  "lon": 2.8882758,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haut-Vernet",
+    "public_transport": "platform",
+    "ref": "Perpignan - Haut-Vernet"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695291,
+  "lat": 42.6688633,
+  "lon": 2.8893507,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mutualité",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Mutualité",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695292,
+  "lat": 42.6678398,
+  "lon": 2.8906327,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte d'Espagne",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Porte d'Espagne",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695293,
+  "lat": 42.6679088,
+  "lon": 2.8907454,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte d'Espagne",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Porte d'Espagne",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695296,
+  "lat": 42.6658764,
+  "lon": 2.8903491,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Corvisart",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Corvisart",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695305,
+  "lat": 42.6637315,
+  "lon": 2.8893520,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bert",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Paul Bert",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695306,
+  "lat": 42.6635747,
+  "lon": 2.8886493,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bert",
+    "network": "Sankeo",
+    "operator": "CTPM",
+    "public_transport": "platform",
+    "ref": "Perpignan - Paul Bert",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695307,
+  "lat": 42.6669276,
+  "lon": 2.8826183,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Gérone",
+    "network": "Sankeo",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695309,
+  "lat": 42.6721262,
+  "lon": 2.8915142,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Baillat",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695310,
+  "lat": 42.6779283,
+  "lon": 2.8914602,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Barrere",
+    "operator": "Sankeo",
+    "operator:type": "public",
+    "public_transport": "platform",
+    "ref": "Barrere",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9283695311,
+  "lat": 42.6806302,
+  "lon": 2.8935242,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Munoz",
+    "operator": "Sankeo",
+    "operator:type": "public",
+    "public_transport": "platform",
+    "ref": "Munoz",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

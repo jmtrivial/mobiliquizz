@@ -1,0 +1,2316 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 13879253,
+  "nodes": [
+    108347736,
+    108347739,
+    108347740,
+    6401276379
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 14348148,
+  "nodes": [
+    139198458,
+    1288947966,
+    6380267139,
+    1015855749,
+    6380267145,
+    1005004531
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Rue de la Saussière",
+    "oneway": "yes",
+    "parking:condition:left": "ticket",
+    "parking:lane:left": "parallel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 24692234,
+  "nodes": [
+    268398945,
+    880437470,
+    674502044,
+    880438716,
+    3350092573,
+    114287605,
+    3247052683,
+    3350092572,
+    366096866
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:temporary": "yes",
+    "description:covid19": "bande cyclable temporaire",
+    "destination": "Boulogne centre",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Quai du Point du Jour",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26757683,
+  "nodes": [
+    6497096391,
+    1362686100,
+    4897371528,
+    863093080,
+    864664539,
+    293498643
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through|through",
+    "was:cycleway:right": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 26757780,
+  "nodes": [
+    30624829,
+    1677009130,
+    863091850,
+    863093311,
+    108364356,
+    864664332,
+    4897371526,
+    1362686102,
+    1362686103,
+    6497096390
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 37200915,
+  "nodes": [
+    433005536,
+    433005878,
+    1288947983,
+    1288947968,
+    433005881
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:lane:both": "no_stopping",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 37200916,
+  "nodes": [
+    433005887,
+    1288947962,
+    1288947981,
+    139198458
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:lane:both": "no_stopping",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 58178946,
+  "nodes": [
+    30624831,
+    1677008838,
+    1677008834,
+    864664464,
+    437333675
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue de Silly",
+    "parking:condition:right": "ticket",
+    "parking:lane:left": "no_parking",
+    "parking:lane:right": "parallel",
+    "sidewalk": "right"
+  }
+},
+{
+  "type": "way",
+  "id": 64326409,
+  "nodes": [
+    826014686,
+    940119644,
+    1234623219,
+    139209590,
+    826015123,
+    940119620
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 64326412,
+  "nodes": [
+    826015626,
+    826015240,
+    826015714,
+    792020068,
+    792019599,
+    826015435
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 64326439,
+  "nodes": [
+    940119620,
+    792020180,
+    826014948,
+    826016059,
+    826016055,
+    826014686
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72676999,
+  "nodes": [
+    293498643,
+    864661940,
+    2604827570,
+    1677009097,
+    30624829
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 87355752,
+  "nodes": [
+    139192418,
+    1223065453,
+    1005004532,
+    4527906718,
+    4415006638
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Rue de la Saussière",
+    "oneway": "yes",
+    "parking:condition:left": "ticket",
+    "parking:lane:left": "parallel",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 106373506,
+  "nodes": [
+    1224158103,
+    791975760
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:left": "no_parking",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 106373509,
+  "nodes": [
+    791975760,
+    1224158108,
+    792019834,
+    792019609,
+    1224158111,
+    1022362238,
+    139251695
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:left": "no_parking",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 117632525,
+  "nodes": [
+    471043343,
+    5505654441,
+    1333553945,
+    1324794737,
+    1333553858,
+    1333553852,
+    30624828,
+    1333553838,
+    1333553832,
+    2604827597,
+    1677009182,
+    30624829
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue de Silly",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "sidewalk": "both",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 129709323,
+  "nodes": [
+    108347727,
+    864664527,
+    30624822,
+    863093830
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 129709324,
+  "nodes": [
+    108347748,
+    108347751,
+    108347753,
+    108347754,
+    1003155470,
+    108347726
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 131865423,
+  "nodes": [
+    108347726,
+    6497096387,
+    108347727
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 132760953,
+  "nodes": [
+    108318391,
+    1288947984,
+    1288947979,
+    433005536
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:lane:both": "no_stopping",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 187986279,
+  "nodes": [
+    1005004531,
+    802010615,
+    1223065431,
+    1223065449,
+    139192418
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Rue de la Saussière",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 188516276,
+  "nodes": [
+    437333641,
+    1677008853,
+    1677008847,
+    30624831
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue de Silly",
+    "parking:lane:both": "no_stopping",
+    "sidewalk": "both",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 188516278,
+  "nodes": [
+    30624829,
+    1012296725,
+    1012296700,
+    437333641
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue de Silly",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "sidewalk": "both",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 190630213,
+  "nodes": [
+    114254838,
+    6497096388,
+    1003155610
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 219837904,
+  "nodes": [
+    6497096391,
+    293498590,
+    30624793,
+    6497096390
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 224416847,
+  "nodes": [
+    437333675,
+    864662776,
+    864663738,
+    111610163,
+    7243269961,
+    437344579,
+    4963783820,
+    1677008804,
+    111613145,
+    4959870563,
+    1674539447,
+    1016701575,
+    501558059
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue de Silly",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "marked",
+    "sidewalk": "both",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 225322978,
+  "nodes": [
+    237495986,
+    6401301837,
+    1003155488
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "destination": "Boulogne-Centre;Paris-Porte de Saint-Cloud",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue du Maréchal de Lattre de Tassigny",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 357013115,
+  "nodes": [
+    875695367,
+    976978208,
+    7499563394,
+    1107492843
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed:type": "FR:urban",
+    "name": "Rue Paul-Adolphe Souriau",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 381608695,
+  "nodes": [
+    866629373,
+    866615498,
+    866608256
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 381608697,
+  "nodes": [
+    1014487123,
+    1215879073,
+    1677008980
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 381608700,
+  "nodes": [
+    112402503,
+    2608557176,
+    2608557173
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 381608701,
+  "nodes": [
+    866608256,
+    2608557182,
+    2608557179,
+    112402503
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 381608703,
+  "nodes": [
+    2608557173,
+    827328399,
+    827328546,
+    866629373
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 381608708,
+  "nodes": [
+    2608557209,
+    1215879013,
+    1215879143,
+    1014487123
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "left;through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 381608712,
+  "nodes": [
+    1677008980,
+    1215879069,
+    863119030,
+    111600951,
+    866610523,
+    2608557209
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bandes cyclables temporaires",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de la Reine",
+    "oneway": "yes",
+    "parking:condition:right": "ticket",
+    "parking:lane:right": "parallel",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 389438084,
+  "nodes": [
+    8720772036,
+    3350092580,
+    268399405
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "30",
+    "name": "Quai Saint-Exupéry",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "turn:lanes": "through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 389438085,
+  "nodes": [
+    875697177,
+    366095266
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:temporary": "yes",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Quai du Point du Jour",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 389438086,
+  "nodes": [
+    268399405,
+    366094644
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:temporary": "yes",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Quai du Point du Jour",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 389438089,
+  "nodes": [
+    366095266,
+    366095258,
+    268398945
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:temporary": "yes",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Quai du Point du Jour",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 389438090,
+  "nodes": [
+    366094644,
+    268399415,
+    4837587635,
+    340201553,
+    875697177
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:temporary": "yes",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Quai du Point du Jour",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "right",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 553230195,
+  "nodes": [
+    1003155610,
+    6497096389,
+    108347736
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 691786207,
+  "nodes": [
+    6401276379,
+    237498554,
+    108347744,
+    108347748
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 691786208,
+  "nodes": [
+    1450670234,
+    1687160723,
+    6401276377,
+    108347748
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue du Maréchal de Lattre de Tassigny",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 691981811,
+  "nodes": [
+    1426068762,
+    6401294529
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue du Maréchal de Lattre de Tassigny",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "ref": "D 907",
+    "sidewalk": "right",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 692168670,
+  "nodes": [
+    6497096390,
+    7736098467,
+    114254838
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 692168671,
+  "nodes": [
+    863093830,
+    6497096391
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "no",
+    "highway": "primary",
+    "junction": "circular",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point Rhin et Danube",
+    "note": "pas un giratoire; not a roundabout",
+    "oneway": "yes",
+    "parking:lane:both": "no_parking",
+    "sidewalk": "no",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600072020,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Boulogne-Billancourt",
+    "name:ar": "بولون-بيانكور",
+    "name:el": "Μπουλόν-Μπιγιανκούρ",
+    "name:fr": "Boulogne-Billancourt",
+    "name:ja": "ブローニュ＝ビヤンクール",
+    "name:lt": "Bulonė-Bijankūras",
+    "name:ru": "Булонь-Бийанкур",
+    "population": "121583",
+    "population:date": "2019",
+    "postal_code": "92100",
+    "ref:INSEE": "92012",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q172455",
+    "wikipedia": "fr:Boulogne-Billancourt"
+  }
+},
+{
+  "type": "node",
+  "id": 108347751,
+  "lat": 48.8406191,
+  "lon": 2.2282010
+},
+{
+  "type": "node",
+  "id": 108347744,
+  "lat": 48.8407635,
+  "lon": 2.2281546
+},
+{
+  "type": "node",
+  "id": 108347748,
+  "lat": 48.8407228,
+  "lon": 2.2281505
+},
+{
+  "type": "node",
+  "id": 237495986,
+  "lat": 48.8410773,
+  "lon": 2.2256728
+},
+{
+  "type": "node",
+  "id": 237498554,
+  "lat": 48.8408266,
+  "lon": 2.2281752
+},
+{
+  "type": "node",
+  "id": 1003155488,
+  "lat": 48.8409777,
+  "lon": 2.2263427
+},
+{
+  "type": "node",
+  "id": 1426068762,
+  "lat": 48.8410935,
+  "lon": 2.2255053
+},
+{
+  "type": "node",
+  "id": 1450670234,
+  "lat": 48.8408553,
+  "lon": 2.2272071
+},
+{
+  "type": "node",
+  "id": 1687160723,
+  "lat": 48.8407668,
+  "lon": 2.2278376
+},
+{
+  "type": "node",
+  "id": 6401276377,
+  "lat": 48.8407615,
+  "lon": 2.2278750
+},
+{
+  "type": "node",
+  "id": 6401294529,
+  "lat": 48.8410795,
+  "lon": 2.2256445
+},
+{
+  "type": "node",
+  "id": 6401301837,
+  "lat": 48.8410221,
+  "lon": 2.2260439
+},
+{
+  "type": "node",
+  "id": 30624822,
+  "lat": 48.8405876,
+  "lon": 2.2288144
+},
+{
+  "type": "node",
+  "id": 30624829,
+  "lat": 48.8404495,
+  "lon": 2.2316167
+},
+{
+  "type": "node",
+  "id": 30624831,
+  "lat": 48.8390323,
+  "lon": 2.2320252
+},
+{
+  "type": "node",
+  "id": 108347726,
+  "lat": 48.8405043,
+  "lon": 2.2286238
+},
+{
+  "type": "node",
+  "id": 108347727,
+  "lat": 48.8405335,
+  "lon": 2.2287231
+},
+{
+  "type": "node",
+  "id": 108347753,
+  "lat": 48.8405564,
+  "lon": 2.2282782
+},
+{
+  "type": "node",
+  "id": 108347754,
+  "lat": 48.8405137,
+  "lon": 2.2283823
+},
+{
+  "type": "node",
+  "id": 108364356,
+  "lat": 48.8406220,
+  "lon": 2.2302158
+},
+{
+  "type": "node",
+  "id": 111610163,
+  "lat": 48.8369387,
+  "lon": 2.2322859
+},
+{
+  "type": "node",
+  "id": 111613145,
+  "lat": 48.8362362,
+  "lon": 2.2323425
+},
+{
+  "type": "node",
+  "id": 293498590,
+  "lat": 48.8406861,
+  "lon": 2.2288859
+},
+{
+  "type": "node",
+  "id": 293498643,
+  "lat": 48.8405222,
+  "lon": 2.2302282
+},
+{
+  "type": "node",
+  "id": 437333641,
+  "lat": 48.8394063,
+  "lon": 2.2318871
+},
+{
+  "type": "node",
+  "id": 437333675,
+  "lat": 48.8385406,
+  "lon": 2.2321540
+},
+{
+  "type": "node",
+  "id": 437344579,
+  "lat": 48.8365639,
+  "lon": 2.2323116
+},
+{
+  "type": "node",
+  "id": 501558059,
+  "lat": 48.8356294,
+  "lon": 2.2324300
+},
+{
+  "type": "node",
+  "id": 863091850,
+  "lat": 48.8406052,
+  "lon": 2.2303957
+},
+{
+  "type": "node",
+  "id": 863093080,
+  "lat": 48.8405347,
+  "lon": 2.2300868
+},
+{
+  "type": "node",
+  "id": 863093311,
+  "lat": 48.8406100,
+  "lon": 2.2303439
+},
+{
+  "type": "node",
+  "id": 863093830,
+  "lat": 48.8406213,
+  "lon": 2.2288486
+},
+{
+  "type": "node",
+  "id": 864661940,
+  "lat": 48.8405125,
+  "lon": 2.2303384
+},
+{
+  "type": "node",
+  "id": 864662776,
+  "lat": 48.8382425,
+  "lon": 2.2321943
+},
+{
+  "type": "node",
+  "id": 864663738,
+  "lat": 48.8381822,
+  "lon": 2.2321995
+},
+{
+  "type": "node",
+  "id": 864664332,
+  "lat": 48.8406310,
+  "lon": 2.2301184
+},
+{
+  "type": "node",
+  "id": 864664464,
+  "lat": 48.8385680,
+  "lon": 2.2321467
+},
+{
+  "type": "node",
+  "id": 864664527,
+  "lat": 48.8405580,
+  "lon": 2.2287722
+},
+{
+  "type": "node",
+  "id": 864664539,
+  "lat": 48.8405300,
+  "lon": 2.2301403
+},
+{
+  "type": "node",
+  "id": 1003155470,
+  "lat": 48.8404957,
+  "lon": 2.2285018
+},
+{
+  "type": "node",
+  "id": 1012296700,
+  "lat": 48.8403144,
+  "lon": 2.2316223
+},
+{
+  "type": "node",
+  "id": 1012296725,
+  "lat": 48.8403468,
+  "lon": 2.2316145
+},
+{
+  "type": "node",
+  "id": 1016701575,
+  "lat": 48.8356886,
+  "lon": 2.2324103
+},
+{
+  "type": "node",
+  "id": 1362686100,
+  "lat": 48.8406256,
+  "lon": 2.2290586
+},
+{
+  "type": "node",
+  "id": 1674539447,
+  "lat": 48.8357351,
+  "lon": 2.2324045
+},
+{
+  "type": "node",
+  "id": 1677008804,
+  "lat": 48.8363620,
+  "lon": 2.2323275
+},
+{
+  "type": "node",
+  "id": 1677008834,
+  "lat": 48.8387904,
+  "lon": 2.2321071
+},
+{
+  "type": "node",
+  "id": 1677008838,
+  "lat": 48.8388181,
+  "lon": 2.2321015
+},
+{
+  "type": "node",
+  "id": 1677008847,
+  "lat": 48.8391877,
+  "lon": 2.2319558
+},
+{
+  "type": "node",
+  "id": 1677008853,
+  "lat": 48.8392548,
+  "lon": 2.2319259
+},
+{
+  "type": "node",
+  "id": 1677009097,
+  "lat": 48.8404133,
+  "lon": 2.2314592
+},
+{
+  "type": "node",
+  "id": 1677009130,
+  "lat": 48.8405042,
+  "lon": 2.2314759
+},
+{
+  "type": "node",
+  "id": 1677009182,
+  "lat": 48.8405640,
+  "lon": 2.2315985
+},
+{
+  "type": "node",
+  "id": 2604827570,
+  "lat": 48.8404196,
+  "lon": 2.2313880
+},
+{
+  "type": "node",
+  "id": 2604827597,
+  "lat": 48.8406085,
+  "lon": 2.2315919
+},
+{
+  "type": "node",
+  "id": 4897371526,
+  "lat": 48.8406711,
+  "lon": 2.2296833
+},
+{
+  "type": "node",
+  "id": 4897371528,
+  "lat": 48.8405868,
+  "lon": 2.2294977
+},
+{
+  "type": "node",
+  "id": 4959870563,
+  "lat": 48.8361131,
+  "lon": 2.2323577
+},
+{
+  "type": "node",
+  "id": 4963783820,
+  "lat": 48.8364814,
+  "lon": 2.2323181
+},
+{
+  "type": "node",
+  "id": 6497096387,
+  "lat": 48.8405164,
+  "lon": 2.2286751
+},
+{
+  "type": "node",
+  "id": 6497096391,
+  "lat": 48.8406428,
+  "lon": 2.2288646
+},
+{
+  "type": "node",
+  "id": 7243269961,
+  "lat": 48.8368577,
+  "lon": 2.2322915
+},
+{
+  "type": "node",
+  "id": 108318391,
+  "lat": 48.8396531,
+  "lon": 2.2400896
+},
+{
+  "type": "node",
+  "id": 111600951,
+  "lat": 48.8400410,
+  "lon": 2.2357647
+},
+{
+  "type": "node",
+  "id": 112402503,
+  "lat": 48.8398914,
+  "lon": 2.2374504
+},
+{
+  "type": "node",
+  "id": 139192418,
+  "lat": 48.8377450,
+  "lon": 2.2403845
+},
+{
+  "type": "node",
+  "id": 139198458,
+  "lat": 48.8396838,
+  "lon": 2.2397565
+},
+{
+  "type": "node",
+  "id": 433005536,
+  "lat": 48.8396315,
+  "lon": 2.2407367
+},
+{
+  "type": "node",
+  "id": 433005878,
+  "lat": 48.8397044,
+  "lon": 2.2403913
+},
+{
+  "type": "node",
+  "id": 433005881,
+  "lat": 48.8397312,
+  "lon": 2.2400438
+},
+{
+  "type": "node",
+  "id": 433005887,
+  "lat": 48.8397555,
+  "lon": 2.2394292
+},
+{
+  "type": "node",
+  "id": 802010615,
+  "lat": 48.8380496,
+  "lon": 2.2402820
+},
+{
+  "type": "node",
+  "id": 827328399,
+  "lat": 48.8399454,
+  "lon": 2.2377035
+},
+{
+  "type": "node",
+  "id": 827328546,
+  "lat": 48.8399496,
+  "lon": 2.2376500
+},
+{
+  "type": "node",
+  "id": 863119030,
+  "lat": 48.8400593,
+  "lon": 2.2355535
+},
+{
+  "type": "node",
+  "id": 866608256,
+  "lat": 48.8399682,
+  "lon": 2.2369838
+},
+{
+  "type": "node",
+  "id": 866610523,
+  "lat": 48.8400249,
+  "lon": 2.2359508
+},
+{
+  "type": "node",
+  "id": 866615498,
+  "lat": 48.8399772,
+  "lon": 2.2372989
+},
+{
+  "type": "node",
+  "id": 866629373,
+  "lat": 48.8399666,
+  "lon": 2.2374347
+},
+{
+  "type": "node",
+  "id": 1005004531,
+  "lat": 48.8381215,
+  "lon": 2.2402618
+},
+{
+  "type": "node",
+  "id": 1005004532,
+  "lat": 48.8376106,
+  "lon": 2.2404248
+},
+{
+  "type": "node",
+  "id": 1014487123,
+  "lat": 48.8401159,
+  "lon": 2.2357251
+},
+{
+  "type": "node",
+  "id": 1015855749,
+  "lat": 48.8392978,
+  "lon": 2.2398824
+},
+{
+  "type": "node",
+  "id": 1215879013,
+  "lat": 48.8400912,
+  "lon": 2.2360384
+},
+{
+  "type": "node",
+  "id": 1215879069,
+  "lat": 48.8400656,
+  "lon": 2.2354920
+},
+{
+  "type": "node",
+  "id": 1215879073,
+  "lat": 48.8401296,
+  "lon": 2.2355671
+},
+{
+  "type": "node",
+  "id": 1215879143,
+  "lat": 48.8400966,
+  "lon": 2.2359620
+},
+{
+  "type": "node",
+  "id": 1223065431,
+  "lat": 48.8378663,
+  "lon": 2.2403334
+},
+{
+  "type": "node",
+  "id": 1223065449,
+  "lat": 48.8378058,
+  "lon": 2.2403503
+},
+{
+  "type": "node",
+  "id": 1223065453,
+  "lat": 48.8376789,
+  "lon": 2.2404037
+},
+{
+  "type": "node",
+  "id": 1288947962,
+  "lat": 48.8397081,
+  "lon": 2.2396095
+},
+{
+  "type": "node",
+  "id": 1288947966,
+  "lat": 48.8396209,
+  "lon": 2.2397797
+},
+{
+  "type": "node",
+  "id": 1288947968,
+  "lat": 48.8397201,
+  "lon": 2.2401752
+},
+{
+  "type": "node",
+  "id": 1288947979,
+  "lat": 48.8396197,
+  "lon": 2.2405072
+},
+{
+  "type": "node",
+  "id": 1288947981,
+  "lat": 48.8396910,
+  "lon": 2.2396856
+},
+{
+  "type": "node",
+  "id": 1288947983,
+  "lat": 48.8397133,
+  "lon": 2.2402757
+},
+{
+  "type": "node",
+  "id": 1288947984,
+  "lat": 48.8396393,
+  "lon": 2.2402278
+},
+{
+  "type": "node",
+  "id": 1677008980,
+  "lat": 48.8401255,
+  "lon": 2.2351988
+},
+{
+  "type": "node",
+  "id": 2608557173,
+  "lat": 48.8398807,
+  "lon": 2.2380073
+},
+{
+  "type": "node",
+  "id": 2608557176,
+  "lat": 48.8398764,
+  "lon": 2.2376305
+},
+{
+  "type": "node",
+  "id": 2608557179,
+  "lat": 48.8399056,
+  "lon": 2.2372808
+},
+{
+  "type": "node",
+  "id": 2608557182,
+  "lat": 48.8399103,
+  "lon": 2.2372251
+},
+{
+  "type": "node",
+  "id": 2608557209,
+  "lat": 48.8400165,
+  "lon": 2.2364211
+},
+{
+  "type": "node",
+  "id": 4415006638,
+  "lat": 48.8367181,
+  "lon": 2.2407042
+},
+{
+  "type": "node",
+  "id": 4527906718,
+  "lat": 48.8367812,
+  "lon": 2.2406857
+},
+{
+  "type": "node",
+  "id": 6380267139,
+  "lat": 48.8393464,
+  "lon": 2.2398665
+},
+{
+  "type": "node",
+  "id": 6380267145,
+  "lat": 48.8388175,
+  "lon": 2.2400373
+},
+{
+  "type": "node",
+  "id": 139209590,
+  "lat": 48.8395148,
+  "lon": 2.2425124
+},
+{
+  "type": "node",
+  "id": 792019599,
+  "lat": 48.8393995,
+  "lon": 2.2437148
+},
+{
+  "type": "node",
+  "id": 792020068,
+  "lat": 48.8393816,
+  "lon": 2.2439054
+},
+{
+  "type": "node",
+  "id": 792020180,
+  "lat": 48.8394532,
+  "lon": 2.2423401
+},
+{
+  "type": "node",
+  "id": 826014686,
+  "lat": 48.8394122,
+  "lon": 2.2431777
+},
+{
+  "type": "node",
+  "id": 826014948,
+  "lat": 48.8394501,
+  "lon": 2.2423788
+},
+{
+  "type": "node",
+  "id": 826015123,
+  "lat": 48.8395275,
+  "lon": 2.2423657
+},
+{
+  "type": "node",
+  "id": 826015240,
+  "lat": 48.8393673,
+  "lon": 2.2440781
+},
+{
+  "type": "node",
+  "id": 826015435,
+  "lat": 48.8393940,
+  "lon": 2.2434057
+},
+{
+  "type": "node",
+  "id": 826015626,
+  "lat": 48.8393090,
+  "lon": 2.2443947
+},
+{
+  "type": "node",
+  "id": 826015714,
+  "lat": 48.8393715,
+  "lon": 2.2440329
+},
+{
+  "type": "node",
+  "id": 826016055,
+  "lat": 48.8394212,
+  "lon": 2.2427403
+},
+{
+  "type": "node",
+  "id": 826016059,
+  "lat": 48.8394400,
+  "lon": 2.2425050
+},
+{
+  "type": "node",
+  "id": 940119620,
+  "lat": 48.8395228,
+  "lon": 2.2419982
+},
+{
+  "type": "node",
+  "id": 940119644,
+  "lat": 48.8394860,
+  "lon": 2.2428452
+},
+{
+  "type": "node",
+  "id": 1234623219,
+  "lat": 48.8394933,
+  "lon": 2.2427613
+},
+{
+  "type": "node",
+  "id": 139251695,
+  "lat": 48.8387043,
+  "lon": 2.2511983
+},
+{
+  "type": "node",
+  "id": 791975760,
+  "lat": 48.8388272,
+  "lon": 2.2497442
+},
+{
+  "type": "node",
+  "id": 792019609,
+  "lat": 48.8387388,
+  "lon": 2.2504599
+},
+{
+  "type": "node",
+  "id": 792019834,
+  "lat": 48.8387625,
+  "lon": 2.2501804
+},
+{
+  "type": "node",
+  "id": 875695367,
+  "lat": 48.8351092,
+  "lon": 2.2481705
+},
+{
+  "type": "node",
+  "id": 976978208,
+  "lat": 48.8351186,
+  "lon": 2.2479534
+},
+{
+  "type": "node",
+  "id": 1022362238,
+  "lat": 48.8386958,
+  "lon": 2.2509670
+},
+{
+  "type": "node",
+  "id": 1107492843,
+  "lat": 48.8350338,
+  "lon": 2.2479333
+},
+{
+  "type": "node",
+  "id": 1224158103,
+  "lat": 48.8388132,
+  "lon": 2.2501892
+},
+{
+  "type": "node",
+  "id": 1224158108,
+  "lat": 48.8387676,
+  "lon": 2.2501202
+},
+{
+  "type": "node",
+  "id": 1224158111,
+  "lat": 48.8386995,
+  "lon": 2.2509239
+},
+{
+  "type": "node",
+  "id": 7499563394,
+  "lat": 48.8350762,
+  "lon": 2.2479434
+},
+{
+  "type": "node",
+  "id": 30624793,
+  "lat": 48.8407312,
+  "lon": 2.2288947
+},
+{
+  "type": "node",
+  "id": 30624828,
+  "lat": 48.8413664,
+  "lon": 2.2313093
+},
+{
+  "type": "node",
+  "id": 108347736,
+  "lat": 48.8409663,
+  "lon": 2.2286536
+},
+{
+  "type": "node",
+  "id": 108347739,
+  "lat": 48.8409828,
+  "lon": 2.2284939
+},
+{
+  "type": "node",
+  "id": 108347740,
+  "lat": 48.8409563,
+  "lon": 2.2283535
+},
+{
+  "type": "node",
+  "id": 114254838,
+  "lat": 48.8408284,
+  "lon": 2.2288688
+},
+{
+  "type": "node",
+  "id": 471043343,
+  "lat": 48.8425320,
+  "lon": 2.2308248
+},
+{
+  "type": "node",
+  "id": 1003155610,
+  "lat": 48.8409169,
+  "lon": 2.2287788
+},
+{
+  "type": "node",
+  "id": 1324794737,
+  "lat": 48.8423400,
+  "lon": 2.2308861
+},
+{
+  "type": "node",
+  "id": 1333553832,
+  "lat": 48.8412226,
+  "lon": 2.2313568
+},
+{
+  "type": "node",
+  "id": 1333553838,
+  "lat": 48.8412877,
+  "lon": 2.2313353
+},
+{
+  "type": "node",
+  "id": 1333553852,
+  "lat": 48.8414488,
+  "lon": 2.2312722
+},
+{
+  "type": "node",
+  "id": 1333553858,
+  "lat": 48.8414834,
+  "lon": 2.2312567
+},
+{
+  "type": "node",
+  "id": 1333553945,
+  "lat": 48.8423689,
+  "lon": 2.2308696
+},
+{
+  "type": "node",
+  "id": 1362686102,
+  "lat": 48.8407229,
+  "lon": 2.2291261
+},
+{
+  "type": "node",
+  "id": 1362686103,
+  "lat": 48.8407276,
+  "lon": 2.2290759
+},
+{
+  "type": "node",
+  "id": 5505654441,
+  "lat": 48.8423943,
+  "lon": 2.2308561
+},
+{
+  "type": "node",
+  "id": 6401276379,
+  "lat": 48.8408962,
+  "lon": 2.2282394
+},
+{
+  "type": "node",
+  "id": 6497096388,
+  "lat": 48.8408681,
+  "lon": 2.2288392
+},
+{
+  "type": "node",
+  "id": 6497096389,
+  "lat": 48.8409493,
+  "lon": 2.2287135
+},
+{
+  "type": "node",
+  "id": 6497096390,
+  "lat": 48.8407447,
+  "lon": 2.2288968
+},
+{
+  "type": "node",
+  "id": 7736098467,
+  "lat": 48.8407928,
+  "lon": 2.2288855
+},
+{
+  "type": "node",
+  "id": 114287605,
+  "lat": 48.8315617,
+  "lon": 2.2581251
+},
+{
+  "type": "node",
+  "id": 268398945,
+  "lat": 48.8320448,
+  "lon": 2.2591503
+},
+{
+  "type": "node",
+  "id": 268399415,
+  "lat": 48.8333414,
+  "lon": 2.2604871
+},
+{
+  "type": "node",
+  "id": 340201553,
+  "lat": 48.8331690,
+  "lon": 2.2603314
+},
+{
+  "type": "node",
+  "id": 366095258,
+  "lat": 48.8320770,
+  "lon": 2.2591931
+},
+{
+  "type": "node",
+  "id": 366095266,
+  "lat": 48.8324150,
+  "lon": 2.2596065
+},
+{
+  "type": "node",
+  "id": 366096866,
+  "lat": 48.8311642,
+  "lon": 2.2573440
+},
+{
+  "type": "node",
+  "id": 674502044,
+  "lat": 48.8316347,
+  "lon": 2.2583434
+},
+{
+  "type": "node",
+  "id": 875697177,
+  "lat": 48.8329465,
+  "lon": 2.2601184
+},
+{
+  "type": "node",
+  "id": 880437470,
+  "lat": 48.8319309,
+  "lon": 2.2589581
+},
+{
+  "type": "node",
+  "id": 880438716,
+  "lat": 48.8315995,
+  "lon": 2.2582514
+},
+{
+  "type": "node",
+  "id": 3247052683,
+  "lat": 48.8312518,
+  "lon": 2.2574598
+},
+{
+  "type": "node",
+  "id": 3350092572,
+  "lat": 48.8312329,
+  "lon": 2.2574250
+},
+{
+  "type": "node",
+  "id": 3350092573,
+  "lat": 48.8315856,
+  "lon": 2.2582066
+},
+{
+  "type": "node",
+  "id": 4837587635,
+  "lat": 48.8332345,
+  "lon": 2.2603900
+},
+{
+  "type": "node",
+  "id": 268399405,
+  "lat": 48.8340033,
+  "lon": 2.2611981
+},
+{
+  "type": "node",
+  "id": 366094644,
+  "lat": 48.8339136,
+  "lon": 2.2610307
+},
+{
+  "type": "node",
+  "id": 3350092580,
+  "lat": 48.8341256,
+  "lon": 2.2613264
+},
+{
+  "type": "node",
+  "id": 8720772036,
+  "lat": 48.8341331,
+  "lon": 2.2613343
+}
+
+  ]
+}

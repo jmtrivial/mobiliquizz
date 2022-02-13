@@ -1,0 +1,7895 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 31382678,
+  "lat": 43.6219425,
+  "lon": 3.9091681,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Apollo",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 251341164,
+  "lat": 43.6120516,
+  "lon": 3.8703739,
+  "tags": {
+    "highway": "bus_stop",
+    "line": "6, 7",
+    "name": "Pitot",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "route_ref": "6;7",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Euromédecine - Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 290832253,
+  "lat": 43.6031378,
+  "lon": 3.8800760,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Strasbourg",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "stop_position",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 571452083,
+  "lat": 43.6037207,
+  "lon": 3.9151007,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "9a;9b",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571456554,
+  "lat": 43.6035127,
+  "lon": 3.9083826,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Millénaire",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571457501,
+  "lat": 43.6044958,
+  "lon": 3.9069857,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vauguières",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571458715,
+  "lat": 43.6121690,
+  "lon": 3.9060376,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Lagoya",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint-Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571469636,
+  "lat": 43.6140414,
+  "lon": 3.9045443,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Pinville",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "La Pompignane (Sémard);Saint-Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571469637,
+  "lat": 43.6121289,
+  "lon": 3.9059018,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Lagoya",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "Laronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571469638,
+  "lat": 43.6138859,
+  "lon": 3.9045151,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Pinville",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "Laronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571469640,
+  "lat": 43.6044546,
+  "lon": 3.9068332,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vauguières",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571479989,
+  "lat": 43.6165298,
+  "lon": 3.9032257,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Goélands",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint-Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571479990,
+  "lat": 43.6161880,
+  "lon": 3.9032391,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Goélands",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571479993,
+  "lat": 43.6032039,
+  "lon": 3.9091429,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Millénaire",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "surface": "asphalt",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 571812668,
+  "lat": 43.6263598,
+  "lon": 3.8669025,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Éloi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812677,
+  "lat": 43.6236200,
+  "lon": 3.8616203,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Fac de Pharmacie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812697,
+  "lat": 43.6245945,
+  "lon": 3.8633118,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Fac de Pharmacie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812701,
+  "lat": 43.6222972,
+  "lon": 3.8596567,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Voie Domitienne",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812702,
+  "lat": 43.6226379,
+  "lon": 3.8604863,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Voie Domitienne",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812703,
+  "lat": 43.6271071,
+  "lon": 3.8726203,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Major Flandre",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812705,
+  "lat": 43.6268012,
+  "lon": 3.8740541,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Major Flandre",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812724,
+  "lat": 43.6263054,
+  "lon": 3.8657037,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Éloi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812757,
+  "lat": 43.6264110,
+  "lon": 3.8821620,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Aiguelongue",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812762,
+  "lat": 43.6258369,
+  "lon": 3.8785748,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Tourterelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812768,
+  "lat": 43.6256959,
+  "lon": 3.8785152,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/14/lth/2757590_78b08_5f0de0b172187.jpg",
+    "maxspeed": "50",
+    "name": "Tourterelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "survey:date": "2020-07-14",
+    "tactile_paving": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812773,
+  "lat": 43.6264442,
+  "lon": 3.8762748,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Sainte-Catherine",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812783,
+  "lat": 43.6262567,
+  "lon": 3.8764419,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Sainte-Catherine",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812810,
+  "lat": 43.6303639,
+  "lon": 3.8856512,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Roqueturière",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812822,
+  "lat": 43.6298612,
+  "lon": 3.8858156,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Roqueturière",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812829,
+  "lat": 43.6286353,
+  "lon": 3.8829703,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Bengalis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812834,
+  "lat": 43.6286221,
+  "lon": 3.8831303,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Bengalis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812840,
+  "lat": 43.6267612,
+  "lon": 3.8821331,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Aiguelongue",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Aiguelongue (Jussieu);Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812863,
+  "lat": 43.6273363,
+  "lon": 3.8890325,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Saint-Lazare",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 571812868,
+  "lat": 43.6271258,
+  "lon": 3.8890176,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Saint-Lazare",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 571812873,
+  "lat": 43.6285881,
+  "lon": 3.8872387,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Maurice Chevalier",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812878,
+  "lat": 43.6282525,
+  "lon": 3.8876367,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Maurice Chevalier",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 571812973,
+  "lat": 43.6218327,
+  "lon": 3.9005006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Pastourelles",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575745579,
+  "lat": 43.6206125,
+  "lon": 3.8569020,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Cinsaults",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575745580,
+  "lat": 43.6205134,
+  "lon": 3.8569901,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Cinsaults",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774757,
+  "lat": 43.6169968,
+  "lon": 3.8424448,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Belvédère",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774760,
+  "lat": 43.6131179,
+  "lon": 3.8388166,
+  "tags": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Tonnelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde;7",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Saint Cléophas;Pierre de Coubertin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774765,
+  "lat": 43.6087171,
+  "lon": 3.8409676,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Lycée Jules Ferry",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774769,
+  "lat": 43.6086298,
+  "lon": 3.8409099,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Lycée Jules Ferry",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774779,
+  "lat": 43.6197139,
+  "lon": 3.8493033,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Rièges",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774780,
+  "lat": 43.6195431,
+  "lon": 3.8492811,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Rièges",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774782,
+  "lat": 43.6186656,
+  "lon": 3.8458470,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Jean Calvin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774783,
+  "lat": 43.6185529,
+  "lon": 3.8459149,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Jean Calvin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774784,
+  "lat": 43.6172512,
+  "lon": 3.8425830,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Belvédère",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774791,
+  "lat": 43.6202045,
+  "lon": 3.8541980,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Henri Marès",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774794,
+  "lat": 43.6200931,
+  "lon": 3.8543008,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Henri Marès",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774799,
+  "lat": 43.6201130,
+  "lon": 3.8522478,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Louis Ravaz",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575774803,
+  "lat": 43.6200051,
+  "lon": 3.8521089,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Louis Ravaz",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575795731,
+  "lat": 43.5949195,
+  "lon": 3.8378329,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Paul Fajon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas;Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575795737,
+  "lat": 43.5954528,
+  "lon": 3.8373916,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Paul Fajon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas;Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575795741,
+  "lat": 43.5944681,
+  "lon": 3.8393796,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Rouget de Lisle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas;Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575795744,
+  "lat": 43.5948521,
+  "lon": 3.8398333,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Rouget de Lisle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Odysseum;Les Bouisses",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 575831940,
+  "lat": 43.5906546,
+  "lon": 3.8553238,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Grand M",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "Pas du Loup",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831943,
+  "lat": 43.5868773,
+  "lon": 3.8586203,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Mas de Bagnères",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas ; Sabines",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831944,
+  "lat": 43.5875052,
+  "lon": 3.8585160,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Mas de Bagnères",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Odysseum ; Lavandin",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 575831945,
+  "lat": 43.5836892,
+  "lon": 3.8603641,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sabines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "15;17",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes",
+    "towards": "Saint-Cléophas;Lavandin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831947,
+  "lat": 43.5842020,
+  "lon": 3.8596155,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sabines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "15;18",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes",
+    "towards": "Castelnau-le-Lez (Charles de Gaulle);Lattes (Centre)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831952,
+  "lat": 43.5953548,
+  "lon": 3.8443769,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bagatelle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 575831954,
+  "lat": 43.5950892,
+  "lon": 3.8441372,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bagatelle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 575831960,
+  "lat": 43.5909709,
+  "lon": 3.8545567,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grand M",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;15;17",
+    "shelter": "yes",
+    "towards": "Saint Cléophas/Euromédecine/Sabines",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831965,
+  "lat": 43.5933299,
+  "lon": 3.8434722,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Cheng-Du",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Saint Cléophas;Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575831968,
+  "lat": 43.5940088,
+  "lon": 3.8429460,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Cheng-Du",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Odysseum;Les Bouisses",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 575980279,
+  "lat": 43.5806489,
+  "lon": 3.8692207,
+  "tags": {
+    "description": "Arrêt de descente",
+    "highway": "bus_stop",
+    "name": "Garosud (Jeune Parque)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575980280,
+  "lat": 43.5809922,
+  "lon": 3.8690926,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Garosud (Jeune Parque)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575980281,
+  "lat": 43.5813745,
+  "lon": 3.8703176,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "VlZqwLtAAOtPvtJIjXyGWe",
+    "maxspeed": "50",
+    "name": "TaM",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "survey:date": "2021-03-27",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575980282,
+  "lat": 43.5814649,
+  "lon": 3.8701488,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "I9n3EVp1ghzmTnTy56mSSK",
+    "maxspeed": "50",
+    "name": "TaM",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "survey:date": "2021-03-27",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575991874,
+  "lat": 43.5830061,
+  "lon": 3.8722830,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Demeter",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 575991879,
+  "lat": 43.5835370,
+  "lon": 3.8721772,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "kMQOdxHNFUCHKLZBqg6kQa",
+    "maxspeed": "50",
+    "name": "Demeter",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "survey:date": "2021-03-27",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039392,
+  "lat": 43.5886504,
+  "lon": 3.8723983,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Passerines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039397,
+  "lat": 43.5909363,
+  "lon": 3.8735080,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Les Pins",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039401,
+  "lat": 43.5906313,
+  "lon": 3.8732583,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Les Pins",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039404,
+  "lat": 43.5948317,
+  "lon": 3.8758202,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Saint-Cléophas",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039405,
+  "lat": 43.5948490,
+  "lon": 3.8755774,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Saint-Cléophas",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039411,
+  "lat": 43.5866372,
+  "lon": 3.8722174,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "NMv6YzaryoCuG55OUiES5s",
+    "maxspeed": "50",
+    "name": "Castelle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "survey:date": "2021-03-27",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039415,
+  "lat": 43.5866446,
+  "lon": 3.8719238,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "7fIO6e5wrGxJw1EGYHF6lg",
+    "maxspeed": "50",
+    "name": "Castelle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "survey:date": "2021-03-28",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576039424,
+  "lat": 43.5884130,
+  "lon": 3.8724296,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "zP4Cuwm09n9jyI2ZaLslji",
+    "maxspeed": "50",
+    "name": "Passerines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "survey:date": "2021-02-20",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576174093,
+  "lat": 43.6291949,
+  "lon": 3.8614000,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Universités des Sciences et Lettres",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Saint-Éloi",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576174103,
+  "lat": 43.6293698,
+  "lon": 3.8609748,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Universités des Sciences et Lettres",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 576232738,
+  "lat": 43.6317402,
+  "lon": 3.8603285,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Eugène Bataillon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "yes",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 576232793,
+  "lat": 43.6314554,
+  "lon": 3.8610249,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Eugène Bataillon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Saint-Éloi",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576232835,
+  "lat": 43.6343091,
+  "lon": 3.8600566,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gascogne",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 576232863,
+  "lat": 43.6343904,
+  "lon": 3.8599040,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gascogne",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 576258124,
+  "lat": 43.6210443,
+  "lon": 3.8338315,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "École de Commerce",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "6",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 576258150,
+  "lat": 43.6256840,
+  "lon": 3.8243387,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée Léonard de Vinci",
+    "network": "TaM",
+    "note": "Emplacement exact à préciser",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 576258165,
+  "lat": 43.6234241,
+  "lon": 3.8310112,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Parc Malbosc",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "19",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 576275765,
+  "lat": 43.6169259,
+  "lon": 3.8861000,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pinsons",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275772,
+  "lat": 43.6154567,
+  "lon": 3.8853749,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ernest Renan",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275774,
+  "lat": 43.6154459,
+  "lon": 3.8852393,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ernest Renan",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275775,
+  "lat": 43.6136639,
+  "lon": 3.8889163,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Les Aubes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275778,
+  "lat": 43.6136006,
+  "lon": 3.8887007,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Les Aubes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275792,
+  "lat": 43.6194250,
+  "lon": 3.8892711,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Boulevard des Sports",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275795,
+  "lat": 43.6195274,
+  "lon": 3.8898569,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Boulevard des Sports",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275798,
+  "lat": 43.6185917,
+  "lon": 3.8877601,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Estragon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275802,
+  "lat": 43.6186657,
+  "lon": 3.8879482,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Estragon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275804,
+  "lat": 43.6172079,
+  "lon": 3.8862996,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pinsons",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275817,
+  "lat": 43.6195083,
+  "lon": 3.8938677,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Palombes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275821,
+  "lat": 43.6210230,
+  "lon": 3.8938744,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Maur",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275825,
+  "lat": 43.6210291,
+  "lon": 3.8940516,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Maur",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 576275828,
+  "lat": 43.6199628,
+  "lon": 3.8911336,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Françoise",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275830,
+  "lat": 43.6199502,
+  "lon": 3.8913079,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Françoise",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275857,
+  "lat": 43.6185285,
+  "lon": 3.8948208,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Foyer des Aubes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576275859,
+  "lat": 43.6184733,
+  "lon": 3.8946037,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Foyer des Aubes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576275862,
+  "lat": 43.6197058,
+  "lon": 3.8941058,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Palombes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576279185,
+  "lat": 43.6126134,
+  "lon": 3.8893204,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/18/lth/2771310_af9d7_5f126820dcec9.jpg",
+    "name": "Jean Mermoz",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-07-18",
+    "tactile_paving": "no",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 576279190,
+  "lat": 43.6093254,
+  "lon": 3.8904821,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "La Pompignane (Les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591412,
+  "lat": 43.6338157,
+  "lon": 3.8745227,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin de Gasconnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576591416,
+  "lat": 43.6339116,
+  "lon": 3.8772935,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pioch de Boutonnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576591423,
+  "lat": 43.6338690,
+  "lon": 3.8774984,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pioch de Boutonnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591434,
+  "lat": 43.6322181,
+  "lon": 3.8781794,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chantecler",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576591441,
+  "lat": 43.6325298,
+  "lon": 3.8782579,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chantecler",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591463,
+  "lat": 43.6365110,
+  "lon": 3.8738807,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "René Bougnol",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576591465,
+  "lat": 43.6364518,
+  "lon": 3.8742267,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "René Bougnol",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591469,
+  "lat": 43.6372940,
+  "lon": 3.8800349,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Antoine-Laurent de Jussieu",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "short_name": "A. L. Jussieu",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576591477,
+  "lat": 43.6373198,
+  "lon": 3.8801680,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Antoine-Laurent de Jussieu",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "short_name": "A. L. Jussieu",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591483,
+  "lat": 43.6339370,
+  "lon": 3.8745223,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Moulin de Gasconnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576591496,
+  "lat": 43.6384955,
+  "lon": 3.8829819,
+  "tags": {
+    "fixme": "est-ce que le bus 10 terminus à Aiguelongue (Jussieu) s'arrete de ce côté de la route ou de l'autre ?",
+    "highway": "bus_stop",
+    "name": "Aiguelongue (Jussieu)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608097,
+  "lat": 43.6213147,
+  "lon": 3.8754324,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/18/lth/2771310_8c982_5f126a490d2bf.jpg",
+    "name": "Marie Caizergues",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-07-18",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608103,
+  "lat": 43.6225814,
+  "lon": 3.8731606,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/18/lth/2771310_576c1_5f126b0c1dfa1.jpg",
+    "name": "Sainte-Odile",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-07-18",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576608133,
+  "lat": 43.6229469,
+  "lon": 3.8825325,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pierre Rouge",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608138,
+  "lat": 43.6230530,
+  "lon": 3.8826202,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre Rouge",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576608145,
+  "lat": 43.6217117,
+  "lon": 3.8803065,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "MafwawTud23-5zM33ZteSg",
+    "name": "Nazareth",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-10-19",
+    "tactile_paving": "yes",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608156,
+  "lat": 43.6212064,
+  "lon": 3.8753901,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/18/lth/2771310_d9e01_5f126a2a501c7.jpg",
+    "name": "Marie Caizergues",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-07-18",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576608157,
+  "lat": 43.6302294,
+  "lon": 3.8792101,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Alpilles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576608161,
+  "lat": 43.6297485,
+  "lon": 3.8795331,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Alpilles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608166,
+  "lat": 43.6284390,
+  "lon": 3.8813584,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clolus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576608170,
+  "lat": 43.6287718,
+  "lon": 3.8811450,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clolus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 576997147,
+  "lat": 43.6177515,
+  "lon": 3.8444932,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Clément",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 576997160,
+  "lat": 43.6160715,
+  "lon": 3.8470737,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Las Cazes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577004170,
+  "lat": 43.6140946,
+  "lon": 3.8500409,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Espérance",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577004171,
+  "lat": 43.6143836,
+  "lon": 3.8492978,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Espérance",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577004172,
+  "lat": 43.6145375,
+  "lon": 3.8518031,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Gabriel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577004173,
+  "lat": 43.6145549,
+  "lon": 3.8524327,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Gabriel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577005678,
+  "lat": 43.6152826,
+  "lon": 3.8550196,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Las Sorbes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577005679,
+  "lat": 43.6151763,
+  "lon": 3.8549647,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Las Sorbes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577007072,
+  "lat": 43.6149870,
+  "lon": 3.8568513,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Érables",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577007075,
+  "lat": 43.6149266,
+  "lon": 3.8570875,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Érables",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577009664,
+  "lat": 43.6134726,
+  "lon": 3.8586079,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Louvain",
+    "name:etymology:wikidata": "Q118958",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577009665,
+  "lat": 43.6133158,
+  "lon": 3.8590117,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Louvain",
+    "name:etymology:wikidata": "Q118958",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577010733,
+  "lat": 43.6121671,
+  "lon": 3.8611766,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Avenue de l'Agriculture",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577010735,
+  "lat": 43.6121104,
+  "lon": 3.8611062,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Avenue de l'Agriculture",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577012013,
+  "lat": 43.6120045,
+  "lon": 3.8631616,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Glycines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 577012017,
+  "lat": 43.6118714,
+  "lon": 3.8639058,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Glycines",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 577022357,
+  "lat": 43.6112884,
+  "lon": 3.8723350,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Peyrou - Arc de Triomphe",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "no",
+    "source:location": "survey2019",
+    "towards": "6: Euromédecine - 7:Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577027788,
+  "lat": 43.6001659,
+  "lon": 3.8481073,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pas du Loup",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "6: Euromédecine/11: Les Bouisses",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577027794,
+  "lat": 43.6004230,
+  "lon": 3.8488497,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pas du Loup",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "6 : Pas du Loup/11 : Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577031500,
+  "lat": 43.5979185,
+  "lon": 3.8482083,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Estanove",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577031504,
+  "lat": 43.5977053,
+  "lon": 3.8482262,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Estanove",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577031507,
+  "lat": 43.5957209,
+  "lon": 3.8495443,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Véga",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577031509,
+  "lat": 43.5956516,
+  "lon": 3.8497125,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Véga",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577031687,
+  "lat": 43.5935951,
+  "lon": 3.8516021,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Font Couverte",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577031688,
+  "lat": 43.5933552,
+  "lon": 3.8517275,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Font Couverte",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577033039,
+  "lat": 43.6030211,
+  "lon": 3.8716273,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Georges Clemenceau",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "6: Euromédecine - 7: Hôtel du Département - 38 : Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577033043,
+  "lat": 43.6055066,
+  "lon": 3.8764087,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "towards": "6: Euromédecine - 7: Hôtel du Département - 11: Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577033044,
+  "lat": 43.5995967,
+  "lon": 3.8665125,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place du 8 Mai",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577033045,
+  "lat": 43.5999390,
+  "lon": 3.8670708,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577033046,
+  "lat": 43.6021753,
+  "lon": 3.8697881,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "6: Pas du Loup - 7: La Martelle/Les Bouisses- 38 : Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577033047,
+  "lat": 43.6018155,
+  "lon": 3.8693997,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "6: Euromédecine- 7 : Hôtel du Département - 38: Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577033048,
+  "lat": 43.6031278,
+  "lon": 3.8715998,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Lycée Georges Clemenceau",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "6: Pas du Loup - 7: La Martelle/Les Bouisses - 38 :Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577033049,
+  "lat": 43.5937462,
+  "lon": 3.8603492,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "TWmMPI5kkcVqsrRV44ObVZ",
+    "name": "Ronceray",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-12-03",
+    "tactile_paving": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577033050,
+  "lat": 43.5956751,
+  "lon": 3.8624550,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "D5y8arlrxzPGN2luoazhuY",
+    "name": "Georges Brassens",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-12-03",
+    "tactile_paving": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577033051,
+  "lat": 43.5958946,
+  "lon": 3.8624655,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "8kox51cYOZko3X3wEnX72b",
+    "name": "Georges Brassens",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "survey:date": "2020-12-03",
+    "tactile_paving": "yes",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577033052,
+  "lat": 43.5976355,
+  "lon": 3.8645709,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Guillaume Janvier",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577033053,
+  "lat": 43.5971373,
+  "lon": 3.8638107,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "RKX6OJ2S0pPmV8A7j1egvK",
+    "name": "Guillaume Janvier",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "survey:date": "2020-12-03",
+    "tactile_paving": "yes",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577033054,
+  "lat": 43.5912807,
+  "lon": 3.8577631,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "pxZSciprrIUc9VryTnUEG1",
+    "name": "Avenue de Toulouse",
+    "network": "TaM",
+    "operator": "TaM",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-12-03",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577033055,
+  "lat": 43.5918547,
+  "lon": 3.8580890,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Toulouse",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577040875,
+  "lat": 43.5939280,
+  "lon": 3.8603228,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "fKjHWhyOrykyqMMZ5hlQnu",
+    "name": "Ronceray",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "survey:date": "2020-12-03",
+    "tactile_paving": "yes",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577060438,
+  "lat": 43.6110891,
+  "lon": 3.8721791,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Peyrou - Arc de Triomphe",
+    "network": "TaM",
+    "note": "arrêt situé sous le pont",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "no",
+    "source:location": "survey2019",
+    "towards": "6: Pas du Loup - 7:La Martelle/Les Bouisses",
+    "tunnel": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577060452,
+  "lat": 43.6077763,
+  "lon": 3.8739567,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Guilhem - Courreau",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "shelter": "no",
+    "source:location": "survey2019",
+    "towards": "6: Euromédecine - 7:Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577237590,
+  "lat": 43.6014145,
+  "lon": 3.8631199,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lepic",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "7: La Martelle/Les Bouisses - 38: Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577237594,
+  "lat": 43.6011152,
+  "lon": 3.8662144,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Myrtes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "7: La Martelle/Les Bouisses - 38: Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577237601,
+  "lat": 43.6020368,
+  "lon": 3.8665540,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Croix du Capitaine",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "7: Hôtel du Département - 38: Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577237612,
+  "lat": 43.6044983,
+  "lon": 3.8573143,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mas de Merle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "La Martelle/Les Bouisses",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577237614,
+  "lat": 43.6043177,
+  "lon": 3.8576143,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mas de Merle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577237616,
+  "lat": 43.6030655,
+  "lon": 3.8627928,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gouara",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "7: La Martelle/Les Bouisses - 38: Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577237618,
+  "lat": 43.6030266,
+  "lon": 3.8626938,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gouara",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "7: Hôtel du Département - 38: Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577237630,
+  "lat": 43.6071593,
+  "lon": 3.8505038,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Figairasse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577237635,
+  "lat": 43.6070443,
+  "lon": 3.8505135,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Figairasse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577237637,
+  "lat": 43.6052086,
+  "lon": 3.8548302,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Étoile",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577237639,
+  "lat": 43.6051200,
+  "lon": 3.8547793,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Étoile",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577237649,
+  "lat": 43.6086700,
+  "lon": 3.8456890,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "François Dezeuze",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "La Martelle/Les Bouisses",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577242370,
+  "lat": 43.6191285,
+  "lon": 3.8618812,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pous de la Sers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577242371,
+  "lat": 43.6192596,
+  "lon": 3.8612097,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pous de la Sers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577242372,
+  "lat": 43.6203924,
+  "lon": 3.8585747,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Roger",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577242373,
+  "lat": 43.6203738,
+  "lon": 3.8583029,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Roger",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577242376,
+  "lat": 43.6173142,
+  "lon": 3.8681303,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Pile",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7;10",
+    "towards": "10: Aiguelongue (Jussieu) - 7: Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577242377,
+  "lat": 43.6171687,
+  "lon": 3.8677292,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Pile",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "route_ref": "7",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577242379,
+  "lat": 43.6137829,
+  "lon": 3.8705397,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "PKjpTq39NvwCOW8ntyZqwA",
+    "name": "Saint-Jaumes",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "survey:date": "2019-06-16",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577242839,
+  "lat": 43.6229909,
+  "lon": 3.8544765,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Cervantès",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577245065,
+  "lat": 43.6269709,
+  "lon": 3.8476436,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Font Trouvé",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577245066,
+  "lat": 43.6312794,
+  "lon": 3.8430169,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "kaPvFfBgubviSsask2u6TA",
+    "name": "Château d'Ô",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7;115",
+    "shelter": "yes",
+    "towards": "6: Euromédecine - 7: La Martelle/Les Bouisses - 7: Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577245067,
+  "lat": 43.6258174,
+  "lon": 3.8394990,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Alco",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "Pasdu Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577245070,
+  "lat": 43.6250718,
+  "lon": 3.8508353,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gardioles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577245073,
+  "lat": 43.6247023,
+  "lon": 3.8519961,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gardioles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577245086,
+  "lat": 43.6261708,
+  "lon": 3.8492274,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mûriers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577245092,
+  "lat": 43.6270146,
+  "lon": 3.8478532,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Font Trouvé",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 577368558,
+  "lat": 43.6256139,
+  "lon": 3.8403542,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Alco",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577368559,
+  "lat": 43.6344653,
+  "lon": 3.8436244,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Priest",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577368561,
+  "lat": 43.6352750,
+  "lon": 3.8478666,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Rdxq2QhRcBOPKdGv22v9HQ",
+    "name": "Occitanie",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6 ;23;26;TAD;608;114;115",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "6 : Pas du Loup - 23: Prades - 26-TAD : Montferrier-Baiilarguet",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577368567,
+  "lat": 43.6162815,
+  "lon": 3.8577303,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "La Gaillarde",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577368568,
+  "lat": 43.6162637,
+  "lon": 3.8586715,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "La Gaillarde",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "no",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577368569,
+  "lat": 43.6196959,
+  "lon": 3.8514567,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Louis Ravaz",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577368570,
+  "lat": 43.6196522,
+  "lon": 3.8513557,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Louis Ravaz",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Pas du Loup"
+  }
+},
+{
+  "type": "node",
+  "id": 577368572,
+  "lat": 43.6141097,
+  "lon": 3.8655822,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577368573,
+  "lat": 43.6142180,
+  "lon": 3.8652214,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 577368574,
+  "lat": 43.6164316,
+  "lon": 3.8621563,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Collège Camille Claudel",
+    "network": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577371921,
+  "lat": 43.6401072,
+  "lon": 3.8293965,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Puech Villa",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "Euromédecine"
+  }
+},
+{
+  "type": "node",
+  "id": 577371922,
+  "lat": 43.6397793,
+  "lon": 3.8296915,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Puech Villa",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 577371929,
+  "lat": 43.6416253,
+  "lon": 3.8349401,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Apothicaires",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "6: Euromédecine - 24: Grabels Le Prada"
+  }
+},
+{
+  "type": "node",
+  "id": 577371930,
+  "lat": 43.6416764,
+  "lon": 3.8351723,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Apothicaires",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "towards": "6: Pas du Loup - 24: Grabels La Valsière"
+  }
+},
+{
+  "type": "node",
+  "id": 577371931,
+  "lat": 43.6380464,
+  "lon": 3.8477167,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Ambroise Paré",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "6 - 23 - 26-TAD",
+    "shelter": "yes",
+    "towards": "23: Montferrier/Prades - 6: Euromédecine - 26-TAD : Montferrier-Baiilarguet"
+  }
+},
+{
+  "type": "node",
+  "id": 577498583,
+  "lat": 43.5943275,
+  "lon": 3.8930681,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Cèdres",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577531544,
+  "lat": 43.6062687,
+  "lon": 3.8677000,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Craponne",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577531548,
+  "lat": 43.6066895,
+  "lon": 3.8718959,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577531561,
+  "lat": 43.6059533,
+  "lon": 3.8730083,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "UP9n5vLDV_s_xWiP_9pGdA",
+    "name": "Saint-Denis",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-06-13",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577531578,
+  "lat": 43.6064133,
+  "lon": 3.8642673,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Figuerolles",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 577531592,
+  "lat": 43.6025161,
+  "lon": 3.8544842,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Les Roses",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "11 : Gare Saint Roch ; 38 : Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577531593,
+  "lat": 43.6033196,
+  "lon": 3.8563511,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chasseurs",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Les Bouisses ; Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577531594,
+  "lat": 43.6032991,
+  "lon": 3.8564760,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chasseurs",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch ; Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 577531596,
+  "lat": 43.6048897,
+  "lon": 3.8595326,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Gély",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577531597,
+  "lat": 43.5969976,
+  "lon": 3.8451611,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Collège Marcel Pagnol",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "short_name": "Collège M. Pagnol",
+    "towards": "Les Bouisses",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577531598,
+  "lat": 43.5973731,
+  "lon": 3.8456661,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Marcel Pagnol",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "short_name": "Collège M. Pagnol",
+    "towards": "Gare Saint Roch",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577531599,
+  "lat": 43.6015567,
+  "lon": 3.8518860,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Valette",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "11 : Les Bouisses ; 38 : Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577531600,
+  "lat": 43.6014511,
+  "lon": 3.8518832,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Valette",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "11 : Les Bouisses ; 38 : Cournonsec",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577531601,
+  "lat": 43.6024033,
+  "lon": 3.8539299,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Roses",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "11 : Les Bouisses ; 38 : Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 577555272,
+  "lat": 43.5915536,
+  "lon": 3.8448990,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Bugarel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "towards": "Saint Cléophas",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577555273,
+  "lat": 43.5917376,
+  "lon": 3.8448789,
+  "tags": {
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Bugarel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde",
+    "route_ref": "La Ronde",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 577560830,
+  "lat": 43.5996731,
+  "lon": 3.8812174,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pâquerettes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560831,
+  "lat": 43.6003821,
+  "lon": 3.8798650,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Porto",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560832,
+  "lat": 43.6002920,
+  "lon": 3.8799119,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Porto",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560833,
+  "lat": 43.6015492,
+  "lon": 3.8830372,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Cordès",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560834,
+  "lat": 43.6025138,
+  "lon": 3.8801556,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Frédéric Peyson",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560835,
+  "lat": 43.5968527,
+  "lon": 3.8807983,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Centrayrargues",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560836,
+  "lat": 43.5966143,
+  "lon": 3.8808943,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bellevue",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560837,
+  "lat": 43.5977851,
+  "lon": 3.8802075,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Coquelicots",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560838,
+  "lat": 43.5981629,
+  "lon": 3.8814903,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Primevères",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560839,
+  "lat": 43.5996703,
+  "lon": 3.8814501,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pâquerettes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560843,
+  "lat": 43.5943518,
+  "lon": 3.8851944,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Maréchal Leclerc",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560845,
+  "lat": 43.5956003,
+  "lon": 3.8840889,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Razeteurs",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577560846,
+  "lat": 43.5966618,
+  "lon": 3.8835251,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Descartes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Saint Martin"
+  }
+},
+{
+  "type": "node",
+  "id": 577560847,
+  "lat": 43.5927829,
+  "lon": 3.8838132,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Catalpas",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577560849,
+  "lat": 43.5923480,
+  "lon": 3.8849518,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Vachet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 577564316,
+  "lat": 43.5928302,
+  "lon": 3.8853406,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jean Vachet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Catalpas"
+  }
+},
+{
+  "type": "node",
+  "id": 577629759,
+  "lat": 43.6432017,
+  "lon": 3.8601471,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hortus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette - 23 - 26-TAD",
+    "shelter": "no",
+    "towards": "La Navette : Saint-Éloi - 23 Prades - 26-TAD : Montferrier-Baiilarguet",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629764,
+  "lat": 43.6387277,
+  "lon": 3.8565709,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Maurice Chauvet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629769,
+  "lat": 43.6391189,
+  "lon": 3.8543854,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pic Saint-Loup",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "yes",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629781,
+  "lat": 43.6377549,
+  "lon": 3.8591264,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "École d'Architecture",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629786,
+  "lat": 43.6374004,
+  "lon": 3.8596678,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "École d'Architecture",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629805,
+  "lat": 43.6450417,
+  "lon": 3.8686845,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Campus Agropolis",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Université des Sciences et Lettres/Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629821,
+  "lat": 43.6427069,
+  "lon": 3.8594892,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hortus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette- 23 - 26-TAD",
+    "shelter": "no",
+    "towards": "La Navette : Université des Sciences et Lettres - 23 : Occitanie - 26-TAD : Occitanie",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629838,
+  "lat": 43.6377239,
+  "lon": 3.8693640,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lavalette",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629844,
+  "lat": 43.6399232,
+  "lon": 3.8732050,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Zoo",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629849,
+  "lat": 43.6399044,
+  "lon": 3.8730837,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Zoo",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577629863,
+  "lat": 43.6446822,
+  "lon": 3.8695280,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Campus Agropolis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Universités des sciences et lettres"
+  }
+},
+{
+  "type": "node",
+  "id": 577629899,
+  "lat": 43.6376883,
+  "lon": 3.8691643,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lavalette",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577651720,
+  "lat": 43.6392309,
+  "lon": 3.8545545,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pic Saint-Loup",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577651727,
+  "lat": 43.6408359,
+  "lon": 3.8577385,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "ayxoON7EZ0cySjd0bVMlCg",
+    "name": "Plan des 4 Seigneurs",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "La navette - 23 - 26-TAD; 115",
+    "shelter": "yes",
+    "towards": "La Navette : Université des Sciences et Lettres - 23 : Occitanie - 26-TAD : Occitanie",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577651731,
+  "lat": 43.6407833,
+  "lon": 3.8579115,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "cDnhyDUvkbOyGGaCWmoS0A",
+    "name": "Plan des 4 Seigneurs",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette - 23 - 26-TAD; 115",
+    "shelter": "yes",
+    "towards": "La Navette : Saint-Éloi - 23 : Prades - 26-TAD : Montferrier-Baiilarguet",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577666724,
+  "lat": 43.6384850,
+  "lon": 3.8568200,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Maurice Chauvet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "shelter": "no",
+    "towards": "Université des Sciences et Lettres",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577777301,
+  "lat": 43.6148777,
+  "lon": 3.9146194,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Lépine",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 577777446,
+  "lat": 43.6131710,
+  "lon": 3.9370709,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Albert Einstein",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 578052311,
+  "lat": 43.6402496,
+  "lon": 3.8107841,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "nEcrKKOz7oyXKBoZ2bcFsH",
+    "name": "Corse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-12-29",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578052320,
+  "lat": 43.6423832,
+  "lon": 3.8141192,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "9BB66GQ88KKLzHq1DzlBSf",
+    "name": "Jacques Prévert",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-12-29",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578052326,
+  "lat": 43.6422166,
+  "lon": 3.8140889,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "iDKG1o0UWzjhtW7nTFnDRE",
+    "name": "Jacques Prévert",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-12-29",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578052331,
+  "lat": 43.6419016,
+  "lon": 3.8183214,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place d'Italie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 578052336,
+  "lat": 43.6417607,
+  "lon": 3.8184004,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place d'Italie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 578052368,
+  "lat": 43.6371045,
+  "lon": 3.8125509,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mas de Bellevue",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 578052375,
+  "lat": 43.6364999,
+  "lon": 3.8127633,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mas de Bellevue",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 578052382,
+  "lat": 43.6389079,
+  "lon": 3.8112353,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Comté de Nice",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578052392,
+  "lat": 43.6386183,
+  "lon": 3.8117493,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Comté de Nice",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578052397,
+  "lat": 43.6406188,
+  "lon": 3.8113756,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "0u8AXAXIqDxNTxkwxrEeLR",
+    "name": "Corse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-12-28",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578052417,
+  "lat": 43.6377715,
+  "lon": 3.8146228,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre de Coubertin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 578055466,
+  "lat": 43.6408620,
+  "lon": 3.8189909,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carriéra",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578055468,
+  "lat": 43.6407582,
+  "lon": 3.8191873,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carriéra",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578055472,
+  "lat": 43.6380056,
+  "lon": 3.8187696,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre Cardenal",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578055475,
+  "lat": 43.6387045,
+  "lon": 3.8190700,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre Cardenal",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578087793,
+  "lat": 43.6368239,
+  "lon": 3.8188210,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Comté de Toulouse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578087795,
+  "lat": 43.6370215,
+  "lon": 3.8192923,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Comté de Toulouse",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578092457,
+  "lat": 43.6375117,
+  "lon": 3.8208168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raimbaud d'Orange",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578092464,
+  "lat": 43.6374012,
+  "lon": 3.8214051,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raimbaud d'Orange",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578103660,
+  "lat": 43.6332060,
+  "lon": 3.8226307,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gémeaux",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 578103663,
+  "lat": 43.6319762,
+  "lon": 3.8221941,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gémeaux",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 578189729,
+  "lat": 43.6147238,
+  "lon": 3.8311355,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marie Curie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu) - Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 642472022,
+  "lat": 43.6074686,
+  "lon": 3.8696366,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Palissade",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 1011261809,
+  "lat": 43.6351239,
+  "lon": 3.8479694,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Occitanie",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "ref": "6",
+    "shelter": "yes",
+    "towards": "Euromédecine",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042894066,
+  "lat": 43.6464398,
+  "lon": 3.8684620,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Agropolis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "La navette",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "towards": "Université des Sciences et Lettres/Saint-Éloi",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1045897039,
+  "lat": 43.6433883,
+  "lon": 3.8331496,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Caducée",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Grabels Le Pradas"
+  }
+},
+{
+  "type": "node",
+  "id": 1045897045,
+  "lat": 43.6393081,
+  "lon": 3.8391857,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "6F4GD-PAuRXxGS3kffdEag",
+    "name": "Croix de Lavit",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2018-10-17",
+    "tactile_paving": "no",
+    "towards": "Grabels Le Pradas"
+  }
+},
+{
+  "type": "node",
+  "id": 1045897059,
+  "lat": 43.6366953,
+  "lon": 3.8366470,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Galéra",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Grabels La Valsière"
+  }
+},
+{
+  "type": "node",
+  "id": 1045897064,
+  "lat": 43.6392308,
+  "lon": 3.8392999,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Croix de Lavit",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "Grabels La Valsière"
+  }
+},
+{
+  "type": "node",
+  "id": 1045897086,
+  "lat": 43.6367220,
+  "lon": 3.8365373,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Galéra",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Grabels Le Pradas"
+  }
+},
+{
+  "type": "node",
+  "id": 1045950709,
+  "lat": 43.6429486,
+  "lon": 3.8241243,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Avenue de Rome",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Grabels La Valsière"
+  }
+},
+{
+  "type": "node",
+  "id": 1100160549,
+  "lat": 43.6255737,
+  "lon": 3.8376982,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Bart",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "route_ref": "6;7",
+    "towards": "6: Pas du Loup - 7: La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023161,
+  "lat": 43.5791440,
+  "lon": 3.8625799,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jasse de Maurin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023163,
+  "lat": 43.5788643,
+  "lon": 3.8645467,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Patrice Lumumba",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023167,
+  "lat": 43.5784435,
+  "lon": 3.8667508,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ettore Bugatti",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023170,
+  "lat": 43.5789563,
+  "lon": 3.8644123,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Patrice Lumumba",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023171,
+  "lat": 43.5790885,
+  "lon": 3.8626873,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jasse de Maurin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1109023172,
+  "lat": 43.5785413,
+  "lon": 3.8666561,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ettore Bugatti",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1118786739,
+  "lat": 43.6375136,
+  "lon": 3.8145733,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre de Coubertin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1232295295,
+  "lat": 43.5963758,
+  "lon": 3.8369200,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paul Fajon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 1232295297,
+  "lat": 43.5929640,
+  "lon": 3.8230080,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Terral",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "towards": "Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 1232305976,
+  "lat": 43.5994724,
+  "lon": 3.8428293,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Georges Danton",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Cournonsec"
+  }
+},
+{
+  "type": "node",
+  "id": 1232306004,
+  "lat": 43.5997000,
+  "lon": 3.8433826,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Georges Danton",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 1420023166,
+  "lat": 43.6187985,
+  "lon": 3.8974262,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Garigliano",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "14",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "towards": "La Pompignane (les Lacs)"
+  }
+},
+{
+  "type": "node",
+  "id": 1420024241,
+  "lat": 43.6186685,
+  "lon": 3.8972383,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Garigliano",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "14",
+    "towards": "Léon Blum"
+  }
+},
+{
+  "type": "node",
+  "id": 1420041354,
+  "lat": 43.5940303,
+  "lon": 3.8529307,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Irissou",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "towards": "Lavandin"
+  }
+},
+{
+  "type": "node",
+  "id": 1420041361,
+  "lat": 43.5939814,
+  "lon": 3.8527610,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Irissou",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "towards": "Sabines"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044559,
+  "lat": 43.5991967,
+  "lon": 3.8559471,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Winston Churchill",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "towards": "Lavandin"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044560,
+  "lat": 43.5989719,
+  "lon": 3.8558885,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Winston Churchill",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs",
+    "towards": "Sabines"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044561,
+  "lat": 43.5960616,
+  "lon": 3.8560467,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vivaldi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs",
+    "towards": "Sabines"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044562,
+  "lat": 43.5949559,
+  "lon": 3.8540299,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Puccini",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "towards": "Sabines"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044563,
+  "lat": 43.5962425,
+  "lon": 3.8562555,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vivaldi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs",
+    "towards": "Lavandin"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044564,
+  "lat": 43.6003264,
+  "lon": 3.8517181,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lavandin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Sabines"
+  }
+},
+{
+  "type": "node",
+  "id": 1420044565,
+  "lat": 43.5949812,
+  "lon": 3.8541911,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Puccini",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "17",
+    "towards": "Lavandin"
+  }
+},
+{
+  "type": "node",
+  "id": 1420093866,
+  "lat": 43.6211824,
+  "lon": 3.9042479,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Laroque",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1420093867,
+  "lat": 43.6219031,
+  "lon": 3.9084781,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Apollo",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 1557333958,
+  "lat": 43.5963707,
+  "lon": 3.8373099,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paul Fajon",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Rondelet"
+  }
+},
+{
+  "type": "node",
+  "id": 1597541002,
+  "lat": 43.5988688,
+  "lon": 3.9204475,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée Pierre Mendès France",
+    "network": "Hérault Transport",
+    "operator": "Hérault Transport"
+  }
+},
+{
+  "type": "node",
+  "id": 1683411612,
+  "lat": 43.6278484,
+  "lon": 3.8222221,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bari",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 1683411618,
+  "lat": 43.6279352,
+  "lon": 3.8219182,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bari",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "towards": "La Martelle"
+  }
+},
+{
+  "type": "node",
+  "id": 1683450238,
+  "lat": 43.6242351,
+  "lon": 3.8348263,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Jean Monnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 1683450262,
+  "lat": 43.6262080,
+  "lon": 3.8236863,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Léonard de Vinci",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 1683450267,
+  "lat": 43.6242638,
+  "lon": 3.8351278,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Jean Monnet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "towards": "La Martelle/Les Bouisses"
+  }
+},
+{
+  "type": "node",
+  "id": 1683467405,
+  "lat": 43.6159392,
+  "lon": 3.8259921,
+  "tags": {
+    "bus": "yes",
+    "fixme": "localisation a préciser, est-ce que le bus 10 terminus à Celleneuve passe ici ou sur les voies de tram?",
+    "highway": "bus_stop",
+    "name": "Celleneuve",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Aiguelongue (Jussieu) - Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 1825179131,
+  "lat": 43.6221514,
+  "lon": 3.8638589,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre d'Adhémar",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "10",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 1825180298,
+  "lat": 43.6221348,
+  "lon": 3.8641074,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pierre d'Adhémar",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "10",
+    "towards": "Aiguelongue (Jussieu)"
+  }
+},
+{
+  "type": "node",
+  "id": 1825180710,
+  "lat": 43.6201140,
+  "lon": 3.8651347,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hippolyte Rech",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "10",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 1825181443,
+  "lat": 43.6197142,
+  "lon": 3.8655814,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hippolyte Rech",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "10",
+    "towards": "Aiguelongue"
+  }
+},
+{
+  "type": "node",
+  "id": 1825181940,
+  "lat": 43.6184031,
+  "lon": 3.8663896,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Charles Flahault",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "no",
+    "towards": "Celleneuve"
+  }
+},
+{
+  "type": "node",
+  "id": 1990892007,
+  "lat": 43.6453080,
+  "lon": 3.8427327,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "254IFQLccFYcXukVsz2Nrw",
+    "name": "Trifontaine",
+    "public_transport": "platform",
+    "route_ref": "608;114",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2048565825,
+  "lat": 43.6269158,
+  "lon": 3.8203564,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Oxford",
+    "network": "TaM",
+    "note": "emplacement exact?",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 2048565830,
+  "lat": 43.6270716,
+  "lon": 3.8207224,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Oxford",
+    "network": "TaM",
+    "note": "emplacement exact?",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 2048582356,
+  "lat": 43.6294837,
+  "lon": 3.8209464,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Uppsala",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 2601628784,
+  "lat": 43.6354774,
+  "lon": 3.8476559,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Occitanie",
+    "public_transport": "platform",
+    "route_ref": "114",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3134051241,
+  "lat": 43.6041142,
+  "lon": 3.9167623,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "network": "Hérault Transport",
+    "operator": "Hérault Transport",
+    "public_transport": "platform",
+    "route_ref": "606",
+    "shelter": "yes",
+    "source:location": "survey2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3211750779,
+  "lat": 43.6430059,
+  "lon": 3.8168630,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Collège Les Garrigues",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier"
+  }
+},
+{
+  "type": "node",
+  "id": 3662852625,
+  "lat": 43.6164213,
+  "lon": 3.9107589,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alfred Nobel",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3672584645,
+  "lat": 43.6268841,
+  "lon": 3.8690492,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Dunant",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3782324899,
+  "lat": 43.6208089,
+  "lon": 3.8175428,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stade de la Mosson",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "station",
+    "tram": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541797,
+  "lat": 43.6388573,
+  "lon": 3.8275196,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Euromédecine",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541798,
+  "lat": 43.6274882,
+  "lon": 3.8176701,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Halles de la Paillade",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541800,
+  "lat": 43.6278465,
+  "lon": 3.8175913,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Halles de la Paillade",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541801,
+  "lat": 43.6360988,
+  "lon": 3.8227726,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hauts de Massane",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541802,
+  "lat": 43.6361799,
+  "lon": 3.8226219,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hauts de Massane",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Pierre de Coubertin",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3782541805,
+  "lat": 43.6305902,
+  "lon": 3.8212520,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Paul",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Hôtel du Département",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3808763768,
+  "lat": 43.5942931,
+  "lon": 3.8850753,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Maréchal Leclerc",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215810,
+  "lat": 43.6449211,
+  "lon": 3.8623018,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Q-ovsmudv2YuOz1lgP7_Dg",
+    "name": "Lycée Frédéric Bazille",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "La Navette; TAD; 22; 23; 115",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215811,
+  "lat": 43.6447925,
+  "lon": 3.8622756,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "goUp7HNJ1LsddxClztk9zQ",
+    "name": "Lycée Frédéric Bazille",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "La Navette; TAD; 22; 23; 115",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215812,
+  "lat": 43.6456061,
+  "lon": 3.8623187,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Lycée Frédéric Bazille",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215813,
+  "lat": 43.6477800,
+  "lon": 3.8640284,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Vincent Auriol",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215814,
+  "lat": 43.6467265,
+  "lon": 3.8686070,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Agropolis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215815,
+  "lat": 43.6446593,
+  "lon": 3.8687014,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Campus Agropolis",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215816,
+  "lat": 43.6431646,
+  "lon": 3.8608658,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cairons",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215817,
+  "lat": 43.6428346,
+  "lon": 3.8609637,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cairons",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215818,
+  "lat": 43.6406193,
+  "lon": 3.8637022,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Montmaur",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215819,
+  "lat": 43.6409294,
+  "lon": 3.8636053,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Montmaur",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215820,
+  "lat": 43.6388399,
+  "lon": 3.8655107,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "CNRS",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215821,
+  "lat": 43.6383363,
+  "lon": 3.8657489,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "CNRS",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215822,
+  "lat": 43.6346967,
+  "lon": 3.8676724,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "image": "https://storage13.openstreetcam.org/files/photo/2020/7/14/lth/2757590_a6337_5f0ddeb060390.jpg",
+    "name": "Vert-Bois",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-07-14"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215823,
+  "lat": 43.6349249,
+  "lon": 3.8681616,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "mapillary": "Bmx8bb3PIA_8BJIWcM8IjA",
+    "name": "Vert-Bois",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-06-16",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4144215826,
+  "lat": 43.6270081,
+  "lon": 3.8667812,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "mapillary": "1Sc6lZJB6HgF1OxeDAXtCw",
+    "name": "Saint-Éloi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-06-16"
+  }
+},
+{
+  "type": "node",
+  "id": 4392150411,
+  "lat": 43.6085820,
+  "lon": 3.8465630,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "François Dezeuze",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "towards": "Hôtel du Département"
+  }
+},
+{
+  "type": "node",
+  "id": 4409290641,
+  "lat": 43.6050090,
+  "lon": 3.8745185,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Denis",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4476063213,
+  "lat": 43.6132973,
+  "lon": 3.8391663,
+  "tags": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "maxspeed": "50",
+    "name": "Tonnelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "ref": "La Ronde;7",
+    "route_ref": "La Ronde",
+    "shelter": "yes",
+    "towards": "Odysseum",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4881691522,
+  "lat": 43.5911366,
+  "lon": 3.8902487,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Garcia Lorca",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4881701021,
+  "lat": 43.5973865,
+  "lon": 3.8864517,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Frédéric Fabrège",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4881802621,
+  "lat": 43.5973223,
+  "lon": 3.8866850,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Frédéric Fabrège",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4979843829,
+  "lat": 43.6105136,
+  "lon": 3.8985894,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Painlevé",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5042323884,
+  "lat": 43.5899503,
+  "lon": 3.8905217,
+  "tags": {
+    "bench": "yes",
+    "check_date:shelter": "2022-01-03",
+    "highway": "bus_stop",
+    "name": "Garcia Lorca",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5416653286,
+  "lat": 43.5881034,
+  "lon": 3.8723031,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "6P4Yuf9Aicr6vFxvWcY3JJ",
+    "name": "Piscine Jean Vivès",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2021-02-20"
+  }
+},
+{
+  "type": "node",
+  "id": 5607837876,
+  "lat": 43.5914611,
+  "lon": 3.8483564,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yves du Manoir",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5607837877,
+  "lat": 43.5914072,
+  "lon": 3.8485857,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yves du Manoir",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5733702119,
+  "lat": 43.5969465,
+  "lon": 3.9224560,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cambacérès",
+    "network": "Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5733703721,
+  "lat": 43.5947533,
+  "lon": 3.9251804,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Montpellier Sud de France",
+    "public_transport": "platform",
+    "route_ref": "620",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5887075909,
+  "lat": 43.6042414,
+  "lon": 3.9173135,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "network": "Transp'Or",
+    "operator": "Pays de l'Or Agglomération",
+    "public_transport": "platform",
+    "route_ref": "L2",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6402617190,
+  "lat": 43.6165579,
+  "lon": 3.8193821,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mosson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6431758717,
+  "lat": 43.6346356,
+  "lon": 3.8483723,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-517uHS350gxqX8R-RcBaA",
+    "name": "Occitanie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "608",
+    "shelter": "yes",
+    "survey:date": "2019-04-30",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6456406926,
+  "lat": 43.6239753,
+  "lon": 3.8345065,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Jean Monnet",
+    "public_transport": "platform",
+    "route_ref": "115",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6456406928,
+  "lat": 43.6239117,
+  "lon": 3.8346892,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Jean Monnet",
+    "public_transport": "platform",
+    "route_ref": "115",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6552432871,
+  "lat": 43.6087193,
+  "lon": 3.8946262,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Place de l'Europe",
+    "name:ru": "Остановка в аэропорт",
+    "network": "liO",
+    "operator": "Hérault Transport",
+    "public_transport": "platform",
+    "route_ref": "620",
+    "shelter": "yes",
+    "source": "survey2019"
+  }
+},
+{
+  "type": "node",
+  "id": 6552930673,
+  "lat": 43.6081480,
+  "lon": 3.8942221,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de l'Europe",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref_name": "Place de l'Europe, Montpellier",
+    "route_ref": "51;9a",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6587281091,
+  "lat": 43.6368486,
+  "lon": 3.8599889,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Éloi",
+    "name:en": "Saint-Eloi"
+  }
+},
+{
+  "type": "node",
+  "id": 6691722786,
+  "lat": 43.5962493,
+  "lon": 3.9223459,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare Montpellier Sud de France",
+    "name:en": "Bus",
+    "name:ru": "Автобус в Place de France",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6767551404,
+  "lat": 43.6127180,
+  "lon": 3.9027858,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "François Couperin",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767551411,
+  "lat": 43.6139179,
+  "lon": 3.9061959,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pinville",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767551482,
+  "lat": 43.6063158,
+  "lon": 3.8979249,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pont Juvénal",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "knowledge 2019"
+  }
+},
+{
+  "type": "node",
+  "id": 6767551484,
+  "lat": 43.6180006,
+  "lon": 3.9126763,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Eurêka",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957870,
+  "lat": 43.6149763,
+  "lon": 3.9355822,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Saint-Étienne",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957872,
+  "lat": 43.6120689,
+  "lon": 3.9310150,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zénith",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957873,
+  "lat": 43.6066831,
+  "lon": 3.9229707,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Méliès",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957875,
+  "lat": 43.6056299,
+  "lon": 3.9033215,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Cazal",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey 2019",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957877,
+  "lat": 43.6056709,
+  "lon": 3.9032039,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Léon Cazal",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957880,
+  "lat": 43.6079824,
+  "lon": 3.9067816,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de la Lironde",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey 2019",
+    "start_date": "2019-09-02",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767957881,
+  "lat": 43.6080042,
+  "lon": 3.9066686,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de la Lironde",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey 2019",
+    "start_date": "2019-09-02",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959802,
+  "lat": 43.6092527,
+  "lon": 3.9121950,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évariste Galois",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959803,
+  "lat": 43.6114366,
+  "lon": 3.9123056,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guglielmo Marconi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959817,
+  "lat": 43.6118983,
+  "lon": 3.9124203,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guglielmo Marconi",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959820,
+  "lat": 43.6138864,
+  "lon": 3.9132759,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Volta Fizeau",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959821,
+  "lat": 43.6139315,
+  "lon": 3.9135894,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Volta Fizeau",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959841,
+  "lat": 43.6154685,
+  "lon": 3.9157526,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Louis Lépine",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2019",
+    "start_date": "2019-09-02",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6767959842,
+  "lat": 43.6179725,
+  "lon": 3.9168151,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Walhalla",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2019",
+    "start_date": "2019-09-02"
+  }
+},
+{
+  "type": "node",
+  "id": 6768667972,
+  "lat": 43.6191531,
+  "lon": 3.9034919,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Semard",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN Photo"
+  }
+},
+{
+  "type": "node",
+  "id": 6768667973,
+  "lat": 43.6193922,
+  "lon": 3.9004489,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Malraux",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6768667974,
+  "lat": 43.6183124,
+  "lon": 3.8981147,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marie Durand",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6768667979,
+  "lat": 43.6112113,
+  "lon": 3.8985771,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "QDbIRHpE3sbnITv2JQl79Q",
+    "name": "Paul Painlevé",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "https://www.mapillary.com/map/im/F6f_r43XynmPCZXHmECtAQ",
+    "survey:date": "2020-04-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6770530431,
+  "lat": 43.6027731,
+  "lon": 3.9005354,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Port Marianne",
+    "network": "TaM",
+    "note": "1 seule arrêt pour le bus 16, il fait le tour du rond-point et repart directement dans l'autre sens",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey 2019",
+    "start_date": "2019-09-02"
+  }
+},
+{
+  "type": "node",
+  "id": 6772523363,
+  "lat": 43.6190597,
+  "lon": 3.9137654,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Philippe Lamour",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2019",
+    "start_date": "2019-09-02",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6772523365,
+  "lat": 43.6190115,
+  "lon": 3.9139626,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Philippe Lamour",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2019",
+    "start_date": "2019-09-02"
+  }
+},
+{
+  "type": "node",
+  "id": 6776005187,
+  "lat": 43.6081020,
+  "lon": 3.8732359,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Guilhem - Courreau",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source:location": "survey2019",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6776005191,
+  "lat": 43.6154178,
+  "lon": 3.8735673,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Albert 1er - Cathédrale",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6776005193,
+  "lat": 43.6166075,
+  "lon": 3.8699867,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "CkIQzAvB11W5nzCAyDMsOg",
+    "name": "Auguste Broussonnet",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2019-06-16"
+  }
+},
+{
+  "type": "node",
+  "id": 6776005204,
+  "lat": 43.6172531,
+  "lon": 3.8618090,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Collège Camille Claudel",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6776005307,
+  "lat": 43.6064175,
+  "lon": 3.8765202,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312112,
+  "lat": 43.6050395,
+  "lon": 3.8353413,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sophie Germain",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312120,
+  "lat": 43.6073378,
+  "lon": 3.8265792,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Martelle",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312122,
+  "lat": 43.6097584,
+  "lon": 3.8277989,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grèzes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312123,
+  "lat": 43.6096404,
+  "lon": 3.8276554,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grèzes",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312124,
+  "lat": 43.6107073,
+  "lon": 3.8309250,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix des Rosiers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312125,
+  "lat": 43.6092654,
+  "lon": 3.8327463,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Eiffel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312126,
+  "lat": 43.6087614,
+  "lon": 3.8334513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Eiffel",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312127,
+  "lat": 43.6073910,
+  "lon": 3.8360420,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monsieur Teste",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312128,
+  "lat": 43.6069360,
+  "lon": 3.8363448,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monsieur Teste",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312133,
+  "lat": 43.6067175,
+  "lon": 3.8374747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martellière",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778312176,
+  "lat": 43.6218482,
+  "lon": 3.8350214,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "7AGDyLQUMVqnCI6exby2XQ",
+    "name": "Hôtel du Département",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-10-27"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385812,
+  "lat": 43.5947082,
+  "lon": 3.8884842,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucullus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385813,
+  "lat": 43.6009988,
+  "lon": 3.8856173,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hélios",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385814,
+  "lat": 43.6026986,
+  "lon": 3.8804960,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frédéric Bazille",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385815,
+  "lat": 43.6040946,
+  "lon": 3.8782017,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare Saint-Roch (Pont de Sète)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385816,
+  "lat": 43.6037433,
+  "lon": 3.8792038,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare Saint-Roch (Pont de Sète)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385817,
+  "lat": 43.6031494,
+  "lon": 3.8819604,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "xXwqQj2ZkNGEtO4wvK5SjQ",
+    "name": "Henri René",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-09-08",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385818,
+  "lat": 43.6032735,
+  "lon": 3.8838024,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "P7YVCXSfCwjWSa7cUu2ySw",
+    "name": "Place Carnot",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-09-08",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385819,
+  "lat": 43.6013494,
+  "lon": 3.8847633,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Mion",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385820,
+  "lat": 43.5988883,
+  "lon": 3.8897922,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambéry",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385821,
+  "lat": 43.5983091,
+  "lon": 3.8909421,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège des Aiguerelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385822,
+  "lat": 43.5975656,
+  "lon": 3.8921662,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège des Aiguerelles",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385823,
+  "lat": 43.5968469,
+  "lon": 3.8924894,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mirailhet",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778385824,
+  "lat": 43.5936422,
+  "lon": 3.8891856,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité de l'Arme",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6779350383,
+  "lat": 43.6120369,
+  "lon": 3.8671976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paladilhe",
+    "network": "TaM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6781135474,
+  "lat": 43.5909325,
+  "lon": 3.8899843,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Garcia Lorca",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6781459357,
+  "lat": 43.6167458,
+  "lon": 3.8192879,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mosson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6783328888,
+  "lat": 43.6040093,
+  "lon": 3.9163244,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "Navette Gare",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6787697484,
+  "lat": 43.5929052,
+  "lon": 3.8292040,
+  "tags": {
+    "fixme": "position exacte à déterminer",
+    "highway": "bus_stop",
+    "name": "Le Terral",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs"
+  }
+},
+{
+  "type": "node",
+  "id": 6788673157,
+  "lat": 43.5810112,
+  "lon": 3.8693323,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Garosud (Jeune Parque)",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6788673180,
+  "lat": 43.5985733,
+  "lon": 3.8352826,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Bouisses",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6788673181,
+  "lat": 43.5987257,
+  "lon": 3.8354060,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Bouisses",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6788699488,
+  "lat": 43.5911171,
+  "lon": 3.8546660,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Grand M",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs"
+  }
+},
+{
+  "type": "node",
+  "id": 6788699510,
+  "lat": 43.5965711,
+  "lon": 3.8753656,
+  "tags": {
+    "description": "Arrêt de régulation",
+    "highway": "bus_stop",
+    "name": "Saint-Cléophas"
+  }
+},
+{
+  "type": "node",
+  "id": 6789296285,
+  "lat": 43.6391250,
+  "lon": 3.8289265,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Euromédecine",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789296286,
+  "lat": 43.6392985,
+  "lon": 3.8289087,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "wmcYbXWilR2klmHJNmBIDw",
+    "name": "Euromédecine",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-05-05"
+  }
+},
+{
+  "type": "node",
+  "id": 6789296291,
+  "lat": 43.6349655,
+  "lon": 3.8330364,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Malbosc",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789296292,
+  "lat": 43.6346986,
+  "lon": 3.8337423,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Malbosc",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980561,
+  "lat": 43.6072178,
+  "lon": 3.8704700,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980562,
+  "lat": 43.6081026,
+  "lon": 3.8685132,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "rBWmvAxFf92t45nIzhyGJo",
+    "name": "Plan Cabanes",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-12-03"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980565,
+  "lat": 43.6061646,
+  "lon": 3.8658797,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anterrieu",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "http://data.montpellier3m.fr/dataset/offre-de-transport-tam-en-gtfs"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980574,
+  "lat": 43.6047418,
+  "lon": 3.8591482,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Gély",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "towards": "Gare Saint Roch"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980576,
+  "lat": 43.6004995,
+  "lon": 3.8846823,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Cité Mion",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980578,
+  "lat": 43.5984653,
+  "lon": 3.8855633,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Iris",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980579,
+  "lat": 43.5990238,
+  "lon": 3.8854312,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Iris",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980580,
+  "lat": 43.5948113,
+  "lon": 3.8886156,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucullus",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980581,
+  "lat": 43.5932740,
+  "lon": 3.8896309,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité de l'Arme",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980583,
+  "lat": 43.5867920,
+  "lon": 3.8894633,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "mapillary": "p8ZGDATn947DQ2IH9RcFAg",
+    "name": "Mas Argelliers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-04-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6789980584,
+  "lat": 43.5865451,
+  "lon": 3.8890666,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Mas Argelliers",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988485,
+  "lat": 43.5846095,
+  "lon": 3.8883357,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "pU_e5dbFSd9P_ZyDesmsUg",
+    "name": "Saporta",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2020-04-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988486,
+  "lat": 43.5836297,
+  "lon": 3.8875308,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saporta",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988488,
+  "lat": 43.5838309,
+  "lon": 3.8861020,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marché Gare",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988489,
+  "lat": 43.5838492,
+  "lon": 3.8857433,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marché Gare",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988490,
+  "lat": 43.5847050,
+  "lon": 3.8816888,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "NeT0iPGBGballlNZH1G6gM",
+    "name": "Industrie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2021-03-27"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988491,
+  "lat": 43.5845101,
+  "lon": 3.8816839,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "ORwlwH6zFLBMj2fYCjD2C4",
+    "name": "Industrie",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2021-03-27"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988492,
+  "lat": 43.5821451,
+  "lon": 3.8799036,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mas Saint-Pierre",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988493,
+  "lat": 43.5817671,
+  "lon": 3.8804058,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mas Saint-Pierre",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6789988494,
+  "lat": 43.5791734,
+  "lon": 3.8778550,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "J9kNGFKqFNe1WzzJau6QyA",
+    "name": "Tournezy",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2020-04-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6806611380,
+  "lat": 43.6040601,
+  "lon": 3.9165351,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "public_transport": "platform",
+    "route_ref": "52",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6815145454,
+  "lat": 43.6082908,
+  "lon": 3.8942496,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de l'Europe",
+    "network": "TaM",
+    "operator": "Transports de l'agglomération de Montpellier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "9b",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6815145465,
+  "lat": 43.5838403,
+  "lon": 3.8599864,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sabines",
+    "network": "liO",
+    "note": "Le paneau de l'arrêt n'est pas vraiment ici, il est plus haut vers le passage piéton, mais c'est ici qu'il y a un abris bus et que les bus s'arettent",
+    "operator": "Hérault Transport",
+    "public_transport": "platform",
+    "route_ref": "603;604",
+    "shelter": "yes",
+    "source": "survey2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6839937452,
+  "lat": 43.6172335,
+  "lon": 3.8618047,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 8396998674,
+  "lat": 43.6429828,
+  "lon": 3.8453626,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "cgzC7XqXL8CjZ_ywZunQcw",
+    "name": "Route de Ganges",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8396998675,
+  "lat": 43.6428280,
+  "lon": 3.8450690,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Ganges",
+    "network": "TaM",
+    "operator": "TaM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8726779248,
+  "lat": 43.5837598,
+  "lon": 3.8600011,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sabines",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9004506918,
+  "lat": 43.6343221,
+  "lon": 3.8650765,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École de Chimie",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9004506919,
+  "lat": 43.6344221,
+  "lon": 3.8657168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École de Chimie",
+    "network": "TaM",
+    "network:wikidata": "Q3537922",
+    "network:wikipedia": "fr:Transports de l'agglomération de Montpellier",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

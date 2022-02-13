@@ -1,0 +1,826 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 30152753,
+  "nodes": [
+    15435283,
+    2209978432,
+    15435284,
+    843998446,
+    15435288
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "maxspeed": "30",
+    "name": "Rue François Mitterrand",
+    "oneway": "yes",
+    "surface": "sett"
+  }
+},
+{
+  "type": "way",
+  "id": 40120162,
+  "nodes": [
+    4959095009,
+    482831110,
+    4959095029,
+    1697771082,
+    482831111,
+    482831112,
+    482831113,
+    4133502120,
+    2129371021,
+    3801777143
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Rue Lucien Nadaire",
+    "sidewalk": "both"
+  }
+},
+{
+  "type": "way",
+  "id": 40725519,
+  "nodes": [
+    482831465,
+    2818682788,
+    2794248634,
+    2794248641,
+    2855549390,
+    6192666980,
+    6772436876,
+    4831500434,
+    2855483984,
+    2818682792,
+    482831466,
+    6046022800,
+    6046022793,
+    15032334
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "foot": "yes",
+    "highway": "secondary",
+    "name": "Avenue Georges Gosnat",
+    "old_ref": "D 50",
+    "ref": "D 154",
+    "sidewalk": "right",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 43382103,
+  "nodes": [
+    270912401,
+    854895477,
+    1805518087,
+    5303308034,
+    6635102445,
+    843423019,
+    843423005,
+    6635088560,
+    15032368,
+    546422195,
+    6635091212,
+    843308205,
+    6635095940,
+    270912262,
+    6635092636,
+    5470884936,
+    3385983861
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "30",
+    "name": "Avenue Maurice Thorez",
+    "oneway": "yes",
+    "ref": "D 156a",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 180362606,
+  "nodes": [
+    1908091326,
+    2435750766,
+    1908091337,
+    8603050144,
+    7066278911
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary_link",
+    "name": "Rue Molière",
+    "old_ref": "D 50",
+    "oneway": "yes",
+    "ref": "D 154A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 212743171,
+  "nodes": [
+    1804976726,
+    1278526974,
+    843308215,
+    4296622391,
+    1804976721,
+    1804967854,
+    5286035979,
+    1804988359
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:left": "lane",
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue Hoche",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 277315479,
+  "nodes": [
+    482831515,
+    1704563299,
+    3505489720,
+    2818572769
+  ],
+  "tags": {
+    "access": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Avenue Georges Gosnat",
+    "oneway": "yes",
+    "ref": "D 50",
+    "sidewalk": "left",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 331527771,
+  "nodes": [
+    15032360,
+    843430816,
+    1805518084,
+    15032352,
+    8532176617,
+    5530098228,
+    270912401
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "30",
+    "name": "Avenue Maurice Thorez",
+    "oneway": "yes",
+    "ref": "D 154a",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 376016989,
+  "nodes": [
+    4397231709,
+    15032330,
+    3874634855,
+    9196081749,
+    4397231708
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Avenue Danielle Casanova",
+    "ref": "D 224",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 376016990,
+  "nodes": [
+    3793550892,
+    5319456604,
+    5323355596,
+    4397231710
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Avenue Danielle Casanova",
+    "note": "pistes cyclables separees de la chaussee",
+    "ref": "D 224",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 464268111,
+  "nodes": [
+    855475350,
+    6339837804,
+    6339837802,
+    2818682790,
+    366861927
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue Danielle Casanova",
+    "oneway": "yes",
+    "ref": "D 224",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 464268112,
+  "nodes": [
+    366861927,
+    4594031063,
+    6339837803,
+    855475350
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Avenue Danielle Casanova",
+    "oneway": "yes",
+    "ref": "D 224",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600105748,
+  "tags": {
+    "admin_level": "8",
+    "authority_address": "94200 Ivry-sur-Seine, Rue Hoche, 80",
+    "boundary": "administrative",
+    "name": "Ivry-sur-Seine",
+    "name:ru": "Иври-сюр-Сен",
+    "population": "63748",
+    "population:date": "2019",
+    "postal_code": "94200",
+    "ref:INSEE": "94041",
+    "short_name": "Ivry-sur-S.",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q193877",
+    "wikipedia": "fr:Ivry-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 15032368,
+  "lat": 48.8144798,
+  "lon": 2.3787630
+},
+{
+  "type": "node",
+  "id": 843308215,
+  "lat": 48.8121715,
+  "lon": 2.3736277
+},
+{
+  "type": "node",
+  "id": 843423005,
+  "lat": 48.8143456,
+  "lon": 2.3789418
+},
+{
+  "type": "node",
+  "id": 1278526974,
+  "lat": 48.8121932,
+  "lon": 2.3735348
+},
+{
+  "type": "node",
+  "id": 1804967854,
+  "lat": 48.8118576,
+  "lon": 2.3749940
+},
+{
+  "type": "node",
+  "id": 1804976721,
+  "lat": 48.8119697,
+  "lon": 2.3744809
+},
+{
+  "type": "node",
+  "id": 1804976726,
+  "lat": 48.8124477,
+  "lon": 2.3724896
+},
+{
+  "type": "node",
+  "id": 1804988359,
+  "lat": 48.8117636,
+  "lon": 2.3754066
+},
+{
+  "type": "node",
+  "id": 4296622391,
+  "lat": 48.8120103,
+  "lon": 2.3743103
+},
+{
+  "type": "node",
+  "id": 5286035979,
+  "lat": 48.8117766,
+  "lon": 2.3753495
+},
+{
+  "type": "node",
+  "id": 6635088560,
+  "lat": 48.8143936,
+  "lon": 2.3788779
+},
+{
+  "type": "node",
+  "id": 15032330,
+  "lat": 48.8134785,
+  "lon": 2.3851068
+},
+{
+  "type": "node",
+  "id": 15032352,
+  "lat": 48.8128422,
+  "lon": 2.3809875
+},
+{
+  "type": "node",
+  "id": 15032360,
+  "lat": 48.8122953,
+  "lon": 2.3814466
+},
+{
+  "type": "node",
+  "id": 270912401,
+  "lat": 48.8131577,
+  "lon": 2.3805959
+},
+{
+  "type": "node",
+  "id": 482831515,
+  "lat": 48.8110459,
+  "lon": 2.3835929
+},
+{
+  "type": "node",
+  "id": 843423019,
+  "lat": 48.8140241,
+  "lon": 2.3794654
+},
+{
+  "type": "node",
+  "id": 843430816,
+  "lat": 48.8126402,
+  "lon": 2.3811920
+},
+{
+  "type": "node",
+  "id": 854895477,
+  "lat": 48.8135559,
+  "lon": 2.3800668
+},
+{
+  "type": "node",
+  "id": 1704563299,
+  "lat": 48.8111032,
+  "lon": 2.3836821
+},
+{
+  "type": "node",
+  "id": 1805518084,
+  "lat": 48.8127523,
+  "lon": 2.3810992
+},
+{
+  "type": "node",
+  "id": 1805518087,
+  "lat": 48.8137924,
+  "lon": 2.3797864
+},
+{
+  "type": "node",
+  "id": 2818572769,
+  "lat": 48.8112530,
+  "lon": 2.3839798
+},
+{
+  "type": "node",
+  "id": 3505489720,
+  "lat": 48.8112225,
+  "lon": 2.3839174
+},
+{
+  "type": "node",
+  "id": 3874634855,
+  "lat": 48.8134380,
+  "lon": 2.3851534
+},
+{
+  "type": "node",
+  "id": 4397231709,
+  "lat": 48.8134983,
+  "lon": 2.3850876
+},
+{
+  "type": "node",
+  "id": 5303308034,
+  "lat": 48.8138833,
+  "lon": 2.3796672
+},
+{
+  "type": "node",
+  "id": 5530098228,
+  "lat": 48.8130677,
+  "lon": 2.3807088
+},
+{
+  "type": "node",
+  "id": 6635102445,
+  "lat": 48.8139863,
+  "lon": 2.3795186
+},
+{
+  "type": "node",
+  "id": 8532176617,
+  "lat": 48.8129020,
+  "lon": 2.3809136
+},
+{
+  "type": "node",
+  "id": 270912262,
+  "lat": 48.8159840,
+  "lon": 2.3771413
+},
+{
+  "type": "node",
+  "id": 546422195,
+  "lat": 48.8150095,
+  "lon": 2.3782145
+},
+{
+  "type": "node",
+  "id": 843308205,
+  "lat": 48.8158663,
+  "lon": 2.3773367
+},
+{
+  "type": "node",
+  "id": 3385983861,
+  "lat": 48.8163663,
+  "lon": 2.3767892
+},
+{
+  "type": "node",
+  "id": 5470884936,
+  "lat": 48.8163180,
+  "lon": 2.3768364
+},
+{
+  "type": "node",
+  "id": 6635091212,
+  "lat": 48.8150547,
+  "lon": 2.3781682
+},
+{
+  "type": "node",
+  "id": 6635092636,
+  "lat": 48.8160438,
+  "lon": 2.3770866
+},
+{
+  "type": "node",
+  "id": 6635095940,
+  "lat": 48.8159332,
+  "lon": 2.3772530
+},
+{
+  "type": "node",
+  "id": 3793550892,
+  "lat": 48.8156375,
+  "lon": 2.3831590
+},
+{
+  "type": "node",
+  "id": 4397231710,
+  "lat": 48.8152203,
+  "lon": 2.3835373
+},
+{
+  "type": "node",
+  "id": 5319456604,
+  "lat": 48.8155180,
+  "lon": 2.3832609
+},
+{
+  "type": "node",
+  "id": 5323355596,
+  "lat": 48.8154489,
+  "lon": 2.3833199
+},
+{
+  "type": "node",
+  "id": 482831110,
+  "lat": 48.8019097,
+  "lon": 2.3937898
+},
+{
+  "type": "node",
+  "id": 482831111,
+  "lat": 48.8023732,
+  "lon": 2.3939357
+},
+{
+  "type": "node",
+  "id": 482831112,
+  "lat": 48.8026729,
+  "lon": 2.3939357
+},
+{
+  "type": "node",
+  "id": 482831113,
+  "lat": 48.8030064,
+  "lon": 2.3937898
+},
+{
+  "type": "node",
+  "id": 1697771082,
+  "lat": 48.8022719,
+  "lon": 2.3939038
+},
+{
+  "type": "node",
+  "id": 2129371021,
+  "lat": 48.8035119,
+  "lon": 2.3933777
+},
+{
+  "type": "node",
+  "id": 3801777143,
+  "lat": 48.8035712,
+  "lon": 2.3933731
+},
+{
+  "type": "node",
+  "id": 4133502120,
+  "lat": 48.8032605,
+  "lon": 2.3935826
+},
+{
+  "type": "node",
+  "id": 4959095009,
+  "lat": 48.8015331,
+  "lon": 2.3936371
+},
+{
+  "type": "node",
+  "id": 4959095029,
+  "lat": 48.8020535,
+  "lon": 2.3938350
+},
+{
+  "type": "node",
+  "id": 15032334,
+  "lat": 48.8136216,
+  "lon": 2.3890628
+},
+{
+  "type": "node",
+  "id": 366861927,
+  "lat": 48.8124284,
+  "lon": 2.3863097
+},
+{
+  "type": "node",
+  "id": 482831465,
+  "lat": 48.8123637,
+  "lon": 2.3863821
+},
+{
+  "type": "node",
+  "id": 482831466,
+  "lat": 48.8133225,
+  "lon": 2.3884215
+},
+{
+  "type": "node",
+  "id": 855475350,
+  "lat": 48.8126920,
+  "lon": 2.3860283
+},
+{
+  "type": "node",
+  "id": 2794248634,
+  "lat": 48.8124992,
+  "lon": 2.3866817
+},
+{
+  "type": "node",
+  "id": 2794248641,
+  "lat": 48.8126857,
+  "lon": 2.3870929
+},
+{
+  "type": "node",
+  "id": 2818682788,
+  "lat": 48.8124339,
+  "lon": 2.3865399
+},
+{
+  "type": "node",
+  "id": 2818682790,
+  "lat": 48.8124944,
+  "lon": 2.3861923
+},
+{
+  "type": "node",
+  "id": 2818682792,
+  "lat": 48.8132625,
+  "lon": 2.3882963
+},
+{
+  "type": "node",
+  "id": 2855483984,
+  "lat": 48.8131424,
+  "lon": 2.3880458
+},
+{
+  "type": "node",
+  "id": 2855549390,
+  "lat": 48.8127464,
+  "lon": 2.3872196
+},
+{
+  "type": "node",
+  "id": 4397231708,
+  "lat": 48.8128452,
+  "lon": 2.3858360
+},
+{
+  "type": "node",
+  "id": 4594031063,
+  "lat": 48.8125310,
+  "lon": 2.3862730
+},
+{
+  "type": "node",
+  "id": 4831500434,
+  "lat": 48.8128881,
+  "lon": 2.3875158
+},
+{
+  "type": "node",
+  "id": 6046022793,
+  "lat": 48.8135607,
+  "lon": 2.3889322
+},
+{
+  "type": "node",
+  "id": 6046022800,
+  "lat": 48.8133804,
+  "lon": 2.3885456
+},
+{
+  "type": "node",
+  "id": 6192666980,
+  "lat": 48.8128002,
+  "lon": 2.3873320
+},
+{
+  "type": "node",
+  "id": 6339837802,
+  "lat": 48.8125259,
+  "lon": 2.3861591
+},
+{
+  "type": "node",
+  "id": 6339837803,
+  "lat": 48.8126727,
+  "lon": 2.3860911
+},
+{
+  "type": "node",
+  "id": 6339837804,
+  "lat": 48.8126444,
+  "lon": 2.3860341
+},
+{
+  "type": "node",
+  "id": 6772436876,
+  "lat": 48.8128124,
+  "lon": 2.3873574
+},
+{
+  "type": "node",
+  "id": 9196081749,
+  "lat": 48.8130096,
+  "lon": 2.3856467
+},
+{
+  "type": "node",
+  "id": 1908091326,
+  "lat": 48.8157516,
+  "lon": 2.3930807
+},
+{
+  "type": "node",
+  "id": 1908091337,
+  "lat": 48.8156456,
+  "lon": 2.3930298
+},
+{
+  "type": "node",
+  "id": 2435750766,
+  "lat": 48.8157033,
+  "lon": 2.3930594
+},
+{
+  "type": "node",
+  "id": 7066278911,
+  "lat": 48.8155798,
+  "lon": 2.3929494
+},
+{
+  "type": "node",
+  "id": 8603050144,
+  "lat": 48.8156078,
+  "lon": 2.3929976
+},
+{
+  "type": "node",
+  "id": 15435283,
+  "lat": 48.8244564,
+  "lon": 2.3869718
+},
+{
+  "type": "node",
+  "id": 15435284,
+  "lat": 48.8241853,
+  "lon": 2.3872539
+},
+{
+  "type": "node",
+  "id": 15435288,
+  "lat": 48.8239949,
+  "lon": 2.3875741
+},
+{
+  "type": "node",
+  "id": 843998446,
+  "lat": 48.8240149,
+  "lon": 2.3874438
+},
+{
+  "type": "node",
+  "id": 2209978432,
+  "lat": 48.8243672,
+  "lon": 2.3870627
+}
+
+  ]
+}

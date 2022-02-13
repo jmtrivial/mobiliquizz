@@ -1,0 +1,294 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 160747151,
+  "nodes": [
+    190925848,
+    4275441307,
+    268333253,
+    4275441302,
+    5645768149,
+    5645768145,
+    268333282,
+    5383307101,
+    5645768146,
+    5262476041,
+    271427648,
+    5643959974,
+    5427966049,
+    5645768148,
+    5386887629,
+    271427472,
+    190925863
+  ],
+  "tags": {
+    "busway:left": "lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Avenue Gabriel Péri",
+    "ref": "D 111",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 197510649,
+  "nodes": [
+    190925863,
+    5643959983,
+    5645768147,
+    2889523046,
+    633516130,
+    5643959982,
+    265063477,
+    190925875
+  ],
+  "tags": {
+    "busway:left": "lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Avenue Gabriel Péri",
+    "ref": "D 111",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 649183956,
+  "nodes": [
+    190925875,
+    7227098281,
+    6092309200
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Avenue Gabriel Péri",
+    "ref": "D 111",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 990237278,
+  "nodes": [
+    1491701705,
+    9150708659
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Boulevard Jean Jaurès",
+    "oneway": "yes",
+    "ref": "D 410",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600087002,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Ouen-sur-Seine",
+    "old_name": "Saint-Ouen",
+    "population": "50697",
+    "population:date": "2019",
+    "postal_code": "93400",
+    "ref:INSEE": "93070",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q208889",
+    "wikipedia": "fr:Saint-Ouen-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 190925863,
+  "lat": 48.9084065,
+  "lon": 2.3326397
+},
+{
+  "type": "node",
+  "id": 190925875,
+  "lat": 48.9065820,
+  "lon": 2.3320077
+},
+{
+  "type": "node",
+  "id": 265063477,
+  "lat": 48.9066969,
+  "lon": 2.3320548
+},
+{
+  "type": "node",
+  "id": 271427472,
+  "lat": 48.9085528,
+  "lon": 2.3326896
+},
+{
+  "type": "node",
+  "id": 633516130,
+  "lat": 48.9078424,
+  "lon": 2.3324494
+},
+{
+  "type": "node",
+  "id": 2889523046,
+  "lat": 48.9081266,
+  "lon": 2.3325479
+},
+{
+  "type": "node",
+  "id": 5386887629,
+  "lat": 48.9087089,
+  "lon": 2.3327415
+},
+{
+  "type": "node",
+  "id": 5427966049,
+  "lat": 48.9090223,
+  "lon": 2.3328457
+},
+{
+  "type": "node",
+  "id": 5643959974,
+  "lat": 48.9095619,
+  "lon": 2.3330241
+},
+{
+  "type": "node",
+  "id": 5643959982,
+  "lat": 48.9078117,
+  "lon": 2.3324409
+},
+{
+  "type": "node",
+  "id": 5643959983,
+  "lat": 48.9082577,
+  "lon": 2.3325898
+},
+{
+  "type": "node",
+  "id": 5645768147,
+  "lat": 48.9082331,
+  "lon": 2.3325828
+},
+{
+  "type": "node",
+  "id": 5645768148,
+  "lat": 48.9087307,
+  "lon": 2.3327482
+},
+{
+  "type": "node",
+  "id": 6092309200,
+  "lat": 48.9063672,
+  "lon": 2.3319452
+},
+{
+  "type": "node",
+  "id": 7227098281,
+  "lat": 48.9065317,
+  "lon": 2.3319931
+},
+{
+  "type": "node",
+  "id": 190925848,
+  "lat": 48.9116178,
+  "lon": 2.3337423
+},
+{
+  "type": "node",
+  "id": 268333253,
+  "lat": 48.9115011,
+  "lon": 2.3336998
+},
+{
+  "type": "node",
+  "id": 268333282,
+  "lat": 48.9108002,
+  "lon": 2.3334477
+},
+{
+  "type": "node",
+  "id": 271427648,
+  "lat": 48.9097653,
+  "lon": 2.3330914
+},
+{
+  "type": "node",
+  "id": 4275441302,
+  "lat": 48.9113495,
+  "lon": 2.3336454
+},
+{
+  "type": "node",
+  "id": 4275441307,
+  "lat": 48.9115525,
+  "lon": 2.3337182
+},
+{
+  "type": "node",
+  "id": 5262476041,
+  "lat": 48.9103902,
+  "lon": 2.3333142
+},
+{
+  "type": "node",
+  "id": 5383307101,
+  "lat": 48.9106367,
+  "lon": 2.3333971
+},
+{
+  "type": "node",
+  "id": 5645768145,
+  "lat": 48.9108579,
+  "lon": 2.3334692
+},
+{
+  "type": "node",
+  "id": 5645768146,
+  "lat": 48.9106019,
+  "lon": 2.3333854
+},
+{
+  "type": "node",
+  "id": 5645768149,
+  "lat": 48.9113233,
+  "lon": 2.3336359
+},
+{
+  "type": "node",
+  "id": 1491701705,
+  "lat": 48.9133928,
+  "lon": 2.3355582
+},
+{
+  "type": "node",
+  "id": 9150708659,
+  "lat": 48.9131743,
+  "lon": 2.3352263
+}
+
+  ]
+}

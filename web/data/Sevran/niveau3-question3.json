@@ -1,0 +1,1600 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1519360822,
+  "lat": 48.9494467,
+  "lon": 2.5202847,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gros Saule",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18835",
+    "ref:FR:STIF:stop_id": "StopPoint:7:10043;StopPoint:88:45",
+    "route_ref": "1;15;45;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 1778338272,
+  "lat": 48.9357374,
+  "lon": 2.5153238,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy - Charcot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427436",
+    "ref:FR:STIF:stop_id": "StopPoint:88:1794",
+    "route_ref": "100;100C",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1778338283,
+  "lat": 48.9391104,
+  "lon": 2.5127245,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route d'Aulnay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19314",
+    "ref:FR:STIF:stop_id": "StopPoint:70:19780",
+    "route_ref": "605;618",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1912115535,
+  "lat": 48.9270439,
+  "lon": 2.5200500,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freinville - Westinghouse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19355",
+    "ref:FR:STIF:stop_id": "StopPoint:70:21879",
+    "route_ref": "Express 100;613",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1912115536,
+  "lat": 48.9272321,
+  "lon": 2.5195986,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Freinville - Westinghouse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19328",
+    "ref:FR:STIF:stop_id": "StopPoint:70:20672",
+    "route_ref": "Express 100;613",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1919240595,
+  "lat": 48.9421396,
+  "lon": 2.5203425,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin de Savigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26477",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682093",
+    "route_ref": "147",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1919240596,
+  "lat": 48.9424997,
+  "lon": 2.5201093,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin de Savigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26481",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682066",
+    "route_ref": "147",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1925802495,
+  "lat": 48.9321256,
+  "lon": 2.5379352,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Ménard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26476",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682097",
+    "route_ref": "N41;147",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2124497612,
+  "lat": 48.9383307,
+  "lon": 2.5291868,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaston Bussière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19401",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2124497634,
+  "lat": 48.9400271,
+  "lon": 2.5189913,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Primevères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425007",
+    "ref:FR:STIF:stop_id": "StopPoint:70:4287;StopPoint:88:444",
+    "route_ref": "43;607;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 2330762615,
+  "lat": 48.9358188,
+  "lon": 2.5342918,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran Livry RER",
+    "note": "temporairement plus desservi pour cause de travaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19400",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682059",
+    "route_ref": "147;605;N140",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2330762636,
+  "lat": 48.9354523,
+  "lon": 2.5341791,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Sevran-Livry Sud",
+    "note": "temporairement plus desservi pour cause de travaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19264;462405"
+  }
+},
+{
+  "type": "node",
+  "id": 2330785487,
+  "lat": 48.9342428,
+  "lon": 2.5401644,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Lyautey",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19090",
+    "route_ref": "623",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2330785494,
+  "lat": 48.9343362,
+  "lon": 2.5401054,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Lyautey",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19352",
+    "route_ref": "623",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2779311342,
+  "lat": 48.9270185,
+  "lon": 2.5188342,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri IV",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19482",
+    "ref:FR:STIF:stop_id": "StopPoint:70:27322",
+    "route_ref": "613"
+  }
+},
+{
+  "type": "node",
+  "id": 2834767318,
+  "lat": 48.9358955,
+  "lon": 2.5154104,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy - Charcot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427435",
+    "ref:FR:STIF:stop_id": "StopPoint:88:1795",
+    "route_ref": "100;100C",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2860401859,
+  "lat": 48.9271589,
+  "lon": 2.5183955,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri IV",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19408",
+    "ref:FR:STIF:stop_id": "StopPoint:70:24103",
+    "route_ref": "613"
+  }
+},
+{
+  "type": "node",
+  "id": 2868460468,
+  "lat": 48.9466909,
+  "lon": 2.5238723,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran - Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24627",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682070",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2868460477,
+  "lat": 48.9474682,
+  "lon": 2.5239809,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474234",
+    "ref:FR:STIF:stop_id": "StopPoint:7:10947",
+    "route_ref": "44;15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2868460485,
+  "lat": 48.9467001,
+  "lon": 2.5232283,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran - Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22605",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682090",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3466368693,
+  "lat": 48.9479969,
+  "lon": 2.5357757,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran - Avenue Ronsard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22604",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682087",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3466368694,
+  "lat": 48.9480147,
+  "lon": 2.5358470,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran – Avenue Ronsard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426662",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6686067",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4321302762,
+  "lat": 48.9434643,
+  "lon": 2.5464875,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boieldieu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19426",
+    "ref:FR:STIF:stop_id": "StopPoint:70:24761",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 4321751215,
+  "lat": 48.9364722,
+  "lon": 2.5213290,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19519",
+    "ref:FR:STIF:stop_id": "StopPoint:70:28668"
+  }
+},
+{
+  "type": "node",
+  "id": 4323243157,
+  "lat": 48.9299256,
+  "lon": 2.5249283,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée du Jura",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4323583538,
+  "lat": 48.9454612,
+  "lon": 2.5467799,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charpentier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18807",
+    "ref:FR:STIF:stop_id": "StopPoint:70:30535;StopPoint:70:1068",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 4323852391,
+  "lat": 48.9482776,
+  "lon": 2.5320443,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Luther King",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19052",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4325210344,
+  "lat": 48.9450314,
+  "lon": 2.5496074,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Breton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19583",
+    "ref:FR:STIF:stop_id": "StopPoint:70:21896;StopPoint:70:30897",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 4325550964,
+  "lat": 48.9482098,
+  "lon": 2.5300462,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Butte Montceleux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26480",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682072",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4325550965,
+  "lat": 48.9483983,
+  "lon": 2.5300878,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Butte Montceleux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19738",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682089",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326765999,
+  "lat": 48.9335496,
+  "lon": 2.5109932,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Degas",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15108",
+    "ref:FR:STIF:stop_id": "StopPoint:70:749",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 4328336194,
+  "lat": 48.9455830,
+  "lon": 2.5330868,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montceleux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19487"
+  }
+},
+{
+  "type": "node",
+  "id": 4332625258,
+  "lat": 48.9339203,
+  "lon": 2.5359797,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Livry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18882",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5272631034,
+  "lat": 48.9345050,
+  "lon": 2.5348811,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran - Livry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18843",
+    "route_ref": "147;605;N41",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5463719689,
+  "lat": 48.9383603,
+  "lon": 2.5134134,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route d'Aulnay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19384",
+    "ref:FR:STIF:stop_id": "StopPoint:70:23256"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066174,
+  "lat": 48.9396846,
+  "lon": 2.5138870,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Paix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40672",
+    "ref:FR:STIF:stop_id": "StopPoint:70:32195;StopPoint:88:443",
+    "route_ref": "607;Roissy Sud;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066176,
+  "lat": 48.9421100,
+  "lon": 2.5325960,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19093"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066178,
+  "lat": 48.9381048,
+  "lon": 2.5313087,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mère Teresa",
+    "public_transport": "platform",
+    "ref:FR:STIF": "38092",
+    "ref:FR:STIF:stop_id": "StopPoint:70:30510;StopPoint:88:441",
+    "route_ref": "607;618;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066345,
+  "lat": 48.9399804,
+  "lon": 2.5196339,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Primevères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425007;40568"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066348,
+  "lat": 48.9460990,
+  "lon": 2.5331160,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montceleux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19593"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066349,
+  "lat": 48.9397287,
+  "lon": 2.5314252,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Marché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19305"
+  }
+},
+{
+  "type": "node",
+  "id": 5537066935,
+  "lat": 48.9373440,
+  "lon": 2.5298942,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaston Bussière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19048",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682095",
+    "route_ref": "147;605;607;618;SL;Roissy Sud",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5537126553,
+  "lat": 48.9428730,
+  "lon": 2.5326810,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19586"
+  }
+},
+{
+  "type": "node",
+  "id": 5537128821,
+  "lat": 48.9398421,
+  "lon": 2.5151685,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Paix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19170",
+    "ref:FR:STIF:stop_id": "StopPoint:70:14342;StopPoint:88:442",
+    "route_ref": "607;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 5537128822,
+  "lat": 48.9396986,
+  "lon": 2.5312772,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Marché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19206",
+    "ref:FR:STIF:stop_id": "StopPoint:70:15750",
+    "route_ref": "607;618"
+  }
+},
+{
+  "type": "node",
+  "id": 5537128823,
+  "lat": 48.9482747,
+  "lon": 2.5317648,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Luther King",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18844",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5547928805,
+  "lat": 48.9469742,
+  "lon": 2.5237823,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424255",
+    "ref:FR:STIF:stop_id": "StopPoint:7:10456",
+    "route_ref": "1",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5586538853,
+  "lat": 48.9449322,
+  "lon": 2.5169431,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Savigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40907",
+    "ref:FR:STIF:stop_id": "StopPoint:70:13053;StopPoint:88:8",
+    "route_ref": "610;618;SL;Roissy Sud"
+  }
+},
+{
+  "type": "node",
+  "id": 5586538854,
+  "lat": 48.9454470,
+  "lon": 2.5194700,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Évariste Galois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19335;18915",
+    "ref:FR:STIF:stop_id": "StopPoint:70:21059;StopPoint:88:431",
+    "route_ref": "610;618;SL;Roissy Sud"
+  }
+},
+{
+  "type": "node",
+  "id": 5586538855,
+  "lat": 48.9467338,
+  "lon": 2.5233646,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19030",
+    "ref:FR:STIF:stop_id": "StopPoint:70:8948",
+    "route_ref": "610;618"
+  }
+},
+{
+  "type": "node",
+  "id": 5587426933,
+  "lat": 48.9250240,
+  "lon": 2.5220440,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léo Lagrange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427632",
+    "ref:FR:STIF:stop_id": "StopPoint:70:6705",
+    "route_ref": "613"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136434,
+  "lat": 48.9334394,
+  "lon": 2.5106791,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Degas",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19053",
+    "ref:FR:STIF:stop_id": "StopPoint:70:9635",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136436,
+  "lat": 48.9364915,
+  "lon": 2.5141113,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital René Muret",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19591",
+    "ref:FR:STIF:stop_id": "StopPoint:70:31105",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136437,
+  "lat": 48.9369041,
+  "lon": 2.5317859,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sportiss",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19537",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136438,
+  "lat": 48.9363328,
+  "lon": 2.5338705,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Sevran Livry Nord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15187",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136439,
+  "lat": 48.9385641,
+  "lon": 2.5345260,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19259",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136440,
+  "lat": 48.9393340,
+  "lon": 2.5374970,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Georges Brassens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18993",
+    "ref:FR:STIF:stop_id": "StopPoint:70:7592",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136441,
+  "lat": 48.9415308,
+  "lon": 2.5431181,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vivaldi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19203",
+    "ref:FR:STIF:stop_id": "StopPoint:70:15694",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136442,
+  "lat": 48.9435613,
+  "lon": 2.5465772,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boieldieu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19426",
+    "ref:FR:STIF:stop_id": "StopPoint:70:2928",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136449,
+  "lat": 48.9442705,
+  "lon": 2.5478676,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général De Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19239",
+    "ref:FR:STIF:stop_id": "StopPoint:70:17081",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136452,
+  "lat": 48.9448889,
+  "lon": 2.5513461,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guy Mollet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427695",
+    "ref:FR:STIF:stop_id": "StopPoint:70:24568;StopPoint:70:19300",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136453,
+  "lat": 48.9439573,
+  "lon": 2.5526686,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Decour",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18875",
+    "ref:FR:STIF:stop_id": "StopPoint:70:23888;StopPoint:70:3495",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136454,
+  "lat": 48.9429390,
+  "lon": 2.5521770,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Apollinaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19463",
+    "ref:FR:STIF:stop_id": "StopPoint:70:4025;StopPoint:70:26309",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136455,
+  "lat": 48.9435432,
+  "lon": 2.5486460,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lulli",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18931",
+    "ref:FR:STIF:stop_id": "StopPoint:70:5812;StopPoint:70:26018",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136457,
+  "lat": 48.9413567,
+  "lon": 2.5429652,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vivaldi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19467",
+    "ref:FR:STIF:stop_id": "StopPoint:70:26675",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136458,
+  "lat": 48.9393780,
+  "lon": 2.5380430,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Georges Brassens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15112",
+    "ref:FR:STIF:stop_id": "StopPoint:70:898",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136459,
+  "lat": 48.9385610,
+  "lon": 2.5348752,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19164",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136460,
+  "lat": 48.9362724,
+  "lon": 2.5339944,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Sevran Livry Nord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19102",
+    "route_ref": "618",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136461,
+  "lat": 48.9366915,
+  "lon": 2.5315189,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sportiss",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19517",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136462,
+  "lat": 48.9403234,
+  "lon": 2.5235379,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18890"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136463,
+  "lat": 48.9467192,
+  "lon": 2.5244476,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Sevran Beaudottes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18831",
+    "ref:FR:STIF:stop_id": "StopPoint:70:2040",
+    "route_ref": "610;618",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136464,
+  "lat": 48.9454453,
+  "lon": 2.5197372,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Évariste Galois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19335;18915",
+    "ref:FR:STIF:stop_id": "StopPoint:70:4806;StopPoint:88:430",
+    "route_ref": "610;618;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136465,
+  "lat": 48.9448184,
+  "lon": 2.5181482,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Savigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "423529",
+    "ref:FR:STIF:stop_id": "StopPoint:70:5792;StopPoint:88:7",
+    "route_ref": "610;618;SL"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136466,
+  "lat": 48.9400347,
+  "lon": 2.5127609,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route d'Aulnay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18947",
+    "ref:FR:STIF:stop_id": "StopPoint:70:5893",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136467,
+  "lat": 48.9363757,
+  "lon": 2.5139072,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital René Muret",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18861",
+    "ref:FR:STIF:stop_id": "StopPoint:70:3000",
+    "route_ref": "618",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613136468,
+  "lat": 48.9350910,
+  "lon": 2.5132965,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "11 Novembre 1918",
+    "network": "Libéo",
+    "network:wikidata": "Q3237969",
+    "network:wikipedia": "fr:Transports en commun de Brive-la-Gaillarde",
+    "operator": "Transdev",
+    "operator:wikidata": "Q442637",
+    "operator:wikipedia": "en:Transdev S.A.",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18804",
+    "ref:FR:STIF:stop_id": "StopPoint:70:998",
+    "route_ref": "618",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5613142983,
+  "lat": 48.9349028,
+  "lon": 2.5128578,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "11 Novembre 1918",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19571",
+    "ref:FR:STIF:stop_id": "StopPoint:70:30316",
+    "route_ref": "618"
+  }
+},
+{
+  "type": "node",
+  "id": 5613159604,
+  "lat": 48.9466918,
+  "lon": 2.5240544,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Sevran Beaudottes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5697091254,
+  "lat": 48.9396060,
+  "lon": 2.5247290,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Sevran",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18895",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5697102771,
+  "lat": 48.9396430,
+  "lon": 2.5241700,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Sevran",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19348",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682094",
+    "route_ref": "SL;607;147;Roissy Sud",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6305556430,
+  "lat": 48.9329803,
+  "lon": 2.5371225,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Ménard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7955",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682057",
+    "route_ref": "N41;147",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6305556440,
+  "lat": 48.9351917,
+  "lon": 2.5335363,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran - Livry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "461837;19400",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6369181236,
+  "lat": 48.9441773,
+  "lon": 2.5176058,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Curie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26479",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682092",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56857659"
+  }
+},
+{
+  "type": "node",
+  "id": 6369181245,
+  "lat": 48.9466780,
+  "lon": 2.5361750,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de Quartier Edmond Michelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426663",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6683005",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6369181247,
+  "lat": 48.9454629,
+  "lon": 2.5197818,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Galois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26471",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682068",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6369181249,
+  "lat": 48.9368322,
+  "lon": 2.5311908,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mère Teresa",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26478",
+    "route_ref": "147",
+    "temporary": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6369200283,
+  "lat": 48.9454626,
+  "lon": 2.5195059,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Galois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18915",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682091",
+    "route_ref": "147",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6801509626,
+  "lat": 48.9295634,
+  "lon": 2.5242376,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 6801509627,
+  "lat": 48.9312392,
+  "lon": 2.5287263,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Pivot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19039",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6832810562,
+  "lat": 48.9312829,
+  "lon": 2.5285768,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Pivot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18930"
+  }
+},
+{
+  "type": "node",
+  "id": 6832810569,
+  "lat": 48.9321405,
+  "lon": 2.5341305,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jules Ferry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19253",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7041609213,
+  "lat": 48.9471499,
+  "lon": 2.5240157,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424255",
+    "route_ref": "100"
+  }
+},
+{
+  "type": "node",
+  "id": 7041609214,
+  "lat": 48.9474327,
+  "lon": 2.5237334,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474234",
+    "route_ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 7041609215,
+  "lat": 48.9472583,
+  "lon": 2.5237575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "note": "Ligne 44 direction Aulnay-sous-Bois",
+    "public_transport": "platform",
+    "route_ref": "44"
+  }
+},
+{
+  "type": "node",
+  "id": 7041609216,
+  "lat": 48.9471134,
+  "lon": 2.5237662,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19120;19175"
+  }
+},
+{
+  "type": "node",
+  "id": 9424965960,
+  "lat": 48.9478358,
+  "lon": 2.5239034,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "note": "Ligne 45 direction Le Blanc-Mesnil Gare",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474234",
+    "route_ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 9424965961,
+  "lat": 48.9480470,
+  "lon": 2.5238836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474234",
+    "route_ref": "15"
+  }
+},
+{
+  "type": "node",
+  "id": 9424965962,
+  "lat": 48.9478585,
+  "lon": 2.5237273,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sevran-Beaudottes RER",
+    "note": "Ligne 15 direction Tremblay - Vert-Galant - Gare Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474234",
+    "route_ref": "15"
+  }
+}
+
+  ]
+}

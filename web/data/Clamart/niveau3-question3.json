@@ -1,0 +1,2937 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 546916031,
+  "lat": 48.7759290,
+  "lon": 2.2384023,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Boursidière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28637",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121845",
+    "route_ref": "179",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 842561890,
+  "lat": 48.7858341,
+  "lon": 2.2459826,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41980",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682585",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1295466282,
+  "lat": 48.7908523,
+  "lon": 2.2527797,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien - Hôpital Antoine Béclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37040",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275620",
+    "route_ref": "290;N62",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1295466788,
+  "lat": 48.7904680,
+  "lon": 2.2524547,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien - Hôpital Antoine Béclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28600",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275621",
+    "route_ref": "290;N62",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1428296058,
+  "lat": 48.8075667,
+  "lon": 2.2521561,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Sainte-Émilie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29831",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458825",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1428296062,
+  "lat": 48.8016167,
+  "lon": 2.2662185,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Marché de Clamart",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27715",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458760",
+    "route_ref": "162;189",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1428296078,
+  "lat": 48.8069818,
+  "lon": 2.2539435,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallée du Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29832",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458824",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1619528950,
+  "lat": 48.8018606,
+  "lon": 2.2727233,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Corby",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8038",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458820",
+    "route_ref": "162",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1788836269,
+  "lat": 48.7943462,
+  "lon": 2.2663619,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12406",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4687364",
+    "route_ref": "189;190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1833632934,
+  "lat": 48.7898817,
+  "lon": 2.2532537,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien - Hôpital Antoine Beclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23787",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682625",
+    "route_ref": "190;CLAMIBU",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1927649778,
+  "lat": 48.8124353,
+  "lon": 2.2724557,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "vQ7YA58DSTZccEx-em3WbQ",
+    "name": "Hébert - Gare",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36160",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2018-05-23",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2000420513,
+  "lat": 48.8142166,
+  "lon": 2.2576840,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Percy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28589",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4473379",
+    "route_ref": "290;169",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2363454707,
+  "lat": 48.8077017,
+  "lon": 2.2497450,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Peupliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37176",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458755",
+    "route_ref": "162;169",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56869350"
+  }
+},
+{
+  "type": "node",
+  "id": 2363457517,
+  "lat": 48.8097499,
+  "lon": 2.2532271,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "_Q63_WT9rx3252t_Um99gg",
+    "name": "Rivoli",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25454",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4473418",
+    "route_ref": "169",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-09-07",
+    "wheelchair": "yes",
+    "wikidata": "Q56869409"
+  }
+},
+{
+  "type": "node",
+  "id": 2363472757,
+  "lat": 48.8145277,
+  "lon": 2.2577827,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Percy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8096",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4473380",
+    "route_ref": "290;169",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2363472760,
+  "lat": 48.8108317,
+  "lon": 2.2582200,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28591",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161453",
+    "route_ref": "190;290",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2437571505,
+  "lat": 48.8032270,
+  "lon": 2.2572983,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Garde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19770",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275622",
+    "route_ref": "290;N62",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2437571512,
+  "lat": 48.8033532,
+  "lon": 2.2566822,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Garde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28153",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619163",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2440372753,
+  "lat": 48.7845961,
+  "lon": 2.2425888,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413132",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2628245393,
+  "lat": 48.8114034,
+  "lon": 2.2764641,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hébert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37065",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5067618",
+    "route_ref": "191;394",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2628949264,
+  "lat": 48.8128350,
+  "lon": 2.2734341,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hébert - Gare",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36159",
+    "route_ref": "189;N62",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3214276607,
+  "lat": 48.7909010,
+  "lon": 2.2591554,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien - Coquelicots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23786",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4687368",
+    "route_ref": "189;190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3214276608,
+  "lat": 48.7909261,
+  "lon": 2.2585129,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien - Coquelicots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41708",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3529315328,
+  "lat": 48.7848236,
+  "lon": 2.2371374,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "STJ41cPWtWm2w8nsy9SSkQ",
+    "name": "Georges Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "42027;42026",
+    "route_ref": "289",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-07-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3529315329,
+  "lat": 48.7850030,
+  "lon": 2.2374950,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Georges Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "42026;37209",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121426",
+    "route_ref": "189;N66;N61",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3529315330,
+  "lat": 48.7847981,
+  "lon": 2.2368095,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "STJ41cPWtWm2w8nsy9SSkQ",
+    "name": "Georges Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "42027",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7827079",
+    "route_ref": "N66;389",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-07-12",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3548530079,
+  "lat": 48.7835992,
+  "lon": 2.2316915,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Georges Millandy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2163",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121428",
+    "route_ref": "N66",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405530,
+  "lat": 48.7855561,
+  "lon": 2.2407931,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île-de-France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41975",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4687373",
+    "route_ref": "189;190;390;N66",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405531,
+  "lat": 48.7868096,
+  "lon": 2.2455633,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Intercommunal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22620",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4687372",
+    "route_ref": "189;190;390;N66",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405532,
+  "lat": 48.7902698,
+  "lon": 2.2636547,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Soleil Levant",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424906",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121448",
+    "route_ref": "195;N66",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405533,
+  "lat": 48.7867271,
+  "lon": 2.2448277,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Intercommunal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22619",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3681977",
+    "route_ref": "190;390;N66",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405535,
+  "lat": 48.7867151,
+  "lon": 2.2537091,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Hôpital Antoine Béclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41841",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275618",
+    "route_ref": "390;N62;N66",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3552405537,
+  "lat": 48.7854580,
+  "lon": 2.2408353,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île-de-France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20519",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121446",
+    "route_ref": "189;390;N66",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3559447427,
+  "lat": 48.7798327,
+  "lon": 2.2406894,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "g-6DfrYUjsr9gKDWRGEj2w",
+    "name": "Pavé Blanc",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41967",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5091969",
+    "route_ref": "290",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 3559447428,
+  "lat": 48.7779653,
+  "lon": 2.2396362,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Réaumur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2370",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5091970",
+    "route_ref": "290",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3561939747,
+  "lat": 48.7777807,
+  "lon": 2.2295772,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Petit Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37003",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121819",
+    "route_ref": "15;179;190;379",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3561939748,
+  "lat": 48.7772852,
+  "lon": 2.2313085,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Petit Clamart - RD906",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426243",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682632",
+    "route_ref": "179;190;379",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3567236727,
+  "lat": 48.7869540,
+  "lon": 2.2375160,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Georges Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41839",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5067403",
+    "route_ref": "390",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3567236728,
+  "lat": 48.7851913,
+  "lon": 2.2376742,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Georges Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37031",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5067384",
+    "route_ref": "390",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3567281606,
+  "lat": 48.7879235,
+  "lon": 2.2586452,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Cavée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2288",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275616",
+    "route_ref": "195;390;N62",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3567281607,
+  "lat": 48.7873773,
+  "lon": 2.2585607,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Cavée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41840",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275617",
+    "route_ref": "390;N62",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3586517763,
+  "lat": 48.7932026,
+  "lon": 2.2723733,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Division Leclerc – Fosse Bazin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41819",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478233",
+    "route_ref": "195;394",
+    "wikidata": "Q56870034"
+  }
+},
+{
+  "type": "node",
+  "id": 3587517110,
+  "lat": 48.7775575,
+  "lon": 2.2324696,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Clamart - RD906",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41977",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682581",
+    "route_ref": "190;475",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587517111,
+  "lat": 48.7772974,
+  "lon": 2.2313396,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Petit Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426243",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6550",
+    "route_ref": "475",
+    "shelter": "yes",
+    "source": "survey 05/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560012,
+  "lat": 48.7981949,
+  "lon": 2.2675856,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plessis - Piquet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12405",
+    "route_ref": "189;190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560013,
+  "lat": 48.7836449,
+  "lon": 2.2460039,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mail de la Plaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41978",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560019,
+  "lat": 48.7786657,
+  "lon": 2.2348444,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Debry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20517",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682631",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560020,
+  "lat": 48.7802960,
+  "lon": 2.2386707,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pavé Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21049",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6501",
+    "route_ref": "190;475",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560021,
+  "lat": 48.8012717,
+  "lon": 2.2653687,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché de Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28155",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682620",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560023,
+  "lat": 48.7805172,
+  "lon": 2.2398937,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pavé Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21039",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6484",
+    "route_ref": "190;475",
+    "shelter": "no",
+    "source": "survey 05/2018",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587560024,
+  "lat": 48.7837163,
+  "lon": 2.2461895,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mail de la Plaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41983",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682584",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587567673,
+  "lat": 48.8020181,
+  "lon": 2.2591259,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poste",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8178",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682596",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587567674,
+  "lat": 48.8017783,
+  "lon": 2.2592996,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poste",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8179",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682617",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587567678,
+  "lat": 48.8007575,
+  "lon": 2.2609526,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Hunebelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8171",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682595",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587572125,
+  "lat": 48.8032884,
+  "lon": 2.2574602,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Garde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37217",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682597",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3587615404,
+  "lat": 48.8092084,
+  "lon": 2.2586676,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "D'Estienne d'Orves",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20515",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682599",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587615408,
+  "lat": 48.8079936,
+  "lon": 2.2587143,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "D'Estienne d'Orves",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20514",
+    "route_ref": "190",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3587833491,
+  "lat": 48.8018199,
+  "lon": 2.2664723,
+  "tags": {
+    "STIF:zone": "3",
+    "alt_name": "Marché de Clamart",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29008",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458821",
+    "route_ref": "162;189",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587833492,
+  "lat": 48.8102372,
+  "lon": 2.2694721,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lazare - Carnot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24343",
+    "route_ref": "N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587834993,
+  "lat": 48.8063047,
+  "lon": 2.2695338,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Louvrier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37804",
+    "route_ref": "189;N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587834994,
+  "lat": 48.8043575,
+  "lon": 2.2661549,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8166",
+    "route_ref": "N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587834995,
+  "lat": 48.8039561,
+  "lon": 2.2671085,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8167",
+    "route_ref": "189;N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587834996,
+  "lat": 48.8066010,
+  "lon": 2.2675121,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Louvrier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8165",
+    "route_ref": "N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587834997,
+  "lat": 48.8095899,
+  "lon": 2.2720242,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "WvPUM4FBMviIAAYoKG4tiA",
+    "name": "Lazare - Carnot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36161",
+    "route_ref": "189;N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2018-05-27",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3587835259,
+  "lat": 48.8145319,
+  "lon": 2.2780077,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Montholon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27734",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275636",
+    "route_ref": "N62;189;N62",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3603873379,
+  "lat": 48.7900440,
+  "lon": 2.2706036,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Pergaud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "417833",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5976709",
+    "route_ref": "195",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870898"
+  }
+},
+{
+  "type": "node",
+  "id": 3603873380,
+  "lat": 48.7865196,
+  "lon": 2.2592263,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue Gabrielle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "417837",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5976711",
+    "route_ref": "195",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870504"
+  }
+},
+{
+  "type": "node",
+  "id": 3603873381,
+  "lat": 48.7882532,
+  "lon": 2.2633864,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Midi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "417835",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5976710",
+    "route_ref": "195",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870875"
+  }
+},
+{
+  "type": "node",
+  "id": 3647178279,
+  "lat": 48.8016876,
+  "lon": 2.2719749,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Corby",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27714",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619165",
+    "route_ref": "162;191;N62",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326132538,
+  "lat": 48.8082878,
+  "lon": 2.2744273,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lazare - Carnot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28154",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619150",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4330593460,
+  "lat": 48.8135250,
+  "lon": 2.2702637,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury - Tricots",
+    "public_transport": "platform",
+    "route_ref": "394"
+  }
+},
+{
+  "type": "node",
+  "id": 4331134177,
+  "lat": 48.7928266,
+  "lon": 2.2586916,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase du Jardin Parisien",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4622150454,
+  "lat": 48.8050068,
+  "lon": 2.2732808,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marie Doffe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28156",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619152",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4622150465,
+  "lat": 48.8022827,
+  "lon": 2.2711712,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voie Verte",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28158",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619154",
+    "route_ref": "191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5322379284,
+  "lat": 48.7837837,
+  "lon": 2.2477025,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mail de la Plaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21040",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6485",
+    "route_ref": "475"
+  }
+},
+{
+  "type": "node",
+  "id": 5322379296,
+  "lat": 48.7868052,
+  "lon": 2.2551843,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Hôpital Antoine Béclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28590",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275619",
+    "route_ref": "390;475;N62;N66",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5322379305,
+  "lat": 48.7789523,
+  "lon": 2.2359026,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Debry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21038",
+    "route_ref": "190;475",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339636,
+  "lat": 48.7917261,
+  "lon": 2.2633101,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soleil Levant",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37210",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682623",
+    "route_ref": "579;190",
+    "shelter": "yes",
+    "source": "survey 05/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339637,
+  "lat": 48.7938112,
+  "lon": 2.2660863,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "jcTBXV2E4MIIIWUs8uaP5g",
+    "name": "Cimetière de Clamart",
+    "pole": "no",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8170",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909061",
+    "route_ref": "CLAMIBU",
+    "shelter": "no",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "survey:date": "2018-05-21"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339638,
+  "lat": 48.8002553,
+  "lon": 2.2608210,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Hunebelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8169",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682618",
+    "route_ref": "579;191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339639,
+  "lat": 48.8000686,
+  "lon": 2.2635791,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8168",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682594",
+    "route_ref": "579;191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339640,
+  "lat": 48.8015327,
+  "lon": 2.2653983,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché de Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37007",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682593",
+    "route_ref": "579;191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339641,
+  "lat": 48.7917969,
+  "lon": 2.2637956,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soleil Levant",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23149",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909063",
+    "route_ref": "189;579",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339642,
+  "lat": 48.8030426,
+  "lon": 2.2625201,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5r7q7nDM_BlrhmCYPgSWDQ",
+    "name": "Trosy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8039",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458822",
+    "route_ref": "579;N62",
+    "shelter": "yes",
+    "survey:date": "2017-09-09"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339643,
+  "lat": 48.8030920,
+  "lon": 2.2622975,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trosy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26834",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458759",
+    "route_ref": "579;162;N62",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339644,
+  "lat": 48.8065702,
+  "lon": 2.2549681,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "TPlMHV4RMH3oui41dVvWBw",
+    "name": "Vallée du Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26833",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458757",
+    "route_ref": "162;Clamibus",
+    "shelter": "yes",
+    "survey:date": "2017-09-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339645,
+  "lat": 48.8135530,
+  "lon": 2.2693920,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury - Tricots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37916",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909097",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339646,
+  "lat": 48.8112576,
+  "lon": 2.2666539,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Tricots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37893",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909096",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wikidata": "Q56857785"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339647,
+  "lat": 48.8084400,
+  "lon": 2.2570700,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Georget",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37908",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909095",
+    "route_ref": "579",
+    "wikidata": "Q56860108"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339648,
+  "lat": 48.7993060,
+  "lon": 2.2663760,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37885",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909094",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wikidata": "Q56860086"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339649,
+  "lat": 48.8000251,
+  "lon": 2.2686683,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Corby",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37909",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909093",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339650,
+  "lat": 48.7992343,
+  "lon": 2.2710396,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Padé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37891",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909092",
+    "route_ref": "579",
+    "wikidata": "Q56859371"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339651,
+  "lat": 48.7984120,
+  "lon": 2.2751660,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5csMAoZgtMyy-JkpjRfHGw",
+    "name": "Savoie",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37913",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909091",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07",
+    "wikidata": "Q56857783"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339653,
+  "lat": 48.7890549,
+  "lon": 2.2513528,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eugène Beaujard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28611",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121447",
+    "route_ref": "189;190;390;579;N66",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339654,
+  "lat": 48.7865076,
+  "lon": 2.2456525,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Intercommunal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37806",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909088",
+    "route_ref": "579",
+    "shelter": "no",
+    "source": "survey 05/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339655,
+  "lat": 48.7840740,
+  "lon": 2.2444990,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Aime Cesaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37884",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909087",
+    "route_ref": "579",
+    "wikidata": "Q56869276"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339656,
+  "lat": 48.7821470,
+  "lon": 2.2397280,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bretagne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37882",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909086",
+    "route_ref": "579",
+    "wikidata": "Q56869275"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339657,
+  "lat": 48.7814922,
+  "lon": 2.2376815,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "XehsqL_CrWn0MUpwZ1QORg",
+    "name": "Voltaire",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37899",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909085",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07",
+    "wikidata": "Q56869273"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339658,
+  "lat": 48.7799640,
+  "lon": 2.2304030,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37890",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909084",
+    "route_ref": "579",
+    "wikidata": "Q56869272"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339659,
+  "lat": 48.7778548,
+  "lon": 2.2303138,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de Quartier - André Charre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37895",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909082",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339660,
+  "lat": 48.7788330,
+  "lon": 2.2326360,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "1tVGPoZ6C_UiydU4YWobJw",
+    "name": "Gaîté",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37902",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909081",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07",
+    "wikidata": "Q56869271"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339661,
+  "lat": 48.7806695,
+  "lon": 2.2328452,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "9lP6VWGWmpKY7KZTHwzjGw",
+    "name": "Maison de Quartier du Petit Clamart",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37883",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909080",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339663,
+  "lat": 48.7822500,
+  "lon": 2.2341790,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37892",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909078",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339664,
+  "lat": 48.7825920,
+  "lon": 2.2342060,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37911",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909077",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339665,
+  "lat": 48.7834940,
+  "lon": 2.2385560,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5DK0rodG7T6UUpCrCzoBEg",
+    "name": "Crèche de Normandie",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40523",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909076",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07",
+    "wikidata": "Q56860104"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339666,
+  "lat": 48.7845365,
+  "lon": 2.2415580,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Q02eKLOe-cbNl4Qq2tLAGQ",
+    "name": "Île de France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37805",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909075",
+    "route_ref": "579",
+    "shelter": "yes",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339667,
+  "lat": 48.7845275,
+  "lon": 2.2440881,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "j4lmDu8-pxxZrGElEb45kQ",
+    "name": "Cité de la Plaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37851",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909074",
+    "route_ref": "579",
+    "shelter": "yes",
+    "survey:date": "2017-09-07",
+    "wikidata": "Q56860083"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339668,
+  "lat": 48.7851419,
+  "lon": 2.2460849,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "w5uCXvpqrOczDCgqCTzmuA",
+    "name": "Parc Auzelle",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37880",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909073",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339669,
+  "lat": 48.7852122,
+  "lon": 2.2460067,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Auzelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37907",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909072",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339670,
+  "lat": 48.7875936,
+  "lon": 2.2498472,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "eoI3UKNTli8Y72kwS-zCbA",
+    "name": "Champagne",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37896",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909071",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339671,
+  "lat": 48.7873230,
+  "lon": 2.2496620,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "TbwPdw-_R7EU-Zp4-Zp-Jg",
+    "name": "Champagne",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37901",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909070",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339672,
+  "lat": 48.7902586,
+  "lon": 2.2552502,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin Parisien-Hôpital Antoine Beclère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26801",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682588",
+    "route_ref": "189;190;579",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339674,
+  "lat": 48.7922284,
+  "lon": 2.2556016,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37898",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909067",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339675,
+  "lat": 48.7922611,
+  "lon": 2.2555882,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "FItHtrYp9wLLIeFO29m4sA",
+    "name": "Rue du Parc",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24566",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909066",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339676,
+  "lat": 48.7927568,
+  "lon": 2.2589279,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase du Jardin Parisien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24568",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909065",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339677,
+  "lat": 48.7922285,
+  "lon": 2.2591086,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase du Jardin Parisien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24567",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909064",
+    "route_ref": "579"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339678,
+  "lat": 48.7944050,
+  "lon": 2.2686841,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "1ieg9Fyrvz8bSwX2md4qSA",
+    "name": "Cimetière Communal",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37889",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909060",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-06"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339679,
+  "lat": 48.7945096,
+  "lon": 2.2689184,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "iGzl2yu-04W9NTl0iPj8FA",
+    "name": "Cimetière Communal",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37906",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909059",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-06"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339680,
+  "lat": 48.7954387,
+  "lon": 2.2722134,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Monod",
+    "note": "bus ClamiBus",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37914",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909058",
+    "route_ref": "579",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339681,
+  "lat": 48.7967120,
+  "lon": 2.2742430,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gymnase du Fort",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37894",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909057",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wikidata": "Q56869269"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339682,
+  "lat": 48.7980702,
+  "lon": 2.2700886,
+  "tags": {
+    "STIF:zone": "3",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rue de Fontenay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37903",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909056",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wikidata": "Q56857776"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339683,
+  "lat": 48.7993610,
+  "lon": 2.2689340,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Corby - Fontenay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37910",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909055",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wikidata": "Q56860077"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339684,
+  "lat": 48.7982501,
+  "lon": 2.2678880,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plessis–Piquet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37001",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909054",
+    "route_ref": "189;579",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339685,
+  "lat": 48.7991911,
+  "lon": 2.2652434,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Bièvres",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37912",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909053",
+    "route_ref": "579",
+    "shelter": "no",
+    "source": "survey 01/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339686,
+  "lat": 48.7996030,
+  "lon": 2.2630151,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37915",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682619",
+    "route_ref": "579;191",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339687,
+  "lat": 48.8004076,
+  "lon": 2.2615473,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Hunebelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37808",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909051",
+    "route_ref": "579",
+    "shelter": "no",
+    "source": "survey 01/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339688,
+  "lat": 48.8054930,
+  "lon": 2.2585707,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "MYwbvNW1MvUvmXvlZqckHA",
+    "name": "Marquis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26802",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458823",
+    "route_ref": "579;162",
+    "shelter": "yes",
+    "survey:date": "2017-09-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339689,
+  "lat": 48.8049467,
+  "lon": 2.2596627,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marquis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26803",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458758",
+    "route_ref": "162;Clamibus",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339690,
+  "lat": 48.8063113,
+  "lon": 2.2564901,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallée du Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37886",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909042",
+    "route_ref": "579",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339691,
+  "lat": 48.8075897,
+  "lon": 2.2517349,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "moHiQiQCE5m77aexrPjYEQ",
+    "name": "Hôpital Sainte-Émilie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26835",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909040",
+    "route_ref": "162;169;Clamibus",
+    "shelter": "yes",
+    "survey:date": "2017-09-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339692,
+  "lat": 48.8088440,
+  "lon": 2.2554360,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallée du Bois - Lily",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37904",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909039",
+    "route_ref": "579",
+    "wikidata": "Q56859364"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339693,
+  "lat": 48.8114792,
+  "lon": 2.2582925,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8095",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909038",
+    "route_ref": "579;169;190;290",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339694,
+  "lat": 48.8107974,
+  "lon": 2.2572451,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37807",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909037",
+    "route_ref": "579;169",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339695,
+  "lat": 48.8126253,
+  "lon": 2.2584195,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont d'Amour – Hôpital Percy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37897",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909036",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339696,
+  "lat": 48.8126997,
+  "lon": 2.2582371,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont d'Amour – Hôpital Percy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37888",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909035",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339697,
+  "lat": 48.8117430,
+  "lon": 2.2629840,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase Condorcet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37905",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909034",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339698,
+  "lat": 48.8115394,
+  "lon": 2.2637909,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase Condorcet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37881",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909033",
+    "route_ref": "579",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339699,
+  "lat": 48.8126080,
+  "lon": 2.2662630,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre d'Arts Plastiques - Albert Chanot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37900",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909032",
+    "route_ref": "579",
+    "wikidata": "Q56859363"
+  }
+},
+{
+  "type": "node",
+  "id": 5337339700,
+  "lat": 48.8139225,
+  "lon": 2.2720030,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "whYW2_4-zpml8oNr9SmVMA",
+    "name": "Gare de Clamart",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37878",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909030",
+    "route_ref": "394 vers issy val de seine;579 clamibus (579) vers maison de quartier",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5337586780,
+  "lat": 48.7806111,
+  "lon": 2.2330091,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "NIiyqtatG9D5DEAEvrdB0g",
+    "name": "Maison de Quartier du Petit Clamart",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37887",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3909079",
+    "route_ref": "579",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5481933813,
+  "lat": 48.7903627,
+  "lon": 2.2629517,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "sX3zzeiVTOTrCKLyWiw0LA",
+    "name": "Soleil Levant",
+    "pole": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5481933814,
+  "lat": 48.7903578,
+  "lon": 2.2627418,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "tC4NwDgJyL4aSHg2bujk-g",
+    "name": "Soleil Levant",
+    "pole": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2017-09-07"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568572,
+  "lat": 48.8050709,
+  "lon": 2.2593616,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marquis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27716",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5091957",
+    "route_ref": "190;290;N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568573,
+  "lat": 48.8056392,
+  "lon": 2.2591042,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marquis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18299",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5091956",
+    "route_ref": "190;290",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568574,
+  "lat": 48.8027306,
+  "lon": 2.2649703,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Culturel Jean Arp",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21826",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4687358",
+    "route_ref": "189;N62",
+    "shelter": "yes",
+    "source": "survey 05/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289617112,
+  "lat": 48.8035192,
+  "lon": 2.2569585,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Garde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420460",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15284",
+    "route_ref": "39-37A",
+    "shelter": "yes",
+    "source": "survey 01/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 6289620413,
+  "lat": 48.8035222,
+  "lon": 2.2569796,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Garde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420460",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682616",
+    "route_ref": "N62;190;290",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011;survey 01/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 6483287934,
+  "lat": 48.7778223,
+  "lon": 2.2296784,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Petit Clamart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426243;37002",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682632;StopPoint:57:8440",
+    "route_ref": "179;190;379,15",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8828043304,
+  "lat": 48.7801748,
+  "lon": 2.2397048,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pavé Blanc",
+    "operator": "Clam Express",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8828055930,
+  "lat": 48.7802260,
+  "lon": 2.2397905,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pavé Blanc",
+    "operator": "Clam Express",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

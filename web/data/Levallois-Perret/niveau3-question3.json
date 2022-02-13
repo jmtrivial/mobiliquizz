@@ -1,0 +1,1100 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1133506582,
+  "lat": 48.8926283,
+  "lon": 2.2887315,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9554",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016761",
+    "route_ref": "174;274",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1241481397,
+  "lat": 48.8967250,
+  "lon": 2.2985533,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Clichy-Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22940",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7691422",
+    "route_ref": "174;341",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1252380375,
+  "lat": 48.8987276,
+  "lon": 2.2940632,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28488",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677625",
+    "route_ref": "274;165",
+    "shelter": "yes",
+    "source": "survey 12-2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1557210445,
+  "lat": 48.8996007,
+  "lon": 2.2800614,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20419",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036669",
+    "route_ref": "N16;N52",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373545,
+  "lat": 48.8872798,
+  "lon": 2.2828535,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villiers - Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24882",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022978",
+    "route_ref": "93",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373546,
+  "lat": 48.8888998,
+  "lon": 2.2810572,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Rouquier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28436",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022980",
+    "route_ref": "93",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373548,
+  "lat": 48.8901421,
+  "lon": 2.2798003,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire - Villiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2274",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016757",
+    "route_ref": "93",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373549,
+  "lat": 48.8916611,
+  "lon": 2.2782008,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital du Perpetuel Secours",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26957",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016792",
+    "route_ref": "93",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373552,
+  "lat": 48.8954864,
+  "lon": 2.2823446,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France - Paul Vaillant-Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24601",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932273",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56869080"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373553,
+  "lat": 48.8963735,
+  "lon": 2.2854177,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de la Planchette",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24599",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932274",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56859623"
+  }
+},
+{
+  "type": "node",
+  "id": 2032373554,
+  "lat": 48.8972610,
+  "lon": 2.2859472,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baudin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27478",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932267",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56742596"
+  }
+},
+{
+  "type": "node",
+  "id": 2700046090,
+  "lat": 48.8913268,
+  "lon": 2.2943193,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eiffel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36331",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677655",
+    "shelter": "yes",
+    "source": "survey 11-2017"
+  }
+},
+{
+  "type": "node",
+  "id": 2700046103,
+  "lat": 48.8931567,
+  "lon": 2.2997096,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29279",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7691423",
+    "route_ref": "20;94;341",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2700046107,
+  "lat": 48.8937665,
+  "lon": 2.2992936,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26280",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7691424",
+    "route_ref": "341;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2702386997,
+  "lat": 48.9025018,
+  "lon": 2.2877123,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai de Clichy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23581",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121466",
+    "route_ref": "238",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2702386998,
+  "lat": 48.9025040,
+  "lon": 2.2874009,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai de Clichy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23579",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6449030",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2821151002,
+  "lat": 48.8966607,
+  "lon": 2.2981146,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Clichy - Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420782",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7691421",
+    "route_ref": "174;341",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2822741401,
+  "lat": 48.8865000,
+  "lon": 2.2842658,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villiers - Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29480",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7714328",
+    "route_ref": "164;93;163",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3400135590,
+  "lat": 48.8968703,
+  "lon": 2.2805419,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29281;20439;479978",
+    "route_ref": "53;94;275;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3511684418,
+  "lat": 48.8958011,
+  "lon": 2.2966945,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "check_date:shelter": "2021-12-12",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès - Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36497",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016767",
+    "route_ref": "174;174",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4100184891,
+  "lat": 48.8903939,
+  "lon": 2.2800926,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire - Villiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25829",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4017043",
+    "route_ref": "174",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4100263190,
+  "lat": 48.8920439,
+  "lon": 2.2845518,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25827",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016758",
+    "route_ref": "174",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4100266389,
+  "lat": 48.8911889,
+  "lon": 2.2854772,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25826",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016759",
+    "route_ref": "174",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4320178723,
+  "lat": 48.8971013,
+  "lon": 2.2896585,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36332",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677623",
+    "shelter": "no",
+    "source": "survey 12-2017"
+  }
+},
+{
+  "type": "node",
+  "id": 4326886039,
+  "lat": 48.8937778,
+  "lon": 2.2920744,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36333",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677654",
+    "shelter": "no",
+    "source": "survey 11-2017"
+  }
+},
+{
+  "type": "node",
+  "id": 4332653265,
+  "lat": 48.9006452,
+  "lon": 2.2840745,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rivay - Quai Michelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41998",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6449028",
+    "route_ref": "238",
+    "shelter": "yes",
+    "wikidata": "Q56870066"
+  }
+},
+{
+  "type": "node",
+  "id": 4972266022,
+  "lat": 48.8944609,
+  "lon": 2.2958702,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trézel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25824",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932260",
+    "route_ref": "53;94",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5205796153,
+  "lat": 48.8991906,
+  "lon": 2.2883776,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24628",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677626",
+    "shelter": "no",
+    "source": "survey 11-2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5209042254,
+  "lat": 48.8931640,
+  "lon": 2.2894367,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26862",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275553",
+    "route_ref": "N16;N52",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5209114528,
+  "lat": 48.8924477,
+  "lon": 2.2846313,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26863",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4459234",
+    "route_ref": "N16;N52",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5209737860,
+  "lat": 48.8966801,
+  "lon": 2.2895886,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36334",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677624",
+    "shelter": "yes",
+    "source": "survey 12-2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5261634768,
+  "lat": 48.8896316,
+  "lon": 2.2928220,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wilson - Courcelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26488",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4677620",
+    "shelter": "yes",
+    "source": "survey 12-2017",
+    "source:position": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5332968721,
+  "lat": 48.8915459,
+  "lon": 2.2960967,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louison Bobet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23681",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009661",
+    "route_ref": "20",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312559,
+  "lat": 48.8964760,
+  "lon": 2.2781710,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pompidou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36549",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932270",
+    "route_ref": "167;238;275;94",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no",
+    "wikidata": "Q56859578"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312560,
+  "lat": 48.8967604,
+  "lon": 2.2806431,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont de Levallois-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7866",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4459233",
+    "route_ref": "167;N16",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56859704"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312561,
+  "lat": 48.8975968,
+  "lon": 2.2799131,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25876",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932271",
+    "route_ref": "167;238;53;275;N16;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568530,
+  "lat": 48.8993620,
+  "lon": 2.2805530,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23580",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5121463",
+    "route_ref": "238",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979569899,
+  "lat": 48.8954767,
+  "lon": 2.2874368,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaillant-Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26861",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036668",
+    "route_ref": "165;53;N16;N52;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6086607385,
+  "lat": 48.8931409,
+  "lon": 2.2997279,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462449",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7653713",
+    "route_ref": "84",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6086609612,
+  "lat": 48.8923268,
+  "lon": 2.2974932,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Commercial de Levallois-Perret",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462452",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7653712",
+    "route_ref": "84",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6174437801,
+  "lat": 48.8951322,
+  "lon": 2.2972609,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo - Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26282",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932258",
+    "route_ref": "N154;94",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6174444127,
+  "lat": 48.8951833,
+  "lon": 2.2973886,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo - Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26281",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932257",
+    "route_ref": "53;N154;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558959,
+  "lat": 48.8929119,
+  "lon": 2.2923681,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marjolin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25831",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932262",
+    "route_ref": "53;94",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558960,
+  "lat": 48.8925321,
+  "lon": 2.2909619,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rouquier - Rivay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26279",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932275",
+    "route_ref": "53;94",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56859579"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558961,
+  "lat": 48.8938210,
+  "lon": 2.2898550,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25830",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932264",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558962,
+  "lat": 48.8963394,
+  "lon": 2.2877052,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaillant-Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24600",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932266",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558965,
+  "lat": 48.8966805,
+  "lon": 2.2811069,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Parc Mathilde Girault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9127",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932269",
+    "route_ref": "53;94",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no",
+    "wikidata": "Q56742631"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558966,
+  "lat": 48.8976053,
+  "lon": 2.2836028,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Marie-Jeanne Bassot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24598",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932268",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56742613"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558968,
+  "lat": 48.8930713,
+  "lon": 2.2897618,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8120",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932263",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558969,
+  "lat": 48.8942590,
+  "lon": 2.2925551,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marjolin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8119",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932261",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6262558970,
+  "lat": 48.8953414,
+  "lon": 2.2950022,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trézel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34174",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7932259",
+    "route_ref": "53;94",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6294184865,
+  "lat": 48.8912040,
+  "lon": 2.2853590,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25826",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016759",
+    "route_ref": "174",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6294184866,
+  "lat": 48.8923640,
+  "lon": 2.2880160,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9554",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016761",
+    "route_ref": "174",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6294385847,
+  "lat": 48.8932450,
+  "lon": 2.2874290,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Levallois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25825",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4016760",
+    "route_ref": "174",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6295240805,
+  "lat": 48.8899682,
+  "lon": 2.2799786,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire - Villiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25828",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4017042",
+    "route_ref": "274",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6375531516,
+  "lat": 48.8972426,
+  "lon": 2.2802071,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont de Levallois - Bécon-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20439",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275539",
+    "route_ref": "238;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9225055399,
+  "lat": 48.8962328,
+  "lon": 2.2811589,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pont De Levallois",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,6580 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 161395278,
+  "lat": 48.7964279,
+  "lon": 2.1358174,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Abbé Rousseaux",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "survey:date": "2019-08-14",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 201546870,
+  "lat": 48.8003965,
+  "lon": 2.0754474,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Saint-Cyr",
+    "public_transport": "platform",
+    "ref:opendata_versailles": "627de5c8-53a9-4cdd-b9d1-43657320b99f",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 201546878,
+  "lat": 48.7996207,
+  "lon": 2.0752044,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Saint-Cyr l'École",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 233174602,
+  "lat": 48.8100354,
+  "lon": 2.1487309,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420482",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1463",
+    "route_ref": "13;471;E;V",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 270241876,
+  "lat": 48.8069307,
+  "lon": 2.1305933,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Marché Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4352",
+    "ref:opendata_versailles": "d45ae312-3799-466b-b924-e702cf7c5cec",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 338918069,
+  "lat": 48.8097388,
+  "lon": 2.1554823,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "DenaPZ4SBveRaQAqrB4xoA",
+    "name": "Stade de Jussieu",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4225",
+    "ref:opendata_versailles": "cf20977c-49e0-4dda-9c05-1b9bfd5b7361",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "survey:date": "2017-05-23"
+  }
+},
+{
+  "type": "node",
+  "id": 338918071,
+  "lat": 48.8095133,
+  "lon": 2.1556483,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade de Jussieu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4224",
+    "ref:opendata_versailles": "cf20977c-49e0-4dda-9c05-1b9bfd5b7361",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 338999176,
+  "lat": 48.8079383,
+  "lon": 2.1596624,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bernard de Jussieu",
+    "old_name": "Petits Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4229",
+    "ref:opendata_versailles": "f9ec2d4b-827f-488b-9398-9306f1259280",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 353096003,
+  "lat": 48.7844379,
+  "lon": 2.1133369,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soult",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4181",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 353096007,
+  "lat": 48.7842382,
+  "lon": 2.1137608,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soult",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4284",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 360015930,
+  "lat": 48.7887513,
+  "lon": 2.1174411,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général Éblé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4307",
+    "ref:FR:STIF:stop_id": "StopPoint:2:382",
+    "route_ref": "3;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 360015932,
+  "lat": 48.7887962,
+  "lon": 2.1176374,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général Éblé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4308",
+    "ref:FR:STIF:stop_id": "StopPoint:2:383",
+    "route_ref": "3;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 391451736,
+  "lat": 48.7919464,
+  "lon": 2.1457461,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sarraut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4291",
+    "ref:FR:STIF:stop_id": "StopPoint:80:192",
+    "ref:opendata_versailles": "f10f78dc-80d9-445b-8406-d1335b6d4862",
+    "route_ref": "2;22",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 406353243,
+  "lat": 48.7975419,
+  "lon": 2.1354537,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - États Généraux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4268",
+    "ref:FR:STIF:stop_id": "StopPoint:2:259",
+    "route_ref": "B;BAK;G;1;3;N145;Nuit1;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 409472613,
+  "lat": 48.7947381,
+  "lon": 2.1379795,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - Cour de Buc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "418853",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8186",
+    "route_ref": "260;261;262;263;264;39-37F;39-37G;307",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 409472616,
+  "lat": 48.7913173,
+  "lon": 2.1464871,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sarraut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4290",
+    "ref:FR:STIF:stop_id": "StopPoint:80:191",
+    "ref:opendata_versailles": "f10f78dc-80d9-445b-8406-d1335b6d4862",
+    "route_ref": "2;22;b",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 416309493,
+  "lat": 48.8184273,
+  "lon": 2.1501123,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pershing",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4196",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 416309989,
+  "lat": 48.8179690,
+  "lon": 2.1504261,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pershing",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4306",
+    "ref:FR:STIF:stop_id": "StopPoint:2:365",
+    "route_ref": "8;10;105;F;O",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 541208903,
+  "lat": 48.8027383,
+  "lon": 2.1276359,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Château de Versailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34695",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008991",
+    "route_ref": "1;171",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 541208923,
+  "lat": 48.8030593,
+  "lon": 2.1274975,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château de Versailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411924",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008990",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 550325578,
+  "lat": 48.8045054,
+  "lon": 2.1311060,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4142",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1473",
+    "route_ref": "10;105;D;E;F;G;H;Hex;Nuit1;Tex",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 550325621,
+  "lat": 48.8043290,
+  "lon": 2.1307314,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9950",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1472",
+    "route_ref": "10;105;C;D;E;F;G;H;Hex;Nuit1;Tex",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 666341569,
+  "lat": 48.7957113,
+  "lon": 2.1218669,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9973",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6397",
+    "ref:opendata_versailles": "46939340-747a-402b-a83b-dd3f6c52ef29",
+    "route_ref": "439",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 666341584,
+  "lat": 48.7958847,
+  "lon": 2.1218374,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-07-25",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20969",
+    "ref:FR:STIF:stop_id": "StopPoint:41:6400",
+    "ref:opendata_versailles": "46939340-747a-402b-a83b-dd3f6c52ef29",
+    "route_ref": "439",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 672476338,
+  "lat": 48.8008427,
+  "lon": 2.1446060,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villa Champ Lagarde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4322",
+    "ref:opendata_versailles": "46218e88-103b-40a0-a0a4-fdbab08cdfff",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 690956629,
+  "lat": 48.8018681,
+  "lon": 2.1293107,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Préfecture - Hôtel de Ville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4146",
+    "ref:FR:STIF:stop_id": "StopPoint:2:94",
+    "ref:opendata_versailles": "b7df7287-2f40-49da-8a4a-3b38f5833918",
+    "route_ref": "P;TRI",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 690956630,
+  "lat": 48.8018506,
+  "lon": 2.1296020,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Préfecture - Hôtel de Ville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4145",
+    "ref:FR:STIF:stop_id": "StopPoint:2:95",
+    "ref:opendata_versailles": "b7df7287-2f40-49da-8a4a-3b38f5833918",
+    "route_ref": "P;K;TRI",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 729651073,
+  "lat": 48.7982261,
+  "lon": 2.1526099,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413461",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8759180R;StopPoint:59:4008983",
+    "route_ref": "171;N145",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 734200943,
+  "lat": 48.7998370,
+  "lon": 2.1384154,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "17556",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008987",
+    "route_ref": "171",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 736742975,
+  "lat": 48.8038280,
+  "lon": 2.1441637,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Artois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4242",
+    "ref:opendata_versailles": "bf0cc5d7-cc8e-445e-8965-61c596c25379",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 907016672,
+  "lat": 48.8019968,
+  "lon": 2.1314266,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Hôtel de Ville de Versailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30059",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008988",
+    "route_ref": "171;23",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 933476979,
+  "lat": 48.7856959,
+  "lon": 2.1041479,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bir Hakeim",
+    "old_name": "Clément Ader",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4317",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 933476984,
+  "lat": 48.7854822,
+  "lon": 2.1041377,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Bir Hakeim",
+    "old_name": "Clément Ader",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4318",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 933476988,
+  "lat": 48.7859167,
+  "lon": 2.0922108,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Mobilab",
+    "old_name": "Satory INRETS",
+    "public_transport": "platform",
+    "ref:FR:STIF": "17563",
+    "ref:FR:STIF:stop_id": "StopPoint:2:928",
+    "ref:opendata_versailles": "547ac768-b9d2-4802-8c0a-5ab8c1243d7d",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 1043716498,
+  "lat": 48.7968271,
+  "lon": 2.1361823,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4644",
+    "ref:FR:STIF:stop_id": "StopPoint:2:468",
+    "ref:opendata_versailles": "6cb4e937-0eab-4d02-a0d8-3165645d19e0",
+    "route_ref": "ILFA;L;Z",
+    "shelter": "yes",
+    "source": "survey;http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1043716543,
+  "lat": 48.7963028,
+  "lon": 2.1358617,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Abbé Rousseaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427232",
+    "ref:FR:STIF:stop_id": "StopPoint:2:230",
+    "route_ref": "R;1;3;6;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "survey:date": "2019-06-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1044936080,
+  "lat": 48.7952172,
+  "lon": 2.1396901,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Providence",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4286",
+    "ref:FR:STIF:stop_id": "StopPoint:80:174;StopPoint:2:306",
+    "ref:opendata_versailles": "9d856a59-0bd9-407a-a5cb-bbe763bc1dfe",
+    "route_ref": "2;B;Z;22;BAK",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1044936230,
+  "lat": 48.7932206,
+  "lon": 2.1529795,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Moines",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4296",
+    "shelter": "no",
+    "source": "Bing",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1044938068,
+  "lat": 48.7951644,
+  "lon": 2.1400481,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Providence",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4287",
+    "ref:FR:STIF:stop_id": "StopPoint:80:175;StopPoint:2:307",
+    "ref:opendata_versailles": "9d856a59-0bd9-407a-a5cb-bbe763bc1dfe",
+    "route_ref": "2;B;Z;22;BAK",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1204778171,
+  "lat": 48.8065720,
+  "lon": 2.1261012,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Hoche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34631",
+    "ref:FR:STIF:stop_id": "StopPoint:15:279",
+    "route_ref": "1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1404775515,
+  "lat": 48.8097968,
+  "lon": 2.1340895,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles Rive Droite",
+    "note": "le bus 39-40 vers Le Chesnay-Rocquencourt passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4132",
+    "ref:opendata_versailles": "d4516266-acdf-4926-a620-46bc490c1778",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-09-04",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1404775516,
+  "lat": 48.8098761,
+  "lon": 2.1344281,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Rive Droite",
+    "public_transport": "platform",
+    "ref:FR:STIF": "480327",
+    "route_ref": "17;17S",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1411992202,
+  "lat": 48.8055268,
+  "lon": 2.1410708,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Alexandre 1er de Yougoslavie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4245",
+    "ref:opendata_versailles": "1724509a-7ddc-4d92-8d5c-cf48097504c6",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1412001114,
+  "lat": 48.8056924,
+  "lon": 2.1417087,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Alexandre 1er de Yougoslavie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4244",
+    "ref:opendata_versailles": "1724509a-7ddc-4d92-8d5c-cf48097504c6",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1418694070,
+  "lat": 48.8062412,
+  "lon": 2.1472966,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Lesseps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4216",
+    "ref:FR:STIF:stop_id": "StopPoint:2:200",
+    "route_ref": "5;C;R",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1661407202,
+  "lat": 48.8084507,
+  "lon": 2.1518681,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Antoine Richard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4219",
+    "ref:FR:STIF:stop_id": "StopPoint:2:203",
+    "route_ref": "1;5;7;8;C;R;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1661409911,
+  "lat": 48.8068915,
+  "lon": 2.1511825,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Montreuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4217",
+    "ref:FR:STIF:stop_id": "StopPoint:2:201",
+    "route_ref": "5;7;8;C;R;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1661409919,
+  "lat": 48.8084957,
+  "lon": 2.1520378,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Antoine Richard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4220",
+    "ref:FR:STIF:stop_id": "StopPoint:2:204",
+    "route_ref": "1;5;7;8;C;R;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1661409946,
+  "lat": 48.8067608,
+  "lon": 2.1513141,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Montreuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4218",
+    "ref:FR:STIF:stop_id": "StopPoint:2:202",
+    "route_ref": "5;7;8;C;R;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1728561022,
+  "lat": 48.8224075,
+  "lon": 2.1388345,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montespan",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4190",
+    "ref:FR:STIF:stop_id": "StopPoint:2:155",
+    "route_ref": "3;A, V, Y;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1728567594,
+  "lat": 48.8190432,
+  "lon": 2.1382275,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Laboulaye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "32375",
+    "ref:FR:STIF:stop_id": "StopPoint:2:192;StopPoint:21:13",
+    "ref:opendata_versailles": "126aee05-1244-4ae6-b05d-47c02800557b",
+    "route_ref": "A;H;17",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1744161797,
+  "lat": 48.7980242,
+  "lon": 2.1269089,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Tournelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4263",
+    "ref:FR:STIF:stop_id": "StopPoint:2:254",
+    "route_ref": "3;10;E;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1744161798,
+  "lat": 48.7982246,
+  "lon": 2.1272310,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Tournelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4264",
+    "ref:FR:STIF:stop_id": "StopPoint:2:255",
+    "route_ref": "3;10;A;E;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1770604995,
+  "lat": 48.8154482,
+  "lon": 2.1463981,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lemercier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4199",
+    "ref:FR:STIF:stop_id": "StopPoint:2:174",
+    "ref:opendata_versailles": "b2855851-f145-4ef6-bfa0-5fe1d17d9d9b",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1770604996,
+  "lat": 48.8161597,
+  "lon": 2.1452634,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20236",
+    "ref:opendata_versailles": "71b09aef-5283-4933-8eda-e33317921c9c",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1798131810,
+  "lat": 48.8019715,
+  "lon": 2.1593791,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Prés aux Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4249",
+    "ref:FR:STIF:stop_id": "StopPoint:2:238",
+    "route_ref": "8;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1798131816,
+  "lat": 48.8022853,
+  "lon": 2.1589476,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Prés aux Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4248",
+    "ref:FR:STIF:stop_id": "StopPoint:2:237",
+    "ref:opendata_versailles": "2206cacd-c757-4a8f-adbc-1ccf5bbcc9a7",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1798131909,
+  "lat": 48.8074345,
+  "lon": 2.1468716,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Lesseps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4253",
+    "ref:FR:STIF:stop_id": "StopPoint:2:244",
+    "route_ref": "D",
+    "source": "survery",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1801602834,
+  "lat": 48.8122761,
+  "lon": 2.1436871,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Richard Mique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4205",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1801602836,
+  "lat": 48.8123673,
+  "lon": 2.1435624,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Richard Mique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4204",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1801602856,
+  "lat": 48.8134288,
+  "lon": 2.1389036,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "1GFfBS7GguE91hNviDW4bg",
+    "name": "Général Mangin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4332",
+    "ref:FR:STIF:stop_id": "StopPoint:2:487",
+    "ref:opendata_versailles": "5841e870-9f16-43b2-93ca-3cdb2962b1de",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "survey:date": "2017-05-20",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1803826950,
+  "lat": 48.7931217,
+  "lon": 2.1198965,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ponts et Chaussées",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4280",
+    "ref:FR:STIF:stop_id": "StopPoint:2:273",
+    "route_ref": "3;439;K;Nuit3",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1803826957,
+  "lat": 48.7929729,
+  "lon": 2.1191858,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ponts et Chaussées",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4279",
+    "ref:FR:STIF:stop_id": "StopPoint:2:272",
+    "route_ref": "3;439;K;Nuit3",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1803852461,
+  "lat": 48.8194704,
+  "lon": 2.1458222,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Haig",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20234",
+    "ref:opendata_versailles": "448fabf1-3e58-4a06-bc8b-86881976e90d",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1803852464,
+  "lat": 48.8202821,
+  "lon": 2.1415181,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Paix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9949",
+    "ref:FR:STIF:stop_id": "StopPoint:2:166",
+    "route_ref": "8;U;O;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1803852465,
+  "lat": 48.8202639,
+  "lon": 2.1409017,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Paix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9948",
+    "ref:FR:STIF:stop_id": "StopPoint:2:165",
+    "route_ref": "8;U;O;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1803852466,
+  "lat": 48.8240720,
+  "lon": 2.1439551,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Résidence sans Souci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20231",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1803852467,
+  "lat": 48.8242223,
+  "lon": 2.1438879,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Résidence sans Souci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20255",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1828091658,
+  "lat": 48.7986753,
+  "lon": 2.1437848,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4347",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008984",
+    "route_ref": "6;23;24;171",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1828091685,
+  "lat": 48.7984920,
+  "lon": 2.1526149,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "471470",
+    "route_ref": "171;N145",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1947141414,
+  "lat": 48.8246190,
+  "lon": 2.1426861,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Brèche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9296",
+    "ref:FR:STIF:stop_id": "StopPoint:50:400",
+    "ref:opendata_versailles": "b03eb7dd-9ef6-447e-8ce3-8bfea5bcee22",
+    "route_ref": "111",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411920,
+  "lat": 48.7904630,
+  "lon": 2.1482322,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cisterciens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4292",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411925,
+  "lat": 48.7907552,
+  "lon": 2.1485676,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cisterciens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4293",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411928,
+  "lat": 48.7917079,
+  "lon": 2.1501978,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "destination": "Rocquencourt INRIA",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4295",
+    "ref:opendata_versailles": "e4d7028a-7013-4429-b593-f1a3d353912d",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411931,
+  "lat": 48.7929601,
+  "lon": 2.1436994,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Ploix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4288;4288",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411934,
+  "lat": 48.7937268,
+  "lon": 2.1426148,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ploix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4289",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411938,
+  "lat": 48.7938852,
+  "lon": 2.1539167,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Moines",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4297",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411939,
+  "lat": 48.7945847,
+  "lon": 2.1564795,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Square Lamôme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27030",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1266",
+    "route_ref": "8;O;BAK",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411941,
+  "lat": 48.7990891,
+  "lon": 2.1338331,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4266",
+    "ref:FR:STIF:stop_id": "StopPoint:2:257",
+    "route_ref": "Nuit1;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2071411942,
+  "lat": 48.7991494,
+  "lon": 2.1335393,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Noailles",
+    "network": "Phébus",
+    "network:wikidata": "Q3456697",
+    "network:wikipedia": "fr:Réseau de bus Phébus",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4265",
+    "ref:opendata_versailles": "e0cd79a5-81fb-477c-8418-ca565ac25bab",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426043,
+  "lat": 48.8130201,
+  "lon": 2.1408216,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Clagny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8465",
+    "ref:FR:STIF:stop_id": "StopPoint:2:569",
+    "ref:opendata_versailles": "3d64b117-0052-4677-aadc-875c7259f12f",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426048,
+  "lat": 48.8184234,
+  "lon": 2.1199347,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Pré Catalan",
+    "public_transport": "platform",
+    "ref:FR:STIF": "32876",
+    "ref:FR:STIF:stop_id": "StopPoint:15:271",
+    "route_ref": "1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-03-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426049,
+  "lat": 48.8186075,
+  "lon": 2.1198775,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pré Catelan",
+    "public_transport": "platform",
+    "ref:FR:STIF": "32877",
+    "ref:FR:STIF:stop_id": "StopPoint:15:272",
+    "route_ref": "1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-05-29",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426050,
+  "lat": 48.8206595,
+  "lon": 2.1421319,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Paix",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426051,
+  "lat": 48.8218474,
+  "lon": 2.1463641,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de Jardy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20256",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426052,
+  "lat": 48.8244542,
+  "lon": 2.1411657,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Progrès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4191",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2071426053,
+  "lat": 48.8252890,
+  "lon": 2.1421998,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Brèche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4194",
+    "ref:FR:STIF:stop_id": "StopPoint:2:161",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2300985369,
+  "lat": 48.8143034,
+  "lon": 2.1360506,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Bange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4127",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "survey:date": "2019-02-19",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2300985371,
+  "lat": 48.7999730,
+  "lon": 2.1281442,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411253",
+    "ref:FR:STIF:stop_id": "StopPoint:2:250",
+    "route_ref": "1;2;3;10;13;A;BAK;E;TRI;Nuit3;P;C;D;F;N145",
+    "route_ref:substitution": "RER C",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2300985377,
+  "lat": 48.8188976,
+  "lon": 2.1374337,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Laboulaye",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:2:191",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2300985379,
+  "lat": 48.8028196,
+  "lon": 2.1298839,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4143",
+    "ref:FR:STIF:stop_id": "StopPoint:80:166;StopPoint:2:92",
+    "route_ref": "1;2;3;10;23;A;B;C;D;E;F;G;H;Nuit1",
+    "shelter": "yes",
+    "survey:date": "2019-06-06",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2456592833,
+  "lat": 48.8077000,
+  "lon": 2.1281652,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4136",
+    "shelter": "yes",
+    "source": "survey 2013",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2456708368,
+  "lat": 48.8075201,
+  "lon": 2.1284193,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4135",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2479170944,
+  "lat": 48.8074011,
+  "lon": 2.1326215,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place du Marché Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4134",
+    "ref:FR:STIF:stop_id": "StopPoint:2:81",
+    "route_ref": "1;3;5;D;E",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2479170945,
+  "lat": 48.8075206,
+  "lon": 2.1325172,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place du Marché Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4133",
+    "ref:FR:STIF:stop_id": "StopPoint:2:80",
+    "route_ref": "1;3;5;D;E",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2479201495,
+  "lat": 48.8000522,
+  "lon": 2.1280016,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "5",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20584",
+    "ref:FR:STIF:stop_id": "StopPoint:50:294",
+    "route_ref": "111;11;40",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2479201498,
+  "lat": 48.8003843,
+  "lon": 2.1282083,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "3",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20584",
+    "ref:FR:STIF:stop_id": "StopPoint:50:294",
+    "route_ref": "40;44",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "survey:date": "2019-07-29",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2483337094,
+  "lat": 48.8115646,
+  "lon": 2.1351495,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Beauvau Rémilly",
+    "note": "le bus 111 vers Centre Madeleine Daniélou passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "17558;4129",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "survey:date": "2019-02-19",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2515111712,
+  "lat": 48.8006285,
+  "lon": 2.1289217,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20399",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1108",
+    "route_ref": "2;D;F;H;BAK;E",
+    "shelter": "yes",
+    "source": "survey 2013",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2568601667,
+  "lat": 48.8169961,
+  "lon": 2.1366480,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Jean",
+    "old_name": "La Maye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4210",
+    "ref:FR:STIF:stop_id": "StopPoint:2:194",
+    "route_ref": "1;3;5;A",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2709479550,
+  "lat": 48.8187330,
+  "lon": 2.1395345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Laboulaye",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2874448090,
+  "lat": 48.8001493,
+  "lon": 2.1282504,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "route_ref": "M",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2874450208,
+  "lat": 48.8003429,
+  "lon": 2.1283449,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4645",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8156",
+    "route_ref": "39-12",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2874450222,
+  "lat": 48.8004143,
+  "lon": 2.1287775,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28670",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8157",
+    "route_ref": "1;3;10;13;103;261;TRI;Nuit3;P;Nuit1;A;N145;E",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2874450228,
+  "lat": 48.8003649,
+  "lon": 2.1279790,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "1",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20605",
+    "route_ref": "262;439;Z;H",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-07-12",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3138284007,
+  "lat": 48.7979741,
+  "lon": 2.1609359,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15147",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3394932535,
+  "lat": 48.7918277,
+  "lon": 2.1506096,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "destination": "Porchefontaine",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4294",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3444487354,
+  "lat": 48.8034941,
+  "lon": 2.1047985,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Porte des Matelots",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "description:route_ref": "lignes 10 (Plaisir Grigon), 11 (Bois d'Arcy), DF (Pontchartrain par plaisir grignon), Stravo 4401 (les clayes sous bois);401;40",
+    "highway": "bus_stop",
+    "name": "Les Matelots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4151",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5904;StopPoint:50:300;StopPoint:800:8741451",
+    "route_ref": "10;11;40;401;4401;N145",
+    "shelter": "no",
+    "source:ref:FR:STIF": "opendata STIF - 03/2018",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3452399492,
+  "lat": 48.8015306,
+  "lon": 2.1047009,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "check_date:shelter": "2021-07-25",
+    "highway": "bus_stop",
+    "name": "Dépôt Phébus",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426217",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1117",
+    "route_ref": "sens opposé de (lignes 10 (Plaisir Grigon), 11 (Bois d'Arcy), DF (Pontchartrain par plaisir grignon), Stravo 4401 (les clayes sous bois));P",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3624925735,
+  "lat": 48.8152091,
+  "lon": 2.1504635,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Résidence la Forêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4250",
+    "ref:FR:STIF:stop_id": "StopPoint:2:239",
+    "route_ref": "8;10;105;F;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3649554669,
+  "lat": 48.8047805,
+  "lon": 2.1300538,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4141;14068",
+    "ref:FR:STIF:stop_id": "StopPoint:2:90;StopPoint:21:700",
+    "route_ref": "171;C;19",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3787663771,
+  "lat": 48.8147119,
+  "lon": 2.1507602,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Résidence la Forêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4323",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4317604524,
+  "lat": 48.7870839,
+  "lon": 2.1180240,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delpal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9953",
+    "ref:FR:STIF:stop_id": "StopPoint:2:603",
+    "route_ref": "3;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4320216679,
+  "lat": 48.7845341,
+  "lon": 2.1225353,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Moncey",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20277",
+    "ref:FR:STIF:stop_id": "StopPoint:2:601",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4321183201,
+  "lat": 48.8108896,
+  "lon": 2.1508730,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20248",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4533048",
+    "route_ref": "471",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4321568362,
+  "lat": 48.7928438,
+  "lon": 2.1287547,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Saint-Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29090",
+    "ref:FR:STIF:stop_id": "StopPoint:2:930",
+    "route_ref": "103;L",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4322996523,
+  "lat": 48.7974271,
+  "lon": 2.1021533,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fourrière Municipale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4309",
+    "ref:FR:STIF:stop_id": "StopPoint:2:396",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4323241763,
+  "lat": 48.8006388,
+  "lon": 2.1040521,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caserne des Matelots",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4325492369,
+  "lat": 48.8119730,
+  "lon": 2.1108085,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Trianons",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4328360252,
+  "lat": 48.7833592,
+  "lon": 2.1177144,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Piscine de Satory",
+    "old_name": "Les Docks",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20285",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4330589569,
+  "lat": 48.7854496,
+  "lon": 2.0950820,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Parc d'Activités",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4355",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4330589570,
+  "lat": 48.7852929,
+  "lon": 2.0955840,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Parc d'Activités",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4355",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4331143499,
+  "lat": 48.8041164,
+  "lon": 2.1548374,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Grand Siècle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4230",
+    "ref:FR:STIF:stop_id": "StopPoint:2:219",
+    "route_ref": "8",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4332059387,
+  "lat": 48.8128679,
+  "lon": 2.1541673,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gauthier de Clagny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20239",
+    "ref:FR:STIF:stop_id": "StopPoint:2:178",
+    "route_ref": "E;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4405446570,
+  "lat": 48.7821315,
+  "lon": 2.1021490,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Office Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20282",
+    "ref:FR:STIF:stop_id": "StopPoint:2:619",
+    "route_ref": "W",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4517819593,
+  "lat": 48.8008252,
+  "lon": 2.1039942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caserne des Matelots",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4597079537,
+  "lat": 48.8133437,
+  "lon": 2.1392256,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "np5QA2q7vTkC_5_utRW3UQ",
+    "name": "Général Mangin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9957",
+    "ref:FR:STIF:stop_id": "StopPoint:2:689",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "survey:date": "2017-05-20",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597079543,
+  "lat": 48.8226860,
+  "lon": 2.1460553,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de Jardy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20257",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112684,
+  "lat": 48.7846973,
+  "lon": 2.0993992,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Marronniers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424983",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112685,
+  "lat": 48.7848663,
+  "lon": 2.0989780,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Marronniers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4354",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112686,
+  "lat": 48.7845020,
+  "lon": 2.1221124,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Moncey",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20276",
+    "ref:FR:STIF:stop_id": "StopPoint:2:600",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112687,
+  "lat": 48.7826121,
+  "lon": 2.1204051,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guichard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4285",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112688,
+  "lat": 48.7830565,
+  "lon": 2.1204666,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guichard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9954",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112989,
+  "lat": 48.7832368,
+  "lon": 2.1175046,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Piscine de Satory",
+    "old_name": "Les Docks",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20284",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112990,
+  "lat": 48.7849309,
+  "lon": 2.1173332,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martinière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4281",
+    "ref:FR:STIF:stop_id": "StopPoint:2:278",
+    "route_ref": "3;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112991,
+  "lat": 48.7842772,
+  "lon": 2.1173020,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "La Martinière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4282",
+    "ref:FR:STIF:stop_id": "StopPoint:2:279",
+    "route_ref": "3;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112992,
+  "lat": 48.7853424,
+  "lon": 2.1101325,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre d'Alimentation de Satory",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4313",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112993,
+  "lat": 48.7856681,
+  "lon": 2.1098224,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre d'Alimentation de Satory",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4310",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112994,
+  "lat": 48.7863301,
+  "lon": 2.1068978,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zone Technique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4316",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112995,
+  "lat": 48.7864917,
+  "lon": 2.1067716,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zone Technique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4315",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112996,
+  "lat": 48.7869057,
+  "lon": 2.1057430,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité des Cadres",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15263;StopPoint:41:6395",
+    "route_ref": "39-34;439",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112997,
+  "lat": 48.7868230,
+  "lon": 2.1051700,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité des Cadres",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20971",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8146;StopPoint:41:6402",
+    "route_ref": "39-34;439",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112998,
+  "lat": 48.7841803,
+  "lon": 2.1029197,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Lisière",
+    "old_name": "Satory Giat Industries",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424982",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597112999,
+  "lat": 48.7842723,
+  "lon": 2.1028964,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Lisière",
+    "old_name": "Satory Giat Industries",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424981",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113002,
+  "lat": 48.8125686,
+  "lon": 2.1410239,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Clagny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20401",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1110",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113003,
+  "lat": 48.8115708,
+  "lon": 2.1424686,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Solférino",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20241",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113004,
+  "lat": 48.8139120,
+  "lon": 2.1450177,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Bruyère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4203",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113005,
+  "lat": 48.8134149,
+  "lon": 2.1448319,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Bruyère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4202",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113006,
+  "lat": 48.8216733,
+  "lon": 2.1406420,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Normandie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4193",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113011,
+  "lat": 48.8100008,
+  "lon": 2.1204133,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte de la Reine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411934",
+    "ref:FR:STIF:stop_id": "StopPoint:2:630",
+    "route_ref": "TRI",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4597113012,
+  "lat": 48.8099056,
+  "lon": 2.1203854,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte de la Reine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411931",
+    "ref:FR:STIF:stop_id": "StopPoint:2:629",
+    "route_ref": "TRI",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4703520183,
+  "lat": 48.7830547,
+  "lon": 2.1204983,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guichard",
+    "name:fr": "Guichard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4790004229,
+  "lat": 48.7878319,
+  "lon": 2.1503206,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "RyTnRmOWXnUHKaPVV0CNFQ",
+    "name": "Pont Colbert",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20303",
+    "ref:FR:STIF:stop_id": "StopPoint:80:157",
+    "route_ref": "22",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "survey:date": "2017-10-25",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4841670223,
+  "lat": 48.8044719,
+  "lon": 2.1311687,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4142",
+    "ref:FR:STIF:stop_id": "StopPoint:2:91",
+    "route_ref": "1;2;3;13;23;A;B;P",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4918657240,
+  "lat": 48.8089389,
+  "lon": 2.1494689,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Côte de Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4314",
+    "ref:FR:STIF:stop_id": "StopPoint:2:420",
+    "route_ref": "1;8;U;R;O",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4918657241,
+  "lat": 48.8091022,
+  "lon": 2.1487896,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Côte de Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4331",
+    "ref:FR:STIF:stop_id": "StopPoint:2:486",
+    "route_ref": "8;U;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5275452528,
+  "lat": 48.8145512,
+  "lon": 2.1571122,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "WE07vcrQSqWuKqUp9JKKXA",
+    "name": "Porte des Hauts-de-Seine",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36023",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4533043",
+    "route_ref": "469;471",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-08-31",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56869473"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168566,
+  "lat": 48.8023650,
+  "lon": 2.1132873,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stand de Tir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4148",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5914",
+    "route_ref": "401",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168568,
+  "lat": 48.7942123,
+  "lon": 2.1243386,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Evêché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20606",
+    "ref:FR:STIF:stop_id": "StopPoint:2:266",
+    "route_ref": "3;10;103;401;A;E;K;L;Nuit3",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168569,
+  "lat": 48.8001469,
+  "lon": 2.1278355,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "2",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20605",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5884",
+    "route_ref": "22;103;401;440;L;Z",
+    "shelter": "yes",
+    "survey:date": "2017-09-23",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168571,
+  "lat": 48.8025749,
+  "lon": 2.0942363,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Ménagerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4153",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5905",
+    "ref:opendata_versailles": "1cb484fd-7c59-403d-b2b0-8171c2434252",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168574,
+  "lat": 48.7947808,
+  "lon": 2.1249024,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Evêché",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4274",
+    "ref:FR:STIF:stop_id": "StopPoint:2:267",
+    "route_ref": "3;10;401;E;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168576,
+  "lat": 48.7995818,
+  "lon": 2.1249034,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rue de Satory",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20637",
+    "ref:FR:STIF:stop_id": "StopPoint:50:302;StopPoint:41:5901;StopPoint:2:98",
+    "route_ref": "P;401;40",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168577,
+  "lat": 48.8008414,
+  "lon": 2.1203659,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Orangerie",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Grille de l'Orangerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4257;4258",
+    "ref:FR:STIF:stop_id": "StopPoint:50:298;StopPoint:41:5902;StopPoint:2:249",
+    "ref:opendata_versailles": "e5cf6680-553a-410f-b6fd-0cef888ae2cd",
+    "route_ref": "11;40;44;401;P",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:ref:FR:STIF": "opendata STIF - 03/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168579,
+  "lat": 48.8018323,
+  "lon": 2.0884464,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "INRA",
+    "public_transport": "platform",
+    "ref:FR:STIF": "5893",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5911;StopPoint:50:8164",
+    "route_ref": "11;40;401",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168580,
+  "lat": 48.8024499,
+  "lon": 2.0950647,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Ménagerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4152",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5912",
+    "ref:opendata_versailles": "1cb484fd-7c59-403d-b2b0-8171c2434252",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5331168581,
+  "lat": 48.8024213,
+  "lon": 2.1145974,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stand de Tir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4149",
+    "ref:FR:STIF:stop_id": "StopPoint:2:103",
+    "route_ref": "401;P",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5342369700,
+  "lat": 48.7994815,
+  "lon": 2.1281945,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "5891",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5857;StopPoint:50:293",
+    "route_ref": "401;A;439;440;10;11;40;44",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5342369702,
+  "lat": 48.7960248,
+  "lon": 2.1369728,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Abbé Rousseaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12665",
+    "ref:FR:STIF:stop_id": "StopPoint:80:72",
+    "route_ref": "22;24;39-12;260;262;264",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5343200821,
+  "lat": 48.7970030,
+  "lon": 2.1361084,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5gSoiESrd-PWNkqYiQW9qQ",
+    "name": "Gare de Versailles-Chantiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4643",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8152",
+    "route_ref": "Z;39-37H;261;262;263",
+    "shelter": "yes",
+    "survey:date": "2017-10-25"
+  }
+},
+{
+  "type": "node",
+  "id": 5405951916,
+  "lat": 48.8043302,
+  "lon": 2.1306422,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9950",
+    "ref:FR:STIF:stop_id": "StopPoint:80:62;StopPoint:80:63;StopPoint:2:212",
+    "route_ref": "1;2;3;13;23;A;B;P",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5461129649,
+  "lat": 48.8144607,
+  "lon": 2.1362171,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "WZ0SY3U--cYwyFhwZoN7Jw",
+    "name": "De Bange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4128",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "survey:date": "2017-05-20",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5461129650,
+  "lat": 48.8172684,
+  "lon": 2.1365595,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Jean",
+    "old_name": "La Maye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4209",
+    "ref:FR:STIF:stop_id": "StopPoint:2:193",
+    "route_ref": "3;A",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5461606792,
+  "lat": 48.7867548,
+  "lon": 2.1178150,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delpal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9952",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5461693804,
+  "lat": 48.7948246,
+  "lon": 2.1215611,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Jules Ferry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4277",
+    "ref:FR:STIF:stop_id": "StopPoint:2:270",
+    "route_ref": "3;A;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5461693805,
+  "lat": 48.7962354,
+  "lon": 2.1258813,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bourdonnais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4272",
+    "ref:FR:STIF:stop_id": "StopPoint:2:265",
+    "route_ref": "3;10;E;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5461693806,
+  "lat": 48.8027834,
+  "lon": 2.1301632,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4144",
+    "ref:FR:STIF:stop_id": "StopPoint:2:93",
+    "route_ref": "1;2;3;10;A;B;D;F;E;G;H;Nuit1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5589904685,
+  "lat": 48.8006962,
+  "lon": 2.1322130,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Hôtel de Ville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4262",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8162",
+    "route_ref": "262;Nuit3;261",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5589904686,
+  "lat": 48.7943147,
+  "lon": 2.1378649,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - Cour de Buc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20266",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8185",
+    "route_ref": "260;261;262;263;264;3937H;ILFA;ARC;L",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5589905852,
+  "lat": 48.7968147,
+  "lon": 2.1362101,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles-Chantiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4644",
+    "ref:FR:STIF:stop_id": "StopPoint:24:8153",
+    "route_ref": "105;260;261;262;263;264",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5589905853,
+  "lat": 48.8017280,
+  "lon": 2.1311310,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Hôtel de Ville de Versailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4261",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008989",
+    "route_ref": "262;171;23;Nuit3;261",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5589905854,
+  "lat": 48.8001731,
+  "lon": 2.1280785,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422303",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15333",
+    "route_ref": "111;261;262;263",
+    "shelter": "yes",
+    "survey:date": "2019-07-29",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5590207680,
+  "lat": 48.7995169,
+  "lon": 2.1278263,
+  "tags": {
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Versailles Château Rive-Gauche",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5597300860,
+  "lat": 48.7984357,
+  "lon": 2.1620463,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422444",
+    "ref:FR:STIF:stop_id": "StopPoint:80:227",
+    "route_ref": "23;24",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5597300870,
+  "lat": 48.7984797,
+  "lon": 2.1618623,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422443",
+    "ref:FR:STIF:stop_id": "StopPoint:80:228",
+    "route_ref": "23;24",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5597327794,
+  "lat": 48.8001558,
+  "lon": 2.1371952,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12801",
+    "ref:FR:STIF:stop_id": "StopPoint:50:662;StopPoint:80:207",
+    "route_ref": "23;105",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5597338786,
+  "lat": 48.7982630,
+  "lon": 2.1443011,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4348",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008985",
+    "route_ref": "171;24",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5613266908,
+  "lat": 48.8086977,
+  "lon": 2.1583851,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Cousin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4228",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5613266910,
+  "lat": 48.8093150,
+  "lon": 2.1540840,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Massenet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4223"
+  }
+},
+{
+  "type": "node",
+  "id": 5613266917,
+  "lat": 48.8052700,
+  "lon": 2.1367910,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Hoche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4247",
+    "ref:FR:STIF:stop_id": "StopPoint:2:236",
+    "route_ref": "5;10;13;105;C;F",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613266919,
+  "lat": 48.8002830,
+  "lon": 2.1273000,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Château Gare Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25079",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5613267522,
+  "lat": 48.8054320,
+  "lon": 2.1367900,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Hoche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4246",
+    "ref:FR:STIF:stop_id": "StopPoint:2:235",
+    "route_ref": "5;10;13;105;C;F",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5613267524,
+  "lat": 48.8049279,
+  "lon": 2.1447190,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montreuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4240"
+  }
+},
+{
+  "type": "node",
+  "id": 5613267526,
+  "lat": 48.8068680,
+  "lon": 2.1469900,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Lesseps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4215"
+  }
+},
+{
+  "type": "node",
+  "id": 5613267529,
+  "lat": 48.8093330,
+  "lon": 2.1539210,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Massenet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4222"
+  }
+},
+{
+  "type": "node",
+  "id": 5613267531,
+  "lat": 48.8087990,
+  "lon": 2.1576240,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Cousin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4227",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5630031645,
+  "lat": 48.8017992,
+  "lon": 2.0859969,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "INRA",
+    "public_transport": "platform",
+    "ref:FR:STIF": "5894",
+    "ref:FR:STIF:stop_id": "StopPoint:50:8165;StopPoint:41:5906",
+    "route_ref": "11;40;401",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5673633635,
+  "lat": 48.8037090,
+  "lon": 2.1554100,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Grand Siècle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4231",
+    "ref:FR:STIF:stop_id": "StopPoint:2:220",
+    "route_ref": "8;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673633636,
+  "lat": 48.8021502,
+  "lon": 2.1517756,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4233",
+    "ref:FR:STIF:stop_id": "StopPoint:2:222",
+    "ref:opendata_versailles": "3451a719-c428-48ab-b030-a99c12b3d56c",
+    "route_ref": "1;D",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673633637,
+  "lat": 48.8014473,
+  "lon": 2.1477894,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Saint-Charles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4235",
+    "ref:FR:STIF:stop_id": "StopPoint:2:224",
+    "route_ref": "1;D",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673633651,
+  "lat": 48.8022789,
+  "lon": 2.1518951,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4232",
+    "ref:FR:STIF:stop_id": "StopPoint:2:221",
+    "ref:opendata_versailles": "3451a719-c428-48ab-b030-a99c12b3d56c",
+    "route_ref": "1;D",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912734,
+  "lat": 48.8166290,
+  "lon": 2.1414150,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château de la Maye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4350",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912736,
+  "lat": 48.8087680,
+  "lon": 2.1544130,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Claude Debussy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8463",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912744,
+  "lat": 48.8064860,
+  "lon": 2.1610070,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Chaleil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422468",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912745,
+  "lat": 48.8086770,
+  "lon": 2.1541960,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Claude Debussy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8462",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912747,
+  "lat": 48.8133210,
+  "lon": 2.1407750,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Clagny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8464",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5673912748,
+  "lat": 48.8163500,
+  "lon": 2.1412940,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château de la Maye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4349",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798200,
+  "lat": 48.8112080,
+  "lon": 2.1519690,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Côte de Picardie",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20405",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798201,
+  "lat": 48.8090383,
+  "lon": 2.1528042,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hélène Andrée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21693",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798202,
+  "lat": 48.8029750,
+  "lon": 2.1457390,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Rameau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4239",
+    "ref:opendata_versailles": "d2cf588a-2c54-4de0-875f-402585845ab5",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798205,
+  "lat": 48.7995870,
+  "lon": 2.1378429,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4270",
+    "ref:FR:STIF:stop_id": "StopPoint:2:261",
+    "route_ref": "1;24",
+    "shelter": "no",
+    "source": "Bing",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798209,
+  "lat": 48.8008410,
+  "lon": 2.1435970,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villa Champ Lagarde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4192",
+    "ref:opendata_versailles": "46218e88-103b-40a0-a0a4-fdbab08cdfff",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798210,
+  "lat": 48.8071660,
+  "lon": 2.1474650,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Lesseps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4221",
+    "route_ref": "7;14",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5678798211,
+  "lat": 48.8098924,
+  "lon": 2.1484723,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426213",
+    "ref:FR:STIF:stop_id": "StopPoint:2:184",
+    "route_ref": "1;8;10;105;E;F;O;R;V",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5927589981,
+  "lat": 48.8031342,
+  "lon": 2.1063538,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "description:route_ref": "44;401;sens opposé de (lignes 10 (Plaisir Grigon), 11 (Bois d'Arcy), DF (Pontchartrain par plaisir grignon), Stravo 4401 (les clayes sous bois));40;P",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Porte des Matelots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4150",
+    "ref:FR:STIF:stop_id": "StopPoint:2:104",
+    "route_ref": "44;401;10;11;DF;4401;40;P",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931773799,
+  "lat": 48.8190839,
+  "lon": 2.1389272,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Laboulaye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9294",
+    "ref:FR:STIF:stop_id": "StopPoint:2:132",
+    "route_ref": "8;111;V;U;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931773815,
+  "lat": 48.8002558,
+  "lon": 2.1378477,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12802",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4008986",
+    "route_ref": "171;23",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931773851,
+  "lat": 48.8090970,
+  "lon": 2.1251690,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Théâtre Montansier",
+    "old_name": "Réservoirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4137",
+    "ref:FR:STIF:stop_id": "StopPoint:15:278",
+    "route_ref": "1;2;111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931773875,
+  "lat": 48.8120232,
+  "lon": 2.1270961,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Berthier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9292",
+    "ref:FR:STIF:stop_id": "StopPoint:15:275",
+    "route_ref": "1;2;111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931773876,
+  "lat": 48.8005315,
+  "lon": 2.1210223,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Grille de l'Orangerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4257;4258",
+    "ref:FR:STIF:stop_id": "StopPoint:50:297;StopPoint:2:248",
+    "route_ref": "11;40;44;401;P",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774818,
+  "lat": 48.8049846,
+  "lon": 2.1463270,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Symphorien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4236",
+    "ref:FR:STIF:stop_id": "StopPoint:50:392;StopPoint:2:225",
+    "ref:opendata_versailles": "346b69f6-77be-4b3a-8f87-d487dffd1818",
+    "route_ref": "5;111;C;D;R",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774827,
+  "lat": 48.8215565,
+  "lon": 2.1421590,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point de la Chapelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20232",
+    "ref:FR:STIF:stop_id": "StopPoint:2:163",
+    "route_ref": "7;111;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774840,
+  "lat": 48.8051528,
+  "lon": 2.1465072,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Symphorien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4237",
+    "ref:FR:STIF:stop_id": "StopPoint:50:661;StopPoint:2:226",
+    "ref:opendata_versailles": "346b69f6-77be-4b3a-8f87-d487dffd1818",
+    "route_ref": "5;111;C;D;R",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774846,
+  "lat": 48.8251250,
+  "lon": 2.1429080,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Brèche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426914",
+    "ref:FR:STIF:stop_id": "StopPoint:50:655;StopPoint:2:162",
+    "route_ref": "7;9;111;S",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774855,
+  "lat": 48.8246129,
+  "lon": 2.1427142,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Brèche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9296",
+    "ref:FR:STIF:stop_id": "StopPoint:50:400",
+    "route_ref": "111"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774862,
+  "lat": 48.8080178,
+  "lon": 2.1442177,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "États-Unis Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4214",
+    "ref:FR:STIF:stop_id": "StopPoint:2:198",
+    "route_ref": "7;111;D;E",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774885,
+  "lat": 48.8083200,
+  "lon": 2.1403881,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Provence",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4212",
+    "ref:FR:STIF:stop_id": "StopPoint:2:196",
+    "route_ref": "7;9;A;S;V;Y",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774891,
+  "lat": 48.7999726,
+  "lon": 2.1415197,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coypel - Champ Lagarde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4300",
+    "ref:FR:STIF:stop_id": "StopPoint:50:651;StopPoint:2:321",
+    "ref:opendata_versailles": "b4620d08-c929-4389-b7ad-ba84de06a482",
+    "route_ref": "1;111;R",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774900,
+  "lat": 48.8084113,
+  "lon": 2.1405119,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Provence",
+    "public_transport": "platform",
+    "ref:FR:STIF": "17557",
+    "ref:FR:STIF:stop_id": "StopPoint:50:482;StopPoint:2:195",
+    "route_ref": "7:111;D;U",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774909,
+  "lat": 48.8000996,
+  "lon": 2.1415310,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coypel - Champ Lagarde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4299",
+    "ref:FR:STIF:stop_id": "StopPoint:50:390;StopPoint:2:320",
+    "ref:opendata_versailles": "b4620d08-c929-4389-b7ad-ba84de06a482",
+    "route_ref": "1;111;R",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774918,
+  "lat": 48.7996653,
+  "lon": 2.1241603,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rue de Satory",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20637;4319",
+    "ref:FR:STIF:stop_id": "StopPoint:41:5916;StopPoint:2:425;StopPoint:50:301",
+    "route_ref": "11;40;44;401;P",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774932,
+  "lat": 48.8088577,
+  "lon": 2.1349265,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles Rive Droite - Boulevard de la Reine",
+    "note": "le bus 111 vers Centre Madeleine Daniélou passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20543",
+    "ref:opendata_versailles": "c5cc2d7e-bd84-4b79-984b-c62f7eab1dec",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774938,
+  "lat": 48.8081520,
+  "lon": 2.1439090,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "isYRQZyAle8ZHIJo-5DOlw",
+    "name": "États-Unis Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4213",
+    "ref:FR:STIF:stop_id": "StopPoint:50:652;StopPoint:2:197",
+    "route_ref": "7;111;D",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "survey:date": "2017-05-23",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774959,
+  "lat": 48.8030124,
+  "lon": 2.1456377,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Rameau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4238",
+    "ref:FR:STIF:stop_id": "StopPoint:50:391;StopPoint:2:227",
+    "route_ref": "111;D;R",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931774981,
+  "lat": 48.8149239,
+  "lon": 2.1291649,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de la Loi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34625",
+    "ref:FR:STIF:stop_id": "StopPoint:15:273",
+    "route_ref": "1;2;9;19;111;Express 1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-09-04",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931775288,
+  "lat": 48.8114208,
+  "lon": 2.1265198,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Berthier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4125",
+    "ref:FR:STIF:stop_id": "StopPoint:15:276",
+    "route_ref": "1;2;111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931775353,
+  "lat": 48.8113309,
+  "lon": 2.1348029,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Beauvau Rémilly",
+    "note": "le bus 111 vers Versailles Rive Gauche passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4129",
+    "ref:FR:STIF:stop_id": "StopPoint:50:648;StopPoint:2:74",
+    "route_ref": "1;3;5;111;Nuit1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931775374,
+  "lat": 48.8150783,
+  "lon": 2.1284444,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de la Loi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4123",
+    "ref:FR:STIF:stop_id": "StopPoint:15:274",
+    "route_ref": "1;2;5;9;19;111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931776585,
+  "lat": 48.8221101,
+  "lon": 2.1423872,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point de la Chapelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20233",
+    "ref:FR:STIF:stop_id": "StopPoint:2:164",
+    "route_ref": "7;111;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931776626,
+  "lat": 48.8087024,
+  "lon": 2.1354575,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles-Rive-Droite - Boulevard de la Reine",
+    "note": "le bus 111 vers Versailles Rive Gauche passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20544",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5931796961,
+  "lat": 48.8091498,
+  "lon": 2.1299656,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Musée Lambinet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411936",
+    "ref:FR:STIF:stop_id": "StopPoint:50:395",
+    "ref:opendata_versailles": "744f2a3a-bdf0-4ff1-aa18-f01f01bfbde8",
+    "route_ref": "111;TRI",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931802088,
+  "lat": 48.8091330,
+  "lon": 2.1253590,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Théâtre Montansier",
+    "old_name": "Réservoirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34629",
+    "ref:FR:STIF:stop_id": "StopPoint:15:277",
+    "route_ref": "1;2;111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931802094,
+  "lat": 48.8091808,
+  "lon": 2.1308362,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Musée Lambinet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411935",
+    "ref:FR:STIF:stop_id": "StopPoint:50:654",
+    "route_ref": "111",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5931802104,
+  "lat": 48.8192477,
+  "lon": 2.1389693,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Laboulaye",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19914",
+    "ref:FR:STIF:stop_id": "StopPoint:2:530",
+    "route_ref": "8;106;111;V;U;O;ILAB",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5985587486,
+  "lat": 48.7970618,
+  "lon": 2.1540705,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20251",
+    "ref:FR:STIF:stop_id": "StopPoint:2:443",
+    "route_ref": "8;O",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6009763227,
+  "lat": 48.7968570,
+  "lon": 2.1540204,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20250",
+    "ref:FR:STIF:stop_id": "StopPoint:2:442",
+    "route_ref": "8;O",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6025048317,
+  "lat": 48.7964076,
+  "lon": 2.1371177,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles-Chantiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19915",
+    "ref:FR:STIF:stop_id": "StopPoint:2:687",
+    "route_ref": "TRI;Tex",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6025067784,
+  "lat": 48.7974166,
+  "lon": 2.1354503,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - États Généraux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4267",
+    "ref:FR:STIF:stop_id": "StopPoint:2:258",
+    "route_ref": "4;B",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6025178343,
+  "lat": 48.7948339,
+  "lon": 2.1380646,
+  "tags": {
+    "alt_name": "Porte de Buc",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - Cour de Buc",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6025742376,
+  "lat": 48.7988217,
+  "lon": 2.1283570,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462067",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1520",
+    "route_ref": "K;P",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6025742377,
+  "lat": 48.7990841,
+  "lon": 2.1291043,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462068",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1519",
+    "route_ref": "K;P",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6070418931,
+  "lat": 48.7959510,
+  "lon": 2.1255239,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Bourdonnais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4271",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6171093401,
+  "lat": 48.7941802,
+  "lon": 2.1376140,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Porte de Buc",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare des Chantiers - Cour de Buc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20265",
+    "ref:opendata_versailles": "f7da6015-a2e9-4cb5-a5b2-85d7bae3bada?????",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6171139969,
+  "lat": 48.7903773,
+  "lon": 2.1354202,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6176369088,
+  "lat": 48.8099646,
+  "lon": 2.1491894,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462069",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1518",
+    "route_ref": "8;10;13;105;F;E;O;V",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6176369089,
+  "lat": 48.8073377,
+  "lon": 2.1444549,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "République - États-Unis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4342",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6176369090,
+  "lat": 48.8057001,
+  "lon": 2.1403270,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Alexandre 1er de Yougoslavie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4305",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6176369091,
+  "lat": 48.8074300,
+  "lon": 2.1443210,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "République - États-Unis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4341",
+    "ref:FR:STIF:stop_id": "StopPoint:2:507",
+    "route_ref": "10;105;F;I",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6176472568,
+  "lat": 48.8097615,
+  "lon": 2.1342460,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare de Versailles-Rive-Droite",
+    "public_transport": "platform",
+    "ref:FR:STIF": "477271",
+    "route_ref": "471",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6188153870,
+  "lat": 48.8144251,
+  "lon": 2.1572828,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20398",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1105",
+    "route_ref": "E;V",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6188153871,
+  "lat": 48.8132900,
+  "lon": 2.1551180,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gauthier de Clagny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20238",
+    "ref:FR:STIF:stop_id": "StopPoint:2:177",
+    "route_ref": "E;V",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6188153874,
+  "lat": 48.7949820,
+  "lon": 2.1233080,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Borgnis - Desbordes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4276",
+    "ref:FR:STIF:stop_id": "StopPoint:2:269",
+    "route_ref": "3;10;A;E;K;Nuit3",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6188153875,
+  "lat": 48.7951273,
+  "lon": 2.1214990,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lycée Jules Ferry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4278",
+    "ref:FR:STIF:stop_id": "StopPoint:2:271",
+    "route_ref": "3;10;E;K;Nuit3",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6188153880,
+  "lat": 48.8145890,
+  "lon": 2.1570994,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Picardie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20413",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1124",
+    "route_ref": "E;V",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6198272822,
+  "lat": 48.7901236,
+  "lon": 2.1480712,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cisterciens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20396",
+    "ref:FR:STIF:stop_id": "StopPoint:80:32",
+    "route_ref": "22;Z",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6198272826,
+  "lat": 48.7898733,
+  "lon": 2.1480276,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cisterciens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20395",
+    "ref:FR:STIF:stop_id": "StopPoint:80:31",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233552540,
+  "lat": 48.7857520,
+  "lon": 2.0926876,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory Mobilab",
+    "old_name": "Satory INRETS",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462066",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233753145,
+  "lat": 48.7999789,
+  "lon": 2.1276993,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Versailles Château Rive-Gauche",
+    "note": "tour buses",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233891612,
+  "lat": 48.7853276,
+  "lon": 2.1239445,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Satory",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426654",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960629,
+  "lat": 48.8198080,
+  "lon": 2.1453370,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Haig",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20261",
+    "ref:FR:STIF:stop_id": "StopPoint:2:499",
+    "route_ref": "8;O",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960630,
+  "lat": 48.8054891,
+  "lon": 2.1515101,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexis Fourcault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20259",
+    "ref:FR:STIF:stop_id": "StopPoint:2:485",
+    "route_ref": "6;8;14",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960633,
+  "lat": 48.7949920,
+  "lon": 2.1563660,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Square Lamôme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426645",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1480",
+    "route_ref": "8;O",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960634,
+  "lat": 48.7938800,
+  "lon": 2.1580700,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Stade de Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20254",
+    "ref:FR:STIF:stop_id": "StopPoint:2:448",
+    "ref:opendata_versailles": "3fa48175-3fbd-4a85-881c-354b4386b40b",
+    "route_ref": "8;O",
+    "shelter": "no",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960638,
+  "lat": 48.8050204,
+  "lon": 2.1523256,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Alexis Fourcault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20258",
+    "ref:FR:STIF:stop_id": "StopPoint:2:484",
+    "route_ref": "8;O",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6233960639,
+  "lat": 48.8197630,
+  "lon": 2.1451870,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Haig",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20262",
+    "ref:FR:STIF:stop_id": "StopPoint:2:500",
+    "route_ref": "8;O",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6234053428,
+  "lat": 48.8016160,
+  "lon": 2.1047360,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dépôt Phébus",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20408",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6234053429,
+  "lat": 48.8008800,
+  "lon": 2.1095290,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "le dépôt de bus est dans le GTFS de l'Île-de-France, il serait donc ouvert au public comme arrêt de bus ?",
+    "highway": "bus_stop",
+    "name": "Dépôt Keolis Versailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4256"
+  }
+},
+{
+  "type": "node",
+  "id": 6234229490,
+  "lat": 48.8199440,
+  "lon": 2.1460300,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Haig",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9295",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6234229491,
+  "lat": 48.8166800,
+  "lon": 2.1452940,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20237",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6234229496,
+  "lat": 48.8107807,
+  "lon": 2.1434595,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Solférino",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20240",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6416426093,
+  "lat": 48.8030918,
+  "lon": 2.1273304,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Versailles Château",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411924",
+    "ref:FR:STIF:stop_id": "StopPoint:15:411",
+    "route_ref": "1",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6416426094,
+  "lat": 48.8003757,
+  "lon": 2.1279882,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34696",
+    "ref:FR:STIF:stop_id": "StopPoint:15:413",
+    "route_ref": "1",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-07-29",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6461260102,
+  "lat": 48.8108916,
+  "lon": 2.1508798,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20248",
+    "ref:FR:STIF:stop_id": "StopPoint:2:407",
+    "route_ref": "E;V",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6536912097,
+  "lat": 48.7927720,
+  "lon": 2.1282523,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Saint-Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20287",
+    "ref:FR:STIF:stop_id": "StopPoint:2:929",
+    "route_ref": "103;L",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6540015931,
+  "lat": 48.8007825,
+  "lon": 2.1359320,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9956",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6547784581,
+  "lat": 48.8069288,
+  "lon": 2.1309724,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Marché Notre-Dame",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4351",
+    "ref:opendata_versailles": "d45ae312-3799-466b-b924-e702cf7c5cec",
+    "shelter": "yes",
+    "source": "http://siteopendataversailles.cloudapp.net/",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6547784584,
+  "lat": 48.7952180,
+  "lon": 2.1562161,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Square Lamôme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27029",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6547790787,
+  "lat": 48.7980364,
+  "lon": 2.1612226,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porchefontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4298",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6547790788,
+  "lat": 48.7951811,
+  "lon": 2.1563476,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Square Lamôme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27028",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6584072755,
+  "lat": 48.8096465,
+  "lon": 2.1337710,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gare de Versailles Rive Droite",
+    "note": "le bus 39-40 vers Buc passe également à cet arrêt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29067",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-09-04",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6606009786,
+  "lat": 48.8000611,
+  "lon": 2.1282048,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gare de Versailles Château - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411253",
+    "ref:FR:STIF:stop_id": "StopPoint:80:83",
+    "route_ref": "22",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6608619464,
+  "lat": 48.7954881,
+  "lon": 2.1331816,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608619465,
+  "lat": 48.7956106,
+  "lon": 2.1334085,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "route_ref": "1;2;13",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608619466,
+  "lat": 48.7957178,
+  "lon": 2.1336204,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "note": "quai I. Ligne 39-12",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608619467,
+  "lat": 48.7953745,
+  "lon": 2.1329638,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681557,
+  "lat": 48.7953752,
+  "lon": 2.1337937,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "covered": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "route_ref": "1;2;13",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681560,
+  "lat": 48.7952556,
+  "lon": 2.1333109,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681561,
+  "lat": 48.7953570,
+  "lon": 2.1335108,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681562,
+  "lat": 48.7954795,
+  "lon": 2.1337377,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681563,
+  "lat": 48.7955867,
+  "lon": 2.1339496,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681564,
+  "lat": 48.7952918,
+  "lon": 2.1330739,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681565,
+  "lat": 48.7953889,
+  "lon": 2.1332662,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681566,
+  "lat": 48.7955114,
+  "lon": 2.1334931,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6608681567,
+  "lat": 48.7956186,
+  "lon": 2.1337050,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Gare Routière",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6610285744,
+  "lat": 48.8049829,
+  "lon": 2.1329095,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe - Saint-Cloud",
+    "public_transport": "platform",
+    "route_ref": "5",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610363475,
+  "lat": 48.8158020,
+  "lon": 2.1465630,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lemercier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4198",
+    "ref:FR:STIF:stop_id": "StopPoint:2:173",
+    "route_ref": "G",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610363476,
+  "lat": 48.8135047,
+  "lon": 2.1366100,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Houdon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9958",
+    "ref:FR:STIF:stop_id": "StopPoint:2:690",
+    "route_ref": "G",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610363477,
+  "lat": 48.7974850,
+  "lon": 2.1357460,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420481",
+    "ref:FR:STIF:stop_id": "StopPoint:2:1464",
+    "route_ref": "G",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610363478,
+  "lat": 48.8136200,
+  "lon": 2.1367860,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Houdon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4333",
+    "ref:FR:STIF:stop_id": "StopPoint:2:489",
+    "route_ref": "G",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610363480,
+  "lat": 48.8147640,
+  "lon": 2.1496150,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pershing - Lemercier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4201",
+    "ref:FR:STIF:stop_id": "StopPoint:2:176",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610621831,
+  "lat": 48.7938003,
+  "lon": 2.1575233,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Stade de Porchefontaine",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610642033,
+  "lat": 48.7909536,
+  "lon": 2.1552783,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Centre Sportif",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610642034,
+  "lat": 48.7910526,
+  "lon": 2.1552729,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Centre Sportif",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6610642035,
+  "lat": 48.7891096,
+  "lon": 2.1525116,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Les Grands Chênes",
+    "public_transport": "platform",
+    "route_ref": "8"
+  }
+},
+{
+  "type": "node",
+  "id": 6612639848,
+  "lat": 48.8156935,
+  "lon": 2.1291013,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Place de la Loi",
+    "public_transport": "platform",
+    "route_ref": "1;5"
+  }
+},
+{
+  "type": "node",
+  "id": 6612659501,
+  "lat": 48.8055982,
+  "lon": 2.1561534,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Bazin",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "start_date": "26/08/2019",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6612659502,
+  "lat": 48.8063229,
+  "lon": 2.1558416,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Bazin",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "start_date": "26/08/2019",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6612659503,
+  "lat": 48.8038741,
+  "lon": 2.1537657,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Grand Siècle",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6612659504,
+  "lat": 48.8040358,
+  "lon": 2.1541416,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Grand Siècle",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6612675815,
+  "lat": 48.8067147,
+  "lon": 2.1523159,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Montreuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "477513",
+    "route_ref": "1"
+  }
+},
+{
+  "type": "node",
+  "id": 6612675816,
+  "lat": 48.8068472,
+  "lon": 2.1518507,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Montreuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "477514",
+    "route_ref": "1",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6612695889,
+  "lat": 48.8012715,
+  "lon": 2.1467080,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Saint-Charles",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6613038236,
+  "lat": 48.7984754,
+  "lon": 2.1598636,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porchefontaine - Louis XIV",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6615082997,
+  "lat": 48.8051058,
+  "lon": 2.1322965,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe - Saint-Cloud",
+    "public_transport": "platform",
+    "route_ref": "5",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6615205239,
+  "lat": 48.7886661,
+  "lon": 2.1250451,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Jayat",
+    "public_transport": "platform",
+    "route_ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 6615205240,
+  "lat": 48.7886511,
+  "lon": 2.1250847,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Jayat",
+    "public_transport": "platform",
+    "route_ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 6615205241,
+  "lat": 48.7900091,
+  "lon": 2.1352476,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Bois des Gonards",
+    "public_transport": "platform",
+    "route_ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 6615205242,
+  "lat": 48.7899746,
+  "lon": 2.1353361,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Bois des Gonards",
+    "public_transport": "platform",
+    "route_ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 6615612343,
+  "lat": 48.8069730,
+  "lon": 2.1477011,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Lesseps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "477512",
+    "route_ref": "7;14",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6615612344,
+  "lat": 48.8100775,
+  "lon": 2.1403196,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Albert Joly",
+    "public_transport": "platform",
+    "route_ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 6615612345,
+  "lat": 48.8100024,
+  "lon": 2.1401829,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Albert Joly",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6615612346,
+  "lat": 48.8198597,
+  "lon": 2.1420228,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Place de la Paix",
+    "public_transport": "platform",
+    "route_ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 6615612347,
+  "lat": 48.8198632,
+  "lon": 2.1419062,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "fixme": "position approximative",
+    "highway": "bus_stop",
+    "name": "Place de la Paix",
+    "public_transport": "platform",
+    "route_ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 6709606200,
+  "lat": 48.7966320,
+  "lon": 2.1357490,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Versailles Chantiers - Abbé Rousseaux",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "survey:date": "2019-08-14",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6764132293,
+  "lat": 48.7993363,
+  "lon": 2.1287677,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Rive Gauche - Sceaux",
+    "public_transport": "platform",
+    "route_ref": "11;439;440",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6780888320,
+  "lat": 48.7999278,
+  "lon": 2.1391447,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vergennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4270",
+    "ref:FR:STIF:stop_id": "StopPoint:2:261",
+    "route_ref": "1;24",
+    "shelter": "no",
+    "source": "Bing",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7932546133,
+  "lat": 48.8095736,
+  "lon": 2.1478634,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "fixme": "Ligne de bus à ajouter",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Université",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,6733 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 21492380,
+  "lat": 45.7858189,
+  "lon": 3.0649888,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Routes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 21647160,
+  "lat": 45.7758180,
+  "lon": 3.0868317,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ballainvilliers",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 25891561,
+  "lat": 45.7797658,
+  "lon": 3.0918111,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Salford",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 25891755,
+  "lat": 45.7700776,
+  "lon": 3.1078922,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Château",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 303386074,
+  "lat": 45.7770544,
+  "lon": 3.0812410,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jaude",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 321488397,
+  "lat": 45.7803010,
+  "lon": 3.1140570,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Herbet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 321488407,
+  "lat": 45.7840935,
+  "lon": 3.0686839,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Goncourt",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 321488408,
+  "lat": 45.7877238,
+  "lon": 3.0595752,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Champradet",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 566727685,
+  "lat": 45.7817097,
+  "lon": 3.1197627,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Centre routier",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 566727688,
+  "lat": 45.7817993,
+  "lon": 3.1200105,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Centre routier",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614143330,
+  "lat": 45.7808151,
+  "lon": 3.1035692,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Patriotes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614143333,
+  "lat": 45.7811114,
+  "lon": 3.1037367,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Patriotes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614190734,
+  "lat": 45.7939022,
+  "lon": 3.0911131,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charcot Fontaine du Large",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 766838076,
+  "lat": 45.8086585,
+  "lon": 3.1294111,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Brugeron",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 766847070,
+  "lat": 45.7942956,
+  "lon": 3.1169097,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-10-19",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Roger Quilliot",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 766850201,
+  "lat": 45.7641531,
+  "lon": 3.1126756,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 795854487,
+  "lat": 45.7846063,
+  "lon": 3.1086925,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CHU Estaing",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 836689160,
+  "lat": 45.7796730,
+  "lon": 3.1204644,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kepler",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 850882276,
+  "lat": 45.7646169,
+  "lon": 3.1244507,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oradou Gantière",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 850882404,
+  "lat": 45.7701727,
+  "lon": 3.1068323,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Château",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 850882497,
+  "lat": 45.7638265,
+  "lon": 3.1167735,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landais",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 850882589,
+  "lat": 45.7649212,
+  "lon": 3.1237981,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oradou Gantière",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 851003692,
+  "lat": 45.7651383,
+  "lon": 3.0822337,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Verdun",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 856464466,
+  "lat": 45.7925701,
+  "lon": 3.1448407,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gagarine",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 856464734,
+  "lat": 45.7926800,
+  "lon": 3.1461790,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gagarine",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 943806151,
+  "lat": 45.7783922,
+  "lon": 3.1044271,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Banville",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 960753165,
+  "lat": 45.7657862,
+  "lon": 3.1086647,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Rochefeuille",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 960753166,
+  "lat": 45.7660593,
+  "lon": 3.1079683,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Rochefeuille",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 960753172,
+  "lat": 45.7580348,
+  "lon": 3.1262651,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flaubert",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 960753174,
+  "lat": 45.7611041,
+  "lon": 3.1205587,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Margeride",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 960753193,
+  "lat": 45.7610509,
+  "lon": 3.1328991,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pardieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 960753194,
+  "lat": 45.7624906,
+  "lon": 3.1292340,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Lafayette",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 960753195,
+  "lat": 45.7626707,
+  "lon": 3.1294806,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Lafayette",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 960753211,
+  "lat": 45.7589802,
+  "lon": 3.1447208,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Cristal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101660,
+  "lat": 45.8117152,
+  "lon": 3.1146012,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Plaine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "local_knowledge",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101724,
+  "lat": 45.8148885,
+  "lon": 3.1074216,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neyrat",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101747,
+  "lat": 45.8147504,
+  "lon": 3.1077350,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neyrat",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101779,
+  "lat": 45.8139622,
+  "lon": 3.1069667,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix de Neyrat",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101789,
+  "lat": 45.8116180,
+  "lon": 3.1141980,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Plaine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "local_knowledge",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1014101854,
+  "lat": 45.8145068,
+  "lon": 3.1071304,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix de Neyrat",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1270846019,
+  "lat": 45.7686462,
+  "lon": 3.1043761,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Raye Dieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1270846028,
+  "lat": 45.7686053,
+  "lon": 3.1042431,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Raye Dieu",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1297228933,
+  "lat": 45.7701304,
+  "lon": 3.1019019,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Port Royal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1297228940,
+  "lat": 45.7704340,
+  "lon": 3.1011779,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Port Royal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1362109539,
+  "lat": 45.7732847,
+  "lon": 3.0982890,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pradelle",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1582520320,
+  "lat": 45.7745829,
+  "lon": 3.0963197,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302493,
+  "lat": 45.7805174,
+  "lon": 3.1174437,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aubrac",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302503,
+  "lat": 45.7808732,
+  "lon": 3.1173957,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Aubrac",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302506,
+  "lat": 45.7813665,
+  "lon": 3.1179762,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aubrac",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302510,
+  "lat": 45.7785134,
+  "lon": 3.0936559,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Audollent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302520,
+  "lat": 45.7789647,
+  "lon": 3.0931860,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Audollent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302528,
+  "lat": 45.7753205,
+  "lon": 3.0869246,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Ballainvilliers",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06083",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51386",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302534,
+  "lat": 45.7753191,
+  "lon": 3.0867120,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Ballainvilliers",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06499",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51407",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302549,
+  "lat": 45.7757253,
+  "lon": 3.0863276,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ballainvilliers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302554,
+  "lat": 45.7758852,
+  "lon": 3.0868251,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Ballainvilliers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302566,
+  "lat": 45.7728134,
+  "lon": 3.0928379,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Barrière d'Issoire",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302617,
+  "lat": 45.7610767,
+  "lon": 3.0893736,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "CHU Gabriel Montpied",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302643,
+  "lat": 45.7761728,
+  "lon": 3.0952564,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Carnot",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302661,
+  "lat": 45.7762990,
+  "lon": 3.0943781,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Carnot",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06283",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51397",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302675,
+  "lat": 45.7824235,
+  "lon": 3.1180682,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre routier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302758,
+  "lat": 45.7805826,
+  "lon": 3.0914712,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Montlosier",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302764,
+  "lat": 45.7805362,
+  "lon": 3.0909392,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Montlosier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302781,
+  "lat": 45.7798200,
+  "lon": 3.0918675,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Delille Salford",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302792,
+  "lat": 45.7650852,
+  "lon": 3.0864874,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Dolet",
+    "network": "T2C",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009;local knowledge",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302814,
+  "lat": 45.7646997,
+  "lon": 3.0866635,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Dolet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302821,
+  "lat": 45.7774780,
+  "lon": 3.0955957,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Esplanade",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302840,
+  "lat": 45.7776401,
+  "lon": 3.0950213,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302856,
+  "lat": 45.7746426,
+  "lon": 3.0963339,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302867,
+  "lat": 45.7756240,
+  "lon": 3.0962144,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302869,
+  "lat": 45.7760569,
+  "lon": 3.0961621,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302910,
+  "lat": 45.7629123,
+  "lon": 3.1233057,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontaine du Bac",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302928,
+  "lat": 45.7629406,
+  "lon": 3.1234175,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontaine du Bac",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302937,
+  "lat": 45.7802369,
+  "lon": 3.0817682,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gaillard",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302973,
+  "lat": 45.7889993,
+  "lon": 3.1179561,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gravanches",
+    "operator": "T2C; Keolis Pays des Volcans",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627302980,
+  "lat": 45.7893893,
+  "lon": 3.1181672,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gravanches",
+    "operator": "T2C; Keolis Pays des Volcans",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303007,
+  "lat": 45.7770189,
+  "lon": 3.0813408,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jaude",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303020,
+  "lat": 45.7770575,
+  "lon": 3.0807495,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jaude",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303047,
+  "lat": 45.7666535,
+  "lon": 3.1342588,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pardieu Gare",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303054,
+  "lat": 45.7613312,
+  "lon": 3.1314336,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pardieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303128,
+  "lat": 45.7713739,
+  "lon": 3.0868137,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Lecoq",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303148,
+  "lat": 45.7718719,
+  "lon": 3.0869871,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Lecoq",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303197,
+  "lat": 45.7660642,
+  "lon": 3.1045850,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Meuniers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303202,
+  "lat": 45.7660650,
+  "lon": 3.1051757,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Meuniers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303222,
+  "lat": 45.7777649,
+  "lon": 3.0900857,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Michel de l'Hospital",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303242,
+  "lat": 45.7777926,
+  "lon": 3.0903307,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Michel de l'Hospital",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303303,
+  "lat": 45.7771431,
+  "lon": 3.1013013,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Parc SNCF - Quai 8",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Maxar Premium Imagery (Beta)",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303327,
+  "lat": 45.7863769,
+  "lon": 3.1180111,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Saint-Jean",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303334,
+  "lat": 45.7876854,
+  "lon": 3.1204919,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Saint-Jean",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303339,
+  "lat": 45.7728274,
+  "lon": 3.0949395,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Naud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303362,
+  "lat": 45.7733064,
+  "lon": 3.0943129,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Naud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303376,
+  "lat": 45.7735481,
+  "lon": 3.0953961,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Naud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303444,
+  "lat": 45.7611887,
+  "lon": 3.0948641,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Saint-Jacques Loucheur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303474,
+  "lat": 45.7714048,
+  "lon": 3.0826591,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Salins Pasteur",
+    "note": "Les lignes Flixbus s’arrêtent ici le dimanche entre 5h et 16h",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303500,
+  "lat": 45.7716554,
+  "lon": 3.0825261,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Salins Pasteur",
+    "note": "Les lignes Flixbus s’arrêtent ici le dimanche entre 5h et 16h",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303532,
+  "lat": 45.7876235,
+  "lon": 3.1064039,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Stade Marcel Michelin",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "B",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303560,
+  "lat": 45.7712794,
+  "lon": 3.0889653,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Universités",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627303571,
+  "lat": 45.7712685,
+  "lon": 3.0886904,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Universités",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627331265,
+  "lat": 45.7762367,
+  "lon": 3.0911937,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Faculté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1627331298,
+  "lat": 45.7763410,
+  "lon": 3.0908380,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Faculté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1818814971,
+  "lat": 45.8115154,
+  "lon": 3.1092847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clemont-Ferrand - Clémentel",
+    "public_transport": "stop_position",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1827042788,
+  "lat": 45.7882153,
+  "lon": 3.0629776,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tamaris",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850265437,
+  "lat": 45.7893011,
+  "lon": 3.0914370,
+  "tags": {
+    "abandoned": "yes",
+    "highway": "bus_stop",
+    "name": "Thévenot Thibaud",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1850265456,
+  "lat": 45.8078173,
+  "lon": 3.1226640,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sardou",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850265486,
+  "lat": 45.8078538,
+  "lon": 3.1259749,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Iliane",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850265499,
+  "lat": 45.8077256,
+  "lon": 3.1264536,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Iliane",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850265504,
+  "lat": 45.8076839,
+  "lon": 3.1221200,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sardou",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329959,
+  "lat": 45.7959169,
+  "lon": 3.0855220,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vernière",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329972,
+  "lat": 45.7753075,
+  "lon": 3.0737961,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Banque de France",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329975,
+  "lat": 45.7767072,
+  "lon": 3.0779455,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre Varenne",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329976,
+  "lat": 45.7767448,
+  "lon": 3.0773468,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre Varenne",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329978,
+  "lat": 45.7809258,
+  "lon": 3.0761773,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "5;32",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1850329982,
+  "lat": 45.7771231,
+  "lon": 3.0734507,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Franklin Roosevelt",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792220,
+  "lat": 45.8071250,
+  "lon": 3.1191629,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Viviani",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792223,
+  "lat": 45.8001724,
+  "lon": 3.1211040,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792224,
+  "lat": 45.8095836,
+  "lon": 3.1198730,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mercoeur",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792227,
+  "lat": 45.8025753,
+  "lon": 3.1196798,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardiniers",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792267,
+  "lat": 45.8049991,
+  "lon": 3.1188437,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Edgar Quinet",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792305,
+  "lat": 45.8095775,
+  "lon": 3.1197094,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mercoeur",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792306,
+  "lat": 45.8002808,
+  "lon": 3.1213293,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792311,
+  "lat": 45.8050757,
+  "lon": 3.1187069,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Edgar Quinet",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851792328,
+  "lat": 45.8033194,
+  "lon": 3.1195108,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardiniers",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851811994,
+  "lat": 45.7863013,
+  "lon": 3.1366286,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jules Verne",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851811997,
+  "lat": 45.7900439,
+  "lon": 3.1300438,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gay Lussac",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851811998,
+  "lat": 45.7900251,
+  "lon": 3.1305400,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gay Lussac",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851811999,
+  "lat": 45.7813540,
+  "lon": 3.1226597,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cugnot",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812006,
+  "lat": 45.7863126,
+  "lon": 3.1368674,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jules Verne",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812007,
+  "lat": 45.7914490,
+  "lon": 3.1391319,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812008,
+  "lat": 45.7884748,
+  "lon": 3.1375191,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Palissy",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812009,
+  "lat": 45.7930868,
+  "lon": 3.1540228,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ouragan",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812010,
+  "lat": 45.7915183,
+  "lon": 3.1397059,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812011,
+  "lat": 45.7904908,
+  "lon": 3.1355182,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Élisée Reclus",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812012,
+  "lat": 45.7820086,
+  "lon": 3.1267474,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Pré Moreau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812013,
+  "lat": 45.7883232,
+  "lon": 3.1377820,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Palissy",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812014,
+  "lat": 45.7976679,
+  "lon": 3.1192709,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Charme",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812015,
+  "lat": 45.7885420,
+  "lon": 3.1255538,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Docteur Mally",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812016,
+  "lat": 45.7931223,
+  "lon": 3.1537787,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ouragan",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812017,
+  "lat": 45.7892995,
+  "lon": 3.1352554,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Frères Lumière",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812018,
+  "lat": 45.7893107,
+  "lon": 3.1351293,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Frères Lumière",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812019,
+  "lat": 45.7813508,
+  "lon": 3.1236181,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cugnot",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812020,
+  "lat": 45.7838885,
+  "lon": 3.1309772,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gutenberg",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812021,
+  "lat": 45.7821583,
+  "lon": 3.1269298,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Pré Moreau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812022,
+  "lat": 45.7837538,
+  "lon": 3.1308270,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gutenberg",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812023,
+  "lat": 45.7905321,
+  "lon": 3.1354163,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Élisée Reclus",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812024,
+  "lat": 45.7978481,
+  "lon": 3.1192855,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Charme",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1851812025,
+  "lat": 45.7884765,
+  "lon": 3.1251890,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Docteur Mally",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851835095,
+  "lat": 45.7939003,
+  "lon": 3.1586898,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Aviation",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851835120,
+  "lat": 45.7938205,
+  "lon": 3.1588542,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Aviation",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851847022,
+  "lat": 45.7792618,
+  "lon": 3.1246554,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Ronzières",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851847023,
+  "lat": 45.7797058,
+  "lon": 3.1287389,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Agriculture",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851847026,
+  "lat": 45.7797548,
+  "lon": 3.1369070,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Rodolphe Diesel",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "9",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1851847027,
+  "lat": 45.7789566,
+  "lon": 3.1268902,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ronzières",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1851847038,
+  "lat": 45.7798668,
+  "lon": 3.1333349,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Brézet",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06500",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51408",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1853474670,
+  "lat": 45.7826364,
+  "lon": 3.0720347,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambre de Commerce",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1853474674,
+  "lat": 45.7888406,
+  "lon": 3.0628278,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Tamaris",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1853474703,
+  "lat": 45.7875050,
+  "lon": 3.0598578,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Champradet",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 1860708894,
+  "lat": 45.7607179,
+  "lon": 3.1225495,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foisses",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1860708895,
+  "lat": 45.7609124,
+  "lon": 3.1227384,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foisses",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1884154626,
+  "lat": 45.7567580,
+  "lon": 3.0957706,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Montalembert",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1884154816,
+  "lat": 45.7572206,
+  "lon": 3.0969149,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Jacques",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1884154901,
+  "lat": 45.7572000,
+  "lon": 3.0966182,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Jacques",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1884218980,
+  "lat": 45.7587587,
+  "lon": 3.0865922,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liondards",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "T2c"
+  }
+},
+{
+  "type": "node",
+  "id": 1884219020,
+  "lat": 45.7590334,
+  "lon": 3.0867568,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Liondards",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1930443169,
+  "lat": 45.7817743,
+  "lon": 3.0736639,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Chambre de Commerce",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "5",
+    "shelter": "public_transport",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1930443172,
+  "lat": 45.7824224,
+  "lon": 3.0742213,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chambre de Commerce",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988393,
+  "lat": 45.7594325,
+  "lon": 3.0842392,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vallières",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988433,
+  "lat": 45.7685062,
+  "lon": 3.0796082,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Littré",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988453,
+  "lat": 45.7682183,
+  "lon": 3.0865320,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Rabanesse",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988454,
+  "lat": 45.7675491,
+  "lon": 3.0870932,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Rabanesse",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988455,
+  "lat": 45.7701877,
+  "lon": 3.0872999,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Raynaud",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey 2013",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988462,
+  "lat": 45.7682881,
+  "lon": 3.0780026,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rivière",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988469,
+  "lat": 45.7685792,
+  "lon": 3.0781376,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rivière",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988483,
+  "lat": 45.7608880,
+  "lon": 3.0821428,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Stade Municipal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988492,
+  "lat": 45.7613593,
+  "lon": 3.0821720,
+  "tags": {
+    "alt_name": "Stade Municipal",
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Stade P. Marcombes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988494,
+  "lat": 45.7617567,
+  "lon": 3.0831185,
+  "tags": {
+    "alt_name": "Stade Municipal",
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Stade P. Marcombes",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988495,
+  "lat": 45.7662500,
+  "lon": 3.0780968,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Theuriet",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988496,
+  "lat": 45.7664451,
+  "lon": 3.0782170,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Theuriet",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988506,
+  "lat": 45.7637063,
+  "lon": 3.0799332,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Volney",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933988516,
+  "lat": 45.7637328,
+  "lon": 3.0800542,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Volney",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1933989340,
+  "lat": 45.7703635,
+  "lon": 3.0787481,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "8 Mai",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010843,
+  "lat": 45.7693948,
+  "lon": 3.0763668,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010911,
+  "lat": 45.7751853,
+  "lon": 3.0955142,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010919,
+  "lat": 45.7673502,
+  "lon": 3.0819033,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010929,
+  "lat": 45.7680922,
+  "lon": 3.0831574,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010952,
+  "lat": 45.7655565,
+  "lon": 3.0830174,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de Verdun",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010980,
+  "lat": 45.7581802,
+  "lon": 3.0809096,
+  "tags": {
+    "bench": "yes",
+    "check_date:shelter": "2020-12-01",
+    "highway": "bus_stop",
+    "name": "Pont de Vallières",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010987,
+  "lat": 45.7582666,
+  "lon": 3.0810644,
+  "tags": {
+    "bench": "yes",
+    "check_date:shelter": "2020-12-01",
+    "highway": "bus_stop",
+    "name": "Pont de Vallières",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944010997,
+  "lat": 45.7705562,
+  "lon": 3.0775820,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Regensburg",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944011030,
+  "lat": 45.7718265,
+  "lon": 3.0988545,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sacré Cœur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944011035,
+  "lat": 45.7718686,
+  "lon": 3.0989815,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sacré Cœur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944011038,
+  "lat": 45.7697530,
+  "lon": 3.0830048,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Salins Coubertin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944011060,
+  "lat": 45.7697604,
+  "lon": 3.0832852,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Salins Coubertin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944011079,
+  "lat": 45.7682409,
+  "lon": 3.0745656,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Voltaire",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1944012664,
+  "lat": 45.7722741,
+  "lon": 3.0781226,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "8 Mai",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "local_knowledge",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1965485552,
+  "lat": 45.8085630,
+  "lon": 3.1291767,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Brugeron",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1965485725,
+  "lat": 45.7989030,
+  "lon": 3.1176798,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Portefort",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1965485726,
+  "lat": 45.7989655,
+  "lon": 3.1177899,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Portefort",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1965485742,
+  "lat": 45.8024559,
+  "lon": 3.1172764,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Trioux",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1965485745,
+  "lat": 45.8021754,
+  "lon": 3.1171544,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Trioux",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623863,
+  "lat": 45.7889882,
+  "lon": 3.0636401,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Fournières",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623878,
+  "lat": 45.7873218,
+  "lon": 3.0653085,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Limousin",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623879,
+  "lat": 45.7882727,
+  "lon": 3.0642383,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Limousin",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623884,
+  "lat": 45.7883364,
+  "lon": 3.0568709,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Montcharvais",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623885,
+  "lat": 45.7887852,
+  "lon": 3.0562657,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Montcharvais",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623903,
+  "lat": 45.7850779,
+  "lon": 3.0645071,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Quatre Routes",
+    "public_transport": "platform",
+    "ref": "10",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623904,
+  "lat": 45.7858154,
+  "lon": 3.0649124,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Routes",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1988623912,
+  "lat": 45.7880939,
+  "lon": 3.0630381,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tamaris",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2521632242,
+  "lat": 45.7795511,
+  "lon": 3.1010947,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "description": "fr:arrêt provisoire",
+    "highway": "bus_stop",
+    "name": "Desserte Scolaire Institut des Métiers",
+    "public_transport": "platform",
+    "shelter": "no",
+    "strip": "yes",
+    "tactile_paving": "no",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2578153513,
+  "lat": 45.7807425,
+  "lon": 3.0764013,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "5;32",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256448,
+  "lat": 45.7726996,
+  "lon": 3.1106071,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Clovis Hugues",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256449,
+  "lat": 45.7727955,
+  "lon": 3.1106551,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Clovis Hugues",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256452,
+  "lat": 45.7730066,
+  "lon": 3.1140079,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Les Sureaux",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256453,
+  "lat": 45.7730738,
+  "lon": 3.1134634,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Les Sureaux",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256454,
+  "lat": 45.7729183,
+  "lon": 3.1024469,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Rames",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256455,
+  "lat": 45.7730197,
+  "lon": 3.1023812,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Rames",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256456,
+  "lat": 45.7729008,
+  "lon": 3.1173694,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Salvador Allende",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578256457,
+  "lat": 45.7730343,
+  "lon": 3.1170691,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Salvador Allende",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2578264069,
+  "lat": 45.7794177,
+  "lon": 3.1153330,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Herbet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2579448672,
+  "lat": 45.7846490,
+  "lon": 3.1010708,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1er Mai",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2579448676,
+  "lat": 45.7847556,
+  "lon": 3.1005539,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1er Mai",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2579448707,
+  "lat": 45.8024771,
+  "lon": 3.1072382,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Vignes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013; T2C - 2020-12-14",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2579448715,
+  "lat": 45.8028092,
+  "lon": 3.1076409,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Vignes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013; T2C - 2020-12-14",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2579523758,
+  "lat": 45.7805053,
+  "lon": 3.0914413,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Montlosier",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2579529821,
+  "lat": 45.7770208,
+  "lon": 3.0808803,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jaude",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 2579568869,
+  "lat": 45.7612445,
+  "lon": 3.0891349,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "CHU G. Montpied",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2747401632,
+  "lat": 45.8070010,
+  "lon": 3.1192947,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Viviani",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2848913224,
+  "lat": 45.7752929,
+  "lon": 3.0868237,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Ballainvilliers",
+    "network": "Cars Région Puy-de-Dôme",
+    "operator": "Keolis Pays des Volcans",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3002588684,
+  "lat": 45.8019338,
+  "lon": 3.1319346,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stade des Gravanches",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3002588685,
+  "lat": 45.8032594,
+  "lon": 3.1332057,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Québec",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3002612592,
+  "lat": 45.8056514,
+  "lon": 3.1371726,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Zone des Gravanches",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3014460008,
+  "lat": 45.8033725,
+  "lon": 3.1330736,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Québec",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3014460009,
+  "lat": 45.8019299,
+  "lon": 3.1317463,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stade des Gravanches",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3146107079,
+  "lat": 45.7934907,
+  "lon": 3.1174768,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Roger Quilliot",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3164409835,
+  "lat": 45.7706632,
+  "lon": 3.0826390,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3164409842,
+  "lat": 45.7706704,
+  "lon": 3.0823012,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "7",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3164635153,
+  "lat": 45.7754741,
+  "lon": 3.0868212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Ballainvilliers",
+    "network": "Cars Région Puy-de-Dôme",
+    "operator": "Keolis Pays des Volcans",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3165171162,
+  "lat": 45.7771168,
+  "lon": 3.1020645,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Parc SNCF - Quai 9",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3211525685,
+  "lat": 45.8147169,
+  "lon": 3.1123712,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champratel",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3304045192,
+  "lat": 45.7788245,
+  "lon": 3.0993380,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3305470530,
+  "lat": 45.7782552,
+  "lon": 3.0989373,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3554324967,
+  "lat": 45.7952137,
+  "lon": 3.1232319,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Malintrat",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3554324968,
+  "lat": 45.7953294,
+  "lon": 3.1229650,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Malintrat",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917925,
+  "lat": 45.7788899,
+  "lon": 3.1124934,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "local_knowledge",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917926,
+  "lat": 45.8118984,
+  "lon": 3.1032019,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arbos",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917927,
+  "lat": 45.8120592,
+  "lon": 3.1015135,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Arbos",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917930,
+  "lat": 45.7782255,
+  "lon": 3.1084396,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Aubigné",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "local_knowledge",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917931,
+  "lat": 45.7803514,
+  "lon": 3.1083268,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Aubigné",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917937,
+  "lat": 45.7887327,
+  "lon": 3.0990404,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cataroux",
+    "operator": "T2C",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917938,
+  "lat": 45.7888008,
+  "lon": 3.0990768,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cataroux",
+    "operator": "T2C",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917942,
+  "lat": 45.7863403,
+  "lon": 3.1194444,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chappe",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917943,
+  "lat": 45.7863495,
+  "lon": 3.1197991,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chappe",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917954,
+  "lat": 45.8143389,
+  "lon": 3.1025861,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Daudet",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917961,
+  "lat": 45.8124206,
+  "lon": 3.0995556,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gomel",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917963,
+  "lat": 45.7839387,
+  "lon": 3.0688210,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Goncourt",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917964,
+  "lat": 45.7692008,
+  "lon": 3.1236654,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Grenier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917965,
+  "lat": 45.7691250,
+  "lon": 3.1240176,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Grenier",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917968,
+  "lat": 45.8106220,
+  "lon": 3.1072977,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hauts de Chanturgue",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917969,
+  "lat": 45.8111628,
+  "lon": 3.1062303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hauts de Chanturgue",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917976,
+  "lat": 45.7652865,
+  "lon": 3.1256206,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "L'Hermitage",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "CRAIG - IGN - TopoGEODIS - Feder Auvergne-Rhône-Alpes 2016",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917977,
+  "lat": 45.7735589,
+  "lon": 3.1202610,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Le Pont",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917978,
+  "lat": 45.7735837,
+  "lon": 3.1205438,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Le Pont",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917979,
+  "lat": 45.7819566,
+  "lon": 3.0951266,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Carmes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917980,
+  "lat": 45.7838166,
+  "lon": 3.0970696,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Les Carmes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917981,
+  "lat": 45.7996680,
+  "lon": 3.0846339,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Côtes",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917986,
+  "lat": 45.8149446,
+  "lon": 3.1057854,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Narvik",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917987,
+  "lat": 45.7762990,
+  "lon": 3.1181114,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parlette",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917988,
+  "lat": 45.7765509,
+  "lon": 3.1182242,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parlette",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917991,
+  "lat": 45.7910696,
+  "lon": 3.1069560,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Porte de la Rodade",
+    "operator": "T2C",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619917992,
+  "lat": 45.7916331,
+  "lon": 3.1063952,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Porte de la Rodade",
+    "operator": "T2C",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/Sintegra"
+  }
+},
+{
+  "type": "node",
+  "id": 3619919393,
+  "lat": 45.7858021,
+  "lon": 3.0643300,
+  "tags": {
+    "description": "Services Spécifiques",
+    "highway": "bus_stop",
+    "name": "Quatre Routes",
+    "public_transport": "platform",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3619919398,
+  "lat": 45.8103406,
+  "lon": 3.1115454,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Solayer",
+    "public_transport": "platform",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3619919399,
+  "lat": 45.8103972,
+  "lon": 3.1115114,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Solayer",
+    "public_transport": "platform",
+    "source": "local_knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 3619920099,
+  "lat": 45.7694999,
+  "lon": 3.1153328,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Sarre",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3619920147,
+  "lat": 45.7711362,
+  "lon": 3.1016566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vincent d'Indy",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3680001565,
+  "lat": 45.7936370,
+  "lon": 3.0624830,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bouys",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3680001571,
+  "lat": 45.7894955,
+  "lon": 3.0616499,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Fournières",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3680001580,
+  "lat": 45.7906590,
+  "lon": 3.0593387,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Neuf",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3680001581,
+  "lat": 45.7913550,
+  "lon": 3.0594094,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Neuf",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3749476933,
+  "lat": 45.7613433,
+  "lon": 3.0822460,
+  "tags": {
+    "alt_name": "Stade Municipal",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade P. Marcombes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4018672918,
+  "lat": 45.7930845,
+  "lon": 3.0669904,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trémonteix Eychart",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4152169933,
+  "lat": 45.7774263,
+  "lon": 3.0956053,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 4232412612,
+  "lat": 45.7796065,
+  "lon": 3.0920177,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Salford",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4533574730,
+  "lat": 45.7710217,
+  "lon": 3.0846102,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Maison de la Culture",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4533574731,
+  "lat": 45.7711535,
+  "lon": 3.0845250,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Maison de la Culture",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4707091404,
+  "lat": 45.7880768,
+  "lon": 3.0947693,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bien Assis",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4721650244,
+  "lat": 45.7788265,
+  "lon": 3.1429747,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "INRA Crouel",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4721650245,
+  "lat": 45.7789406,
+  "lon": 3.1430712,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "INRA Crouel",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4721671527,
+  "lat": 45.7785769,
+  "lon": 3.1573342,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gandaillat",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4721671528,
+  "lat": 45.7786948,
+  "lon": 3.1573662,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gandaillat",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4808380215,
+  "lat": 45.7657801,
+  "lon": 3.1216934,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Neruda",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4945533775,
+  "lat": 45.7643508,
+  "lon": 3.1279317,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée La Fayette",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4945533776,
+  "lat": 45.7634874,
+  "lon": 3.1257792,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Fontaine du Bac",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4945549150,
+  "lat": 45.7580556,
+  "lon": 3.1271369,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Foisses",
+    "network": "Ligne de Bus de Sibstitution A (03/07/17 - 27/08/17)",
+    "operator": "T2C"
+  }
+},
+{
+  "type": "node",
+  "id": 4945549153,
+  "lat": 45.7653899,
+  "lon": 3.1037200,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Meuniers",
+    "network": "Ligne de Bus de Sibstitution A (03/07/17 - 27/08/17)",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4945549154,
+  "lat": 45.7623381,
+  "lon": 3.0969089,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4945549155,
+  "lat": 45.7648783,
+  "lon": 3.0891796,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Jacques Dolet",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5126727125,
+  "lat": 45.7652203,
+  "lon": 3.1039204,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Meuniers",
+    "network": "Ligne de Bus de Sibstitution A (03/07/17 - 27/08/17)",
+    "operator": "T2C",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5145552977,
+  "lat": 45.7769464,
+  "lon": 3.0786828,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bonnabaud",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5145552979,
+  "lat": 45.7648764,
+  "lon": 3.0889286,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Jacques Dolet",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5145552980,
+  "lat": 45.7621299,
+  "lon": 3.0971345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119102,
+  "lat": 45.7877773,
+  "lon": 3.1063438,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Stade Marcel Michelin",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06527",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51420",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119104,
+  "lat": 45.8022550,
+  "lon": 3.1109494,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée A. Brugères",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06375",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51405"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119555,
+  "lat": 45.7942714,
+  "lon": 3.1168670,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Musée Roger Quilliot",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06312",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51404",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119558,
+  "lat": 45.7911109,
+  "lon": 3.1137260,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Monferrand - Place de la Fontaine",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06151",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51391",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119559,
+  "lat": 45.8115212,
+  "lon": 3.1091957,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clemont-Ferrand - Clémentel",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06104",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51388"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119560,
+  "lat": 45.8020333,
+  "lon": 3.1107227,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée Brugière Ouest",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06052",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51384"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119569,
+  "lat": 45.7941983,
+  "lon": 3.0881051,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roger Claustre",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06782",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51818"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119604,
+  "lat": 45.7788002,
+  "lon": 3.0993010,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06001",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52411",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119633,
+  "lat": 45.7801081,
+  "lon": 3.0912001,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Place Delille",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06084",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52083",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119639,
+  "lat": 45.7856680,
+  "lon": 3.0878957,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bughes",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06107",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51389"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119667,
+  "lat": 45.7614717,
+  "lon": 3.1266150,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Leclerc Patinoire",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "05131",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52248"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119689,
+  "lat": 45.7845616,
+  "lon": 3.1086567,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "CHU Estaing",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06502",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51409",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119690,
+  "lat": 45.7819359,
+  "lon": 3.0929348,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Carmes",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06299",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51400"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119691,
+  "lat": 45.7817059,
+  "lon": 3.0870876,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Lycée Sidoine Apollinaire",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06233",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51394",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119692,
+  "lat": 45.7889721,
+  "lon": 3.1182267,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée Marie Curie",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06152",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51392"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119720,
+  "lat": 45.7992820,
+  "lon": 3.1135144,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pistes",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06313",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52398",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119746,
+  "lat": 45.7938087,
+  "lon": 3.1173360,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Roger Quilliot",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06523",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51418",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119747,
+  "lat": 45.8072666,
+  "lon": 3.1184511,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Plaine",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06522",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51417"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119750,
+  "lat": 45.7760445,
+  "lon": 3.0987108,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passerelle SNCF",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06291",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51399",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119819,
+  "lat": 45.7735813,
+  "lon": 3.0954059,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont de Naud",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06524",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51419",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119821,
+  "lat": 45.7793486,
+  "lon": 3.1155679,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Herbet",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06311",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51403"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119859,
+  "lat": 45.7778739,
+  "lon": 3.0957744,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06977",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52252",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119921,
+  "lat": 45.7911294,
+  "lon": 3.1132498,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Monferrand - Place de la Fontaine",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06150",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "52076",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119922,
+  "lat": 45.7991144,
+  "lon": 3.1132382,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pistes (A)",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06521",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51416",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119924,
+  "lat": 45.7611097,
+  "lon": 3.1005063,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clermont-les-Cézeaux",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06466",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51406"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119925,
+  "lat": 45.7910900,
+  "lon": 3.0865270,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Boulevard Maurice Pourchon",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06308",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51401"
+  }
+},
+{
+  "type": "node",
+  "id": 5696119930,
+  "lat": 45.7827333,
+  "lon": 3.0867584,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rue Barbusse et Simon",
+    "public_transport": "platform",
+    "ref:FR:TRANSDOME:CODE_ARRET": "06149",
+    "ref:FR:TRANSDOME:CODE_COMMUNE": "63113",
+    "ref:FR:TRANSDOME:IDENTIFIANT": "51390"
+  }
+},
+{
+  "type": "node",
+  "id": 6347984085,
+  "lat": 45.7876549,
+  "lon": 3.1063635,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Marcel Michelin",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 6350066585,
+  "lat": 45.7747704,
+  "lon": 3.0959732,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Orthophotographie CRAIG/TopoGEODIS 2009",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795347,
+  "lat": 45.7706615,
+  "lon": 3.0827072,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795348,
+  "lat": 45.7706646,
+  "lon": 3.0825731,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795349,
+  "lat": 45.7706666,
+  "lon": 3.0825084,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "4",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795350,
+  "lat": 45.7706675,
+  "lon": 3.0824348,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "5",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795351,
+  "lat": 45.7706656,
+  "lon": 3.0823695,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "6",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795354,
+  "lat": 45.7706735,
+  "lon": 3.0821700,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "9",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795355,
+  "lat": 45.7706736,
+  "lon": 3.0821026,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "10",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795356,
+  "lat": 45.7706754,
+  "lon": 3.0820392,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "11",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795357,
+  "lat": 45.7706767,
+  "lon": 3.0819690,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "12",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795358,
+  "lat": 45.7706799,
+  "lon": 3.0819033,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "13",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795359,
+  "lat": 45.7706799,
+  "lon": 3.0818401,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "14",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6427795360,
+  "lat": 45.7706802,
+  "lon": 3.0817790,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "15",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6777922489,
+  "lat": 45.7589375,
+  "lon": 3.1447656,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Cristal",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6937962372,
+  "lat": 45.7642967,
+  "lon": 3.1126323,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8158198175,
+  "lat": 45.7930654,
+  "lon": 3.0696303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trémonteix Charcot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8158198177,
+  "lat": 45.7929365,
+  "lon": 3.0712426,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trémonteix Charcot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8158198178,
+  "lat": 45.7929936,
+  "lon": 3.0712118,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Trémonteix Charcot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8199346780,
+  "lat": 45.7930469,
+  "lon": 3.0669788,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Trémonteix Eychart",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "9",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8220459852,
+  "lat": 45.7697552,
+  "lon": 3.1112072,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médicis",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8444895252,
+  "lat": 45.7655255,
+  "lon": 3.0829535,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Verdun",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8551691161,
+  "lat": 45.7710991,
+  "lon": 3.1018568,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vincent d'Indy",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8603731749,
+  "lat": 45.7800428,
+  "lon": 3.0912165,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Place Delille",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8603995236,
+  "lat": 45.8112849,
+  "lon": 3.1094437,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clemont-Ferrand - Clémentel",
+    "public_transport": "stop_position",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8603995237,
+  "lat": 45.8112882,
+  "lon": 3.1095007,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clemont-Ferrand - Clémentel",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8607659792,
+  "lat": 45.7706701,
+  "lon": 3.0822397,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clermont-Ferrand - Gare Routière",
+    "public_transport": "platform",
+    "ref": "8",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8659722313,
+  "lat": 45.7867113,
+  "lon": 3.1065747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Marcel Michelin",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761279,
+  "lat": 45.7767428,
+  "lon": 3.0778667,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre Varenne",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761280,
+  "lat": 45.7766999,
+  "lon": 3.0774259,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre Varenne",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761296,
+  "lat": 45.7757932,
+  "lon": 3.0861752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ballainvilliers",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761302,
+  "lat": 45.7762884,
+  "lon": 3.0911628,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faculté",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761303,
+  "lat": 45.7762928,
+  "lon": 3.0909006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faculté",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761305,
+  "lat": 45.7762421,
+  "lon": 3.0949794,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carnot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761306,
+  "lat": 45.7762499,
+  "lon": 3.0942009,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carnot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761316,
+  "lat": 45.7787265,
+  "lon": 3.0995285,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761317,
+  "lat": 45.7810674,
+  "lon": 3.1038822,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Patriotes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761318,
+  "lat": 45.7808667,
+  "lon": 3.1034944,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Patriotes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8659761347,
+  "lat": 45.7848156,
+  "lon": 3.1084844,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CHU Estaing",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "route_ref": "B"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855130,
+  "lat": 45.7859419,
+  "lon": 3.0642949,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Routes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855133,
+  "lat": 45.7825244,
+  "lon": 3.0721394,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambre de Commerce",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855144,
+  "lat": 45.7695497,
+  "lon": 3.1149627,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Sarre",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855145,
+  "lat": 45.7683200,
+  "lon": 3.1179245,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison Rouge",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855146,
+  "lat": 45.7662946,
+  "lon": 3.1211689,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Neruda",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855147,
+  "lat": 45.7648635,
+  "lon": 3.1238700,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oradou Gantière",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855149,
+  "lat": 45.7625991,
+  "lon": 3.1295156,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Lafayette",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855154,
+  "lat": 45.7609857,
+  "lon": 3.1329455,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pardieu",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855510,
+  "lat": 45.7613978,
+  "lon": 3.1314402,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pardieu",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855521,
+  "lat": 45.7625439,
+  "lon": 3.1291979,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Lafayette",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855564,
+  "lat": 45.7646961,
+  "lon": 3.1244366,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oradou Gantière",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855581,
+  "lat": 45.7680884,
+  "lon": 3.1183884,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison Rouge",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855603,
+  "lat": 45.7699066,
+  "lon": 3.1105088,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médicis",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855625,
+  "lat": 45.7731709,
+  "lon": 3.0984354,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pradelle",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855629,
+  "lat": 45.7748279,
+  "lon": 3.0959821,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855649,
+  "lat": 45.7771780,
+  "lon": 3.0734185,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Franklin Roosevelt",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855696,
+  "lat": 45.7818355,
+  "lon": 3.0714679,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambre de Commerce",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855729,
+  "lat": 45.7839833,
+  "lon": 3.0688461,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Goncourt",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855730,
+  "lat": 45.7840366,
+  "lon": 3.0687080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Goncourt",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855742,
+  "lat": 45.7873866,
+  "lon": 3.0652902,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Limousin",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8687855746,
+  "lat": 45.7890245,
+  "lon": 3.0636926,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fournières",
+    "network": "T2C",
+    "operator": "SMTC",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706544701,
+  "lat": 45.7776840,
+  "lon": 3.0950506,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554035,
+  "lat": 45.7718313,
+  "lon": 3.0868963,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lecoq",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554040,
+  "lat": 45.7714328,
+  "lon": 3.0869064,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lecoq",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554059,
+  "lat": 45.7753251,
+  "lon": 3.0868233,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ballainvilliers",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554060,
+  "lat": 45.7754518,
+  "lon": 3.0868215,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ballainvilliers",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554066,
+  "lat": 45.7777371,
+  "lon": 3.0902614,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Michel de l'Hospital",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554075,
+  "lat": 45.7778361,
+  "lon": 3.0901562,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Michel de l'Hospital",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554084,
+  "lat": 45.7800360,
+  "lon": 3.0912747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delille Salford",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554092,
+  "lat": 45.7785530,
+  "lon": 3.0936961,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Audollent",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554095,
+  "lat": 45.7788944,
+  "lon": 3.0931690,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Audollent",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554118,
+  "lat": 45.7869002,
+  "lon": 3.0982988,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Four",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554243,
+  "lat": 45.8046950,
+  "lon": 3.1092381,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diderot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019; T2C - 2020-12-14",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8706554246,
+  "lat": 45.8053762,
+  "lon": 3.1093733,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diderot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG/Sintegra/IGN 2013",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725586258,
+  "lat": 45.7874870,
+  "lon": 3.0984476,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Four",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725586263,
+  "lat": 45.7680595,
+  "lon": 3.0830839,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596596,
+  "lat": 45.7582854,
+  "lon": 3.0810253,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Vallières",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596599,
+  "lat": 45.7581656,
+  "lon": 3.0809771,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Vallières",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596608,
+  "lat": 45.7608483,
+  "lon": 3.0820552,
+  "tags": {
+    "alt_name": "Stade Municipal",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade P. Marcombes",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596634,
+  "lat": 45.7651832,
+  "lon": 3.0822933,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Verdun",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596639,
+  "lat": 45.7673477,
+  "lon": 3.0819723,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596650,
+  "lat": 45.7697400,
+  "lon": 3.0831579,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Salins Coubertin",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596651,
+  "lat": 45.7697930,
+  "lon": 3.0831616,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Salins Coubertin",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596683,
+  "lat": 45.7710860,
+  "lon": 3.0845696,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de la Culture",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596684,
+  "lat": 45.7891643,
+  "lon": 3.0983900,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cataroux",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596687,
+  "lat": 45.7892227,
+  "lon": 3.0976483,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cataroux",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596694,
+  "lat": 45.7880257,
+  "lon": 3.0946469,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bien Assis",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596701,
+  "lat": 45.7870975,
+  "lon": 3.0923174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bas Champflour",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596702,
+  "lat": 45.7870555,
+  "lon": 3.0922142,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bas Champflour",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596732,
+  "lat": 45.7883769,
+  "lon": 3.0899625,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thévenot Thibaud",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596733,
+  "lat": 45.7885508,
+  "lon": 3.0900087,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thévenot Thibaud",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596741,
+  "lat": 45.7917873,
+  "lon": 3.0913847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chalonnax",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596742,
+  "lat": 45.7919659,
+  "lon": 3.0914558,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chalonnax",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596774,
+  "lat": 45.7941960,
+  "lon": 3.0876572,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Hospital",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596775,
+  "lat": 45.7941479,
+  "lon": 3.0881855,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Hospital",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596787,
+  "lat": 45.7945145,
+  "lon": 3.0844787,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Côtes Fleuries",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596788,
+  "lat": 45.7946706,
+  "lon": 3.0828720,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaupeyras",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596793,
+  "lat": 45.7947230,
+  "lon": 3.0822819,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaupeyras",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596798,
+  "lat": 45.7950133,
+  "lon": 3.0791411,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Puyou",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596802,
+  "lat": 45.7952237,
+  "lon": 3.0762550,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lierres",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596805,
+  "lat": 45.7950470,
+  "lon": 3.0757032,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lierres",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596815,
+  "lat": 45.7924691,
+  "lon": 3.0742596,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sully",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596816,
+  "lat": 45.7925098,
+  "lon": 3.0739299,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sully",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8725596825,
+  "lat": 45.7925874,
+  "lon": 3.0709818,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trémonteix Charcot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8730638760,
+  "lat": 45.7888875,
+  "lon": 3.0628928,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tamaris",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8730638762,
+  "lat": 45.7882031,
+  "lon": 3.0641708,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Limousin",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8860397758,
+  "lat": 45.7745333,
+  "lon": 3.0942496,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Emplacement et attributs approximatif (basé sur le plan fourni par la T2C).",
+    "highway": "bus_stop",
+    "name": "Paulines",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 8860397780,
+  "lat": 45.7587981,
+  "lon": 3.0815081,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pont de Vallières",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8860397784,
+  "lat": 45.7608009,
+  "lon": 3.0859184,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Poncillon",
+    "public_transport": "platform",
+    "route_ref": "8",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 8860404323,
+  "lat": 45.7760423,
+  "lon": 3.0960772,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleury",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8867760388,
+  "lat": 45.7805499,
+  "lon": 3.0711870,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9143300441,
+  "lat": 45.8103736,
+  "lon": 3.1072043,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hauts de Chanturgue",
+    "network": "T2C",
+    "operator": "T2C",
+    "public_transport": "stop_position",
+    "source": "Orthophotographie CRAIG - IGN - Feder Auvergne-Rhône-Alpes 2019",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9316324520,
+  "lat": 45.7972212,
+  "lon": 3.1364282,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chartoire",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9316324530,
+  "lat": 45.7978381,
+  "lon": 3.1418933,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacqueline Auriol",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9316509555,
+  "lat": 45.7983479,
+  "lon": 3.1313115,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arsenal",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9316509556,
+  "lat": 45.7974991,
+  "lon": 3.1302908,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arsenal",
+    "operator": "T2C",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

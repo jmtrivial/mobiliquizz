@@ -1,0 +1,3432 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 398825290,
+  "lat": 48.0798055,
+  "lon": 7.3545648,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "G",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "20;21;25",
+    "uic_name": "Colmar (F) Théâtre, Frankreich",
+    "uic_ref": "500611"
+  }
+},
+{
+  "type": "node",
+  "id": 398839790,
+  "lat": 48.0800152,
+  "lon": 7.3681577,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bonnes Gens",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Rue des Bonnes Gens, Frankreich",
+    "uic_ref": "500668"
+  }
+},
+{
+  "type": "node",
+  "id": 398843095,
+  "lat": 48.0800755,
+  "lon": 7.3681734,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bonnes Gens",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Rue des Bonnes Gens, Frankreich",
+    "uic_ref": "500668"
+  }
+},
+{
+  "type": "node",
+  "id": 816639240,
+  "lat": 48.0910829,
+  "lon": 7.3603731,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ravel",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 816746773,
+  "lat": 48.0946970,
+  "lon": 7.3637881,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Timken",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 816746774,
+  "lat": 48.0946182,
+  "lon": 7.3646190,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Timken",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 816759274,
+  "lat": 48.0952789,
+  "lon": 7.3676025,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rey",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 817303010,
+  "lat": 48.0958393,
+  "lon": 7.3728588,
+  "tags": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 817303011,
+  "lat": 48.0960149,
+  "lon": 7.3723626,
+  "tags": {
+    "highway": "bus_stop",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 818760336,
+  "lat": 48.0963755,
+  "lon": 7.3756755,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liebherr",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 818760337,
+  "lat": 48.0963418,
+  "lon": 7.3758177,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liebherr",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 818834369,
+  "lat": 48.0954322,
+  "lon": 7.3675153,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rey",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 847011507,
+  "lat": 48.0720207,
+  "lon": 7.3469267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "name:de": "Bahnhof",
+    "network": "Südbadenbus",
+    "operator": "DB Südbadenbus",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Gare, Frankreich",
+    "uic_ref": "500146"
+  }
+},
+{
+  "type": "node",
+  "id": 847011572,
+  "lat": 48.0726350,
+  "lon": 7.3474041,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "4A;26;E",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847011575,
+  "lat": 48.0727912,
+  "lon": 7.3475159,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "1;3;5;7;8;A;B;C",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847011591,
+  "lat": 48.0726176,
+  "lon": 7.3472290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "1;3;4;5;7;8;26;A;B;C",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847011599,
+  "lat": 48.0717934,
+  "lon": 7.3467320,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "name:de": "Bahnhof",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "22",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847011605,
+  "lat": 48.0720421,
+  "lon": 7.3467777,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colmar",
+    "name:de": "Bahnhof",
+    "network": "TER Grand Est",
+    "operator": "SNCF",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847011609,
+  "lat": 48.0715257,
+  "lon": 7.3463894,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "network": "Lignes départementales",
+    "public_transport": "stop_position",
+    "ref": "106",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 847012314,
+  "lat": 48.0695113,
+  "lon": 7.3594485,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Clemenceau",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 847012318,
+  "lat": 48.0693853,
+  "lon": 7.3595069,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Clemenceau",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 847018224,
+  "lat": 48.0778178,
+  "lon": 7.3537177,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Mars",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Champ de Mars, Frankreich",
+    "uic_ref": "498671"
+  }
+},
+{
+  "type": "node",
+  "id": 847018516,
+  "lat": 48.0799805,
+  "lon": 7.3545499,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "A",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "1;3;4;6;7;8;A;B;C"
+  }
+},
+{
+  "type": "node",
+  "id": 847018523,
+  "lat": 48.0804527,
+  "lon": 7.3543935,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "E",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 847018559,
+  "lat": 48.0801197,
+  "lon": 7.3547153,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "B",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "1;3;4;6;7;A;B;C;E"
+  }
+},
+{
+  "type": "node",
+  "id": 847018572,
+  "lat": 48.0804486,
+  "lon": 7.3548462,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "F",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "22;23;26;E"
+  }
+},
+{
+  "type": "node",
+  "id": 847020142,
+  "lat": 48.0800935,
+  "lon": 7.3812052,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orangerie",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 847020164,
+  "lat": 48.0801914,
+  "lon": 7.3808868,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orangerie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 850062086,
+  "lat": 48.0793474,
+  "lon": 7.3545171,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "24"
+  }
+},
+{
+  "type": "node",
+  "id": 850062585,
+  "lat": 48.0806846,
+  "lon": 7.3550180,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "20;21;24;25",
+    "uic_name": "Colmar (F) Théâtre, Frankreich",
+    "uic_ref": "500611"
+  }
+},
+{
+  "type": "node",
+  "id": 850062861,
+  "lat": 48.0804629,
+  "lon": 7.3549428,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "C",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 850062988,
+  "lat": 48.0806918,
+  "lon": 7.3551199,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 850063602,
+  "lat": 48.0806263,
+  "lon": 7.3543359,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "D",
+    "name": "Théâtre",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 851586901,
+  "lat": 48.0766163,
+  "lon": 7.3306356,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 851592949,
+  "lat": 48.0765708,
+  "lon": 7.3307348,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 857465065,
+  "lat": 48.0775270,
+  "lon": 7.3531784,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Mars",
+    "operator": "TRACE",
+    "passenger_information_display": "yes",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "uic_name": "Colmar (F) Champ de Mars, Frankreich",
+    "uic_ref": "498671"
+  }
+},
+{
+  "type": "node",
+  "id": 885038430,
+  "lat": 48.1018523,
+  "lon": 7.3640496,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Z.I. Nord",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 885039324,
+  "lat": 48.1017364,
+  "lon": 7.3640289,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Z.I. Nord",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 942633592,
+  "lat": 48.0823183,
+  "lon": 7.3554363,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Scheurer-Kestner",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "route_ref": "4;7;E",
+    "towards": "Colmar Gare - Boucle A;Colmar Z.I. Nord;Colmar Parc des Expositions"
+  }
+},
+{
+  "type": "node",
+  "id": 957664858,
+  "lat": 48.0822336,
+  "lon": 7.3579693,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Scheurer-Kestner",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1168755424,
+  "lat": 48.0978144,
+  "lon": 7.3614298,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Expositions",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168755428,
+  "lat": 48.0905326,
+  "lon": 7.3600290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ravel",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168755431,
+  "lat": 48.0846061,
+  "lon": 7.3568842,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleischhauer",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168755435,
+  "lat": 48.0878618,
+  "lon": 7.3591444,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1re Armée Française",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761303,
+  "lat": 48.0880741,
+  "lon": 7.3594469,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1re Armée Française",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761309,
+  "lat": 48.0847827,
+  "lon": 7.3571292,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleischhauer",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761313,
+  "lat": 48.0741522,
+  "lon": 7.3664423,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schickele",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761318,
+  "lat": 48.0705490,
+  "lon": 7.3653664,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conseil Général",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761321,
+  "lat": 48.0599541,
+  "lon": 7.3632573,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musée des Usines Municipales",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761338,
+  "lat": 48.0637380,
+  "lon": 7.3630431,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Schweitzer",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761342,
+  "lat": 48.0822304,
+  "lon": 7.3632315,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arras",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1168761344,
+  "lat": 48.0843812,
+  "lon": 7.3619006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1322081083,
+  "lat": 48.0849379,
+  "lon": 7.3424025,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auberge de Jeunesse",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1322081125,
+  "lat": 48.0850214,
+  "lon": 7.3425001,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auberge de Jeunesse",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1339416215,
+  "lat": 48.0839077,
+  "lon": 7.3461784,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pfeffel",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1339416216,
+  "lat": 48.0839385,
+  "lon": 7.3465692,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pfeffel",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1339416217,
+  "lat": 48.0834207,
+  "lon": 7.3473040,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wineck",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1339416218,
+  "lat": 48.0841555,
+  "lon": 7.3474694,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bagatelle",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1416388186,
+  "lat": 48.0881733,
+  "lon": 7.3437147,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mittelharth",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1416388190,
+  "lat": 48.0904066,
+  "lon": 7.3429529,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Treille",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310042,
+  "lat": 48.0713249,
+  "lon": 7.3657653,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conseil Général",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310044,
+  "lat": 48.0641089,
+  "lon": 7.3634770,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Schweitzer",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310046,
+  "lat": 48.0674337,
+  "lon": 7.3644504,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lebert",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310052,
+  "lat": 48.0678071,
+  "lon": 7.3647789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lebert",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310053,
+  "lat": 48.0741005,
+  "lon": 7.3666195,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schickele",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1422310054,
+  "lat": 48.0600685,
+  "lon": 7.3634968,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musée des Usines Municipales",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1455808957,
+  "lat": 48.0737326,
+  "lon": 7.3496752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Préfecture, Frankreich",
+    "uic_ref": "498673"
+  }
+},
+{
+  "type": "node",
+  "id": 1455808960,
+  "lat": 48.0737381,
+  "lon": 7.3494662,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Préfecture, Frankreich",
+    "uic_ref": "498673"
+  }
+},
+{
+  "type": "node",
+  "id": 1455808965,
+  "lat": 48.0754585,
+  "lon": 7.3513213,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) République, Frankreich",
+    "uic_ref": "498672"
+  }
+},
+{
+  "type": "node",
+  "id": 1455808985,
+  "lat": 48.0755010,
+  "lon": 7.3511804,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) République, Frankreich",
+    "uic_ref": "498672"
+  }
+},
+{
+  "type": "node",
+  "id": 1455811860,
+  "lat": 48.0808603,
+  "lon": 7.3595022,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rapp",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Rapp, Frankreich",
+    "uic_ref": "498670"
+  }
+},
+{
+  "type": "node",
+  "id": 1455811861,
+  "lat": 48.0797023,
+  "lon": 7.3622347,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Vauban, Frankreich",
+    "uic_ref": "498669"
+  }
+},
+{
+  "type": "node",
+  "id": 1455811862,
+  "lat": 48.0804568,
+  "lon": 7.3602844,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rapp",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Rapp, Frankreich",
+    "uic_ref": "498670"
+  }
+},
+{
+  "type": "node",
+  "id": 1455811863,
+  "lat": 48.0798729,
+  "lon": 7.3627059,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Vauban, Frankreich",
+    "uic_ref": "498669"
+  }
+},
+{
+  "type": "node",
+  "id": 1457343144,
+  "lat": 48.0796699,
+  "lon": 7.3729814,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campus Universitaire",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "uic_name": "Colmar (F) Campus Universitaire, Frankreich",
+    "uic_ref": "498669"
+  }
+},
+{
+  "type": "node",
+  "id": 1457343145,
+  "lat": 48.0798660,
+  "lon": 7.3720971,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campus Universitaire",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "uic_name": "Colmar (F) Campus Universitaire, Frankreich",
+    "uic_ref": "498669"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705377,
+  "lat": 48.0826110,
+  "lon": 7.3399922,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dunant",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705385,
+  "lat": 48.0815296,
+  "lon": 7.3391210,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Huen",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705405,
+  "lat": 48.0826056,
+  "lon": 7.3518910,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Manufacture",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705407,
+  "lat": 48.0826656,
+  "lon": 7.3516790,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Manufacture",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705409,
+  "lat": 48.0891159,
+  "lon": 7.3470175,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Muscat",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705411,
+  "lat": 48.0819013,
+  "lon": 7.3472585,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Saint-Joseph",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705427,
+  "lat": 48.0804025,
+  "lon": 7.3449019,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Catherine",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705431,
+  "lat": 48.0906409,
+  "lon": 7.3461766,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tokay",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1491705434,
+  "lat": 48.0859703,
+  "lon": 7.3473598,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vieux Muhlbach",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1492450408,
+  "lat": 48.0832911,
+  "lon": 7.3408314,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blaise Pascal",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Blaise Pascal, Frankreich",
+    "uic_ref": "498598"
+  }
+},
+{
+  "type": "node",
+  "id": 1492450414,
+  "lat": 48.0821924,
+  "lon": 7.3436191,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grad",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1492450415,
+  "lat": 48.0764739,
+  "lon": 7.3478288,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Tir",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266780,
+  "lat": 48.0875614,
+  "lon": 7.3264273,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Katzenthal",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266810,
+  "lat": 48.0850389,
+  "lon": 7.3398776,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oberharth",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266830,
+  "lat": 48.0851892,
+  "lon": 7.3391659,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oberharth",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266839,
+  "lat": 48.0844856,
+  "lon": 7.3431721,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Rouge",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266844,
+  "lat": 48.0845472,
+  "lon": 7.3430908,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Rouge",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266859,
+  "lat": 48.0864291,
+  "lon": 7.3317937,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poudrière",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266863,
+  "lat": 48.0866791,
+  "lon": 7.3309510,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poudrière",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266866,
+  "lat": 48.0857701,
+  "lon": 7.3351604,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stauffen",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1497266868,
+  "lat": 48.0859907,
+  "lon": 7.3342558,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stauffen",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497270685,
+  "lat": 48.0860236,
+  "lon": 7.3310562,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poudrière",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1497275984,
+  "lat": 48.0845518,
+  "lon": 7.3304090,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Forge",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1497275985,
+  "lat": 48.0846163,
+  "lon": 7.3305565,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Forge",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931074,
+  "lat": 48.0726242,
+  "lon": 7.3560023,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bartholdi",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931075,
+  "lat": 48.0752681,
+  "lon": 7.3545871,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CPAM",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931076,
+  "lat": 48.0754474,
+  "lon": 7.3579500,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché aux Fruits",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931077,
+  "lat": 48.0744684,
+  "lon": 7.3594681,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché Couvert",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931078,
+  "lat": 48.0740115,
+  "lon": 7.3561103,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Six Montagnes Noires",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931079,
+  "lat": 48.0771334,
+  "lon": 7.3548533,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Hansi",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1502931080,
+  "lat": 48.0737440,
+  "lon": 7.3601404,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Turenne",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409165,
+  "lat": 48.0863978,
+  "lon": 7.3380815,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Départemental de Repos et de Soins",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409169,
+  "lat": 48.0864687,
+  "lon": 7.3382851,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Départemental de Repos et de Soins",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409172,
+  "lat": 48.0867898,
+  "lon": 7.3430888,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Saint-Jacques",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409173,
+  "lat": 48.0861552,
+  "lon": 7.3353688,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Le Parc",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409174,
+  "lat": 48.0861944,
+  "lon": 7.3351444,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Le Parc",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409177,
+  "lat": 48.0866140,
+  "lon": 7.3410125,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vignes",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1771409180,
+  "lat": 48.0867142,
+  "lon": 7.3412292,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vignes",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385753,
+  "lat": 48.0661380,
+  "lon": 7.3614787,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baloise",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385754,
+  "lat": 48.0664684,
+  "lon": 7.3615072,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baloise",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385755,
+  "lat": 48.0702831,
+  "lon": 7.3529036,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château d'Eau",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385756,
+  "lat": 48.0704639,
+  "lon": 7.3527345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château d'Eau",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385757,
+  "lat": 48.0631269,
+  "lon": 7.3622145,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Michelet",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330385758,
+  "lat": 48.0632098,
+  "lon": 7.3623928,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Michelet",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330389872,
+  "lat": 48.0713720,
+  "lon": 7.3496303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cour d'Appel",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330389873,
+  "lat": 48.0715138,
+  "lon": 7.3495105,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cour d'Appel",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395827,
+  "lat": 48.0666104,
+  "lon": 7.3516940,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Assomption",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395828,
+  "lat": 48.0668490,
+  "lon": 7.3519842,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Assomption",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395829,
+  "lat": 48.0655759,
+  "lon": 7.3503714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aunes",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395830,
+  "lat": 48.0656663,
+  "lon": 7.3503341,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aunes",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395831,
+  "lat": 48.0660422,
+  "lon": 7.3472631,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diaconat",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330395832,
+  "lat": 48.0662858,
+  "lon": 7.3463468,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diaconat",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415720,
+  "lat": 48.0669527,
+  "lon": 7.3431626,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boner",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415721,
+  "lat": 48.0669699,
+  "lon": 7.3430838,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boner",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415722,
+  "lat": 48.0561459,
+  "lon": 7.3326290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Hippique",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415723,
+  "lat": 48.0563272,
+  "lon": 7.3331337,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Hippique",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415727,
+  "lat": 48.0607164,
+  "lon": 7.3369689,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rouffach",
+    "name:de": "Rufach",
+    "network": "Colmar Trace",
+    "operator": "TRACE Colmar",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415728,
+  "lat": 48.0615155,
+  "lon": 7.3380639,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rouffach",
+    "name:de": "Rufach",
+    "network": "Colmar Trace",
+    "operator": "TRACE Colmar",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415733,
+  "lat": 48.0642651,
+  "lon": 7.3406980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1er Cuirassiers",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330415734,
+  "lat": 48.0637400,
+  "lon": 7.3399551,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "1er Cuirassiers",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460777,
+  "lat": 48.1081463,
+  "lon": 7.3660947,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Atlas-Fly",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460782,
+  "lat": 48.1083599,
+  "lon": 7.3646425,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Atlas-Fly",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460785,
+  "lat": 48.1071063,
+  "lon": 7.3706341,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curie",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460788,
+  "lat": 48.1077917,
+  "lon": 7.3697641,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curie",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460792,
+  "lat": 48.0983212,
+  "lon": 7.3687451,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kiener",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460798,
+  "lat": 48.0985366,
+  "lon": 7.3689608,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kiener",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460802,
+  "lat": 48.1020933,
+  "lon": 7.3696719,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330460806,
+  "lat": 48.1023634,
+  "lon": 7.3695294,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "network": "Colmar Trace",
+    "operator": "Trace",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2330659307,
+  "lat": 48.0831292,
+  "lon": 7.3654300,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Billing",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330659311,
+  "lat": 48.0832373,
+  "lon": 7.3656440,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Billing",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677198,
+  "lat": 48.0854846,
+  "lon": 7.3672098,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Platane",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677199,
+  "lat": 48.0857276,
+  "lon": 7.3671861,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Platane",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677200,
+  "lat": 48.0900003,
+  "lon": 7.3700351,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Prunier",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677201,
+  "lat": 48.0908471,
+  "lon": 7.3708440,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Prunier",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677202,
+  "lat": 48.0872340,
+  "lon": 7.3680612,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soie",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330677203,
+  "lat": 48.0874133,
+  "lon": 7.3683065,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soie",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330678917,
+  "lat": 48.0936046,
+  "lon": 7.3732031,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière du Ladhof",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330678920,
+  "lat": 48.0936568,
+  "lon": 7.3729856,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière du Ladhof",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330767018,
+  "lat": 48.1038172,
+  "lon": 7.3789859,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gay-Lussac",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330767019,
+  "lat": 48.1039960,
+  "lon": 7.3790847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gay-Lussac",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330767021,
+  "lat": 48.1064004,
+  "lon": 7.3791896,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haussmann",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330767022,
+  "lat": 48.1066374,
+  "lon": 7.3789389,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haussmann",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "2;24"
+  }
+},
+{
+  "type": "node",
+  "id": 2330816306,
+  "lat": 48.1131794,
+  "lon": 7.3777847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Base Nautique",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330816307,
+  "lat": 48.1078539,
+  "lon": 7.3847282,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre d'Examen du Permis de Conduire",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2330816308,
+  "lat": 48.1081949,
+  "lon": 7.3848183,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre d'Examen du Permis de Conduire",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566431,
+  "lat": 48.0764405,
+  "lon": 7.3261489,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Amsterdam",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566432,
+  "lat": 48.0740966,
+  "lon": 7.3294356,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Athènes",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566433,
+  "lat": 48.0732625,
+  "lon": 7.3258943,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belgrade",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566434,
+  "lat": 48.0754766,
+  "lon": 7.3421168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Benès",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566435,
+  "lat": 48.0758927,
+  "lon": 7.3416449,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Benès",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566436,
+  "lat": 48.0719263,
+  "lon": 7.3289282,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berlin",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566437,
+  "lat": 48.0770291,
+  "lon": 7.3371561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Pasteur",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566438,
+  "lat": 48.0772115,
+  "lon": 7.3373836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Pasteur",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566439,
+  "lat": 48.0785179,
+  "lon": 7.3317260,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Luxembourg",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566440,
+  "lat": 48.0786168,
+  "lon": 7.3322895,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Luxembourg",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331566441,
+  "lat": 48.0790842,
+  "lon": 7.3277108,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Madrid",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2331576972,
+  "lat": 48.0743233,
+  "lon": 7.3468930,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Ouest",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331576977,
+  "lat": 48.0743555,
+  "lon": 7.3462406,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Ouest",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331576982,
+  "lat": 48.0734905,
+  "lon": 7.3478126,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare (Colmar)",
+    "network": "Lignes départementales",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "ref": "25;248;145;157",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331576986,
+  "lat": 48.0735227,
+  "lon": 7.3476641,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare (Colmar)",
+    "operator": "TRACE",
+    "public_transport": "platform",
+    "ref": "20;24",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331576990,
+  "lat": 48.0737189,
+  "lon": 7.3478737,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare (Colmar)",
+    "name:bg": "FLIX BUS",
+    "name:en": "Gare (Colmar) FLIX BUS",
+    "name:fr": "Gare (Colmar) FLIX BUS",
+    "public_transport": "platform",
+    "ref": "301;303;326",
+    "route_ref": "Flixbus 108, 497, 720, 775, N759, N831",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2331676215,
+  "lat": 48.0716304,
+  "lon": 7.3466101,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "network": "Lignes départementales",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "uic_name": "Colmar (F) Gare, Frankreich"
+  }
+},
+{
+  "type": "node",
+  "id": 2331676216,
+  "lat": 48.0717380,
+  "lon": 7.3465444,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "name:de": "Bahnhof",
+    "network": "Lignes départementales",
+    "public_transport": "stop_position",
+    "ref": "109;440",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977253,
+  "lat": 48.0713122,
+  "lon": 7.3320456,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berne",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977254,
+  "lat": 48.0713639,
+  "lon": 7.3322635,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berne",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977255,
+  "lat": 48.0831678,
+  "lon": 7.3409751,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blaise Pascal",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "uic_name": "Colmar (F) Blaise Pascal, Frankreich",
+    "uic_ref": "498598"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977256,
+  "lat": 48.0819553,
+  "lon": 7.3442301,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grad",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977257,
+  "lat": 48.0724092,
+  "lon": 7.3386989,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Honack",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977258,
+  "lat": 48.0724544,
+  "lon": 7.3384693,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Honack",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977259,
+  "lat": 48.0780999,
+  "lon": 7.3363276,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucca",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977260,
+  "lat": 48.0806343,
+  "lon": 7.3346248,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paris",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977261,
+  "lat": 48.0808637,
+  "lon": 7.3343189,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paris",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977262,
+  "lat": 48.0747957,
+  "lon": 7.3304374,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977263,
+  "lat": 48.0748914,
+  "lon": 7.3300837,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977264,
+  "lat": 48.0807159,
+  "lon": 7.3472031,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Joseph Gare",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977268,
+  "lat": 48.0811419,
+  "lon": 7.3463662,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Joseph Gare",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977272,
+  "lat": 48.0738776,
+  "lon": 7.3422275,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soultz",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977274,
+  "lat": 48.0743130,
+  "lon": 7.3431001,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soultz",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977275,
+  "lat": 48.0812760,
+  "lon": 7.3317981,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Nautique - Patinoire",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977276,
+  "lat": 48.0814857,
+  "lon": 7.3315077,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Nautique - Patinoire",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977277,
+  "lat": 48.0706525,
+  "lon": 7.3346285,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stoeber",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977278,
+  "lat": 48.0708944,
+  "lon": 7.3348325,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stoeber",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977279,
+  "lat": 48.0733848,
+  "lon": 7.3333021,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trois Châteaux",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977280,
+  "lat": 48.0734343,
+  "lon": 7.3334900,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trois Châteaux",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977281,
+  "lat": 48.0696395,
+  "lon": 7.3321513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wimpfeling",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977282,
+  "lat": 48.0697062,
+  "lon": 7.3320613,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wimpfeling",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977283,
+  "lat": 48.0746699,
+  "lon": 7.3327595,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zurich",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2332977284,
+  "lat": 48.0748233,
+  "lon": 7.3323933,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zurich",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175294,
+  "lat": 48.0830745,
+  "lon": 7.3630451,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arras",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175295,
+  "lat": 48.0848789,
+  "lon": 7.3605431,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175296,
+  "lat": 48.0775936,
+  "lon": 7.3712980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grillenbreit",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175297,
+  "lat": 48.0776629,
+  "lon": 7.3710502,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grillenbreit",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175298,
+  "lat": 48.0763957,
+  "lon": 7.3513947,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "4,7,B"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175300,
+  "lat": 48.0795637,
+  "lon": 7.3627526,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Eloi",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "ref": "4A;4B"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175301,
+  "lat": 48.0769228,
+  "lon": 7.3668075,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thomas",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333175302,
+  "lat": 48.0769359,
+  "lon": 7.3665513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thomas",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215612,
+  "lat": 48.0682412,
+  "lon": 7.3367969,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biopôle",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215613,
+  "lat": 48.0682929,
+  "lon": 7.3364283,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biopôle",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215614,
+  "lat": 48.0673206,
+  "lon": 7.3217027,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix Blanche",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215616,
+  "lat": 48.0726350,
+  "lon": 7.3428444,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Erckmann-Chatrian",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215617,
+  "lat": 48.0728438,
+  "lon": 7.3428886,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Erckmann-Chatrian",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215626,
+  "lat": 48.0678551,
+  "lon": 7.3258694,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lauenstein",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215627,
+  "lat": 48.0680759,
+  "lon": 7.3260738,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lauenstein",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215628,
+  "lat": 48.0700085,
+  "lon": 7.3398706,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Légion Étrangère",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215629,
+  "lat": 48.0700999,
+  "lon": 7.3402580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Légion Étrangère",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215632,
+  "lat": 48.0691338,
+  "lon": 7.3316818,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Octroi",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2333215633,
+  "lat": 48.0693125,
+  "lon": 7.3311321,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Octroi",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2334396047,
+  "lat": 48.0793724,
+  "lon": 7.3284653,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Camille Sée",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2334396048,
+  "lat": 48.0795859,
+  "lon": 7.3285750,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Camille Sée",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2334396055,
+  "lat": 48.0812768,
+  "lon": 7.3288404,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Londres",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2334396056,
+  "lat": 48.0813068,
+  "lon": 7.3290476,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Londres",
+    "operator": "TRACE",
+    "public_transport": "stop_position",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392243,
+  "lat": 48.0695301,
+  "lon": 7.3666473,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392244,
+  "lat": 48.0696169,
+  "lon": 7.3665502,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392245,
+  "lat": 48.0695469,
+  "lon": 7.3634492,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fribourg",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392246,
+  "lat": 48.0696684,
+  "lon": 7.3634714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fribourg",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392247,
+  "lat": 48.0687278,
+  "lon": 7.3719258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noehlen",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392248,
+  "lat": 48.0576102,
+  "lon": 7.3978138,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire de la Nature",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2335392249,
+  "lat": 48.0686205,
+  "lon": 7.3767066,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Semm",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2354837752,
+  "lat": 48.0780768,
+  "lon": 7.3364163,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucca",
+    "operator": "TRACE",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6616349023,
+  "lat": 48.1028492,
+  "lon": 7.3628809,
+  "tags": {
+    "bench": "yes",
+    "departures_board": "yes",
+    "direction": "forward",
+    "highway": "bus_stop",
+    "name": "Z.I. Nord",
+    "operator": "Trace",
+    "operator:type": "public",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8688086168,
+  "lat": 48.0860549,
+  "lon": 7.3343460,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colmar (Mésanges)",
+    "operator": "TER Grand Est",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8688086169,
+  "lat": 48.0857422,
+  "lon": 7.3349901,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colmar (Mésanges)",
+    "operator": "TER Grand Est",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8688086170,
+  "lat": 48.0811426,
+  "lon": 7.3465305,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colmar Rue du Val St-Grégoire",
+    "operator": "TER Grand Est",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8688086171,
+  "lat": 48.0805806,
+  "lon": 7.3472392,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colmar Rue du Val St-Grégoire",
+    "operator": "TER Grand Est",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9445305014,
+  "lat": 48.0685345,
+  "lon": 7.3768309,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Semm",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9445305016,
+  "lat": 48.0690685,
+  "lon": 7.3706566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noehlen",
+    "network": "Trace",
+    "network:wikidata": "Q3537913",
+    "network:wikipedia": "fr:Transports de Colmar et environs",
+    "operator": "TRACE",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

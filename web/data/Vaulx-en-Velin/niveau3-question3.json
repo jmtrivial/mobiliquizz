@@ -1,0 +1,2690 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1699120120,
+  "lat": 45.7851659,
+  "lon": 4.9112668,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "C3, 52",
+    "name": "Mas du Taureau",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10300",
+    "route_ref": "52A:A,C3A:R",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004791413,
+  "lat": 45.7783374,
+  "lon": 4.9168959,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Grand Vire",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1072",
+    "route_ref": "52A:R,C3A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004791424,
+  "lat": 45.7765341,
+  "lon": 4.9201199,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx HDV Campus",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33468",
+    "route_ref": "C3A:A,C3A:R",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004791428,
+  "lat": 45.7807977,
+  "lon": 4.9137279,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lésire",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1784",
+    "route_ref": "52A:A,C3A:R",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004793851,
+  "lat": 45.7713300,
+  "lon": 4.9078169,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont des Planches",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2500",
+    "route_ref": "57A:R,83A:R,C3A:R,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2004793852,
+  "lat": 45.7720068,
+  "lon": 4.9113124,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lefèvre",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1595",
+    "route_ref": "57A:A,83A:A,C3A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2006115849,
+  "lat": 45.7768334,
+  "lon": 4.9213878,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx HDV Campus",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3055",
+    "route_ref": "52A:R,57A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2007864353,
+  "lat": 45.7850024,
+  "lon": 4.9101040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "7, 37",
+    "name": "Mas du Taureau",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1937",
+    "route_ref": "37A:A,7A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2007864359,
+  "lat": 45.7856520,
+  "lon": 4.9107913,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "7, 37",
+    "name": "Mas du Taureau",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1938",
+    "route_ref": "37A:R,7A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2007873277,
+  "lat": 45.7850918,
+  "lon": 4.9109113,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "C3, 52",
+    "name": "Mas du Taureau",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1936",
+    "route_ref": "52A:R,C3A:A",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022776185,
+  "lat": 45.7809193,
+  "lon": 4.9137974,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lésire",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1785",
+    "route_ref": "52A:R,C3A:A",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812858,
+  "lat": 45.7767388,
+  "lon": 4.9213805,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx HDV Campus",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3054",
+    "route_ref": "52A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812859,
+  "lat": 45.7765971,
+  "lon": 4.9199703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx HDV Campus",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33469",
+    "route_ref": "C3A:A,C3A:R",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812860,
+  "lat": 45.7712401,
+  "lon": 4.9082551,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont des Planches",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2499",
+    "route_ref": "57A:A,83A:A,C3A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812862,
+  "lat": 45.7781543,
+  "lon": 4.9171556,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Grand Vire",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1071",
+    "route_ref": "52A:A,C3A:R,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812863,
+  "lat": 45.7719870,
+  "lon": 4.9105175,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lefèvre",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1596",
+    "route_ref": "57A:R,83A:R,C3A:R,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812864,
+  "lat": 45.7744719,
+  "lon": 4.9148526,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Cuzin - Stalingrad",
+    "public_transport": "platform",
+    "ref:FR:TCL": "664",
+    "route_ref": "C3A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2022812865,
+  "lat": 45.7744486,
+  "lon": 4.9149968,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Cuzin - Stalingrad",
+    "public_transport": "platform",
+    "ref:FR:TCL": "663",
+    "route_ref": "C3A:A,C8A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480110,
+  "lat": 45.7882100,
+  "lon": 4.9129658,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin La Grappinière",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47381",
+    "route_ref": "37A:R,7A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480111,
+  "lat": 45.7843647,
+  "lon": 4.9332646,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin Marcel Cachin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43937",
+    "route_ref": "57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480112,
+  "lat": 45.7832636,
+  "lon": 4.9408567,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cachin - De Gaulle",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10487",
+    "route_ref": "57A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480113,
+  "lat": 45.7872636,
+  "lon": 4.9167060,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Jean Moulin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3057",
+    "route_ref": "37A:A,7A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480115,
+  "lat": 45.7879762,
+  "lon": 4.9104713,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Les Grolières",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11516",
+    "route_ref": "37A:A,52A:R,7A:A,C3A:A",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480116,
+  "lat": 45.7874983,
+  "lon": 4.9161261,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Jean Moulin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3058",
+    "route_ref": "37A:R,7A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480117,
+  "lat": 45.7854432,
+  "lon": 4.9302271,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Pasteur",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47386",
+    "route_ref": "37A:A,57A:A",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480119,
+  "lat": 45.7868172,
+  "lon": 4.9206122,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "Y3kn74tXpAxdlS7flJvddA",
+    "name": "Vaulx Lakanal",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30545",
+    "route_ref": "37A:R,57A:R,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2019-08-24",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480120,
+  "lat": 45.7868586,
+  "lon": 4.9194198,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Lakanal",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3060",
+    "route_ref": "37A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480121,
+  "lat": 45.7843331,
+  "lon": 4.9330957,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin Marcel Cachin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43936",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480122,
+  "lat": 45.7854970,
+  "lon": 4.9303505,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Pasteur",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3070",
+    "route_ref": "37A:R,57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480123,
+  "lat": 45.7862311,
+  "lon": 4.9255882,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Place Boissier",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3081",
+    "route_ref": "7A:A,83A:A,83A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480125,
+  "lat": 45.7875226,
+  "lon": 4.9103418,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Les Grolières",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11515",
+    "route_ref": "37A:R,52A:A,7A:R,C3A:R",
+    "source": "SYTRAL 12/2016",
+    "trolleybus": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480129,
+  "lat": 45.7831126,
+  "lon": 4.9398911,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cachin - De Gaulle",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10486",
+    "route_ref": "57A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480132,
+  "lat": 45.7843325,
+  "lon": 4.9327724,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin Marcel Cachin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43217",
+    "route_ref": "37A:A,37A:R,57A:A,57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2025480133,
+  "lat": 45.7870166,
+  "lon": 4.9203876,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Vaulx Lakanal",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45891",
+    "route_ref": "7A:R,83A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2026571559,
+  "lat": 45.7794271,
+  "lon": 4.9223799,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "ENTPE École d'Architecture",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43310",
+    "route_ref": "57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2026571562,
+  "lat": 45.7793192,
+  "lon": 4.9224262,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "ENTPE École d'Architecture",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43309",
+    "route_ref": "57A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2027033744,
+  "lat": 45.7857951,
+  "lon": 4.9197919,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx-en-Velin Résistance",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42563",
+    "route_ref": "C8A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2027033747,
+  "lat": 45.7908010,
+  "lon": 4.9245408,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique de Vaulx",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11847",
+    "route_ref": "7A:R,83A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2027033748,
+  "lat": 45.7886875,
+  "lon": 4.9220516,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Berthelot",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3052",
+    "route_ref": "7A:R,83A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2027036746,
+  "lat": 45.7788427,
+  "lon": 4.9168597,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grand Vire",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1070",
+    "route_ref": "83A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2027036750,
+  "lat": 45.7778232,
+  "lon": 4.9160174,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grand Vire",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43218",
+    "route_ref": "83A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2027528546,
+  "lat": 45.7764153,
+  "lon": 4.9151847,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Picasso",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42548",
+    "route_ref": "57A:A,83A:A,C8A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2027528548,
+  "lat": 45.7764807,
+  "lon": 4.9150640,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Picasso",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42549",
+    "route_ref": "57A:R,83A:R,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2033258305,
+  "lat": 45.7853926,
+  "lon": 4.9061295,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Desgrand",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "752",
+    "route_ref": "37A:R,7A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917136,
+  "lat": 45.7751816,
+  "lon": 4.9178858,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cuzin - Picasso",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33062",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917142,
+  "lat": 45.7774369,
+  "lon": 4.9254584,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Onchères",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1737",
+    "route_ref": "52A:R,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917147,
+  "lat": 45.7763780,
+  "lon": 4.9225508,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Éluard",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43308",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917155,
+  "lat": 45.7825301,
+  "lon": 4.9293516,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Vaulx-en-Velin Aragon",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47369",
+    "route_ref": "C8A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917167,
+  "lat": 45.7834033,
+  "lon": 4.9368381,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "O'Hara",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10485",
+    "route_ref": "57A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917170,
+  "lat": 45.7785210,
+  "lon": 4.9294609,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Thibaude",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3085",
+    "route_ref": "52A:R,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917174,
+  "lat": 45.7745793,
+  "lon": 4.9209945,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foucaud - Picasso",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "955",
+    "route_ref": "57A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917180,
+  "lat": 45.7784644,
+  "lon": 4.9296715,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx Thibaude",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3084",
+    "route_ref": "52A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917184,
+  "lat": 45.7781763,
+  "lon": 4.9417823,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "30 Rue Saillant",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37156",
+    "route_ref": "ZI3A:A,ZI4A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917189,
+  "lat": 45.7739840,
+  "lon": 4.9214800,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foucaud - Picasso",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "954",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917194,
+  "lat": 45.7752813,
+  "lon": 4.9179703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cuzin - Picasso",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33063",
+    "route_ref": "57A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917197,
+  "lat": 45.7782234,
+  "lon": 4.9416784,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "30 Rue Saillant",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37157",
+    "route_ref": "ZI3A:R,ZI4A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917200,
+  "lat": 45.7820666,
+  "lon": 4.9292986,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin Aragon",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11843",
+    "route_ref": "C8A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917203,
+  "lat": 45.7746719,
+  "lon": 4.9378160,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "10 Rue Saillant",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37154",
+    "route_ref": "ZI3A:A,ZI4A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917206,
+  "lat": 45.7747271,
+  "lon": 4.9377221,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "10 Rue Saillant",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37155",
+    "route_ref": "ZI3A:R,ZI4A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049917208,
+  "lat": 45.7833773,
+  "lon": 4.9364963,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "O'Hara",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10484",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944298,
+  "lat": 45.7660908,
+  "lon": 4.9283058,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chardonnet",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10393",
+    "route_ref": "52A:R,67A:A,ZI4A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944299,
+  "lat": 45.7649396,
+  "lon": 4.9216053,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carré de Soie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39938",
+    "route_ref": "52A:R,67A:A,ZI4A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944303,
+  "lat": 45.7746836,
+  "lon": 4.9322833,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Pierre Frite",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3078",
+    "route_ref": "52A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944308,
+  "lat": 45.7728339,
+  "lon": 4.9334625,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de la Sucrerie",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2492",
+    "route_ref": "52A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944310,
+  "lat": 45.7663631,
+  "lon": 4.9288581,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chardonnet",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10394",
+    "route_ref": "52A:A,67A:R,ZI4A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944314,
+  "lat": 45.7746826,
+  "lon": 4.9321150,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Pierre Frite",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3077",
+    "route_ref": "52A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944316,
+  "lat": 45.7730102,
+  "lon": 4.9334520,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de la Sucrerie",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2493",
+    "route_ref": "52A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2049944321,
+  "lat": 45.7660434,
+  "lon": 4.9297140,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chardonnet",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "413",
+    "route_ref": "ZI3A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2120542004,
+  "lat": 45.7717062,
+  "lon": 4.9037206,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tita - Coïs",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2987",
+    "route_ref": "7A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2120542006,
+  "lat": 45.7711367,
+  "lon": 4.9048173,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Titta - Coïs",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2988",
+    "route_ref": "7A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2121137126,
+  "lat": 45.7825622,
+  "lon": 4.9187099,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Fonderie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "933",
+    "route_ref": "57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2121137131,
+  "lat": 45.7864352,
+  "lon": 4.9244836,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Place Boissier",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3080",
+    "route_ref": "37A:R,57A:R,C8A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 2121137134,
+  "lat": 45.7825536,
+  "lon": 4.9188541,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Fonderie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "932",
+    "route_ref": "37A:R,57A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2121169686,
+  "lat": 45.7815164,
+  "lon": 4.9441513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Z.I. Est",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10496",
+    "route_ref": "57A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2121169691,
+  "lat": 45.7847638,
+  "lon": 4.9291690,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Marcellin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11845",
+    "route_ref": "37A:R,C8A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2121169697,
+  "lat": 45.7846296,
+  "lon": 4.9293173,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Marcellin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11844",
+    "route_ref": "C8A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2121169700,
+  "lat": 45.7812199,
+  "lon": 4.9449044,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Z.I. Est",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10497",
+    "route_ref": "57A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2195392147,
+  "lat": 45.8015868,
+  "lon": 4.9360056,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "G5osKy_P9_65lKVTacOnUg",
+    "name": "Le Morlet",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30049",
+    "route_ref": "83A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-04-16"
+  }
+},
+{
+  "type": "node",
+  "id": 2195392148,
+  "lat": 45.8022215,
+  "lon": 4.9307275,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Morlet",
+    "source": "Suivi par m93815l, 10/3/13"
+  }
+},
+{
+  "type": "node",
+  "id": 2195392149,
+  "lat": 45.8016479,
+  "lon": 4.9357842,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "BjhOxRFgN_qFYNuUjYKzPg",
+    "name": "Le Morlet",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30048",
+    "route_ref": "83A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-04-16"
+  }
+},
+{
+  "type": "node",
+  "id": 2195392150,
+  "lat": 45.7980404,
+  "lon": 4.9418667,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grand Parc Miribel Jonage",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2176",
+    "route_ref": "83A:A,83A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 3150789842,
+  "lat": 45.7484359,
+  "lon": 4.9334912,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roosevelt Centre Commercial",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10362",
+    "route_ref": "28A:R,52A:A,79A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3602281766,
+  "lat": 45.7595366,
+  "lon": 4.9210226,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carmagnole",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11191",
+    "route_ref": "C15A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3602281768,
+  "lat": 45.7552176,
+  "lon": 4.9211980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nicolas Garnier - Poudrette",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2110",
+    "route_ref": "C15A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3610789630,
+  "lat": 45.7673955,
+  "lon": 4.9345846,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Entrée de Décines",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "853",
+    "route_ref": "67A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3610928746,
+  "lat": 45.7487593,
+  "lon": 4.9178735,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Brossolette - Genas",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10239",
+    "route_ref": "C15A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3610928747,
+  "lat": 45.7485516,
+  "lon": 4.9184275,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Brossolette - Genas",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42023",
+    "route_ref": "24A:R,25A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3610938207,
+  "lat": 45.7464330,
+  "lon": 4.9270768,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Salengro - Genas",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42662",
+    "route_ref": "68B:R,ZI5B:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3610941295,
+  "lat": 45.7471777,
+  "lon": 4.9237891,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bron Terraillon",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "266",
+    "route_ref": "24A:R,25A:R,52A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3613005449,
+  "lat": 45.7508160,
+  "lon": 4.9187457,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "HaaQe6ONcaiq2ghVoRvKNw",
+    "name": "Teillon - Poudrette",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47412",
+    "route_ref": "C15A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-09-28",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3613010887,
+  "lat": 45.7536010,
+  "lon": 4.9284329,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dumas - Salengro",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "802",
+    "route_ref": "52A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3613010888,
+  "lat": 45.7531127,
+  "lon": 4.9278857,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Dumas - Salengro",
+    "public_transport": "platform",
+    "ref:FR:TCL": "46000",
+    "route_ref": "68B:A,ZI5B:A",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 3613010889,
+  "lat": 45.7496898,
+  "lon": 4.9274199,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Salengro",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40194",
+    "route_ref": "68B:A,ZI5B:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3613017978,
+  "lat": 45.7448206,
+  "lon": 4.9324683,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sept Chemins",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10478",
+    "route_ref": "79A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3614476492,
+  "lat": 45.7634344,
+  "lon": 4.9362107,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grosso - Roosevelt",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10933",
+    "route_ref": "16A:A,ZI3A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3614492038,
+  "lat": 45.7468983,
+  "lon": 4.9314624,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre commercial Sept Chemins",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43301",
+    "route_ref": "52A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3614502673,
+  "lat": 45.7531040,
+  "lon": 4.9341942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin des Pivolles",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "475",
+    "route_ref": "52A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3631900550,
+  "lat": 45.7583353,
+  "lon": 4.9287737,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Tase",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10797",
+    "route_ref": "52A:R,68B:R,ZI5B:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3635371681,
+  "lat": 45.7630471,
+  "lon": 4.9302903,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marius Grosso",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11195",
+    "route_ref": "16A:R,28A:A,ZI3A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3635373201,
+  "lat": 45.7631311,
+  "lon": 4.9310459,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marius Grosso",
+    "network": "TCL",
+    "operator": "SYTRAL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11194",
+    "route_ref": "16A:A,28A:R,ZI3A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4003569776,
+  "lat": 45.7823698,
+  "lon": 4.9181221,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Fonderie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45885",
+    "route_ref": "83A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4003569777,
+  "lat": 45.7866237,
+  "lon": 4.9176158,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45887",
+    "route_ref": "83A:A",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737729,
+  "lat": 45.7783147,
+  "lon": 4.9393792,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Karl Marx",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37160",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737730,
+  "lat": 45.7810059,
+  "lon": 4.9198668,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Salvador Allende",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47019",
+    "route_ref": "37A:R,57A:A,C8A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737731,
+  "lat": 45.7760819,
+  "lon": 4.9372980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fromont",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "986",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737732,
+  "lat": 45.7805365,
+  "lon": 4.9369356,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Alpes",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37164",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737733,
+  "lat": 45.7807499,
+  "lon": 4.9414823,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fromont - Karl Marx",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37158",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737734,
+  "lat": 45.7783612,
+  "lon": 4.9373451,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lenine - Fromont",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37163",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737735,
+  "lat": 45.7782087,
+  "lon": 4.9394186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Karl Marx",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37161",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737736,
+  "lat": 45.7805234,
+  "lon": 4.9414256,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fromont - Karl Marx",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37159",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737737,
+  "lat": 45.7884469,
+  "lon": 4.9124928,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin La Grappinière",
+    "public_transport": "platform",
+    "ref:FR:TCL": "36014",
+    "route_ref": "52A:A,52A:R,C3A:A,C3A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737741,
+  "lat": 45.7805295,
+  "lon": 4.9372779,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Alpes",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30303",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737742,
+  "lat": 45.7867431,
+  "lon": 4.9205780,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "Y3kn74tXpAxdlS7flJvddA",
+    "name": "Vaulx Lakanal",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43514",
+    "route_ref": "37A:A,57A:A,7A:A,83A:A,C8A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2019-08-24",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737744,
+  "lat": 45.7795488,
+  "lon": 4.9347344,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard De Vinci",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37165",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737745,
+  "lat": 45.7760453,
+  "lon": 4.9373984,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fromont",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37162",
+    "route_ref": "ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737746,
+  "lat": 45.7788414,
+  "lon": 4.9311131,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Thibaude",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "37166",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593737747,
+  "lat": 45.7773072,
+  "lon": 4.9340598,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Z.I. Vaulx-en-Velin Est",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43221",
+    "route_ref": "ZI3A:A,ZI3A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593738111,
+  "lat": 45.7792311,
+  "lon": 4.9331693,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard De Vinci",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30302",
+    "route_ref": "ZI3A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4593738112,
+  "lat": 45.7880725,
+  "lon": 4.9130808,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin La Grappinière",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47382",
+    "route_ref": "37A:A,7A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4593738113,
+  "lat": 45.7784851,
+  "lon": 4.9375587,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lenine - Fromont",
+    "public_transport": "platform",
+    "ref:FR:TCL": "30304",
+    "route_ref": "ZI3A:A",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565664,
+  "lat": 45.7584714,
+  "lon": 4.9286848,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité Tase",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39936",
+    "route_ref": "ZI5B:A;52A:A,68B:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565667,
+  "lat": 45.7467399,
+  "lon": 4.9311234,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre commercial Sept Chemins",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43300",
+    "route_ref": "52A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565668,
+  "lat": 45.7534874,
+  "lon": 4.9288237,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "t2zu7vyBlAOnzAjHGz6p7w",
+    "name": "Dumas - Salengro",
+    "network": "TCL",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "801",
+    "route_ref": "52A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2017-10-06"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565669,
+  "lat": 45.7453437,
+  "lon": 4.9293557,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Vial",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "814",
+    "route_ref": "24A:R,25A:R,68B:R,ZI5B:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565670,
+  "lat": 45.7659305,
+  "lon": 4.9298836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chardonnet",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "412",
+    "route_ref": "ZI3A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565671,
+  "lat": 45.7528137,
+  "lon": 4.9279691,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Dumas - Salengro",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10502",
+    "route_ref": "68B:R,ZI5B:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565672,
+  "lat": 45.7590036,
+  "lon": 4.9232918,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de l'Église",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47400",
+    "route_ref": "68B:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565800,
+  "lat": 45.7603761,
+  "lon": 4.9289282,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nelli",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43298",
+    "route_ref": "52A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565801,
+  "lat": 45.7575104,
+  "lon": 4.9213002,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musset - Poudrette",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2106",
+    "route_ref": "C15A:A,C8A:A,C8A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565802,
+  "lat": 45.7612347,
+  "lon": 4.9291773,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nelli",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43299",
+    "route_ref": "52A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565805,
+  "lat": 45.7461972,
+  "lon": 4.9265687,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Salengro - Genas",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42664",
+    "route_ref": "24A:R,25A:R,52A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565806,
+  "lat": 45.7463982,
+  "lon": 4.9269716,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Salengro - Genas",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42661",
+    "route_ref": "68B:A,ZI5B:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565807,
+  "lat": 45.7589738,
+  "lon": 4.9227570,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "AzVR9Sq_kxI4r4UbC__qTA",
+    "name": "Allée de l'Église",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42658",
+    "route_ref": "68B:A,68B:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565808,
+  "lat": 45.7533593,
+  "lon": 4.9204264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "i4Yd-ahnkF8aKkDviyAUoQ",
+    "name": "Dumas - Poudrette",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "41856",
+    "route_ref": "C15A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2017-09-28",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565810,
+  "lat": 45.7587983,
+  "lon": 4.9271490,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brunel",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42656",
+    "route_ref": "68B:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565811,
+  "lat": 45.7586822,
+  "lon": 4.9277724,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Brunel",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42655",
+    "route_ref": "68B:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565818,
+  "lat": 45.7502850,
+  "lon": 4.9276133,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx Salengro",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40195",
+    "route_ref": "68B:R,ZI5B:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4595565819,
+  "lat": 45.7648935,
+  "lon": 4.9202320,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carré de Soie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39937",
+    "route_ref": "52A:A,67A:R,ZI4A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4600845072,
+  "lat": 45.7677262,
+  "lon": 4.9353657,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Entrée de Décines",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "854",
+    "route_ref": "52A:A,67A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4600845077,
+  "lat": 45.7532314,
+  "lon": 4.9341967,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin des Pivolles",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "476",
+    "route_ref": "52A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 5111313920,
+  "lat": 45.7918252,
+  "lon": 4.9221714,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Lamartine",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45889",
+    "route_ref": "7A:R,83A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 5111315621,
+  "lat": 45.7859241,
+  "lon": 4.9267556,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "3O4i7y0BOrbAuSSZCpwz-w",
+    "name": "Vaulx Place Boissier",
+    "network": "tcl",
+    "operator": "sytral",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45817",
+    "route_ref": "37A:A,57A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5111315624,
+  "lat": 45.7775994,
+  "lon": 4.9198164,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vaulx HDV Campus",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43315",
+    "route_ref": "57A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5115388653,
+  "lat": 45.7553024,
+  "lon": 4.9282174,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Corneille",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47509",
+    "route_ref": "52A:A,68B:A,ZI5B:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5115388654,
+  "lat": 45.7556522,
+  "lon": 4.9283767,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Corneille",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47510",
+    "route_ref": "52A:R,68B:R,ZI5B:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5390932030,
+  "lat": 45.7822830,
+  "lon": 4.9180944,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Fonderie",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45886",
+    "route_ref": "83A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5390932032,
+  "lat": 45.7866407,
+  "lon": 4.9174963,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vaulx Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45888",
+    "route_ref": "83A:R",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 5432934716,
+  "lat": 45.7809222,
+  "lon": 4.9199183,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "mapillary": "oTzi-K89dtv4hTa5MfRwIQ",
+    "name": "Salvador Allende",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47399",
+    "route_ref": "57A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7385893100,
+  "lat": 45.7811607,
+  "lon": 4.9284180,
+  "tags": {
+    "description": "Arrêt provisoire",
+    "highway": "bus_stop",
+    "name": "Vaulx-en-Velin Aragon",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47640",
+    "route_ref": "37A:R,C8A:A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7385893101,
+  "lat": 45.7807367,
+  "lon": 4.9239927,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Allende - Egalité",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47639",
+    "route_ref": "37A:R,C8A:A",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 7417657355,
+  "lat": 45.7880470,
+  "lon": 4.9253220,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vaulx-en-Velin Le Bourg",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43219",
+    "route_ref": "7A:A,7A:R,83A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8240611138,
+  "lat": 45.7860129,
+  "lon": 4.9267374,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "3O4i7y0BOrbAuSSZCpwz-w",
+    "name": "Vaulx Place Boissier",
+    "network": "tcl",
+    "operator": "sytral",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45817",
+    "route_ref": "37A:A,57A:A,C8A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+}
+
+  ]
+}

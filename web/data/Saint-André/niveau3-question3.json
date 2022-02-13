@@ -1,0 +1,608 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:49:54Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 3720433650,
+  "lat": 42.5512428,
+  "lon": 2.9711356,
+  "tags": {
+    "highway": "bus_stop"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610321,
+  "lat": -20.9628742,
+  "lon": 55.6527507,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de St-André",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610323,
+  "lat": -20.9629120,
+  "lon": 55.6527271,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de St-André",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610325,
+  "lat": -20.9629570,
+  "lon": 55.6527059,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de St-André",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610327,
+  "lat": -20.9629909,
+  "lon": 55.6526840,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de St-André",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610362,
+  "lat": -20.9321026,
+  "lon": 55.6429826,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poste Cambuston",
+    "operator": "Car Jaune",
+    "public_transport": "platform",
+    "ref": "98620",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4294610364,
+  "lat": -20.9321494,
+  "lon": 55.6436172,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poste Cambuston",
+    "operator": "Car Jaune",
+    "public_transport": "platform",
+    "ref": "8620"
+  }
+},
+{
+  "type": "node",
+  "id": 5567864894,
+  "lat": 45.2008629,
+  "lon": 6.6203423,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-André Église",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5567864896,
+  "lat": 45.2009106,
+  "lon": 6.6203892,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-André Église",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5567864897,
+  "lat": 45.2027868,
+  "lon": 6.5894604,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Praz",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5567864900,
+  "lat": 45.2029675,
+  "lon": 6.5878993,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Praz",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5572274184,
+  "lat": 45.2090555,
+  "lon": 6.6001566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Villard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183470,
+  "lat": -20.9774676,
+  "lon": 55.6407497,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Riviere du mat les hauts",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183473,
+  "lat": -20.9952707,
+  "lon": 55.6123915,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Passerelle",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183478,
+  "lat": -20.9795449,
+  "lon": 55.6326876,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Riviere du mat 2",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183480,
+  "lat": -20.9969133,
+  "lon": 55.6111784,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Passerelle 1",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183483,
+  "lat": -20.9698477,
+  "lon": 55.6481107,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Mille roches",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183486,
+  "lat": -20.9822964,
+  "lon": 55.6293704,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Ilet",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183488,
+  "lat": -21.0011943,
+  "lon": 55.5911936,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Ravine gaill",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183491,
+  "lat": -20.9721231,
+  "lon": 55.6469253,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Lot les citronnelles",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183494,
+  "lat": -20.9840877,
+  "lon": 55.6269368,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Bras songes",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183496,
+  "lat": -21.0011803,
+  "lon": 55.5884528,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "P'tit trou",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183497,
+  "lat": -20.9645669,
+  "lon": 55.6527220,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Gare Routière Saint-André",
+    "note": "Retour",
+    "operator": "Car Jaune",
+    "public_transport": "platform",
+    "ref": "8610;986101;86101;98610",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183500,
+  "lat": -20.9749086,
+  "lon": 55.6461923,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Tournant vidot",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183503,
+  "lat": -20.9886089,
+  "lon": 55.6166305,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Bras citronnier",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183506,
+  "lat": -20.9672676,
+  "lon": 55.6508924,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue albany",
+    "note": "Retour",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183509,
+  "lat": -20.9796000,
+  "lon": 55.6326876,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Riviere du mat 2",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183511,
+  "lat": -20.9673522,
+  "lon": 55.6509561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue albany",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021183515,
+  "lat": -20.9953258,
+  "lon": 55.6123915,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Passerelle",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197317,
+  "lat": -20.9773668,
+  "lon": 55.6412237,
+  "tags": {
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Riviere du mat les hauts",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "shelter": "yes",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197319,
+  "lat": -20.9646220,
+  "lon": 55.6527220,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Gare Routière Saint-André",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197323,
+  "lat": -20.9886640,
+  "lon": 55.6166305,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Bras citronnier",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197325,
+  "lat": -20.9749637,
+  "lon": 55.6461923,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Tournant vidot",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197328,
+  "lat": -21.0012354,
+  "lon": 55.5884528,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "P'tit trou",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197331,
+  "lat": -20.9841459,
+  "lon": 55.6270448,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Bras songes",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197333,
+  "lat": -20.9721438,
+  "lon": 55.6469756,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Lot les citronnelles",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197337,
+  "lat": -21.0012494,
+  "lon": 55.5911936,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Ravine gaill",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197340,
+  "lat": -20.9823515,
+  "lon": 55.6293704,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Ilet",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197342,
+  "lat": -20.9699078,
+  "lon": 55.6480886,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Mille roches",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+},
+{
+  "type": "node",
+  "id": 9021197346,
+  "lat": -20.9969684,
+  "lon": 55.6111784,
+  "tags": {
+    "bus": "yes",
+    "fixme": "verifier nom et position arret bus",
+    "highway": "bus_stop",
+    "name": "Passerelle 1",
+    "note": "Aller",
+    "public_transport": "platform",
+    "route_ref": "L83",
+    "source": "https://estival.monbus.mobi/2clock"
+  }
+}
+
+  ]
+}

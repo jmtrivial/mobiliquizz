@@ -1,0 +1,350 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:49:54Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 90381674,
+  "nodes": [
+    1038664929,
+    281289254
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxheight": "4.2",
+    "name": "Avenue de Bâle",
+    "old_ref": "N 66",
+    "ref": "D 66",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 90381681,
+  "nodes": [
+    281289254,
+    309169930,
+    1945202806,
+    1048561167,
+    265310748
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Avenue de Bâle",
+    "old_ref": "N 66",
+    "ref": "D 66",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 142748885,
+  "nodes": [
+    265310756,
+    4217355254,
+    309169835,
+    4217355270,
+    1048561264,
+    5160337005,
+    4217355274,
+    5138626782,
+    1048561147,
+    204970130,
+    5138626777,
+    204970133,
+    1048561132,
+    3793321249,
+    204970136,
+    1048561229,
+    1943202382,
+    265310769,
+    1048561223,
+    2376380421,
+    1048561245,
+    309169880,
+    1637902935,
+    1038664929
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Avenue de Bâle",
+    "old_ref": "N 66",
+    "ref": "D 66",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600085276,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Louis",
+    "name:de": "Sankt Ludwig",
+    "population": "22413",
+    "population:date": "2019",
+    "postal_code": "68300",
+    "ref:FR:SIREN": "216802975",
+    "ref:INSEE": "68297",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "website": "https://www.saint-louis.fr/",
+    "wikidata": "Q384516",
+    "wikipedia": "fr:Saint-Louis (Haut-Rhin)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600280626,
+  "tags": {
+    "admin_level": "8",
+    "alt_name": "Saint-Louis-en-Guadeloupe",
+    "alt_name:fr": "Saint-Louis-en-Guadeloupe",
+    "alt_name:gcf": "Sen-Lwi-Gwadloup",
+    "boundary": "administrative",
+    "name": "Saint-Louis",
+    "name:fr": "Saint-Louis",
+    "name:gcf": "Sen-Lwi",
+    "population": "2397",
+    "population:date": "2019",
+    "postal_code": "97134",
+    "ref:FR:SIREN": "219711264",
+    "ref:INSEE": "97126",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2008",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q996414",
+    "wikipedia": "fr:Saint-Louis (Guadeloupe)"
+  }
+},
+{
+  "type": "area",
+  "id": 3601282229,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Louis",
+    "name:ja": "サン＝ルイ",
+    "population": "53120",
+    "population:date": "2019",
+    "postal_code": "97421;97450",
+    "ref:INSEE": "97414",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "website": "http://www.saintlouis.re",
+    "wikidata": "Q1617681",
+    "wikipedia": "fr:Saint-Louis (La Réunion)"
+  }
+},
+{
+  "type": "area",
+  "id": 3601392617,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Louis",
+    "name:de": "Sankt Ludwig bei Pfalzburg",
+    "population": "653",
+    "population:date": "2019",
+    "postal_code": "57820",
+    "ref:FR:SIREN": "215706185",
+    "ref:INSEE": "57618",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q21943",
+    "wikipedia": "fr:Saint-Louis (Moselle)"
+  }
+},
+{
+  "type": "node",
+  "id": 204970133,
+  "lat": 47.5800708,
+  "lon": 7.5692154
+},
+{
+  "type": "node",
+  "id": 204970136,
+  "lat": 47.5806140,
+  "lon": 7.5687099
+},
+{
+  "type": "node",
+  "id": 265310769,
+  "lat": 47.5811696,
+  "lon": 7.5681894
+},
+{
+  "type": "node",
+  "id": 281289254,
+  "lat": 47.5824079,
+  "lon": 7.5670385
+},
+{
+  "type": "node",
+  "id": 309169880,
+  "lat": 47.5818234,
+  "lon": 7.5675811
+},
+{
+  "type": "node",
+  "id": 1038664929,
+  "lat": 47.5823127,
+  "lon": 7.5671312
+},
+{
+  "type": "node",
+  "id": 1048561132,
+  "lat": 47.5801278,
+  "lon": 7.5691629
+},
+{
+  "type": "node",
+  "id": 1048561223,
+  "lat": 47.5812615,
+  "lon": 7.5681108
+},
+{
+  "type": "node",
+  "id": 1048561229,
+  "lat": 47.5807151,
+  "lon": 7.5686103
+},
+{
+  "type": "node",
+  "id": 1048561245,
+  "lat": 47.5817784,
+  "lon": 7.5676217
+},
+{
+  "type": "node",
+  "id": 1637902935,
+  "lat": 47.5818700,
+  "lon": 7.5675382
+},
+{
+  "type": "node",
+  "id": 1943202382,
+  "lat": 47.5809460,
+  "lon": 7.5683905
+},
+{
+  "type": "node",
+  "id": 2376380421,
+  "lat": 47.5813558,
+  "lon": 7.5680260
+},
+{
+  "type": "node",
+  "id": 3793321249,
+  "lat": 47.5803451,
+  "lon": 7.5689568
+},
+{
+  "type": "node",
+  "id": 204970130,
+  "lat": 47.5794105,
+  "lon": 7.5698452
+},
+{
+  "type": "node",
+  "id": 265310756,
+  "lat": 47.5781839,
+  "lon": 7.5709773
+},
+{
+  "type": "node",
+  "id": 309169835,
+  "lat": 47.5785351,
+  "lon": 7.5706496
+},
+{
+  "type": "node",
+  "id": 1048561147,
+  "lat": 47.5793677,
+  "lon": 7.5698846
+},
+{
+  "type": "node",
+  "id": 1048561264,
+  "lat": 47.5786097,
+  "lon": 7.5705846
+},
+{
+  "type": "node",
+  "id": 4217355254,
+  "lat": 47.5784222,
+  "lon": 7.5707510
+},
+{
+  "type": "node",
+  "id": 4217355270,
+  "lat": 47.5785510,
+  "lon": 7.5706358
+},
+{
+  "type": "node",
+  "id": 4217355274,
+  "lat": 47.5790005,
+  "lon": 7.5702237
+},
+{
+  "type": "node",
+  "id": 5138626777,
+  "lat": 47.5797044,
+  "lon": 7.5695649
+},
+{
+  "type": "node",
+  "id": 5138626782,
+  "lat": 47.5791479,
+  "lon": 7.5700876
+},
+{
+  "type": "node",
+  "id": 5160337005,
+  "lat": 47.5788432,
+  "lon": 7.5703690
+},
+{
+  "type": "node",
+  "id": 265310748,
+  "lat": 47.5829482,
+  "lon": 7.5665404
+},
+{
+  "type": "node",
+  "id": 309169930,
+  "lat": 47.5825711,
+  "lon": 7.5668847
+},
+{
+  "type": "node",
+  "id": 1048561167,
+  "lat": 47.5828775,
+  "lon": 7.5666034
+},
+{
+  "type": "node",
+  "id": 1945202806,
+  "lat": 47.5827971,
+  "lon": 7.5666764
+}
+
+  ]
+}

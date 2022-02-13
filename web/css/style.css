@@ -51,11 +51,11 @@ a:hover {
     text-align: center;
 }
 
-#footer p.question {
+#indices p {
     display: none;
 }
 
-#footer p.question.selected {
+#indices p.selected {
     display: inline;
 }
 
@@ -68,6 +68,56 @@ a:hover {
 p#petites-lignes {
     font-size: 50%;
     color: #ddd;
+}
+
+#formulaire {
+    flex-direction: row;
+    display: flex;
+}
+
+button {
+    font-size: 150%;
+    background: #e0917b;
+    color: #000;
+    border: 0;
+    border-radius: 0.2em;
+    padding: 0 0.5em;
+}
+
+button:focus {
+    background: #f2d055;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+input {
+    font-size: 150%;
+    border: 0;
+    border-radius: 0.2em;
+    background: #3a3a3a;
+    color: #fff;
+    padding: 0 0.5em;
+}
+
+#niveaux {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#niveaux span {
+    display: none;
+}
+
+#niveaux span.selected {
+    display: inline;
+}
+
+.reponse {
+    display: none;
 }
 
 @media only screen and (min-width:960px){
@@ -83,23 +133,23 @@ p#petites-lignes {
 
 @media only screen and (min-width:2000px){
     /* for sumo sized (mac) screens */
-    #main { max-width: 1800px; }
+    #main { max-width: 1600px; }
 }
-@media only screen and (max-device-width:480px){
+@media only screen and ((max-device-width:480px) or (max-width:480px)) {
     /* styles for mobile browsers smaller than 480px; (iPhone) */
     #main { max-width: 440px; }
-    body {    font-size: 100%; }
+    body {    font-size: 80%; }
 }
 @media only screen and (device-width:768px){
     /* default iPad screens */
     #main { max-width: 740px; }
-    body {    font-size: 110%; }
+    body {    font-size: 90%; }
 }
 /* different techniques for iPad screening */
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait) {
     /* For portrait layouts only */
     #main { max-width: 1000px; }
-    body {    font-size: 110%; }
+    body {    font-size: 90%; }
 }
 
 @media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:landscape) {

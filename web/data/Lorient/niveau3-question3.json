@@ -1,0 +1,3690 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 496448224,
+  "lat": 47.7480742,
+  "lon": -3.3646751,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faouëdic",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FAOE",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 496450525,
+  "lat": 47.7480318,
+  "lon": -3.3645526,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faouëdic",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FAOE1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1907031218,
+  "lat": 47.7448372,
+  "lon": -3.3779184,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2450374956,
+  "lat": 47.7570328,
+  "lon": -3.3672541,
+  "tags": {
+    "bus": "yes",
+    "fixme": "ref",
+    "highway": "bus_stop",
+    "mapillary": "8z6kHh1zjL32hp3RAREL5A",
+    "name": "Yser",
+    "name:br": "Yser",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 2450374965,
+  "lat": 47.7571932,
+  "lon": -3.3679291,
+  "tags": {
+    "bus": "yes",
+    "fixme": "ref",
+    "highway": "bus_stop",
+    "mapillary": "_gT6C4Y4UA4GikhTGrqn1A",
+    "name": "Yser",
+    "name:br": "Yser",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:YSER1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 2450374970,
+  "lat": 47.7577211,
+  "lon": -3.3726617,
+  "tags": {
+    "bus": "yes",
+    "fixme": "ref",
+    "highway": "bus_stop",
+    "name": "Oradour",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DOUR1"
+  }
+},
+{
+  "type": "node",
+  "id": 3325101276,
+  "lat": 47.7410240,
+  "lon": -3.3900866,
+  "tags": {
+    "advertising": "poster_box",
+    "highway": "bus_stop",
+    "luminous": "yes",
+    "name": "Comtesse de Ségur",
+    "name:br": "Kontez Ségur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SEGU",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 3964572346,
+  "lat": 47.7451064,
+  "lon": -3.3584813,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai des Indes",
+    "name:br": "Kae an Indez",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:INDE1",
+    "shelter": "yes",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 3964572347,
+  "lat": 47.7447961,
+  "lon": -3.3589967,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Quai des Indes",
+    "name:br": "Kae an Indez",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:INDE",
+    "shelter": "no",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 3964572463,
+  "lat": 47.7479109,
+  "lon": -3.3587900,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles Saint-Louis",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HALL",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3964572467,
+  "lat": 47.7477953,
+  "lon": -3.3585406,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles Saint-Louis",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HALL2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4758383707,
+  "lat": 47.7554669,
+  "lon": -3.3643242,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref:fr_tim": "lorient",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4832562221,
+  "lat": 47.7553706,
+  "lon": -3.3633315,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "name:br": "Gar-eskemm",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GE2",
+    "shelter": "yes",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 4832562321,
+  "lat": 47.7550095,
+  "lon": -3.3635082,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "name:br": "Gar-eskemm",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GE1",
+    "shelter": "yes",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 4868672231,
+  "lat": 47.7549189,
+  "lon": -3.3660857,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient Gare SNCF",
+    "name:br": "An Oriant Porzh-houarn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GLBS1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 4868672232,
+  "lat": 47.7548630,
+  "lon": -3.3659683,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient Gare SNCF",
+    "name:br": "An Oriant Porzh-houarn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GLBS",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 4984532302,
+  "lat": 47.7450709,
+  "lon": -3.3520754,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Péristyle",
+    "name:br": "Peristil",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PERY",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 4985662331,
+  "lat": 47.7571546,
+  "lon": -3.3718314,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "aOiphbGyZiOompAU1FbFEQ",
+    "name": "Normandie",
+    "name:br": "Normandi",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NORM",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-24"
+  }
+},
+{
+  "type": "node",
+  "id": 4985662332,
+  "lat": 47.7573205,
+  "lon": -3.3716757,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "HNNtZO_eV85I5vR18dQh-A",
+    "name": "Normandie",
+    "name:br": "Normandi",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NORM1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-24"
+  }
+},
+{
+  "type": "node",
+  "id": 4985668882,
+  "lat": 47.7574341,
+  "lon": -3.3710240,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "YHk0fMC0mhJZf0mp4IfpAw",
+    "name": "Normandie",
+    "name:br": "Normandi",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DOUR",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605677,
+  "lat": 47.7554434,
+  "lon": -3.3644124,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "public_transport": "platform",
+    "ref": "6",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605678,
+  "lat": 47.7553781,
+  "lon": -3.3646642,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref": "5",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605679,
+  "lat": 47.7553197,
+  "lon": -3.3649214,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref": "4",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605680,
+  "lat": 47.7552561,
+  "lon": -3.3651434,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref": "3",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605681,
+  "lat": 47.7551721,
+  "lon": -3.3654920,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009605682,
+  "lat": 47.7551060,
+  "lon": -3.3657425,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5009898480,
+  "lat": 47.7537358,
+  "lon": -3.3690653,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Retraite",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RETR",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5009898481,
+  "lat": 47.7537504,
+  "lon": -3.3693682,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Retraite",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RETR1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5020898532,
+  "lat": 47.7548067,
+  "lon": -3.3637463,
+  "tags": {
+    "bench": "yes",
+    "description": "Gare routière de Lorient",
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "name:br": "Gar-eskemm",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 5640234325,
+  "lat": 47.7303735,
+  "lon": -3.3597603,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lorient Port de Pêche",
+    "name:br": "Porzh-pesketa An Oriant",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PECH",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 5737387018,
+  "lat": 47.7394966,
+  "lon": -3.3792928,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frébault",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FREB",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5935288788,
+  "lat": 47.7555500,
+  "lon": -3.3646140,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "public_transport": "platform",
+    "ref:fr:BREIZHGO": "StopPoint:LRRNav72"
+  }
+},
+{
+  "type": "node",
+  "id": 5935288802,
+  "lat": 47.7555500,
+  "lon": -3.3646140,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lorient - Gare d'Échanges",
+    "name:br": "An Oriant - Gar-eskemm",
+    "public_transport": "platform",
+    "ref:fr:BREIZHGO": "StopPoint:LRRNav73",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6185116584,
+  "lat": 47.7332353,
+  "lon": -3.3840976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "3Hx6_0YAq2HH9nuIkIm1LQ",
+    "name": "Kérolay",
+    "name:br": "Kerhole",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KROL1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6205161967,
+  "lat": 47.7466960,
+  "lon": -3.3942277,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Campus Sciences",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CSCI"
+  }
+},
+{
+  "type": "node",
+  "id": 6205161968,
+  "lat": 47.7467880,
+  "lon": -3.3943349,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Campus Sciences",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CSCI1"
+  }
+},
+{
+  "type": "node",
+  "id": 6205213321,
+  "lat": 47.7316404,
+  "lon": -3.3732454,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Base - Cité de la Voile",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VOILE",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6205213322,
+  "lat": 47.7317576,
+  "lon": -3.3729181,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "vjaSzT-v6MC4Lb9gTYMKCQ",
+    "name": "La Base - Cité de la Voile",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6205431309,
+  "lat": 47.7656313,
+  "lon": -3.3940504,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mendès France",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MDFR1"
+  }
+},
+{
+  "type": "node",
+  "id": 6205431310,
+  "lat": 47.7675928,
+  "lon": -3.3932323,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "GzJmlz18hoYEwGxBGD-cRA",
+    "name": "Le Pouillot",
+    "name:br": "Ar Pouilhod",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:POUIL",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6205431311,
+  "lat": 47.7655320,
+  "lon": -3.3944124,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mendès France",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MDFR"
+  }
+},
+{
+  "type": "node",
+  "id": 6205431312,
+  "lat": 47.7685032,
+  "lon": -3.3950670,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lorient Kerulvé",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERU"
+  }
+},
+{
+  "type": "node",
+  "id": 6205431313,
+  "lat": 47.7677442,
+  "lon": -3.3932109,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Pouillot",
+    "name:br": "Ar Pouilhod",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:POUIL1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570469,
+  "lat": 47.7659540,
+  "lon": -3.3869252,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "kYReJUVO-cilkgtrEAE8hg",
+    "name": "Quéro",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:QUER1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570470,
+  "lat": 47.7664697,
+  "lon": -3.3837361,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "SvZnsvV5k-hvjdvZA7tcEg",
+    "name": "Saint-Armel",
+    "name:br": "Sant-Armael",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:STAR",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570471,
+  "lat": 47.7650382,
+  "lon": -3.3909190,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "YKsbFpUS1wLKDIW2-jZYzg",
+    "name": "Schumann",
+    "name:br": "Schumann",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SCHU",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570472,
+  "lat": 47.7659450,
+  "lon": -3.3865980,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "fZBcjB8ZFIaAaFW6KdbUCQ",
+    "name": "Quéro",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:QUER",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570473,
+  "lat": 47.7639330,
+  "lon": -3.3942343,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "RAT_mfT1m5MvaPgcS9-PJQ",
+    "name": "Kerguillette",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERG",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570474,
+  "lat": 47.7638735,
+  "lon": -3.3949960,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kerguillette",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERG1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570475,
+  "lat": 47.7652004,
+  "lon": -3.3906991,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schumann",
+    "name:br": "Schumann",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SCHU1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222570476,
+  "lat": 47.7665165,
+  "lon": -3.3836073,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Armel",
+    "name:br": "Sant-Armael",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:STAR1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573322,
+  "lat": 47.7656422,
+  "lon": -3.3724950,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bois du Château",
+    "name:br": "Koad ar C'hastell",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BDCH",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573323,
+  "lat": 47.7652870,
+  "lon": -3.3828966,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Pan",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PAN1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573324,
+  "lat": 47.7636824,
+  "lon": -3.3774678,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "name:br": "Berlioz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BERL",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573325,
+  "lat": 47.7650328,
+  "lon": -3.3830602,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Pan",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PAN"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573326,
+  "lat": 47.7636373,
+  "lon": -3.3813328,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "name:br": "Kennedy",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KENC",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573327,
+  "lat": 47.7650021,
+  "lon": -3.3756170,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Massenet",
+    "name:br": "Massenet",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MASS",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573328,
+  "lat": 47.7635742,
+  "lon": -3.3828429,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mandel",
+    "name:br": "Mandel",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MAND1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573329,
+  "lat": 47.7634678,
+  "lon": -3.3830629,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "9P8SEc6t3gx9-_uVJii1VQ",
+    "name": "Mandel",
+    "name:br": "Mandel",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MAND",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573330,
+  "lat": 47.7636896,
+  "lon": -3.3776099,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "name:br": "Berlioz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BERL1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573331,
+  "lat": 47.7636985,
+  "lon": -3.3814427,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "name:br": "Kennedy",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KENC1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573332,
+  "lat": 47.7657323,
+  "lon": -3.3726317,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bois du Château",
+    "name:br": "Koad ar C'hastell",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BDCH1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222573333,
+  "lat": 47.7650400,
+  "lon": -3.3758263,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Massenet",
+    "name:br": "Massenet",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MASS1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584564,
+  "lat": 47.7636175,
+  "lon": -3.3707059,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "f7uDG-3mi2P1wxMwY6mmHA",
+    "name": "Lénine",
+    "name:br": "Lenine",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LENI1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584565,
+  "lat": 47.7635562,
+  "lon": -3.3705074,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lénine",
+    "name:br": "Lenine",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LENI",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584566,
+  "lat": 47.7618379,
+  "lon": -3.3666182,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "FLnvZ28f1obgKZktGrrWFg",
+    "name": "Boulevard du Scorff",
+    "name:br": "Boulouard ar Skorf",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BSCO",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584567,
+  "lat": 47.7595949,
+  "lon": -3.3668328,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Louis Roche",
+    "name:br": "Louis Roche",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERD2",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584568,
+  "lat": 47.7619407,
+  "lon": -3.3664224,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "FLqZgVehnMzWw3NdRYdcyw",
+    "name": "Boulevard du Scorff",
+    "name:br": "Boulouard ar Skorf",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BSCO1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222584569,
+  "lat": 47.7596580,
+  "lon": -3.3669803,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Louis Roche",
+    "name:br": "Louis Roche",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERD3",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222596158,
+  "lat": 47.7523488,
+  "lon": -3.3612800,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chazelles - Hôpital",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHAZ1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222610635,
+  "lat": 47.7499510,
+  "lon": -3.3619174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Z5_Slppuf43Fp3Da0Qb4vg",
+    "name": "Alsace - Lorraine",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ALOR1",
+    "shelter": "yes",
+    "survey:date": "2017-08-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222610636,
+  "lat": 47.7461784,
+  "lon": -3.3669974,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-oD9HuUjy0EUgP43-IAaIQ",
+    "name": "Sécurité Sociale",
+    "name:br": "Surentez Sokial",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SECU1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222610637,
+  "lat": 47.7460049,
+  "lon": -3.3673167,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "364rwQrHDCciWMqQEa7ZKw",
+    "name": "Sécurité Sociale",
+    "name:br": "Surentez Sokial",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SECU",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-08-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222610638,
+  "lat": 47.7497526,
+  "lon": -3.3622151,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace - Lorraine",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ALOR"
+  }
+},
+{
+  "type": "node",
+  "id": 6222610639,
+  "lat": 47.7522214,
+  "lon": -3.3615338,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chazelles - Hôpital",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHAZ"
+  }
+},
+{
+  "type": "node",
+  "id": 6222617440,
+  "lat": 47.7452672,
+  "lon": -3.3716851,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "b_Z3E3SaTVsvxj24VELybw",
+    "name": "Bayard",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BAYA",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222617441,
+  "lat": 47.7452188,
+  "lon": -3.3715340,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Ng_M9P9ZoWHpFkAOaINvOA",
+    "name": "Bayard",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BAYA1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222622000,
+  "lat": 47.7451356,
+  "lon": -3.3754518,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Merville",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MERV"
+  }
+},
+{
+  "type": "node",
+  "id": 6222622001,
+  "lat": 47.7440752,
+  "lon": -3.3805172,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycées",
+    "name:br": "Liseoù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LYCM",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222622002,
+  "lat": 47.7440083,
+  "lon": -3.3801913,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycées",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LYCM1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6222622003,
+  "lat": 47.7450580,
+  "lon": -3.3752480,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Merville",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MERV1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222627254,
+  "lat": 47.7419034,
+  "lon": -3.3714526,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "UEuBZo3icaUuO-l6O6rwNw",
+    "name": "Chant des Oiseaux",
+    "name:br": "Kan an Evned",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:OISE",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222627255,
+  "lat": 47.7437829,
+  "lon": -3.3682581,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Marne",
+    "name:br": "Ar Marn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MARN",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222627256,
+  "lat": 47.7419269,
+  "lon": -3.3709859,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "fpBlrGT0BsVEFbTjoRAL1g",
+    "name": "Chant des Oiseaux",
+    "name:br": "Kan an Evned",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:OISE1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222627257,
+  "lat": 47.7433731,
+  "lon": -3.3682068,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "oH3XstlX2qhZ2H9WTMN97A",
+    "name": "La Marne",
+    "name:br": "Ar Marn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MARN1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222629251,
+  "lat": 47.7394197,
+  "lon": -3.3787134,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Frébault",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FREB1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6222629252,
+  "lat": 47.7409312,
+  "lon": -3.3744701,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "8W7T5Skvej3F2oh7mQrF1A",
+    "name": "Tonkin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:TONK",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222629253,
+  "lat": 47.7410839,
+  "lon": -3.3735029,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "mMHj9XzFUSMZQCzRT3f3SA",
+    "name": "Tonkin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:TONK1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633325,
+  "lat": 47.7423995,
+  "lon": -3.3871596,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "nQvrhqn20BhzlVg-Be3JDA",
+    "name": "Campus Lettres",
+    "name:br": "Kampus ar Lizhiri",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CLET1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633326,
+  "lat": 47.7432472,
+  "lon": -3.3808001,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycées",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LYCA1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633327,
+  "lat": 47.7428269,
+  "lon": -3.3808457,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycées",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LYCA",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633328,
+  "lat": 47.7402126,
+  "lon": -3.3798839,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Puce",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PUCE1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633329,
+  "lat": 47.7425636,
+  "lon": -3.3872294,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Lq_VOb9b5X2u0T-W47BFwA",
+    "name": "Campus Lettres",
+    "name:br": "Kampus ar Lizhiri",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CLET",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222633330,
+  "lat": 47.7400474,
+  "lon": -3.3799955,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Puce",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PUCE",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634689,
+  "lat": 47.7531844,
+  "lon": -3.3914860,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Bollardière",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOLL1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634690,
+  "lat": 47.7512675,
+  "lon": -3.3932536,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "2pzIRN6WhWsR_mSGix1dpw",
+    "name": "Les Ormes",
+    "name:br": "An Onn-du",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ORME1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634691,
+  "lat": 47.7512981,
+  "lon": -3.3929639,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Ormes",
+    "name:br": "An Onn-du",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ORME",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634692,
+  "lat": 47.7529013,
+  "lon": -3.3914700,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "H9scn0oTbfasTpd818A4Ng",
+    "name": "La Bollardière",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOLL2",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634693,
+  "lat": 47.7501079,
+  "lon": -3.3940529,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "J. Henaff",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HENA"
+  }
+},
+{
+  "type": "node",
+  "id": 6222634694,
+  "lat": 47.7499528,
+  "lon": -3.3943962,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "m86pY13uI-4H98zwCl59kQ",
+    "name": "J. Henaff",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HENA1",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222635736,
+  "lat": 47.7458228,
+  "lon": -3.3906304,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "atRYW7sDfGsH9ddJdUu-7Q",
+    "name": "Bibliothèque Universitaire",
+    "name:br": "Levraoueg Skol-veur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BUNI",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222635737,
+  "lat": 47.7456911,
+  "lon": -3.3906358,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "1U4u5-p1S1DIpWmhRIHQng",
+    "name": "Bibliothèque Universitaire",
+    "name:br": "Levraoueg Skol-veur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BUNI1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222645723,
+  "lat": 47.7558569,
+  "lon": -3.3915746,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerfichant",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERF1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222645724,
+  "lat": 47.7559164,
+  "lon": -3.3913412,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "9zmhvJ-eQ1-3aKAmMP0O1w",
+    "name": "Kerfichant",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERF",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222646049,
+  "lat": 47.7577728,
+  "lon": -3.3902077,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Plénéno",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PLEN"
+  }
+},
+{
+  "type": "node",
+  "id": 6222646050,
+  "lat": 47.7576912,
+  "lon": -3.3903981,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "MJOvL0w3qBH6gXX7HnKpRw",
+    "name": "Le Plénéno",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PLEN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222657681,
+  "lat": 47.7630911,
+  "lon": -3.3954927,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point Keryado",
+    "name:br": "Kroashent-tro Keriadoù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RPK2",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222657682,
+  "lat": 47.7594832,
+  "lon": -3.3919361,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "sY1zU8dZlykcDVBU2KvfIQ",
+    "name": "Chambre des Métiers",
+    "name:br": "Kambr ar Micherioù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:METI",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222657683,
+  "lat": 47.7593209,
+  "lon": -3.3919119,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "l8tnSnHJNIXV524pTFOiUQ",
+    "name": "Chambre des Métiers",
+    "name:br": "Kambr ar Micherioù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:METI1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6222657684,
+  "lat": 47.7632245,
+  "lon": -3.3953264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point Keryado",
+    "name:br": "Kroashent-tro Keriadoù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RPK1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222823098,
+  "lat": 47.7322525,
+  "lon": -3.3784977,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "François Toullec",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FTOU2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6222823099,
+  "lat": 47.7323986,
+  "lon": -3.3787337,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "François Toullec",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:FTOU3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835839,
+  "lat": 47.7344841,
+  "lon": -3.3885882,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "XNOdM6Bvq1ESDg2_veltPA",
+    "name": "Le Ter",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:TER",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835840,
+  "lat": 47.7387773,
+  "lon": -3.3921126,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "3R7E5yRGrbizcm8YNIum0A",
+    "name": "Capitaine Marienne",
+    "name:br": "Kabiten Marienne",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CMAR",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835841,
+  "lat": 47.7405739,
+  "lon": -3.3933974,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kervenanec",
+    "name:br": "Kerwenaneg",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVE1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835842,
+  "lat": 47.7386330,
+  "lon": -3.3916056,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Q0kndaY6sqxNrRdiy67Rmw",
+    "name": "Capitaine Marienne",
+    "name:br": "Kabiten Marienne",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CMAR1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835843,
+  "lat": 47.7374118,
+  "lon": -3.3909619,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "DLJEs-7r0qxI9vLGVDsqTw",
+    "name": "Chenailler",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHEN",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835844,
+  "lat": 47.7330138,
+  "lon": -3.3836073,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Ou9vvEomd6HuAqEcGwYs6A",
+    "name": "Kérolay",
+    "name:br": "Kerhole",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KROL",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835845,
+  "lat": 47.7374154,
+  "lon": -3.3907742,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "SdphDFfIMgoqLTwIgqAInw",
+    "name": "Chenailler",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHEN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835846,
+  "lat": 47.7347060,
+  "lon": -3.3886794,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Ter",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:TER3"
+  }
+},
+{
+  "type": "node",
+  "id": 6222835847,
+  "lat": 47.7404242,
+  "lon": -3.3935020,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "35VFWtwNEk5DG0i8XgGcog",
+    "name": "Kervenanec",
+    "name:br": "Kerwenaneg",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVE",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222839954,
+  "lat": 47.7425165,
+  "lon": -3.3909458,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "J4PqMmLe5cMv5QjvSUMHhA",
+    "name": "G. Le Lain",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LAIN",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222839955,
+  "lat": 47.7424588,
+  "lon": -3.3907581,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "ojxYx4NnR7V4LMXjLdpklA",
+    "name": "G. Le Lain",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LAIN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222852242,
+  "lat": 47.7566041,
+  "lon": -3.3642984,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "NfaFfPsh2Y4q4SsMYR5hcw",
+    "name": "Kerentrech",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERC1",
+    "shelter": "yes",
+    "survey:date": "2017-08-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222852243,
+  "lat": 47.7564013,
+  "lon": -3.3643866,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kerentrech",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KERC"
+  }
+},
+{
+  "type": "node",
+  "id": 6222854808,
+  "lat": 47.7593999,
+  "lon": -3.3658752,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERD"
+  }
+},
+{
+  "type": "node",
+  "id": 6222854809,
+  "lat": 47.7591943,
+  "lon": -3.3655882,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "6uzM2SrR6oNGpkgLvfiXDg",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERD1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946866,
+  "lat": 47.7570781,
+  "lon": -3.3548303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville en Bois",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOIS1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946867,
+  "lat": 47.7556914,
+  "lon": -3.3551012,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rives du Scorff",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HOPS"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946869,
+  "lat": 47.7556536,
+  "lon": -3.3549054,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rives du Scorff",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HOPS1"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946870,
+  "lat": 47.7563163,
+  "lon": -3.3575781,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Melun",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MELUN"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946871,
+  "lat": 47.7562053,
+  "lon": -3.3573838,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "ngLTsgm3aibgAaBb4b6j7w",
+    "name": "Melun",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MELUN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6222946872,
+  "lat": 47.7569014,
+  "lon": -3.3549457,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville en Bois",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOIS"
+  }
+},
+{
+  "type": "node",
+  "id": 6222979454,
+  "lat": 47.7447822,
+  "lon": -3.3954432,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerdiret",
+    "name:br": "Kerdired",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KDIR1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6222979455,
+  "lat": 47.7446447,
+  "lon": -3.3956465,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerdiret",
+    "name:br": "Kerdired",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KDIR",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223075738,
+  "lat": 47.7349207,
+  "lon": -3.3843318,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "name:br": "Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MOUL",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6223075739,
+  "lat": 47.7343344,
+  "lon": -3.3844605,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "name:br": "Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MOUL1",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6223075740,
+  "lat": 47.7370367,
+  "lon": -3.3824382,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fontaine des Anglais",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ANGL1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6223075741,
+  "lat": 47.7366994,
+  "lon": -3.3829666,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fontaine des Anglais",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ANGL",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6223081883,
+  "lat": 47.7582605,
+  "lon": -3.3760651,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "7igO2q4VOv7gvEZoO8D0CA",
+    "name": "Calvin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CALV1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223081884,
+  "lat": 47.7581035,
+  "lon": -3.3759123,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "tRUVIJdpdMjIGLaCX5KguA",
+    "name": "Calvin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CALV",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223082685,
+  "lat": 47.7599265,
+  "lon": -3.3819768,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "5nxHoQPXfF0EXBJ6WIv9LA",
+    "name": "Le Puits",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LPUI1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223082686,
+  "lat": 47.7597606,
+  "lon": -3.3818105,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "I_FpJH7NlY8ZFDwTnAJsMQ",
+    "name": "Le Puits",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LPUI",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086532,
+  "lat": 47.7623245,
+  "lon": -3.3905545,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Keryado Mairie",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MAIR1"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086533,
+  "lat": 47.7632152,
+  "lon": -3.3941996,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "shmFJm8c7sTdUbLHcZ-tTw",
+    "name": "Grenouillère",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GREN",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086534,
+  "lat": 47.7639238,
+  "lon": -3.3966539,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "ryGl3fK2gxvLJX5NZbeoaQ",
+    "name": "Pôle Commercial K2",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ZCK2",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086535,
+  "lat": 47.7633630,
+  "lon": -3.3943740,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "wodUmC8vt6K285Ih3Mtlzg",
+    "name": "Grenouillère",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GREN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086536,
+  "lat": 47.7640590,
+  "lon": -3.3968014,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Iu71R_oL7s36iJ4GBIiTLw",
+    "name": "Pôle Commercial K2",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:ZCK21",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086537,
+  "lat": 47.7611345,
+  "lon": -3.3860350,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "name:br": "Frankiz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LIBE1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086538,
+  "lat": 47.7609218,
+  "lon": -3.3858580,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "k7uKBILHi1iv1r8PbPia6A",
+    "name": "Liberté",
+    "name:br": "Frankiz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LIBE",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223086539,
+  "lat": 47.7621947,
+  "lon": -3.3904526,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "5I1wsedXmb5J1AoGTrx7RQ",
+    "name": "Keryado Mairie",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MAIR",
+    "shelter": "yes",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223097239,
+  "lat": 47.7661972,
+  "lon": -3.4011412,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "ROaPXcCQF0TGP3L3ks_35w",
+    "name": "Perroquet Vert",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERT3",
+    "shelter": "yes",
+    "survey:date": "2017-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6223097240,
+  "lat": 47.7663721,
+  "lon": -3.4011868,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Dg0eA4rsWDeDzH75S-DKxA",
+    "name": "Perroquet Vert",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VERT4",
+    "shelter": "yes",
+    "survey:date": "2017-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6223139449,
+  "lat": 47.7721469,
+  "lon": -3.4045773,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "LcZwpuTljlq2qe54_39oRA",
+    "name": "AFPA",
+    "name:br": "KDVO",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CFPA",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6223139461,
+  "lat": 47.7722839,
+  "lon": -3.4044942,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "AFPA",
+    "name:br": "KDVO",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CFPA1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223733327,
+  "lat": 47.7372321,
+  "lon": -3.3941193,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "txgdkFWh-UkbF2OGtiNO0g",
+    "name": "Village de Kervenanec",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVAN1",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223733328,
+  "lat": 47.7372628,
+  "lon": -3.3948864,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Village de Kervenanec",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVAN"
+  }
+},
+{
+  "type": "node",
+  "id": 6223733329,
+  "lat": 47.7388285,
+  "lon": -3.3905278,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "G. Le Sant",
+    "name:br": "G. Ar Sant",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SANT1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223733330,
+  "lat": 47.7388159,
+  "lon": -3.3907076,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "WtCp1f-TPWOV3598RYdtAw",
+    "name": "G. Le Sant",
+    "name:br": "G. Ar Sant",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SANT",
+    "shelter": "no",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223736938,
+  "lat": 47.7407279,
+  "lon": -3.3900960,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "sY2-69vAueb5yEMn2g88AA",
+    "name": "Comtesse de Ségur",
+    "name:br": "Kontez Ségur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SEGU1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223736939,
+  "lat": 47.7471381,
+  "lon": -3.3882560,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kervaric",
+    "name:br": "Kervarc'hig",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVAR1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223736940,
+  "lat": 47.7478757,
+  "lon": -3.3902757,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "A. Dreyfus",
+    "name:br": "A. Dreyfus",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DREY1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223736941,
+  "lat": 47.7469974,
+  "lon": -3.3879207,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "oVP-dvLLRvtMGO61TlyAHw",
+    "name": "Kervaric",
+    "name:br": "Kervarc'hig",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRVAR",
+    "shelter": "yes",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223736942,
+  "lat": 47.7479929,
+  "lon": -3.3908873,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "A. Dreyfus",
+    "name:br": "A. Dreyfus",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DREY",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747205,
+  "lat": 47.7511273,
+  "lon": -3.3687966,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Svob",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SVOB1"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747206,
+  "lat": 47.7511652,
+  "lon": -3.3684694,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "yJiRNlzyFZ2Kywp2bwa4iA",
+    "name": "Svob",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SVOB",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747207,
+  "lat": 47.7467359,
+  "lon": -3.3861398,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "tpRU2exjEfvhjAdve_LYig",
+    "name": "Parc Chevassu",
+    "name:br": "Park Chevassu",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHEV1",
+    "shelter": "no",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747208,
+  "lat": 47.7471146,
+  "lon": -3.3831866,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "4MfA0g1SzUzuVd1pLDLz9g",
+    "name": "Colbert / CFA",
+    "name:br": "Colbert / KSD",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CFA",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747209,
+  "lat": 47.7477008,
+  "lon": -3.3778222,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bodélio",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HOPIT1"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747210,
+  "lat": 47.7481727,
+  "lon": -3.3810004,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "J. Curie",
+    "name:br": "J. Curie",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CURIE1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747211,
+  "lat": 47.7481083,
+  "lon": -3.3813466,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "J. Curie",
+    "name:br": "J. Curie",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CURIE",
+    "shelter": "no",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747212,
+  "lat": 47.7495024,
+  "lon": -3.3734234,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "L. Blum",
+    "name:br": "L. Blum",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BLUM",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747213,
+  "lat": 47.7470353,
+  "lon": -3.3830525,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Colbert / CFA",
+    "name:br": "Colbert / KSD",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CFA1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747214,
+  "lat": 47.7467683,
+  "lon": -3.3863543,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "rFyXGYl_qYmF9WCR5eIAsw",
+    "name": "Parc Chevassu",
+    "name:br": "Park Chevassu",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CHEV",
+    "shelter": "no",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747215,
+  "lat": 47.7488550,
+  "lon": -3.3738311,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "URR7u8itKb6rx2i0hWc2hg",
+    "name": "L. Blum",
+    "name:br": "L. Blum",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BLUM1",
+    "shelter": "yes",
+    "source:name:br": "proper translation",
+    "survey:date": "2017-06-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6223747216,
+  "lat": 47.7478270,
+  "lon": -3.3780153,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bodélio",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HOPIT"
+  }
+},
+{
+  "type": "node",
+  "id": 6223773394,
+  "lat": 47.7527861,
+  "lon": -3.3541583,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital du Scorff",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HOP2"
+  }
+},
+{
+  "type": "node",
+  "id": 6223773395,
+  "lat": 47.7459225,
+  "lon": -3.3558442,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Armes",
+    "name:br": "Plasenn an Armoù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PLARM",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223773396,
+  "lat": 47.7511219,
+  "lon": -3.3586712,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte Colbert",
+    "name:br": "Dor Colbert",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PCOLB",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6223773397,
+  "lat": 47.7459964,
+  "lon": -3.3558281,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Armes",
+    "name:br": "Plasenn an Armoù",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PLARM1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 6223773398,
+  "lat": 47.7501836,
+  "lon": -3.3599577,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Foch",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MFOCH1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501624,
+  "lat": 47.7341994,
+  "lon": -3.3653066,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Perrière",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PERRI",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501625,
+  "lat": 47.7374699,
+  "lon": -3.3676374,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carnel",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CARN",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501626,
+  "lat": 47.7319858,
+  "lon": -3.3636168,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bd Nail",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NAIL"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501627,
+  "lat": 47.7371740,
+  "lon": -3.3676079,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "xqLvYNim53yC_8joKm-Jog",
+    "name": "Carnel",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:CARN1",
+    "shelter": "yes",
+    "survey:date": "2017-08-18"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501628,
+  "lat": 47.7318433,
+  "lon": -3.3632654,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bd Nail",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NAIL1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224501629,
+  "lat": 47.7342841,
+  "lon": -3.3651644,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Perrière",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PERRI1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6224528915,
+  "lat": 47.7401088,
+  "lon": -3.3688658,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Du Guesclin",
+    "name:br": "Ar Gwesklin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUES",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6224528916,
+  "lat": 47.7399862,
+  "lon": -3.3687264,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Du Guesclin",
+    "name:br": "Ar Gwesklin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUES1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6224790804,
+  "lat": 47.7332277,
+  "lon": -3.3716930,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "ZyDT9uxKdcVwf5Pg9R9hZA",
+    "name": "E. Marec",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MARE1",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6224790805,
+  "lat": 47.7331465,
+  "lon": -3.3716072,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Jn-WZ59laJI5VuCa3tD4uA",
+    "name": "E. Marec",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MARE",
+    "shelter": "no",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803257,
+  "lat": 47.7322247,
+  "lon": -3.3664198,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Criée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803258,
+  "lat": 47.7416662,
+  "lon": -3.3531241,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "AAYmqwGzzqWRXDYBCnslhg",
+    "name": "Gare Maritime",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GMAR",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803259,
+  "lat": 47.7343642,
+  "lon": -3.3678950,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "n4YCXRp-YPA2rgWWTpaf1w",
+    "name": "Slipway",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SLIP",
+    "shelter": "no",
+    "survey:date": "2017-04-26"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803260,
+  "lat": 47.7423143,
+  "lon": -3.3597563,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Courbet",
+    "name:br": "Courbet",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:COURB",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803261,
+  "lat": 47.7424154,
+  "lon": -3.3597751,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Courbet",
+    "name:br": "Courbet",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:COURB1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803262,
+  "lat": 47.7320984,
+  "lon": -3.3665110,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Criée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6224803263,
+  "lat": 47.7344887,
+  "lon": -3.3679057,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "l_uNtae38CJ_KNTMuDG30g",
+    "name": "Slipway",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:SLIP1",
+    "shelter": "yes",
+    "survey:date": "2017-04-26"
+  }
+},
+{
+  "type": "node",
+  "id": 6224806882,
+  "lat": 47.7437206,
+  "lon": -3.3596794,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Office de Tourisme",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:OFTO1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224806883,
+  "lat": 47.7436634,
+  "lon": -3.3598857,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "9yOIo0vzVtlWnh-kmjzZKg",
+    "name": "Office de Tourisme",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:OFTO",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824986,
+  "lat": 47.7464280,
+  "lon": -3.3617333,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Palais des Congrès",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PCON2"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824987,
+  "lat": 47.7527705,
+  "lon": -3.3767409,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "BWLnG1tYf40nVCsaOZQdRg",
+    "name": "Place Guiol",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUIO1",
+    "shelter": "yes",
+    "survey:date": "2017-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824988,
+  "lat": 47.7514648,
+  "lon": -3.3788706,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerforn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRFO",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824989,
+  "lat": 47.7532195,
+  "lon": -3.3726050,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rodin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RODIN",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824990,
+  "lat": 47.7505433,
+  "lon": -3.3797879,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Puits Fleuri",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PUIT1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824991,
+  "lat": 47.7528606,
+  "lon": -3.3760328,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "F0USW7u3Yf46BCgjM8LttQ",
+    "name": "Place Guiol",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUIO",
+    "shelter": "yes",
+    "survey:date": "2017-07-25"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824992,
+  "lat": 47.7516037,
+  "lon": -3.3788921,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerforn",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KRFO1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824993,
+  "lat": 47.7505704,
+  "lon": -3.3796189,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "QXwTWOsMl7dWwgfzIU--eA",
+    "name": "Puits Fleuri",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PUIT",
+    "shelter": "yes",
+    "survey:date": "2017-07-20"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824994,
+  "lat": 47.7533295,
+  "lon": -3.3727552,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rodin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:RODIN1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6224824995,
+  "lat": 47.7465146,
+  "lon": -3.3617904,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Palais des Congrès",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PCON3"
+  }
+},
+{
+  "type": "node",
+  "id": 6224835189,
+  "lat": 47.7517317,
+  "lon": -3.3843128,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Batteur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BATT1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224835190,
+  "lat": 47.7493711,
+  "lon": -3.3811129,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VILL1",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6224835191,
+  "lat": 47.7494486,
+  "lon": -3.3808823,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:VILL",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6224835192,
+  "lat": 47.7515171,
+  "lon": -3.3843799,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Batteur",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BATT"
+  }
+},
+{
+  "type": "node",
+  "id": 6224842128,
+  "lat": 47.7530897,
+  "lon": -3.3886848,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Belle Source",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BSOU1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224842129,
+  "lat": 47.7527326,
+  "lon": -3.3885963,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Belle Source",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BSOU"
+  }
+},
+{
+  "type": "node",
+  "id": 6224842130,
+  "lat": 47.7537334,
+  "lon": -3.3915869,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerguestenen",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KGTN1"
+  }
+},
+{
+  "type": "node",
+  "id": 6224842131,
+  "lat": 47.7527524,
+  "lon": -3.3907286,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kerguestenen",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:KGTN"
+  }
+},
+{
+  "type": "node",
+  "id": 6469493804,
+  "lat": 47.7410985,
+  "lon": -3.3622856,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lazare Carnot",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LCAR1"
+  }
+},
+{
+  "type": "node",
+  "id": 6469493805,
+  "lat": 47.7411255,
+  "lon": -3.3627797,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lazare Carnot",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:LCAR"
+  }
+},
+{
+  "type": "node",
+  "id": 6469493806,
+  "lat": 47.7422619,
+  "lon": -3.3611812,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Duguay Trouin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DUGU"
+  }
+},
+{
+  "type": "node",
+  "id": 6469493807,
+  "lat": 47.7422511,
+  "lon": -3.3610096,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Duguay Trouin",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:DUGU1"
+  }
+},
+{
+  "type": "node",
+  "id": 6469496027,
+  "lat": 47.7408568,
+  "lon": -3.3657274,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Nouvelle Ville",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NVIL1"
+  }
+},
+{
+  "type": "node",
+  "id": 6469496028,
+  "lat": 47.7409398,
+  "lon": -3.3656282,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Nouvelle Ville",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:NVIL"
+  }
+},
+{
+  "type": "node",
+  "id": 6471101102,
+  "lat": 47.7478320,
+  "lon": -3.3587563,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles Saint-Louis",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:HALL1"
+  }
+},
+{
+  "type": "node",
+  "id": 6471101103,
+  "lat": 47.7460076,
+  "lon": -3.3601412,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cours de la Bôve",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOVE",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6471101104,
+  "lat": 47.7460335,
+  "lon": -3.3599590,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cours de la Bôve",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:BOVE1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6471101105,
+  "lat": 47.7499372,
+  "lon": -3.3599056,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Foch",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MFOCH"
+  }
+},
+{
+  "type": "node",
+  "id": 7216930384,
+  "lat": 47.7352372,
+  "lon": -3.3936431,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Auberge de Jeunesse",
+    "name:br": "Herberc'h Yaouankiz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:AUJE",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943885,
+  "lat": 47.7342883,
+  "lon": -3.3923825,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Grives",
+    "name:br": "An Drasked",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GRIV",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943886,
+  "lat": 47.7343786,
+  "lon": -3.3921278,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Grives",
+    "name:br": "An Drasked",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GRIV1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943887,
+  "lat": 47.7360814,
+  "lon": -3.3925836,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Moineaux",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MOIN"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943888,
+  "lat": 47.7350351,
+  "lon": -3.3933776,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Auberge de Jeunesse",
+    "name:br": "Herberc'h Yaouankiz",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:AUJE1",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 7216943889,
+  "lat": 47.7359191,
+  "lon": -3.3926104,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Moineaux",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:MOIN1"
+  }
+},
+{
+  "type": "node",
+  "id": 7344351666,
+  "lat": 47.7510623,
+  "lon": -3.3554556,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7344351667,
+  "lat": 47.7509471,
+  "lon": -3.3553267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143920,
+  "lat": 47.7547650,
+  "lon": -3.3636740,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "name:br": "Gar-eskemm",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GE3",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143921,
+  "lat": 47.7553440,
+  "lon": -3.3642880,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "name:br": "Gar-eskemm",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GE4",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143922,
+  "lat": 47.7553860,
+  "lon": -3.3643940,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare d'Échanges",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GE5"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143930,
+  "lat": 47.7435070,
+  "lon": -3.3949510,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Gonidec",
+    "name:br": "Ar Gonideg",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GONI",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143931,
+  "lat": 47.7434420,
+  "lon": -3.3949470,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Gonidec",
+    "name:br": "Ar Gonideg",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GONI1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143940,
+  "lat": 47.7508418,
+  "lon": -3.3534500,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Guedon",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUEDON"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143941,
+  "lat": 47.7509410,
+  "lon": -3.3533740,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Guedon",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:GUEDON1"
+  }
+},
+{
+  "type": "node",
+  "id": 8435143958,
+  "lat": 47.7444090,
+  "lon": -3.3566220,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Quai des Indes",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:INDE2"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144477,
+  "lat": 47.7512360,
+  "lon": -3.3585910,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Porte Colbert DCN",
+    "name:br": "Dor Colbert DCN",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PCOLB1",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144478,
+  "lat": 47.7511790,
+  "lon": -3.3586850,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Porte Colbert DCN",
+    "name:br": "Dor Colbert DCN",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PCOLB2",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144482,
+  "lat": 47.7300640,
+  "lon": -3.3601810,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Port de Pêche",
+    "name:br": "Porzh-pesketa",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:PECH2",
+    "source:name:br": "ofis publik ar brezhoneg"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144568,
+  "lat": 47.7702030,
+  "lon": -3.4082760,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Quetguen",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:QUET"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144652,
+  "lat": 47.7511560,
+  "lon": -3.3936710,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Lycée Saint-Jo N-D de la Paix",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:STJO"
+  }
+},
+{
+  "type": "node",
+  "id": 8435144731,
+  "lat": 47.7570129,
+  "lon": -3.3671550,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "YSER",
+    "name:br": "Yser",
+    "public_transport": "platform",
+    "ref:FR:CTRL": "CTRL:YSER",
+    "source:name:br": "proper translation"
+  }
+},
+{
+  "type": "node",
+  "id": 9064082933,
+  "lat": 47.7499765,
+  "lon": -3.3552894,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9064104245,
+  "lat": 47.7500246,
+  "lon": -3.3558909,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9122785857,
+  "lat": 47.7487684,
+  "lon": -3.3540010,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,419 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 60268250,
+  "nodes": [
+    268126766,
+    1363280232,
+    4753024384,
+    84888251
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue Victor Hugo",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "parking:lane:right": "parallel",
+    "ref": "D 909",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 121881960,
+  "nodes": [
+    84888251,
+    268128174,
+    1363280740,
+    1363281162,
+    84888248
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue Victor Hugo",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "ref": "D 909",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 121881961,
+  "nodes": [
+    84888248,
+    1363281317,
+    86035531,
+    4973929469,
+    84888247,
+    84888246,
+    1363284669,
+    3521083028,
+    84888245,
+    8488716526,
+    8488716525,
+    8488716518
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "busway": "opposite_lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue Victor Hugo",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "ref": "D 909",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 190910686,
+  "nodes": [
+    268126770,
+    1363279999,
+    4973929468,
+    1363280176,
+    268126766
+  ],
+  "tags": {
+    "busway": "opposite_lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Rue Victor Hugo",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "ref": "D 909",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 380740034,
+  "nodes": [
+    243646381,
+    6049459837,
+    8125171380,
+    6050939651,
+    221255377,
+    7346060413,
+    348795308,
+    7346060414,
+    7346060415,
+    221255380,
+    7346060417,
+    221255381
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "Piste cyclable temporaire",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Paul Vaillant-Couturier",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 913818947,
+  "nodes": [
+    8488716518,
+    8488716524,
+    8488716523
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "busway": "opposite_lane",
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxheight": "4.50",
+    "maxspeed": "50",
+    "name": "Rue Victor Hugo",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "ref": "D 909",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600086985,
+  "tags": {
+    "admin_level": "8",
+    "alt_name": "Levallois",
+    "boundary": "administrative",
+    "name": "Levallois-Perret",
+    "name:fr": "Levallois-Perret",
+    "name:ru": "Леваллуа-Перре",
+    "population": "66082",
+    "population:date": "2019",
+    "postal_code": "92300",
+    "ref:INSEE": "92044",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q166640",
+    "wikipedia": "fr:Levallois-Perret"
+  }
+},
+{
+  "type": "node",
+  "id": 221255377,
+  "lat": 48.8935686,
+  "lon": 2.2773081
+},
+{
+  "type": "node",
+  "id": 221255380,
+  "lat": 48.8941285,
+  "lon": 2.2789381
+},
+{
+  "type": "node",
+  "id": 221255381,
+  "lat": 48.8944234,
+  "lon": 2.2796628
+},
+{
+  "type": "node",
+  "id": 243646381,
+  "lat": 48.8932660,
+  "lon": 2.2764313
+},
+{
+  "type": "node",
+  "id": 348795308,
+  "lat": 48.8938707,
+  "lon": 2.2781985
+},
+{
+  "type": "node",
+  "id": 6049459837,
+  "lat": 48.8933241,
+  "lon": 2.2765995
+},
+{
+  "type": "node",
+  "id": 6050939651,
+  "lat": 48.8934747,
+  "lon": 2.2770360
+},
+{
+  "type": "node",
+  "id": 7346060413,
+  "lat": 48.8938434,
+  "lon": 2.2781181
+},
+{
+  "type": "node",
+  "id": 7346060414,
+  "lat": 48.8939009,
+  "lon": 2.2782850
+},
+{
+  "type": "node",
+  "id": 7346060415,
+  "lat": 48.8940894,
+  "lon": 2.2788260
+},
+{
+  "type": "node",
+  "id": 7346060417,
+  "lat": 48.8943968,
+  "lon": 2.2795974
+},
+{
+  "type": "node",
+  "id": 8125171380,
+  "lat": 48.8934539,
+  "lon": 2.2769756
+},
+{
+  "type": "node",
+  "id": 84888246,
+  "lat": 48.8992852,
+  "lon": 2.2934638
+},
+{
+  "type": "node",
+  "id": 1363284669,
+  "lat": 48.8993188,
+  "lon": 2.2934343
+},
+{
+  "type": "node",
+  "id": 84888245,
+  "lat": 48.9000829,
+  "lon": 2.2927728
+},
+{
+  "type": "node",
+  "id": 3521083028,
+  "lat": 48.8999889,
+  "lon": 2.2928321
+},
+{
+  "type": "node",
+  "id": 8488716518,
+  "lat": 48.9002162,
+  "lon": 2.2927103
+},
+{
+  "type": "node",
+  "id": 8488716523,
+  "lat": 48.9002984,
+  "lon": 2.2926933
+},
+{
+  "type": "node",
+  "id": 8488716524,
+  "lat": 48.9002600,
+  "lon": 2.2926993
+},
+{
+  "type": "node",
+  "id": 8488716525,
+  "lat": 48.9001829,
+  "lon": 2.2927254
+},
+{
+  "type": "node",
+  "id": 8488716526,
+  "lat": 48.9001388,
+  "lon": 2.2927442
+},
+{
+  "type": "node",
+  "id": 84888247,
+  "lat": 48.8988809,
+  "lon": 2.2938276
+},
+{
+  "type": "node",
+  "id": 84888248,
+  "lat": 48.8982831,
+  "lon": 2.2943596
+},
+{
+  "type": "node",
+  "id": 84888251,
+  "lat": 48.8967998,
+  "lon": 2.2956875
+},
+{
+  "type": "node",
+  "id": 86035531,
+  "lat": 48.8985869,
+  "lon": 2.2940924
+},
+{
+  "type": "node",
+  "id": 268126766,
+  "lat": 48.8959197,
+  "lon": 2.2964680
+},
+{
+  "type": "node",
+  "id": 268126770,
+  "lat": 48.8955168,
+  "lon": 2.2968599
+},
+{
+  "type": "node",
+  "id": 268128174,
+  "lat": 48.8975260,
+  "lon": 2.2950416
+},
+{
+  "type": "node",
+  "id": 1363279999,
+  "lat": 48.8955720,
+  "lon": 2.2967966
+},
+{
+  "type": "node",
+  "id": 1363280176,
+  "lat": 48.8958241,
+  "lon": 2.2965537
+},
+{
+  "type": "node",
+  "id": 1363280232,
+  "lat": 48.8960220,
+  "lon": 2.2963773
+},
+{
+  "type": "node",
+  "id": 1363280740,
+  "lat": 48.8975774,
+  "lon": 2.2949959
+},
+{
+  "type": "node",
+  "id": 1363281162,
+  "lat": 48.8982066,
+  "lon": 2.2944286
+},
+{
+  "type": "node",
+  "id": 1363281317,
+  "lat": 48.8984406,
+  "lon": 2.2942266
+},
+{
+  "type": "node",
+  "id": 4753024384,
+  "lat": 48.8967440,
+  "lon": 2.2957370
+},
+{
+  "type": "node",
+  "id": 4973929468,
+  "lat": 48.8958015,
+  "lon": 2.2965771
+},
+{
+  "type": "node",
+  "id": 4973929469,
+  "lat": 48.8986983,
+  "lon": 2.2939920
+}
+
+  ]
+}

@@ -1,0 +1,4387 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 456295685,
+  "lat": 47.8872758,
+  "lon": 1.8903865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "nj4tn2PkzQxBkkpDK9dC8w",
+    "name": "Pierre Louis",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "16",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2018-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 456349055,
+  "lat": 47.8918942,
+  "lon": 1.8877089,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hautes Levées",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 456349200,
+  "lat": 47.8919938,
+  "lon": 1.8873039,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hautes Levées",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 482733247,
+  "lat": 47.8425277,
+  "lon": 1.9290946,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polytech",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 523753564,
+  "lat": 47.9054083,
+  "lon": 1.8922061,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Ni0nxSR0e7VB22wqQ7GnTA",
+    "name": "Vauquois",
+    "public_transport": "platform",
+    "ref": "ligne 5, 8",
+    "route_ref": "2;3",
+    "shelter": "no",
+    "survey:date": "2017-02-24"
+  }
+},
+{
+  "type": "node",
+  "id": 523753571,
+  "lat": 47.9082636,
+  "lon": 1.8856309,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pouponnière",
+    "public_transport": "platform",
+    "ref": "ligne 2 et 4",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 523753600,
+  "lat": 47.9065171,
+  "lon": 1.9064554,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "Quai L",
+    "name": "Gare d'Orléans Quai L",
+    "public_transport": "platform",
+    "ref": "Quai L",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 523753603,
+  "lat": 47.9072379,
+  "lon": 1.9004792,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Médiathèque",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 523753606,
+  "lat": 47.9051780,
+  "lon": 1.8967644,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Turbulences",
+    "public_transport": "platform",
+    "ref": "ligne 1, 5, 7, 8, 26",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 523753616,
+  "lat": 47.9105714,
+  "lon": 1.9080024,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Benjamin Franklin",
+    "public_transport": "platform",
+    "ref": "ligne 2, 10",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 523753626,
+  "lat": 47.9216449,
+  "lon": 1.8900976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Pelletier",
+    "public_transport": "platform",
+    "ref": "ligne 2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 523753628,
+  "lat": 47.9188096,
+  "lon": 1.8931878,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Mt213Nn6DxigbIQdhw3LSA",
+    "name": "Pont des Murlins",
+    "public_transport": "platform",
+    "route_ref": "4;18",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 523753643,
+  "lat": 47.9155718,
+  "lon": 1.8990663,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "EQ2q8laH_uWk6dLw37c3kA",
+    "name": "Coligny",
+    "public_transport": "platform",
+    "ref": "4",
+    "route_ref": "1,25",
+    "shelter": "yes",
+    "survey:date": "2018-07-06"
+  }
+},
+{
+  "type": "node",
+  "id": 523753646,
+  "lat": 47.9147823,
+  "lon": 1.9015474,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coligny",
+    "public_transport": "platform",
+    "ref": "2,10",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 523753662,
+  "lat": 47.9139367,
+  "lon": 1.9072122,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bel Air",
+    "public_transport": "platform",
+    "ref": "ligne 2, 10",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 762428810,
+  "lat": 47.9056746,
+  "lon": 1.8976267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Foch Limare",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1165957005,
+  "lat": 47.8813725,
+  "lon": 1.9026162,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moreau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1289085603,
+  "lat": 47.9194686,
+  "lon": 1.9036111,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arrêt Eurolines",
+    "public_transport": "platform",
+    "route_ref": "Flixbus 735, 1705, 1707, 1735, N707, N781, N1160",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1349583494,
+  "lat": 47.9238839,
+  "lon": 1.8971571,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1366895488,
+  "lat": 47.9009094,
+  "lon": 1.9206515,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Bourgogne",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1436406800,
+  "lat": 47.8462483,
+  "lon": 1.9390035,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Floral",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1531839869,
+  "lat": 47.9014451,
+  "lon": 1.9221184,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "980599929144666",
+    "name": "Lavedan",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1582684637,
+  "lat": 47.8982613,
+  "lon": 1.9169271,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Aignan",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1582684648,
+  "lat": 47.8982122,
+  "lon": 1.9152836,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Aignan",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1590901901,
+  "lat": 47.9147120,
+  "lon": 1.9052601,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1590901902,
+  "lat": 47.9148249,
+  "lon": 1.9054004,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1590901919,
+  "lat": 47.9167984,
+  "lon": 1.9042343,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Z6jLuc_o-Dn1recj0D7OHw",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "25",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012",
+    "survey:date": "2019-02-17"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459096,
+  "lat": 47.9051061,
+  "lon": 1.9101383,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "czOm-Ia0cRcOP6A9lLAK2g",
+    "name": "Halmagrand",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-02-24",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459125,
+  "lat": 47.9046559,
+  "lon": 1.9134843,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carré Saint-Vincent",
+    "public_transport": "platform",
+    "route_ref": "6;9"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459133,
+  "lat": 47.9191534,
+  "lon": 1.9178705,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix Fleury",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459139,
+  "lat": 47.9067578,
+  "lon": 1.9143279,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre 1er de Serbie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459156,
+  "lat": 47.9133325,
+  "lon": 1.9160224,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Saint-Vincent",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1654459170,
+  "lat": 47.9105927,
+  "lon": 1.9151400,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château Gaillard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1799066700,
+  "lat": 47.9258975,
+  "lon": 1.8965244,
+  "tags": {
+    "bus": "yes",
+    "fixme": "À voir si la photo Mapillary correspond à cet arrêt ou à celui dans l'autre sens.",
+    "highway": "bus_stop",
+    "mapillary": "mAZde6kpQPAp3PitZr_opw",
+    "name": "Hoche",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "TAO",
+    "source:date": "2020-02-06",
+    "survey:date": "2019-10-26"
+  }
+},
+{
+  "type": "node",
+  "id": 1904722948,
+  "lat": 47.9020424,
+  "lon": 1.9187344,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "hMzsiVeWIfNSriSjQi9yNz",
+    "name": "Saint-Euverte",
+    "public_transport": "platform",
+    "route_ref": "2;5;7;70",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1904722962,
+  "lat": 47.9021530,
+  "lon": 1.9189253,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Euverte",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1916965669,
+  "lat": 47.8461290,
+  "lon": 1.9390866,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Floral",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1934406072,
+  "lat": 47.8153982,
+  "lon": 1.9299503,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1943960100,
+  "lat": 47.8186438,
+  "lon": 1.9378818,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chateaubriand",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2216636839,
+  "lat": 47.8388907,
+  "lon": 1.9344193,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2305985613,
+  "lat": 47.9030124,
+  "lon": 1.9165963,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2305985614,
+  "lat": 47.9034672,
+  "lon": 1.9160091,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306072786,
+  "lat": 47.9060104,
+  "lon": 1.9064352,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "Quai H",
+    "name": "Gare d'Orléans Quai M",
+    "public_transport": "platform",
+    "ref": "Quai M",
+    "route_ref": "Lignes 2, 3, 4, 5, 60, IC, Bus B",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306350696,
+  "lat": 47.9049991,
+  "lon": 1.9132097,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "B1PyH3z6fCm9AWCK9Kl1LQ",
+    "name": "Carré Saint-Vincent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2017-06-25"
+  }
+},
+{
+  "type": "node",
+  "id": 2306350697,
+  "lat": 47.9044610,
+  "lon": 1.9163974,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "BW9ort2GzNm0YtqGpgKP0Q",
+    "name": "Centre de Conférences",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-08-01"
+  }
+},
+{
+  "type": "node",
+  "id": 2306350698,
+  "lat": 47.9042690,
+  "lon": 1.9176718,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre de Conférences",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306350703,
+  "lat": 47.9042215,
+  "lon": 1.9137610,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "CHg7oE4PPYzXLpyYAqKwow",
+    "name": "Carré Saint-Vincent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2306370412,
+  "lat": 47.9059752,
+  "lon": 1.9092383,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "283520473284374",
+    "name": "Halmagrand",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306377852,
+  "lat": 47.9069616,
+  "lon": 1.9029762,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare d'Orléans Quai N",
+    "public_transport": "platform",
+    "ref": "Quai N"
+  }
+},
+{
+  "type": "node",
+  "id": 2306377853,
+  "lat": 47.9068827,
+  "lon": 1.9011942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médiathèque",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306457888,
+  "lat": 47.8464293,
+  "lon": 1.9318353,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2306457889,
+  "lat": 47.8465423,
+  "lon": 1.9320509,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306457890,
+  "lat": 47.8443028,
+  "lon": 1.9447118,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "LQgAKv3OLNXlhN-fXVtYvA",
+    "name": "Recherche Scientifique",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2016-11-27"
+  }
+},
+{
+  "type": "node",
+  "id": 2306461460,
+  "lat": 47.8393414,
+  "lon": 1.9369035,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "L'Indien",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306461463,
+  "lat": 47.8402181,
+  "lon": 1.9334140,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "L'Indien",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306462103,
+  "lat": 47.8395844,
+  "lon": 1.9287550,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Senghor",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306463855,
+  "lat": 47.8351799,
+  "lon": 1.9368261,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306463857,
+  "lat": 47.8362033,
+  "lon": 1.9328427,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chèques Postaux Quai B",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2306463859,
+  "lat": 47.8363918,
+  "lon": 1.9330491,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chèques Postaux Quai D",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306466912,
+  "lat": 47.8349956,
+  "lon": 1.9366112,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306467795,
+  "lat": 47.8336537,
+  "lon": 1.9400577,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Diderot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306467796,
+  "lat": 47.8337018,
+  "lon": 1.9397922,
+  "tags": {
+    "highway": "bus_stop",
+    "mapillary": "Sijj1GQcLZ-20vbI90dHrg",
+    "name": "Diderot",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2016-11-27"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470362,
+  "lat": 47.8221760,
+  "lon": 1.9424074,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Buffon-Rodin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470363,
+  "lat": 47.8283806,
+  "lon": 1.9365927,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Concyr-Buffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470364,
+  "lat": 47.8318605,
+  "lon": 1.9385182,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paul Langevin",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470365,
+  "lat": 47.8318316,
+  "lon": 1.9386362,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paul Langevin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470366,
+  "lat": 47.8235445,
+  "lon": 1.9410666,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Buffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470367,
+  "lat": 47.8235121,
+  "lon": 1.9408681,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Buffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306470368,
+  "lat": 47.8284459,
+  "lon": 1.9363899,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Concyr-Buffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306471796,
+  "lat": 47.8205767,
+  "lon": 1.9404387,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rodin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306477320,
+  "lat": 47.8162959,
+  "lon": 1.9326847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleming",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2306477321,
+  "lat": 47.8175241,
+  "lon": 1.9355302,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Romagnesi",
+    "public_transport": "platform",
+    "route_ref": "7;28",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2315615582,
+  "lat": 47.9065276,
+  "lon": 1.8894662,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Châteaudun",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2316206250,
+  "lat": 47.9195300,
+  "lon": 1.9112407,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "1e-TqQQPPdM3oJ2Jn7R3zQ",
+    "name": "Joseph Leroy",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2020-02-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2316206252,
+  "lat": 47.9135668,
+  "lon": 1.9127187,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guy-Marie Riobé",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2318060020,
+  "lat": 47.8989011,
+  "lon": 1.9136296,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tour Neuve",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318060021,
+  "lat": 47.9027402,
+  "lon": 1.9125138,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dupanloup",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318060022,
+  "lat": 47.9007119,
+  "lon": 1.9134365,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Bourgogne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318060023,
+  "lat": 47.9029524,
+  "lon": 1.9098906,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cathédrale",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318062280,
+  "lat": 47.9047559,
+  "lon": 1.9054649,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318069314,
+  "lat": 47.9023186,
+  "lon": 1.9023130,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Gaulle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318087064,
+  "lat": 47.8991258,
+  "lon": 1.9028739,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cheval Rouge",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2318087071,
+  "lat": 47.9005347,
+  "lon": 1.9034726,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tabour",
+    "public_transport": "platform",
+    "route_ref": "O",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2318087073,
+  "lat": 47.8982095,
+  "lon": 1.9055379,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Royale-Châtelet",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2318089374,
+  "lat": 47.8980036,
+  "lon": 1.9118383,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poterne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2318089375,
+  "lat": 47.8979625,
+  "lon": 1.9077153,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai du Châtelet",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2318293502,
+  "lat": 47.9109435,
+  "lon": 1.9003558,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Fshh4P--39MDgWnB12vldA",
+    "name": "Pasteur-Caban",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-06"
+  }
+},
+{
+  "type": "node",
+  "id": 2318293504,
+  "lat": 47.9112024,
+  "lon": 1.9004040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "LmFuf-aFgwZScHP3zQ-Fiw",
+    "name": "Pasteur-Caban",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2016-11-04"
+  }
+},
+{
+  "type": "node",
+  "id": 2318293505,
+  "lat": 47.9088148,
+  "lon": 1.9009137,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "tKFfqy3fPUzqXiHnOFwT0w",
+    "name": "Patay",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2018-07-06"
+  }
+},
+{
+  "type": "node",
+  "id": 2318293506,
+  "lat": 47.9091672,
+  "lon": 1.9009298,
+  "tags": {
+    "bus": "yes",
+    "bus_routes": "1",
+    "highway": "bus_stop",
+    "mapillary": "IfLo5V20zP2fEgXG8b29WQ",
+    "name": "Patay",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2016-10-05"
+  }
+},
+{
+  "type": "node",
+  "id": 2318293507,
+  "lat": 47.9128700,
+  "lon": 1.8999561,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coulmiers",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2318301309,
+  "lat": 47.9186073,
+  "lon": 1.8985630,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Bannier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2321583520,
+  "lat": 47.9005163,
+  "lon": 1.9304925,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "262717982269265",
+    "name": "Chemin de Halage",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "survey:date": "2018-07-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2321593458,
+  "lat": 47.8978940,
+  "lon": 1.8876229,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai de la Madeleine",
+    "public_transport": "platform",
+    "route_ref": "L;B",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2321593462,
+  "lat": 47.8979043,
+  "lon": 1.8842835,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Commandant de Poli",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2321600089,
+  "lat": 47.8978939,
+  "lon": 1.8807757,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "hFkOGLCM4M5sNoFcEa9VBA",
+    "name": "Place de l'Europe",
+    "public_transport": "platform",
+    "route_ref": "L;B",
+    "shelter": "yes",
+    "survey:date": "2018-08-01"
+  }
+},
+{
+  "type": "node",
+  "id": 2321600091,
+  "lat": 47.8988739,
+  "lon": 1.8770885,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de l'Europe",
+    "public_transport": "platform",
+    "route_ref": "B",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2322795521,
+  "lat": 47.9042114,
+  "lon": 1.8964512,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Turbulences",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2322803947,
+  "lat": 47.9018946,
+  "lon": 1.8940017,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Madeleine",
+    "public_transport": "platform",
+    "route_ref": "1;5;A;B",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2322803948,
+  "lat": 47.9008515,
+  "lon": 1.8934072,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Madeleine",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2322814045,
+  "lat": 47.8943320,
+  "lon": 1.8934481,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lab'O",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2322814050,
+  "lat": 47.8940347,
+  "lon": 1.8936409,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lab'O",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2322816558,
+  "lat": 47.8934700,
+  "lon": 1.8958656,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lab'O",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2322816561,
+  "lat": 47.8934824,
+  "lon": 1.8955793,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lab'O",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2322824353,
+  "lat": 47.8880445,
+  "lon": 1.8950134,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Candolle",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2322828262,
+  "lat": 47.8816237,
+  "lon": 1.9030051,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moreau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2322828264,
+  "lat": 47.8816982,
+  "lon": 1.9036774,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "4OygKaam2GtQxKVQZImu0A",
+    "name": "Moreau",
+    "public_transport": "platform",
+    "route_ref": "22",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2322828265,
+  "lat": 47.8884507,
+  "lon": 1.8955919,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Candolle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2323990289,
+  "lat": 47.9161504,
+  "lon": 1.8947103,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Z0ZOrTLL1kTQ2xYYTXnDZg",
+    "name": "Deux Ponts",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "4,18",
+    "shelter": "no",
+    "survey:date": "2016-12-16"
+  }
+},
+{
+  "type": "node",
+  "id": 2323990293,
+  "lat": 47.9147154,
+  "lon": 1.8984931,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "252660590104500",
+    "name": "Bannier",
+    "public_transport": "platform",
+    "ref": "4;18",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2334554429,
+  "lat": 47.9122695,
+  "lon": 1.9234381,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "lafgRI4AdVEudImkzyjt8A",
+    "name": "Droits de l'Homme",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "no",
+    "survey:date": "2017-03-18"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564042,
+  "lat": 47.9177593,
+  "lon": 1.9246749,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Agriculture",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564049,
+  "lat": 47.9241472,
+  "lon": 1.9261885,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Écoles",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564054,
+  "lat": 47.9221244,
+  "lon": 1.9238696,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Barrière Saint-Marc",
+    "public_transport": "platform",
+    "route_ref": "4;12",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564059,
+  "lat": 47.9150911,
+  "lon": 1.9240677,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poirier Rond",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564064,
+  "lat": 47.9140728,
+  "lon": 1.9234922,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poirier Rond",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2334564074,
+  "lat": 47.9177757,
+  "lon": 1.9243190,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Agriculture",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2770294582,
+  "lat": 47.8947428,
+  "lon": 1.9062560,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "qimvOg3ICL82xDEmKgNCkw",
+    "name": "Bascule",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-07",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2822924646,
+  "lat": 47.9047748,
+  "lon": 1.9226904,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2822924647,
+  "lat": 47.9047226,
+  "lon": 1.9227923,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Église Saint-Marc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976979327,
+  "lat": 47.9068571,
+  "lon": 1.9014977,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médiathèque",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990194,
+  "lat": 47.9225615,
+  "lon": 1.9274743,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "9tjMWDc8CWaYGoOWy15J8a",
+    "name": "Fontaine de l’Étuvée",
+    "public_transport": "platform",
+    "route_ref": "12",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990195,
+  "lat": 47.9240283,
+  "lon": 1.9381413,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos du Nécotin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990196,
+  "lat": 47.9209690,
+  "lon": 1.9253552,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Étuvée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990197,
+  "lat": 47.9230990,
+  "lon": 1.9324255,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fil de Soie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990198,
+  "lat": 47.9223539,
+  "lon": 1.9277315,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Fontaine de l’Étuvée",
+    "public_transport": "platform",
+    "route_ref": "12",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990199,
+  "lat": 47.9236994,
+  "lon": 1.9372937,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos du Nécotin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990200,
+  "lat": 47.9233345,
+  "lon": 1.9323048,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fil de Soie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2976990201,
+  "lat": 47.9211387,
+  "lon": 1.9249660,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "mapillary": "3l-ITxKXxA1ivF5WnK_W5Q",
+    "name": "Parc de l'Étuvée",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "no",
+    "source": "mapillary;TAO",
+    "source:date": "2019-12-16"
+  }
+},
+{
+  "type": "node",
+  "id": 3369091406,
+  "lat": 47.9165376,
+  "lon": 1.8989995,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coligny",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3369091409,
+  "lat": 47.9082897,
+  "lon": 1.8965571,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Lahire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3369091410,
+  "lat": 47.9083207,
+  "lon": 1.8972632,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Lahire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3369091411,
+  "lat": 47.9077156,
+  "lon": 1.9015682,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médiathèque",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4242684310,
+  "lat": 47.8199778,
+  "lon": 1.9473927,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4924131921,
+  "lat": 47.8438000,
+  "lon": 1.9243129,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "I.U.T.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4924132021,
+  "lat": 47.8437857,
+  "lon": 1.9241137,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "I.U.T.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5120439162,
+  "lat": 47.8939112,
+  "lon": 1.8900723,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Mars",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5357651150,
+  "lat": 47.8948192,
+  "lon": 1.9038921,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourelles-Dauphine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5357651151,
+  "lat": 47.8946266,
+  "lon": 1.9040170,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourelles-Dauphine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5382523001,
+  "lat": 47.9290792,
+  "lon": 1.8958512,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chapelle Neuve",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5922685482,
+  "lat": 47.9121668,
+  "lon": 1.9230668,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Droits de l'Homme",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref": "4;60",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6002296574,
+  "lat": 47.8245111,
+  "lon": 1.9322848,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Concyr",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6002344226,
+  "lat": 47.8229585,
+  "lon": 1.9318897,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Concyr",
+    "note": "direction Gare de St Cyr",
+    "public_transport": "platform",
+    "route_ref": "28",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6002344227,
+  "lat": 47.8174373,
+  "lon": 1.9355955,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Romagnesi",
+    "public_transport": "platform",
+    "route_ref": "7;28",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6002344228,
+  "lat": 47.8237047,
+  "lon": 1.9329731,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Concyr",
+    "public_transport": "platform",
+    "route_ref": "7,28",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6019706793,
+  "lat": 47.9128523,
+  "lon": 1.8998076,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Coulmiers",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6022748608,
+  "lat": 47.9133526,
+  "lon": 1.8950084,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "888334012100690",
+    "name": "Rue du Parc",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "25",
+    "route_ref": "25",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6022782977,
+  "lat": 47.9097472,
+  "lon": 1.8924827,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gaucourt",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "route_ref": "25",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6022804592,
+  "lat": 47.9091523,
+  "lon": 1.8906273,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "JvfSQllRcZiXFpVt8vnHpw",
+    "name": "Sonis",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "route_ref": "25;25",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6022860391,
+  "lat": 47.9099279,
+  "lon": 1.8927805,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "Tjxj3glz0-jMgRXv3ZSVzA",
+    "name": "Gaucourt",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "25",
+    "route_ref": "25",
+    "shelter": "yes",
+    "survey:date": "2017-04-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6022890548,
+  "lat": 47.9131789,
+  "lon": 1.8950327,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "6nweXkj-survLt7xaOTYmA",
+    "name": "Rue du Parc",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "25",
+    "route_ref": "25",
+    "shelter": "no",
+    "survey:date": "2019-02-17"
+  }
+},
+{
+  "type": "node",
+  "id": 6024860151,
+  "lat": 47.9098522,
+  "lon": 1.9147704,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "6;9",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6024971832,
+  "lat": 47.9065514,
+  "lon": 1.9142136,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pierre 1er de Serbie",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "6;9",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6025027691,
+  "lat": 47.9188749,
+  "lon": 1.9178068,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Croix Fleury",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "6;9",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6025036341,
+  "lat": 47.9184944,
+  "lon": 1.9175584,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "pS3XegDW_X_BrJyKUoOYvQ",
+    "name": "Croix Fleury",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "6;9",
+    "route_ref": "6,9",
+    "shelter": "yes",
+    "survey:date": "2018-07-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6025352837,
+  "lat": 47.9078442,
+  "lon": 1.9378849,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Pierre Louguet",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6033699574,
+  "lat": 47.9332807,
+  "lon": 1.9373970,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Le Bignon",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "21",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6176757255,
+  "lat": 47.9161023,
+  "lon": 1.9329272,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Alice Lemesle",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6176831092,
+  "lat": 47.9166946,
+  "lon": 1.9367920,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Jean Rostand",
+    "passenger_information_display": "no",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6176831093,
+  "lat": 47.9166093,
+  "lon": 1.9368273,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Jean Rostand",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6195562066,
+  "lat": 47.9052182,
+  "lon": 1.8982082,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foch Limare",
+    "pole": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2019-02-24"
+  }
+},
+{
+  "type": "node",
+  "id": 6232838877,
+  "lat": 47.9037932,
+  "lon": 1.9343769,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pomme de Pin",
+    "public_transport": "platform",
+    "ref": "2",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6233009729,
+  "lat": 47.8980775,
+  "lon": 1.9118339,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poterne",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6434122087,
+  "lat": 47.9145097,
+  "lon": 1.9028976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "W7D7x3Q_ePnqpKas543ZTg",
+    "name": "Québec",
+    "public_transport": "platform",
+    "ref": "4;18",
+    "route_ref": "4,18",
+    "shelter": "yes",
+    "survey:date": "2019-02-17"
+  }
+},
+{
+  "type": "node",
+  "id": 6434138072,
+  "lat": 47.9145744,
+  "lon": 1.9035475,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Québec",
+    "public_transport": "platform",
+    "ref": "4;18"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351554,
+  "lat": 47.8318345,
+  "lon": 1.9201804,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Accueil",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351555,
+  "lat": 47.8324663,
+  "lon": 1.9207782,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Accueil",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351556,
+  "lat": 47.8324405,
+  "lon": 1.9204500,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Accueil",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351557,
+  "lat": 47.8350791,
+  "lon": 1.9223808,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-mpVtgSJn12BcQBse6xcyg",
+    "name": "Hôpital IME",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2019-02-09",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351558,
+  "lat": 47.8355075,
+  "lon": 1.9229785,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital IME",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351559,
+  "lat": 47.8382557,
+  "lon": 1.9250566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Renaudot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351560,
+  "lat": 47.8382633,
+  "lon": 1.9247344,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Renaudot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351561,
+  "lat": 47.8405615,
+  "lon": 1.9258599,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Romain Rolland",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351562,
+  "lat": 47.8403022,
+  "lon": 1.9257969,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Romain Rolland",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351563,
+  "lat": 47.8460751,
+  "lon": 1.9273803,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halle des Sports",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6614351564,
+  "lat": 47.8459711,
+  "lon": 1.9284649,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halle des Sports",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6815531906,
+  "lat": 47.8798030,
+  "lon": 1.9030756,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "1ncRFVbIaOqHoJMRVSpD_w",
+    "name": "Les Roseraies",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2016-12-23"
+  }
+},
+{
+  "type": "node",
+  "id": 6835438912,
+  "lat": 47.9046514,
+  "lon": 1.8934557,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vauquois",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6835463643,
+  "lat": 47.9049449,
+  "lon": 1.8927600,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Vauquois",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6855231876,
+  "lat": 47.9248122,
+  "lon": 1.8898308,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Groslot",
+    "public_transport": "platform",
+    "route_ref": "18;63",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6855289804,
+  "lat": 47.9223092,
+  "lon": 1.8914216,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Pelletier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6855289805,
+  "lat": 47.9223917,
+  "lon": 1.8912188,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Pelletier",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6855575874,
+  "lat": 47.9252426,
+  "lon": 1.8896584,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Groslot",
+    "public_transport": "platform",
+    "route_ref": "18;63",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6872865069,
+  "lat": 47.8978384,
+  "lon": 1.8939142,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai Saint-Laurent",
+    "public_transport": "platform",
+    "route_ref": "B;L",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6902733678,
+  "lat": 47.9170840,
+  "lon": 1.9124155,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6937659345,
+  "lat": 47.8274915,
+  "lon": 1.9368428,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "ref": "26;70"
+  }
+},
+{
+  "type": "node",
+  "id": 6937753550,
+  "lat": 47.8407035,
+  "lon": 1.9437584,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaumarchais",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6939160373,
+  "lat": 47.8278650,
+  "lon": 1.9318071,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Watteau",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6939160374,
+  "lat": 47.8281084,
+  "lon": 1.9317952,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Watteau",
+    "public_transport": "platform",
+    "route_ref": "7",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6944902830,
+  "lat": 47.9146160,
+  "lon": 1.8985633,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bannier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7067118997,
+  "lat": 47.9183551,
+  "lon": 1.9397627,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médéa",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7067141583,
+  "lat": 47.9206842,
+  "lon": 1.9398736,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belneuf",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7067179685,
+  "lat": 47.9208137,
+  "lon": 1.9397369,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belneuf",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7067179700,
+  "lat": 47.9210015,
+  "lon": 1.9395964,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belneuf",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7075632470,
+  "lat": 47.9118152,
+  "lon": 1.9152627,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Saint-Vincent",
+    "public_transport": "platform",
+    "route_ref": "6;9",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7075632471,
+  "lat": 47.9117956,
+  "lon": 1.9154053,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Saint-Vincent",
+    "public_transport": "platform",
+    "route_ref": "6;9",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7075677619,
+  "lat": 47.9076644,
+  "lon": 1.9141764,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre 1er de Serbie",
+    "public_transport": "platform",
+    "ref": "6;9",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7080142832,
+  "lat": 47.8941756,
+  "lon": 1.9044358,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourelles-Dauphine",
+    "public_transport": "platform",
+    "route_ref": "A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7086337942,
+  "lat": 47.8882659,
+  "lon": 1.9052013,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "mapillary": "sHo9p19K3cBz5huJHwuceA",
+    "name": "Saint-Marceau",
+    "public_transport": "platform",
+    "ref": "22;A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7158869553,
+  "lat": 47.8979548,
+  "lon": 1.8984574,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai Barentin",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7158877686,
+  "lat": 47.8980869,
+  "lon": 1.8988574,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "CPFlyIJwoUOm1eYFSvo7UM",
+    "name": "Quai Barentin",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7187766331,
+  "lat": 47.9321631,
+  "lon": 1.8950353,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Aydes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7190757018,
+  "lat": 47.9207655,
+  "lon": 1.8979514,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joie",
+    "public_transport": "platform",
+    "source": "TAO",
+    "source:date": "2020-02-06"
+  }
+},
+{
+  "type": "node",
+  "id": 7190795188,
+  "lat": 47.9182115,
+  "lon": 1.8984769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Bannier",
+    "public_transport": "platform",
+    "source": "TAO",
+    "source:date": "2020-02-06"
+  }
+},
+{
+  "type": "node",
+  "id": 7206972283,
+  "lat": 47.9081441,
+  "lon": 1.8856785,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pouponnière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7206972284,
+  "lat": 47.9064878,
+  "lon": 1.8892482,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Châteaudun",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7208757729,
+  "lat": 47.9015044,
+  "lon": 1.9226160,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-06-15",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lavedan",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216301753,
+  "lat": 47.9103805,
+  "lon": 1.9228091,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaston Couté",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216301754,
+  "lat": 47.9105450,
+  "lon": 1.9230600,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaston Couté",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216461375,
+  "lat": 47.9055100,
+  "lon": 1.9208319,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Jean Zay",
+    "public_transport": "platform",
+    "route_ref": "3;4",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216461376,
+  "lat": 47.9056101,
+  "lon": 1.9206914,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Jean Zay",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216519183,
+  "lat": 47.9120024,
+  "lon": 1.9262080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wichita",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216519184,
+  "lat": 47.9119707,
+  "lon": 1.9264105,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wichita",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216540419,
+  "lat": 47.9138913,
+  "lon": 1.9282398,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216540420,
+  "lat": 47.9141169,
+  "lon": 1.9282653,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216541652,
+  "lat": 47.9161890,
+  "lon": 1.9326244,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alice Lemesle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216602080,
+  "lat": 47.9179686,
+  "lon": 1.9396080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médéa",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7218524406,
+  "lat": 47.9287760,
+  "lon": 1.9317562,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "p259DcIW7wFJ1OerZ81XWA",
+    "name": "Eugène Faugouin",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "no",
+    "survey:date": "2017-04-23"
+  }
+},
+{
+  "type": "node",
+  "id": 7218598785,
+  "lat": 47.9222307,
+  "lon": 1.9238476,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Q9JSJd7OJuRqmznYZo-J2w",
+    "name": "Barrière Saint-Marc",
+    "public_transport": "platform",
+    "route_ref": "4;12",
+    "source": "mapillary",
+    "source:date": "2019-12-14"
+  }
+},
+{
+  "type": "node",
+  "id": 7236830026,
+  "lat": 47.9106003,
+  "lon": 1.9082287,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Benjamin Franklin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7236875136,
+  "lat": 47.9140566,
+  "lon": 1.9071322,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bel Air",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7236915045,
+  "lat": 47.9161496,
+  "lon": 1.8948098,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Ponts",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7236941505,
+  "lat": 47.9148386,
+  "lon": 1.9017093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coligny",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7236952014,
+  "lat": 47.9191444,
+  "lon": 1.8931122,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont des Murlins",
+    "public_transport": "platform",
+    "route_ref": "4;18"
+  }
+},
+{
+  "type": "node",
+  "id": 7236955472,
+  "lat": 47.9219801,
+  "lon": 1.8909317,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Pelletier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7260141276,
+  "lat": 47.8163906,
+  "lon": 1.9326499,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fleming",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7260163922,
+  "lat": 47.8186441,
+  "lon": 1.9376888,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chateaubriand",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7260166719,
+  "lat": 47.8154254,
+  "lon": 1.9294580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7260172782,
+  "lat": 47.8383661,
+  "lon": 1.9382317,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "8vvLDig6oB_2D5N5xKKhgQ",
+    "name": "Théâtre Philipe",
+    "public_transport": "platform",
+    "source": "streetlevel imagery;mapillary",
+    "source:date": "2015-02-21"
+  }
+},
+{
+  "type": "node",
+  "id": 7260172783,
+  "lat": 47.8382214,
+  "lon": 1.9379977,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "8vvLDig6oB_2D5N5xKKhgQ",
+    "name": "Théâtre Philipe",
+    "public_transport": "platform",
+    "source": "streetlevel imagery;mapillary",
+    "source:date": "2015-02-21"
+  }
+},
+{
+  "type": "node",
+  "id": 7260176367,
+  "lat": 47.8426072,
+  "lon": 1.9290095,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polytech",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7260191097,
+  "lat": 47.8315923,
+  "lon": 1.9287716,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bolière",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "aerial imagery",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7260191098,
+  "lat": 47.8315794,
+  "lon": 1.9294268,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bolière",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "aerial imagery",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7297441209,
+  "lat": 47.8412936,
+  "lon": 1.9295631,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flammarion",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297441210,
+  "lat": 47.8412292,
+  "lon": 1.9289484,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flammarion",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297477130,
+  "lat": 47.8362452,
+  "lon": 1.9416550,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Gauguin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297477131,
+  "lat": 47.8361532,
+  "lon": 1.9419190,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Gauguin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297479746,
+  "lat": 47.8404758,
+  "lon": 1.9433089,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaumarchais",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297494731,
+  "lat": 47.8433613,
+  "lon": 1.9451840,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Recherche Scientifique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7297494732,
+  "lat": 47.8431412,
+  "lon": 1.9453972,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Recherche Scientifique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7312604843,
+  "lat": 47.9057982,
+  "lon": 1.9071523,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "B23ReIW39SlAii2QRD8ugQ",
+    "name": "Gare d'Orléans Quai M bis",
+    "public_transport": "platform",
+    "ref": "Quai M bis",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2018-08-01"
+  }
+},
+{
+  "type": "node",
+  "id": 7313206795,
+  "lat": 47.9081276,
+  "lon": 1.9065268,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "gXoPpE4v-4YcFu2unEqzNg",
+    "name": "Gare d'Orléans Quai H",
+    "public_transport": "platform",
+    "ref": "Quai H",
+    "shelter": "yes",
+    "source": "mapillary",
+    "source:date": "2019-11-04",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7319938128,
+  "lat": 47.8362209,
+  "lon": 1.9329130,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chèques Postaux Quai C",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7319938129,
+  "lat": 47.8361273,
+  "lon": 1.9328026,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chèques Postaux Quai A",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7320455794,
+  "lat": 47.9191478,
+  "lon": 1.9112987,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "hFaUW7lw184gZOHaBzfdgw",
+    "name": "Joseph Leroy",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-11-04",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7321375959,
+  "lat": 47.9135624,
+  "lon": 1.9125462,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guy-Marie Riobé",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7343656321,
+  "lat": 47.8871949,
+  "lon": 1.8910577,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "OOe-DhrRc71w0JsZa4YMKQ",
+    "name": "Pierre Louis",
+    "public_transport": "platform",
+    "route_ref": "16",
+    "shelter": "no",
+    "source": "mapillary"
+  }
+},
+{
+  "type": "node",
+  "id": 7343660904,
+  "lat": 47.8856495,
+  "lon": 1.8819913,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Pont",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7343677323,
+  "lat": 47.8864778,
+  "lon": 1.8869982,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champ aux Ânes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7343708182,
+  "lat": 47.8941308,
+  "lon": 1.9133587,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "g_CH73ayhlZmNL4x0vm0tg",
+    "name": "Place Saint-Charles",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-12-20",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7343708183,
+  "lat": 47.8941570,
+  "lon": 1.9135918,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "xYtzvhdzoBETWP6xRdcShg",
+    "name": "Place Saint-Charles",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "mapillary",
+    "source:date": "2019-12-20"
+  }
+},
+{
+  "type": "node",
+  "id": 7343709334,
+  "lat": 47.8948104,
+  "lon": 1.9068156,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "nK-SQifYwI-XQxz_8uZKOA",
+    "name": "Bascule",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-12-18",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7369580944,
+  "lat": 47.8980423,
+  "lon": 1.9034357,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "c6SiSL9xpNtPhDCehuStKg",
+    "name": "Royale-Châtelet",
+    "public_transport": "platform",
+    "route_ref": "A;L",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-10-11"
+  }
+},
+{
+  "type": "node",
+  "id": 7369599952,
+  "lat": 47.8978814,
+  "lon": 1.9077164,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Cz3eCaNL7ZnVtVChwTGVwg",
+    "name": "Quai du Châtelet",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-10-11",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7369743714,
+  "lat": 47.9036463,
+  "lon": 1.9029492,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "g6oTcwVqccFoVIclKLs-jg",
+    "name": "Martroi",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "mapillary",
+    "source:date": "2019-10-11",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7395214557,
+  "lat": 47.9204591,
+  "lon": 1.9252975,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Parc de l'Etuvé",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7425473787,
+  "lat": 47.9165434,
+  "lon": 1.9123844,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7437682459,
+  "lat": 47.9201266,
+  "lon": 1.9191951,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "RVMW0hhBWdl84On-9hOtzw",
+    "name": "Croix Fleury",
+    "public_transport": "platform",
+    "route_ref": "12",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7438657727,
+  "lat": 47.9145148,
+  "lon": 1.9165677,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "amVtV2yTAbI9kg9TDhBvrQ",
+    "name": "Argonne",
+    "public_transport": "platform",
+    "route_ref": "6;9",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7472111659,
+  "lat": 47.9270641,
+  "lon": 1.9301487,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coin Rond",
+    "public_transport": "platform",
+    "route_ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 7499166727,
+  "lat": 47.9229491,
+  "lon": 1.9417623,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fosse Bénate",
+    "public_transport": "platform",
+    "source": "BDOrtho",
+    "source:date": "2020-05-08"
+  }
+},
+{
+  "type": "node",
+  "id": 7499166728,
+  "lat": 47.9224968,
+  "lon": 1.9420664,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fosse Bénate",
+    "public_transport": "platform",
+    "source": "BDOrtho",
+    "source:date": "2020-05-08"
+  }
+},
+{
+  "type": "node",
+  "id": 7544018946,
+  "lat": 47.8845105,
+  "lon": 1.9044361,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Nl6xieU_ymPc4J8MNoY0xQ",
+    "name": "Etienne Dolet",
+    "public_transport": "platform",
+    "route_ref": "22"
+  }
+},
+{
+  "type": "node",
+  "id": 7544930477,
+  "lat": 47.9068932,
+  "lon": 1.9292554,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "AbY00XgyQzv9mb_mkl0jBw",
+    "name": "Malakoff",
+    "public_transport": "platform",
+    "route_ref": "25"
+  }
+},
+{
+  "type": "node",
+  "id": 7549356317,
+  "lat": 47.9078501,
+  "lon": 1.8865612,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pouponnière",
+    "public_transport": "platform",
+    "route_ref": "2;3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7549363643,
+  "lat": 47.9077745,
+  "lon": 1.8864927,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pouponnière",
+    "public_transport": "platform",
+    "route_ref": "2;3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7551869639,
+  "lat": 47.8835791,
+  "lon": 1.9093976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mouillère",
+    "public_transport": "platform",
+    "route_ref": "A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7552033104,
+  "lat": 47.8944523,
+  "lon": 1.9046689,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "63yNxYKGeObjV1DfsJlScA",
+    "name": "Tourelles-Dauphine",
+    "public_transport": "platform",
+    "route_ref": "A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7639801221,
+  "lat": 47.9191466,
+  "lon": 1.9019372,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-P4n0uYiHSboR7PDQPsItQ",
+    "name": "Libération",
+    "public_transport": "platform",
+    "route_ref": "CO;73",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7639820812,
+  "lat": 47.9165980,
+  "lon": 1.9013869,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "yOXIsAdTWBQ419MP9WwKUA",
+    "name": "Coligny",
+    "public_transport": "platform",
+    "route_ref": "CO;A",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7639857059,
+  "lat": 47.9113394,
+  "lon": 1.9045290,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "VO7VHrQyOvi-zx_y7OqAUA",
+    "name": "Louis Braille",
+    "public_transport": "platform",
+    "route_ref": "CO;A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7639863013,
+  "lat": 47.9114367,
+  "lon": 1.9042676,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Braille",
+    "public_transport": "platform",
+    "route_ref": "CO;A",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7775810385,
+  "lat": 47.8896169,
+  "lon": 1.8959477,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Candolle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7775810485,
+  "lat": 47.8896341,
+  "lon": 1.8961913,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Candolle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7834546066,
+  "lat": 47.9051764,
+  "lon": 1.9127002,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Carré St-Vincent",
+    "public_transport": "platform",
+    "route_ref": "2;3;4;5;6;7;9;25;60;70",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7902465936,
+  "lat": 47.8681175,
+  "lon": 1.9234772,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Montées",
+    "public_transport": "platform",
+    "route_ref": "22"
+  }
+},
+{
+  "type": "node",
+  "id": 7902465937,
+  "lat": 47.8685953,
+  "lon": 1.9239403,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Montées",
+    "public_transport": "platform",
+    "route_ref": "22",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8068826607,
+  "lat": 47.8980031,
+  "lon": 1.8932981,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "FbxCP3zSYUTDg0TqL1THIJ",
+    "name": "Quai Saint-Laurant",
+    "public_transport": "platform",
+    "route_ref": "B;L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8069285175,
+  "lat": 47.8979630,
+  "lon": 1.9060987,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8069285182,
+  "lat": 47.8978915,
+  "lon": 1.9058909,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8109179208,
+  "lat": 47.8995350,
+  "lon": 1.9245995,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "mapillary": "aHsAOoeRgUw3OfDtxEl2Ow",
+    "name": "Canal d'Orléans",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "survey:date": "2018-07-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8109246247,
+  "lat": 47.8995983,
+  "lon": 1.9244242,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Canal d'Orléans",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8196864627,
+  "lat": 47.9072720,
+  "lon": 1.9064405,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "Quai J",
+    "mapillary": "LZG1xqYNEe-F8AJSoQx-Vg",
+    "name": "Gare d'Orléans Quai J",
+    "public_transport": "platform",
+    "ref": "Quai J",
+    "route_ref": "4;25;71",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8306602558,
+  "lat": 47.8936254,
+  "lon": 1.8886174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Mars",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8310663782,
+  "lat": 47.9144448,
+  "lon": 1.9163994,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "MmVnAMtxzzvrJGI6JCcOxy",
+    "name": "Argonne",
+    "public_transport": "platform",
+    "route_ref": "6;9",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8311340102,
+  "lat": 47.8216085,
+  "lon": 1.9359847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sapins",
+    "public_transport": "platform",
+    "route_ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 8311340103,
+  "lat": 47.8210691,
+  "lon": 1.9362690,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sapins",
+    "public_transport": "platform",
+    "route_ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 8331288095,
+  "lat": 47.8925738,
+  "lon": 1.8989910,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "--vm85Qyq7oCNx3KUQjXwQ",
+    "name": "Jardin des Plantes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8331288096,
+  "lat": 47.8926674,
+  "lon": 1.8989216,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "9ll5BgbDWR-9HnzfExaP4w",
+    "name": "Jardin des Plantes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8333243806,
+  "lat": 47.8778118,
+  "lon": 1.9203524,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Binoche",
+    "public_transport": "platform",
+    "route_ref": "22"
+  }
+},
+{
+  "type": "node",
+  "id": 8335680833,
+  "lat": 47.8987501,
+  "lon": 1.8759559,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de l'Europe",
+    "public_transport": "platform",
+    "route_ref": "17;25;L;B",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8370834517,
+  "lat": 47.8980514,
+  "lon": 1.8802451,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "NoOOh1-StD6rZQeBOnv9IA",
+    "name": "Place de l'Europe",
+    "public_transport": "platform",
+    "route_ref": "L;B",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8370834518,
+  "lat": 47.8980157,
+  "lon": 1.8842883,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "CUwH0Z2mzeKVYuCTWjbjFQ",
+    "name": "Commandant de Poli",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8370834519,
+  "lat": 47.8980392,
+  "lon": 1.8868349,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "VpnsD3PHJb8pmoHFQoDJAr",
+    "name": "Quai Madelaine",
+    "public_transport": "platform",
+    "route_ref": "L;B",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8374601122,
+  "lat": 47.8981906,
+  "lon": 1.9036904,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "5ODp7NG4b1Lt9WOKwLEJ9w",
+    "name": "Royale-Châtelet",
+    "public_transport": "platform",
+    "route_ref": "A;L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8374601123,
+  "lat": 47.8988837,
+  "lon": 1.9200872,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "96G9ZN1emJJ20F5eo8s0JR",
+    "name": "Quai du Roi",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8374601124,
+  "lat": 47.8987739,
+  "lon": 1.9202240,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "Y5TCPGSLCWoHD4lJNK6Dd3",
+    "name": "Quai du Roi",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8374601125,
+  "lat": 47.9011586,
+  "lon": 1.9308314,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Xt0pjDU0yd0oyy91FRCBcQ",
+    "name": "Chemin de Halage",
+    "public_transport": "platform",
+    "route_ref": "L",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8909665943,
+  "lat": 47.9028328,
+  "lon": 1.9293153,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École Normale",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8909665949,
+  "lat": 47.9026560,
+  "lon": 1.9289531,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École Normale",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9044955998,
+  "lat": 47.8936408,
+  "lon": 1.9116147,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place St-Charles",
+    "public_transport": "platform",
+    "route_ref": "22"
+  }
+}
+
+  ]
+}

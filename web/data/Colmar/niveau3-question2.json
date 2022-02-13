@@ -1,0 +1,4938 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 16420112,
+  "nodes": [
+    6138944429,
+    9426656636,
+    6138944431,
+    170627069
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 16535785,
+  "nodes": [
+    170622163,
+    7211054869,
+    7211054867,
+    648864085,
+    648860855,
+    648860891,
+    7211054866
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 16535786,
+  "nodes": [
+    96696806,
+    6328529477,
+    635061621,
+    59663642,
+    9202771073,
+    247071916,
+    9202750873,
+    243464223,
+    2874018695,
+    9202780151,
+    9340100878
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Sélestat",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 16557841,
+  "nodes": [
+    170886084,
+    893463447,
+    893463449,
+    170886112
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "layer": "1",
+    "maxspeed": "70",
+    "maxweight:signed": "no",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 16557844,
+  "nodes": [
+    170886112,
+    170886138,
+    893465106,
+    170886165,
+    893465107
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "70",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 16557849,
+  "nodes": [
+    170690470,
+    5476408461,
+    1782002314,
+    219021688
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "maxspeed": "90",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 16561456,
+  "nodes": [
+    170690458,
+    2697470210,
+    170859736,
+    170859718,
+    170690454,
+    170690447,
+    9426656630
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Bâle",
+    "oneway": "yes",
+    "ref": "D 201",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 16561461,
+  "nodes": [
+    170627085,
+    9202409493,
+    170923969,
+    7555486522,
+    170923993,
+    7556724003,
+    652436924,
+    2697470212,
+    170690458
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Bâle",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 16566322,
+  "nodes": [
+    170982192,
+    617754258,
+    171115860
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "unclassified",
+    "name": "Place de la Gare",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 17678799,
+  "nodes": [
+    183153573,
+    183158080,
+    638575309,
+    183158086,
+    638575306,
+    183158092
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lit": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 17726045,
+  "nodes": [
+    183158115,
+    2874012426,
+    183153565
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Neuf-Brisach",
+    "old_ref": "N415",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 17726046,
+  "nodes": [
+    183153565,
+    6017837624,
+    7183974690,
+    183153573
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Neuf-Brisach",
+    "old_ref": "N415",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 20213771,
+  "nodes": [
+    213768351,
+    5837658680,
+    213768353
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "maxspeed:type": "sign",
+    "name": "Avenue Foch",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 20464061,
+  "nodes": [
+    170622157,
+    9442514908,
+    9442504576,
+    7211055588,
+    9445130885,
+    9445130888,
+    183807203,
+    9445130879,
+    9445130882,
+    183783811,
+    621142866,
+    621142867,
+    243460487,
+    621142868,
+    170622150,
+    621125913,
+    170622146,
+    621125914,
+    9445170000,
+    4848209090,
+    170622142,
+    6654577030,
+    4848209091,
+    183831322,
+    4848209088,
+    9459317685,
+    183838613
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 20468967,
+  "nodes": [
+    218832208,
+    860373550,
+    218832218,
+    267635232,
+    218832223,
+    247095928,
+    9445170007
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 20481245,
+  "nodes": [
+    213768292,
+    605463191,
+    605463144,
+    9341696894
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Boulevard du Général Leclerc",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "was:cycleway": "opposite_lane"
+  }
+},
+{
+  "type": "way",
+  "id": 20482670,
+  "nodes": [
+    219119071,
+    737198398,
+    219119077,
+    219119082,
+    248014558,
+    265083742
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Boulevard Saint-Pierre",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "sidewalk": "both",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 20483021,
+  "nodes": [
+    219119056,
+    9202409537,
+    219119113,
+    618750411,
+    219119120,
+    618751160,
+    5991674380
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue Schwendi",
+    "oneway": "yes",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 23064086,
+  "nodes": [
+    248886500,
+    659712262,
+    248886501,
+    248886502,
+    248886504,
+    248885982
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "maxspeed": "30",
+    "name": "Rue de Herrlisheim",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23066672,
+  "nodes": [
+    5991678036,
+    248886498,
+    5991678037
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue de la Légion Étrangère",
+    "surface": "asphalt",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 23221760,
+  "nodes": [
+    251196756,
+    8688086176,
+    6466168828,
+    251196762
+  ],
+  "tags": {
+    "cycleway:left": "share_busway",
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "maxspeed": "50",
+    "name": "Rue du Tir",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23223710,
+  "nodes": [
+    219021688,
+    8738066465,
+    2409221704,
+    219021691,
+    219021694,
+    219021698,
+    1782002312,
+    4834618280,
+    219021701,
+    219021707,
+    4834618266,
+    893466309,
+    2409221617,
+    4834618267,
+    219021712,
+    4834618268,
+    893466310,
+    4834618269,
+    893466311,
+    4834618270,
+    219021720,
+    4834618271,
+    893466313,
+    4834618272,
+    893466315,
+    219021724,
+    2409221600,
+    893466316,
+    2409221593,
+    219021728,
+    2409221588,
+    893466317,
+    2409221584,
+    219021733,
+    251212879,
+    251212880,
+    219021735,
+    2409221570,
+    219021742,
+    219021746,
+    1782052073,
+    1782052070,
+    893466608,
+    219021751,
+    893466610,
+    2409221554,
+    219021760
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "90",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 23517664,
+  "nodes": [
+    254656599,
+    1440802377,
+    2332977268,
+    254690077,
+    257061775
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue du Val Saint-Grégoire"
+  }
+},
+{
+  "type": "way",
+  "id": 24416041,
+  "nodes": [
+    265083742,
+    963225240,
+    265083741
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "2",
+    "layer": "1",
+    "name": "Boulevard Saint-Pierre",
+    "oneway": "yes",
+    "operator": "TRACE"
+  }
+},
+{
+  "type": "way",
+  "id": 24416042,
+  "nodes": [
+    265083741,
+    265075173,
+    219119089,
+    9202420361,
+    248017279,
+    219119096,
+    7289554690,
+    7289554691,
+    219119102,
+    7289554693,
+    219119108,
+    9428413207,
+    9428413208,
+    9202413331,
+    219119056
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard Saint-Pierre",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 24767831,
+  "nodes": [
+    269152295,
+    5934136497,
+    615192628,
+    698704457
+  ],
+  "tags": {
+    "alt_name": "Rue des Unterlinden",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Rue d'Unterlinden",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 30348408,
+  "nodes": [
+    213768280,
+    213768286,
+    213768292
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard du Champ de Mars",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "was:cycleway": "opposite_lane"
+  }
+},
+{
+  "type": "way",
+  "id": 30348722,
+  "nodes": [
+    247072612,
+    617182231
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Route de Sélestat",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 39859456,
+  "nodes": [
+    170627091,
+    2995648284,
+    170690473,
+    9426656635,
+    2995648285,
+    170627098
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 45237087,
+  "nodes": [
+    171115860,
+    9428413193,
+    9202374199,
+    398812383
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "unclassified",
+    "lanes": "2",
+    "name": "Rue Georges Lasch",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 47584697,
+  "nodes": [
+    574275712,
+    218832201,
+    6018913820,
+    619729388,
+    218832208
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "destination": "Mulhouse;Centre ville",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "sidewalk": "right",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 48045359,
+  "nodes": [
+    259438176,
+    2411764947,
+    259438128
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue des Vignes",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 48045360,
+  "nodes": [
+    259437041,
+    2411764943,
+    259438153
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue des Vignes",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 48464421,
+  "nodes": [
+    265596039,
+    574431696,
+    219119144,
+    574814097,
+    219119150,
+    4848209077,
+    219119157,
+    5984190367
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 51721704,
+  "nodes": [
+    660126526,
+    252299315,
+    252299317,
+    252299319,
+    4791354837
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue des Trois-Châteaux",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 51721705,
+  "nodes": [
+    4791354835,
+    6669665986,
+    660126524,
+    660126526
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue des Trois-Châteaux",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 55497475,
+  "nodes": [
+    238442902,
+    247088860
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 55560451,
+  "nodes": [
+    213768256,
+    268944827,
+    1392303001,
+    213768264,
+    617764428,
+    269137667,
+    213768269,
+    268946100,
+    213768275,
+    1509561280,
+    617760140,
+    213768280
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "description:covid19": "Bande cyclable temporaire",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard du Champ de Mars",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "was:cycleway": "opposite_lane"
+  }
+},
+{
+  "type": "way",
+  "id": 70844507,
+  "nodes": [
+    219081829,
+    9211324458,
+    3757084549,
+    5934136498,
+    269152295
+  ],
+  "tags": {
+    "cycleway:left": "opposite",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Rue Golbéry",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 71536234,
+  "nodes": [
+    183158115,
+    638575311,
+    183153573
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lit": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 71536240,
+  "nodes": [
+    183158097,
+    9447526384,
+    183158101,
+    183158104,
+    638575307,
+    183158115
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lit": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 72126673,
+  "nodes": [
+    183158092,
+    638575308,
+    183158097
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lit": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72465787,
+  "nodes": [
+    247072552,
+    6654610929,
+    635824791,
+    247086514
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Rue de la Cavalerie",
+    "oneway": "yes",
+    "ref": "D 418",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72466102,
+  "nodes": [
+    243460484,
+    2874018693,
+    243464222,
+    9202720059,
+    9202757741,
+    635129895,
+    218832310,
+    635129899,
+    218832305,
+    6328529476,
+    218727564
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Route de Sélestat",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72466157,
+  "nodes": [
+    247088860,
+    9340100876,
+    9202742950,
+    4848209108,
+    619737967,
+    6018917722,
+    574275712
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "destination": "Mulhouse;Freiburg;Centre ville",
+    "highway": "secondary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 72466172,
+  "nodes": [
+    860365566,
+    619737965
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "destination": "Freiburg;Horbourg-Wihr;Neuf-Brisach;Le Grillen;Université-Campus",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "name": "Route de Neuf-Brisach",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 418",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72467658,
+  "nodes": [
+    860373552,
+    983103092,
+    2874332309,
+    186961516,
+    902405788,
+    6018918186,
+    6018913819,
+    902405790
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72470350,
+  "nodes": [
+    183838613,
+    4193163887,
+    247109085,
+    170622141,
+    186961509,
+    619729384,
+    860373552
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72470434,
+  "nodes": [
+    218832228,
+    4848209087,
+    265598679,
+    218832234,
+    4848209092,
+    6654577029,
+    218832240,
+    4848209089,
+    218832246,
+    218832249,
+    247865962,
+    218832251,
+    3514153129,
+    9445130884,
+    218832256,
+    9445130883,
+    9445130892,
+    9445130890,
+    218832262,
+    9445130889,
+    9442449657
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 72470562,
+  "nodes": [
+    170627069,
+    6138944430,
+    218720372,
+    2995648287
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 72470564,
+  "nodes": [
+    2995648287,
+    170627075,
+    2995648286,
+    170627079,
+    170627085
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 75683748,
+  "nodes": [
+    170627085,
+    6138944432,
+    170627091
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout"
+  }
+},
+{
+  "type": "way",
+  "id": 76354950,
+  "nodes": [
+    847018388,
+    9202466880,
+    778909348,
+    269152295
+  ],
+  "tags": {
+    "access": "no",
+    "alt_name": "Rue des Unterlinden",
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "emergency": "yes",
+    "foot": "no",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "secondary",
+    "hov": "no",
+    "lanes": "2",
+    "motorcar": "no",
+    "motorcycle": "no",
+    "name": "Rue d'Unterlinden",
+    "oneway": "yes",
+    "psv": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "vehicle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 76561570,
+  "nodes": [
+    616725929,
+    1392303010,
+    9214868931,
+    9214868930,
+    9214868929,
+    213768256
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Boulevard du Champ de Mars",
+    "oneway": "yes",
+    "operator": "TRACE",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 135655831,
+  "nodes": [
+    259438172,
+    2411764855,
+    2411764856,
+    2411764846,
+    8955198644,
+    2411764841,
+    611034414,
+    251171768
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Bagatelle",
+    "operator": "TRACE"
+  }
+},
+{
+  "type": "way",
+  "id": 217944363,
+  "nodes": [
+    9442498643,
+    9442514894,
+    7211140623,
+    9442449687,
+    7211055585,
+    245402512,
+    218832273
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 232577616,
+  "nodes": [
+    170885986,
+    2689588946,
+    2689588948
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "change:lanes": "no|yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 234883792,
+  "nodes": [
+    257061775,
+    2136241298,
+    5984190419
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue du Val Saint-Grégoire"
+  }
+},
+{
+  "type": "way",
+  "id": 286589703,
+  "nodes": [
+    219119125,
+    9202413332,
+    5991674378
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue de la Truite",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 381966072,
+  "nodes": [
+    3851729074,
+    2409221638,
+    5476408499,
+    289365551
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "old_ref": "N 422",
+    "oneway": "no",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 381966073,
+  "nodes": [
+    289365551,
+    219021767,
+    2409221650,
+    219021773,
+    2409221655,
+    2409221657,
+    2409221659,
+    170885986
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "maxspeed": "70",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 418347797,
+  "nodes": [
+    2689588948,
+    893463933,
+    893463934,
+    170886036,
+    2409221729,
+    2409221731,
+    893463935,
+    893463494,
+    170886084
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "70",
+    "old_ref": "N 422",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 489026785,
+  "nodes": [
+    5984190365,
+    7158933146,
+    247897119,
+    247897122,
+    265596039
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 621422963,
+  "nodes": [
+    5870495837,
+    1962746306,
+    5870495898
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Route d'Ingersheim",
+    "old_ref": "N 415",
+    "ref": "D 418",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 634018869,
+  "nodes": [
+    265593381,
+    6654582197,
+    5984190365
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "30",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 634018870,
+  "nodes": [
+    5984190367,
+    5984190370
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "way",
+  "id": 634018873,
+  "nodes": [
+    5984190371,
+    219119164,
+    219119169,
+    218832211
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 634018874,
+  "nodes": [
+    5984190370,
+    247095926,
+    9161443510,
+    5984190371
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue de l'Est",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 634018903,
+  "nodes": [
+    5984190419,
+    2332977256,
+    5984190422
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed:backward": "50",
+    "maxspeed:forward": "30",
+    "name": "Rue du Val Saint-Grégoire"
+  }
+},
+{
+  "type": "way",
+  "id": 634018905,
+  "nodes": [
+    5984190421,
+    1492450414,
+    5984190424
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Rue du Val Saint-Grégoire"
+  }
+},
+{
+  "type": "way",
+  "id": 634018906,
+  "nodes": [
+    5984190422,
+    257055617,
+    2136241300,
+    5984190421
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue du Val Saint-Grégoire",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 634018907,
+  "nodes": [
+    5984190424,
+    661137397,
+    2136241302,
+    1440802386,
+    254690090
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue du Val Saint-Grégoire"
+  }
+},
+{
+  "type": "way",
+  "id": 635057400,
+  "nodes": [
+    5991674378,
+    9202419069,
+    247865955
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue de la Truite",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2014"
+  }
+},
+{
+  "type": "way",
+  "id": 635057401,
+  "nodes": [
+    5991674380,
+    9202424478,
+    219119125,
+    5991674379
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue Schwendi",
+    "oneway": "yes",
+    "source:maxspeed": "FR:urban",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 635057402,
+  "nodes": [
+    5991674379,
+    219119131,
+    219119135,
+    619237296,
+    219119140
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Schwendi",
+    "oneway": "yes",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 635057467,
+  "nodes": [
+    5991678037,
+    248886499,
+    248886500
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue de la Légion Étrangère",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 635057469,
+  "nodes": [
+    5991678040,
+    5991678036
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue de la Légion Étrangère",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 635057476,
+  "nodes": [
+    5991678039,
+    248886497,
+    5991678040
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue de la Légion Étrangère",
+    "surface": "asphalt",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 635057477,
+  "nodes": [
+    248914412,
+    248886496,
+    5991678039
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Rue de la Légion Étrangère",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 655187877,
+  "nodes": [
+    170627098,
+    2995648288,
+    170627105,
+    6138944429
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "noname": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 658305470,
+  "nodes": [
+    6164794747,
+    9442498655,
+    7211055587,
+    9442504577,
+    9442514909,
+    218832269
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 772369064,
+  "nodes": [
+    218832273,
+    651566711,
+    7560541128
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 772369065,
+  "nodes": [
+    7560541128,
+    245402516,
+    7211054851,
+    7560541126,
+    7211054865
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 772369068,
+  "nodes": [
+    7211054865,
+    7211054868,
+    218832283,
+    245403086
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "left|through;right"
+  }
+},
+{
+  "type": "way",
+  "id": 772369069,
+  "nodes": [
+    245403086,
+    245403954,
+    7211054864,
+    218832293,
+    218832296,
+    7211054883,
+    170627069
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 772369070,
+  "nodes": [
+    7211054866,
+    170701097,
+    9445034003,
+    7211054840,
+    7211055586,
+    9442449689,
+    9442514897,
+    9442498644
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "trought|trought;right"
+  }
+},
+{
+  "type": "way",
+  "id": 772369071,
+  "nodes": [
+    7211054872,
+    1719219412,
+    170622163
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "left|through"
+  }
+},
+{
+  "type": "way",
+  "id": 772369072,
+  "nodes": [
+    7211054873,
+    7211054863,
+    9445412971
+  ],
+  "tags": {
+    "busway:right": "lane",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 1005551532,
+  "nodes": [
+    860365566,
+    187011065,
+    6018917721,
+    619734124
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1012567489,
+  "nodes": [
+    9341696905,
+    219119071
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "30",
+    "name": "Boulevard Saint-Pierre",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1023968622,
+  "nodes": [
+    218832269,
+    9442498643
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1023968624,
+  "nodes": [
+    9442498644,
+    170622157
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 1024282273,
+  "nodes": [
+    9445170007,
+    9445170004,
+    4193163886,
+    9445170008
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt",
+    "turn:lanes": "through|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 1024282274,
+  "nodes": [
+    9445170008,
+    218832228
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1024309362,
+  "nodes": [
+    9445412971,
+    9445412972,
+    7211054872
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201"
+  }
+},
+{
+  "type": "way",
+  "id": 1024570947,
+  "nodes": [
+    9447591897,
+    9202438646,
+    170982179
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue de la République",
+    "old_ref": "D 30",
+    "oneway": "yes",
+    "ref": "D 514",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1024575510,
+  "nodes": [
+    9442449657,
+    6164794747
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue d'Alsace",
+    "oneway": "yes",
+    "ref": "D 201",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1024581537,
+  "nodes": [
+    9447741038,
+    620653575,
+    620652913,
+    963246111,
+    9119356321,
+    6466165983,
+    9447613398,
+    213768339
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue Joffre",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600061423,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Colmar",
+    "name:ar": "كولمر",
+    "name:br": "Kolmar",
+    "name:de": "Colmar",
+    "name:el": "Κολμάρ",
+    "name:fa": "کولمر",
+    "name:ko": "콜마르",
+    "population": "68682",
+    "population:date": "2019",
+    "postal_code": "68000",
+    "ref:FR:SIREN": "216800664",
+    "ref:INSEE": "68066",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 11/2014",
+    "type": "boundary",
+    "website": "https://www.colmar.fr/",
+    "wikidata": "Q130994",
+    "wikipedia": "fr:Arrondissement de Colmar-Ribeauvillé"
+  }
+},
+{
+  "type": "node",
+  "id": 219021707,
+  "lat": 48.0408963,
+  "lon": 7.3691037
+},
+{
+  "type": "node",
+  "id": 219021712,
+  "lat": 48.0399911,
+  "lon": 7.3688176
+},
+{
+  "type": "node",
+  "id": 219021720,
+  "lat": 48.0393090,
+  "lon": 7.3688551
+},
+{
+  "type": "node",
+  "id": 219021724,
+  "lat": 48.0386951,
+  "lon": 7.3691257
+},
+{
+  "type": "node",
+  "id": 219021728,
+  "lat": 48.0381398,
+  "lon": 7.3696061
+},
+{
+  "type": "node",
+  "id": 219021733,
+  "lat": 48.0376480,
+  "lon": 7.3703005
+},
+{
+  "type": "node",
+  "id": 219021735,
+  "lat": 48.0368853,
+  "lon": 7.3717588
+},
+{
+  "type": "node",
+  "id": 251212879,
+  "lat": 48.0373190,
+  "lon": 7.3709229
+},
+{
+  "type": "node",
+  "id": 251212880,
+  "lat": 48.0370934,
+  "lon": 7.3713429
+},
+{
+  "type": "node",
+  "id": 893466309,
+  "lat": 48.0404636,
+  "lon": 7.3689328
+},
+{
+  "type": "node",
+  "id": 893466310,
+  "lat": 48.0397958,
+  "lon": 7.3688046
+},
+{
+  "type": "node",
+  "id": 893466311,
+  "lat": 48.0395122,
+  "lon": 7.3688178
+},
+{
+  "type": "node",
+  "id": 893466313,
+  "lat": 48.0390815,
+  "lon": 7.3689301
+},
+{
+  "type": "node",
+  "id": 893466315,
+  "lat": 48.0388302,
+  "lon": 7.3690447
+},
+{
+  "type": "node",
+  "id": 893466316,
+  "lat": 48.0384528,
+  "lon": 7.3693023
+},
+{
+  "type": "node",
+  "id": 893466317,
+  "lat": 48.0379279,
+  "lon": 7.3698623
+},
+{
+  "type": "node",
+  "id": 2409221570,
+  "lat": 48.0364399,
+  "lon": 7.3725998
+},
+{
+  "type": "node",
+  "id": 2409221584,
+  "lat": 48.0377738,
+  "lon": 7.3700937
+},
+{
+  "type": "node",
+  "id": 2409221588,
+  "lat": 48.0380447,
+  "lon": 7.3697147
+},
+{
+  "type": "node",
+  "id": 2409221593,
+  "lat": 48.0382806,
+  "lon": 7.3694505
+},
+{
+  "type": "node",
+  "id": 2409221600,
+  "lat": 48.0385640,
+  "lon": 7.3692149
+},
+{
+  "type": "node",
+  "id": 2409221617,
+  "lat": 48.0402438,
+  "lon": 7.3688688
+},
+{
+  "type": "node",
+  "id": 3851729074,
+  "lat": 48.0404042,
+  "lon": 7.3719487
+},
+{
+  "type": "node",
+  "id": 4834618266,
+  "lat": 48.0405754,
+  "lon": 7.3689731
+},
+{
+  "type": "node",
+  "id": 4834618267,
+  "lat": 48.0401221,
+  "lon": 7.3688404
+},
+{
+  "type": "node",
+  "id": 4834618268,
+  "lat": 48.0399024,
+  "lon": 7.3688062
+},
+{
+  "type": "node",
+  "id": 4834618269,
+  "lat": 48.0396509,
+  "lon": 7.3688035
+},
+{
+  "type": "node",
+  "id": 4834618270,
+  "lat": 48.0394088,
+  "lon": 7.3688337
+},
+{
+  "type": "node",
+  "id": 4834618271,
+  "lat": 48.0391976,
+  "lon": 7.3688886
+},
+{
+  "type": "node",
+  "id": 4834618272,
+  "lat": 48.0389510,
+  "lon": 7.3689825
+},
+{
+  "type": "node",
+  "id": 219021742,
+  "lat": 48.0362708,
+  "lon": 7.3729113
+},
+{
+  "type": "node",
+  "id": 219021746,
+  "lat": 48.0361503,
+  "lon": 7.3731101
+},
+{
+  "type": "node",
+  "id": 219021751,
+  "lat": 48.0357352,
+  "lon": 7.3736937
+},
+{
+  "type": "node",
+  "id": 219021760,
+  "lat": 48.0346932,
+  "lon": 7.3744473
+},
+{
+  "type": "node",
+  "id": 893466608,
+  "lat": 48.0358755,
+  "lon": 7.3735373
+},
+{
+  "type": "node",
+  "id": 893466610,
+  "lat": 48.0355008,
+  "lon": 7.3739166
+},
+{
+  "type": "node",
+  "id": 1782052070,
+  "lat": 48.0359869,
+  "lon": 7.3733601
+},
+{
+  "type": "node",
+  "id": 1782052073,
+  "lat": 48.0360373,
+  "lon": 7.3732857
+},
+{
+  "type": "node",
+  "id": 2409221554,
+  "lat": 48.0353055,
+  "lon": 7.3740651
+},
+{
+  "type": "node",
+  "id": 248885982,
+  "lat": 48.0650337,
+  "lon": 7.3360569
+},
+{
+  "type": "node",
+  "id": 248886502,
+  "lat": 48.0668859,
+  "lon": 7.3364584
+},
+{
+  "type": "node",
+  "id": 248886504,
+  "lat": 48.0658215,
+  "lon": 7.3361292
+},
+{
+  "type": "node",
+  "id": 252299315,
+  "lat": 48.0696641,
+  "lon": 7.3311888
+},
+{
+  "type": "node",
+  "id": 252299317,
+  "lat": 48.0695849,
+  "lon": 7.3311634
+},
+{
+  "type": "node",
+  "id": 252299319,
+  "lat": 48.0695507,
+  "lon": 7.3311770
+},
+{
+  "type": "node",
+  "id": 660126524,
+  "lat": 48.0696117,
+  "lon": 7.3312512
+},
+{
+  "type": "node",
+  "id": 660126526,
+  "lat": 48.0697217,
+  "lon": 7.3312212
+},
+{
+  "type": "node",
+  "id": 4791354835,
+  "lat": 48.0695371,
+  "lon": 7.3313253
+},
+{
+  "type": "node",
+  "id": 4791354837,
+  "lat": 48.0695046,
+  "lon": 7.3312116
+},
+{
+  "type": "node",
+  "id": 6669665986,
+  "lat": 48.0695760,
+  "lon": 7.3312839
+},
+{
+  "type": "node",
+  "id": 248886497,
+  "lat": 48.0696836,
+  "lon": 7.3394037
+},
+{
+  "type": "node",
+  "id": 248886498,
+  "lat": 48.0690400,
+  "lon": 7.3383297
+},
+{
+  "type": "node",
+  "id": 248886499,
+  "lat": 48.0685733,
+  "lon": 7.3377325
+},
+{
+  "type": "node",
+  "id": 248886500,
+  "lat": 48.0681738,
+  "lon": 7.3373207
+},
+{
+  "type": "node",
+  "id": 248886501,
+  "lat": 48.0675625,
+  "lon": 7.3368401
+},
+{
+  "type": "node",
+  "id": 659712262,
+  "lat": 48.0678737,
+  "lon": 7.3370732
+},
+{
+  "type": "node",
+  "id": 5991678036,
+  "lat": 48.0690893,
+  "lon": 7.3384120
+},
+{
+  "type": "node",
+  "id": 5991678037,
+  "lat": 48.0689121,
+  "lon": 7.3381661
+},
+{
+  "type": "node",
+  "id": 5991678039,
+  "lat": 48.0697424,
+  "lon": 7.3395078
+},
+{
+  "type": "node",
+  "id": 5991678040,
+  "lat": 48.0696060,
+  "lon": 7.3392742
+},
+{
+  "type": "node",
+  "id": 1962746306,
+  "lat": 48.0867169,
+  "lon": 7.3305497
+},
+{
+  "type": "node",
+  "id": 5870495837,
+  "lat": 48.0867369,
+  "lon": 7.3304547
+},
+{
+  "type": "node",
+  "id": 5870495898,
+  "lat": 48.0866810,
+  "lon": 7.3307200
+},
+{
+  "type": "node",
+  "id": 170690458,
+  "lat": 48.0588645,
+  "lon": 7.3638879
+},
+{
+  "type": "node",
+  "id": 170859718,
+  "lat": 48.0602520,
+  "lon": 7.3633373
+},
+{
+  "type": "node",
+  "id": 170859736,
+  "lat": 48.0598991,
+  "lon": 7.3634939
+},
+{
+  "type": "node",
+  "id": 652436924,
+  "lat": 48.0598747,
+  "lon": 7.3633609
+},
+{
+  "type": "node",
+  "id": 2697470210,
+  "lat": 48.0591608,
+  "lon": 7.3638010
+},
+{
+  "type": "node",
+  "id": 2697470212,
+  "lat": 48.0591687,
+  "lon": 7.3636979
+},
+{
+  "type": "node",
+  "id": 7556724003,
+  "lat": 48.0605786,
+  "lon": 7.3630553
+},
+{
+  "type": "node",
+  "id": 170622163,
+  "lat": 48.0660193,
+  "lon": 7.3641582
+},
+{
+  "type": "node",
+  "id": 170627069,
+  "lat": 48.0624089,
+  "lon": 7.3627012
+},
+{
+  "type": "node",
+  "id": 170627075,
+  "lat": 48.0622999,
+  "lon": 7.3625805
+},
+{
+  "type": "node",
+  "id": 170627079,
+  "lat": 48.0622283,
+  "lon": 7.3626286
+},
+{
+  "type": "node",
+  "id": 170627085,
+  "lat": 48.0622062,
+  "lon": 7.3626783
+},
+{
+  "type": "node",
+  "id": 170627091,
+  "lat": 48.0621999,
+  "lon": 7.3627727
+},
+{
+  "type": "node",
+  "id": 170627098,
+  "lat": 48.0623075,
+  "lon": 7.3629011
+},
+{
+  "type": "node",
+  "id": 170627105,
+  "lat": 48.0623624,
+  "lon": 7.3628762
+},
+{
+  "type": "node",
+  "id": 170690447,
+  "lat": 48.0611209,
+  "lon": 7.3629863
+},
+{
+  "type": "node",
+  "id": 170690454,
+  "lat": 48.0608942,
+  "lon": 7.3630612
+},
+{
+  "type": "node",
+  "id": 170690473,
+  "lat": 48.0622381,
+  "lon": 7.3628661
+},
+{
+  "type": "node",
+  "id": 170923969,
+  "lat": 48.0618352,
+  "lon": 7.3626739
+},
+{
+  "type": "node",
+  "id": 170923993,
+  "lat": 48.0611880,
+  "lon": 7.3627984
+},
+{
+  "type": "node",
+  "id": 218720372,
+  "lat": 48.0623706,
+  "lon": 7.3626139
+},
+{
+  "type": "node",
+  "id": 218832283,
+  "lat": 48.0660818,
+  "lon": 7.3640237
+},
+{
+  "type": "node",
+  "id": 218832293,
+  "lat": 48.0632184,
+  "lon": 7.3629392
+},
+{
+  "type": "node",
+  "id": 218832296,
+  "lat": 48.0627746,
+  "lon": 7.3627910
+},
+{
+  "type": "node",
+  "id": 245403086,
+  "lat": 48.0660103,
+  "lon": 7.3639857
+},
+{
+  "type": "node",
+  "id": 245403954,
+  "lat": 48.0641964,
+  "lon": 7.3633307
+},
+{
+  "type": "node",
+  "id": 648860855,
+  "lat": 48.0670272,
+  "lon": 7.3644679
+},
+{
+  "type": "node",
+  "id": 648864085,
+  "lat": 48.0667738,
+  "lon": 7.3643919
+},
+{
+  "type": "node",
+  "id": 1719219412,
+  "lat": 48.0659230,
+  "lon": 7.3641138
+},
+{
+  "type": "node",
+  "id": 2995648284,
+  "lat": 48.0622135,
+  "lon": 7.3628244
+},
+{
+  "type": "node",
+  "id": 2995648285,
+  "lat": 48.0622708,
+  "lon": 7.3628927
+},
+{
+  "type": "node",
+  "id": 2995648286,
+  "lat": 48.0622611,
+  "lon": 7.3625944
+},
+{
+  "type": "node",
+  "id": 2995648287,
+  "lat": 48.0623395,
+  "lon": 7.3625888
+},
+{
+  "type": "node",
+  "id": 2995648288,
+  "lat": 48.0623361,
+  "lon": 7.3628942
+},
+{
+  "type": "node",
+  "id": 6138944429,
+  "lat": 48.0623845,
+  "lon": 7.3628483
+},
+{
+  "type": "node",
+  "id": 6138944430,
+  "lat": 48.0623946,
+  "lon": 7.3626528
+},
+{
+  "type": "node",
+  "id": 6138944431,
+  "lat": 48.0624116,
+  "lon": 7.3627580
+},
+{
+  "type": "node",
+  "id": 6138944432,
+  "lat": 48.0621983,
+  "lon": 7.3627248
+},
+{
+  "type": "node",
+  "id": 7211054863,
+  "lat": 48.0638800,
+  "lon": 7.3632862
+},
+{
+  "type": "node",
+  "id": 7211054864,
+  "lat": 48.0638975,
+  "lon": 7.3632172
+},
+{
+  "type": "node",
+  "id": 7211054865,
+  "lat": 48.0664048,
+  "lon": 7.3641701
+},
+{
+  "type": "node",
+  "id": 7211054867,
+  "lat": 48.0663076,
+  "lon": 7.3642304
+},
+{
+  "type": "node",
+  "id": 7211054868,
+  "lat": 48.0661348,
+  "lon": 7.3640522
+},
+{
+  "type": "node",
+  "id": 7211054869,
+  "lat": 48.0661039,
+  "lon": 7.3641907
+},
+{
+  "type": "node",
+  "id": 7211054872,
+  "lat": 48.0656155,
+  "lon": 7.3639943
+},
+{
+  "type": "node",
+  "id": 7211054873,
+  "lat": 48.0637865,
+  "lon": 7.3632559
+},
+{
+  "type": "node",
+  "id": 7211054883,
+  "lat": 48.0624758,
+  "lon": 7.3627128
+},
+{
+  "type": "node",
+  "id": 7555486522,
+  "lat": 48.0614570,
+  "lon": 7.3627268
+},
+{
+  "type": "node",
+  "id": 7560541126,
+  "lat": 48.0668964,
+  "lon": 7.3643441
+},
+{
+  "type": "node",
+  "id": 9202409493,
+  "lat": 48.0621400,
+  "lon": 7.3626775
+},
+{
+  "type": "node",
+  "id": 9426656630,
+  "lat": 48.0612433,
+  "lon": 7.3629545
+},
+{
+  "type": "node",
+  "id": 9426656635,
+  "lat": 48.0622535,
+  "lon": 7.3628786
+},
+{
+  "type": "node",
+  "id": 9426656636,
+  "lat": 48.0624035,
+  "lon": 7.3628059
+},
+{
+  "type": "node",
+  "id": 9445412971,
+  "lat": 48.0648995,
+  "lon": 7.3637039
+},
+{
+  "type": "node",
+  "id": 9445412972,
+  "lat": 48.0656119,
+  "lon": 7.3639929
+},
+{
+  "type": "node",
+  "id": 170885986,
+  "lat": 48.0434700,
+  "lon": 7.3713650
+},
+{
+  "type": "node",
+  "id": 170886036,
+  "lat": 48.0458648,
+  "lon": 7.3717082
+},
+{
+  "type": "node",
+  "id": 170886084,
+  "lat": 48.0467821,
+  "lon": 7.3710260
+},
+{
+  "type": "node",
+  "id": 170886112,
+  "lat": 48.0471055,
+  "lon": 7.3705784
+},
+{
+  "type": "node",
+  "id": 170886138,
+  "lat": 48.0476749,
+  "lon": 7.3694249
+},
+{
+  "type": "node",
+  "id": 219021688,
+  "lat": 48.0460212,
+  "lon": 7.3694319
+},
+{
+  "type": "node",
+  "id": 219021691,
+  "lat": 48.0443736,
+  "lon": 7.3700079
+},
+{
+  "type": "node",
+  "id": 219021694,
+  "lat": 48.0440479,
+  "lon": 7.3700644
+},
+{
+  "type": "node",
+  "id": 219021698,
+  "lat": 48.0437341,
+  "lon": 7.3700668
+},
+{
+  "type": "node",
+  "id": 219021701,
+  "lat": 48.0430108,
+  "lon": 7.3699150
+},
+{
+  "type": "node",
+  "id": 219021767,
+  "lat": 48.0421732,
+  "lon": 7.3712679
+},
+{
+  "type": "node",
+  "id": 219021773,
+  "lat": 48.0425840,
+  "lon": 7.3712081
+},
+{
+  "type": "node",
+  "id": 289365551,
+  "lat": 48.0418657,
+  "lon": 7.3713807
+},
+{
+  "type": "node",
+  "id": 893463447,
+  "lat": 48.0468988,
+  "lon": 7.3708772
+},
+{
+  "type": "node",
+  "id": 893463449,
+  "lat": 48.0470076,
+  "lon": 7.3707355
+},
+{
+  "type": "node",
+  "id": 893463494,
+  "lat": 48.0465834,
+  "lon": 7.3712333
+},
+{
+  "type": "node",
+  "id": 893463933,
+  "lat": 48.0452611,
+  "lon": 7.3718643
+},
+{
+  "type": "node",
+  "id": 893463934,
+  "lat": 48.0455590,
+  "lon": 7.3718156
+},
+{
+  "type": "node",
+  "id": 893463935,
+  "lat": 48.0464484,
+  "lon": 7.3713436
+},
+{
+  "type": "node",
+  "id": 1782002312,
+  "lat": 48.0434467,
+  "lon": 7.3700351
+},
+{
+  "type": "node",
+  "id": 2409221638,
+  "lat": 48.0416076,
+  "lon": 7.3714284
+},
+{
+  "type": "node",
+  "id": 2409221650,
+  "lat": 48.0423359,
+  "lon": 7.3712346
+},
+{
+  "type": "node",
+  "id": 2409221655,
+  "lat": 48.0427796,
+  "lon": 7.3712042
+},
+{
+  "type": "node",
+  "id": 2409221657,
+  "lat": 48.0430680,
+  "lon": 7.3712651
+},
+{
+  "type": "node",
+  "id": 2409221659,
+  "lat": 48.0433168,
+  "lon": 7.3713385
+},
+{
+  "type": "node",
+  "id": 2409221704,
+  "lat": 48.0450181,
+  "lon": 7.3697952
+},
+{
+  "type": "node",
+  "id": 2409221729,
+  "lat": 48.0461257,
+  "lon": 7.3715827
+},
+{
+  "type": "node",
+  "id": 2409221731,
+  "lat": 48.0462912,
+  "lon": 7.3714714
+},
+{
+  "type": "node",
+  "id": 2689588946,
+  "lat": 48.0445662,
+  "lon": 7.3718116
+},
+{
+  "type": "node",
+  "id": 2689588948,
+  "lat": 48.0449212,
+  "lon": 7.3718817
+},
+{
+  "type": "node",
+  "id": 4834618280,
+  "lat": 48.0432187,
+  "lon": 7.3699806
+},
+{
+  "type": "node",
+  "id": 5476408499,
+  "lat": 48.0417614,
+  "lon": 7.3713729
+},
+{
+  "type": "node",
+  "id": 8738066465,
+  "lat": 48.0456106,
+  "lon": 7.3695624
+},
+{
+  "type": "node",
+  "id": 170690470,
+  "lat": 48.0492726,
+  "lon": 7.3680741
+},
+{
+  "type": "node",
+  "id": 170886165,
+  "lat": 48.0481395,
+  "lon": 7.3688083
+},
+{
+  "type": "node",
+  "id": 893465106,
+  "lat": 48.0479147,
+  "lon": 7.3690675
+},
+{
+  "type": "node",
+  "id": 893465107,
+  "lat": 48.0483612,
+  "lon": 7.3685939
+},
+{
+  "type": "node",
+  "id": 1782002314,
+  "lat": 48.0482066,
+  "lon": 7.3685054
+},
+{
+  "type": "node",
+  "id": 5476408461,
+  "lat": 48.0490201,
+  "lon": 7.3681489
+},
+{
+  "type": "node",
+  "id": 248886496,
+  "lat": 48.0700287,
+  "lon": 7.3400657
+},
+{
+  "type": "node",
+  "id": 248914412,
+  "lat": 48.0703933,
+  "lon": 7.3408545
+},
+{
+  "type": "node",
+  "id": 170982179,
+  "lat": 48.0734451,
+  "lon": 7.3493242
+},
+{
+  "type": "node",
+  "id": 170982192,
+  "lat": 48.0738251,
+  "lon": 7.3480054
+},
+{
+  "type": "node",
+  "id": 171115860,
+  "lat": 48.0737106,
+  "lon": 7.3484089
+},
+{
+  "type": "node",
+  "id": 213768353,
+  "lat": 48.0691655,
+  "lon": 7.3529932
+},
+{
+  "type": "node",
+  "id": 398812383,
+  "lat": 48.0734655,
+  "lon": 7.3492613
+},
+{
+  "type": "node",
+  "id": 617754258,
+  "lat": 48.0738060,
+  "lon": 7.3480678
+},
+{
+  "type": "node",
+  "id": 5837658680,
+  "lat": 48.0691987,
+  "lon": 7.3531057
+},
+{
+  "type": "node",
+  "id": 9202374199,
+  "lat": 48.0734870,
+  "lon": 7.3491866
+},
+{
+  "type": "node",
+  "id": 9202438646,
+  "lat": 48.0733486,
+  "lon": 7.3492324
+},
+{
+  "type": "node",
+  "id": 9428413193,
+  "lat": 48.0735095,
+  "lon": 7.3491082
+},
+{
+  "type": "node",
+  "id": 9447591897,
+  "lat": 48.0733432,
+  "lon": 7.3492272
+},
+{
+  "type": "node",
+  "id": 251196756,
+  "lat": 48.0752146,
+  "lon": 7.3474486
+},
+{
+  "type": "node",
+  "id": 251196762,
+  "lat": 48.0742212,
+  "lon": 7.3467943
+},
+{
+  "type": "node",
+  "id": 6466168828,
+  "lat": 48.0742652,
+  "lon": 7.3468233
+},
+{
+  "type": "node",
+  "id": 8688086176,
+  "lat": 48.0750268,
+  "lon": 7.3473249
+},
+{
+  "type": "node",
+  "id": 213768339,
+  "lat": 48.0702035,
+  "lon": 7.3533510
+},
+{
+  "type": "node",
+  "id": 213768351,
+  "lat": 48.0692376,
+  "lon": 7.3532018
+},
+{
+  "type": "node",
+  "id": 219119071,
+  "lat": 48.0728275,
+  "lon": 7.3545628
+},
+{
+  "type": "node",
+  "id": 219119077,
+  "lat": 48.0727121,
+  "lon": 7.3550567
+},
+{
+  "type": "node",
+  "id": 219119082,
+  "lat": 48.0726743,
+  "lon": 7.3555696
+},
+{
+  "type": "node",
+  "id": 219119089,
+  "lat": 48.0726302,
+  "lon": 7.3577279
+},
+{
+  "type": "node",
+  "id": 219119096,
+  "lat": 48.0725494,
+  "lon": 7.3588149
+},
+{
+  "type": "node",
+  "id": 219119102,
+  "lat": 48.0725803,
+  "lon": 7.3592739
+},
+{
+  "type": "node",
+  "id": 219119108,
+  "lat": 48.0727109,
+  "lon": 7.3595802
+},
+{
+  "type": "node",
+  "id": 248014558,
+  "lat": 48.0726587,
+  "lon": 7.3561256
+},
+{
+  "type": "node",
+  "id": 248017279,
+  "lat": 48.0725578,
+  "lon": 7.3586235
+},
+{
+  "type": "node",
+  "id": 265075173,
+  "lat": 48.0726374,
+  "lon": 7.3572342
+},
+{
+  "type": "node",
+  "id": 265083741,
+  "lat": 48.0726399,
+  "lon": 7.3571543
+},
+{
+  "type": "node",
+  "id": 265083742,
+  "lat": 48.0726429,
+  "lon": 7.3569710
+},
+{
+  "type": "node",
+  "id": 605463144,
+  "lat": 48.0732992,
+  "lon": 7.3543706
+},
+{
+  "type": "node",
+  "id": 605463191,
+  "lat": 48.0739086,
+  "lon": 7.3544437
+},
+{
+  "type": "node",
+  "id": 620652913,
+  "lat": 48.0704530,
+  "lon": 7.3533774
+},
+{
+  "type": "node",
+  "id": 620653575,
+  "lat": 48.0709060,
+  "lon": 7.3534252
+},
+{
+  "type": "node",
+  "id": 737198398,
+  "lat": 48.0728019,
+  "lon": 7.3546329
+},
+{
+  "type": "node",
+  "id": 963225240,
+  "lat": 48.0726413,
+  "lon": 7.3570327
+},
+{
+  "type": "node",
+  "id": 963246111,
+  "lat": 48.0704277,
+  "lon": 7.3533716
+},
+{
+  "type": "node",
+  "id": 6466165983,
+  "lat": 48.0703055,
+  "lon": 7.3533604
+},
+{
+  "type": "node",
+  "id": 7289554690,
+  "lat": 48.0725447,
+  "lon": 7.3590117
+},
+{
+  "type": "node",
+  "id": 7289554691,
+  "lat": 48.0725557,
+  "lon": 7.3591602
+},
+{
+  "type": "node",
+  "id": 7289554693,
+  "lat": 48.0726323,
+  "lon": 7.3594212
+},
+{
+  "type": "node",
+  "id": 9119356321,
+  "lat": 48.0703500,
+  "lon": 7.3533645
+},
+{
+  "type": "node",
+  "id": 9202420361,
+  "lat": 48.0725694,
+  "lon": 7.3584798
+},
+{
+  "type": "node",
+  "id": 9341696894,
+  "lat": 48.0729934,
+  "lon": 7.3543265
+},
+{
+  "type": "node",
+  "id": 9341696905,
+  "lat": 48.0729104,
+  "lon": 7.3543767
+},
+{
+  "type": "node",
+  "id": 9447613398,
+  "lat": 48.0702856,
+  "lon": 7.3533586
+},
+{
+  "type": "node",
+  "id": 9447741038,
+  "lat": 48.0709730,
+  "lon": 7.3534324
+},
+{
+  "type": "node",
+  "id": 170622157,
+  "lat": 48.0697176,
+  "lon": 7.3653363
+},
+{
+  "type": "node",
+  "id": 170701097,
+  "lat": 48.0686460,
+  "lon": 7.3649845
+},
+{
+  "type": "node",
+  "id": 183783811,
+  "lat": 48.0721575,
+  "lon": 7.3658732
+},
+{
+  "type": "node",
+  "id": 183807203,
+  "lat": 48.0709015,
+  "lon": 7.3656261
+},
+{
+  "type": "node",
+  "id": 218832249,
+  "lat": 48.0736202,
+  "lon": 7.3662243
+},
+{
+  "type": "node",
+  "id": 218832251,
+  "lat": 48.0730550,
+  "lon": 7.3660017
+},
+{
+  "type": "node",
+  "id": 218832256,
+  "lat": 48.0721572,
+  "lon": 7.3657870
+},
+{
+  "type": "node",
+  "id": 218832262,
+  "lat": 48.0709039,
+  "lon": 7.3655250
+},
+{
+  "type": "node",
+  "id": 218832269,
+  "lat": 48.0697341,
+  "lon": 7.3652157
+},
+{
+  "type": "node",
+  "id": 218832273,
+  "lat": 48.0686663,
+  "lon": 7.3648822
+},
+{
+  "type": "node",
+  "id": 219119056,
+  "lat": 48.0729169,
+  "lon": 7.3599332
+},
+{
+  "type": "node",
+  "id": 219119113,
+  "lat": 48.0730687,
+  "lon": 7.3603398
+},
+{
+  "type": "node",
+  "id": 219119120,
+  "lat": 48.0731860,
+  "lon": 7.3605504
+},
+{
+  "type": "node",
+  "id": 243460487,
+  "lat": 48.0730435,
+  "lon": 7.3660839
+},
+{
+  "type": "node",
+  "id": 245402512,
+  "lat": 48.0691954,
+  "lon": 7.3650389
+},
+{
+  "type": "node",
+  "id": 245402516,
+  "lat": 48.0675824,
+  "lon": 7.3645513
+},
+{
+  "type": "node",
+  "id": 247865962,
+  "lat": 48.0734906,
+  "lon": 7.3661732
+},
+{
+  "type": "node",
+  "id": 618750411,
+  "lat": 48.0731238,
+  "lon": 7.3604926
+},
+{
+  "type": "node",
+  "id": 621142866,
+  "lat": 48.0728988,
+  "lon": 7.3660495
+},
+{
+  "type": "node",
+  "id": 621142867,
+  "lat": 48.0729304,
+  "lon": 7.3660568
+},
+{
+  "type": "node",
+  "id": 621142868,
+  "lat": 48.0732472,
+  "lon": 7.3661678
+},
+{
+  "type": "node",
+  "id": 648860891,
+  "lat": 48.0675355,
+  "lon": 7.3646291
+},
+{
+  "type": "node",
+  "id": 651566711,
+  "lat": 48.0683336,
+  "lon": 7.3647791
+},
+{
+  "type": "node",
+  "id": 3514153129,
+  "lat": 48.0723900,
+  "lon": 7.3658427
+},
+{
+  "type": "node",
+  "id": 6164794747,
+  "lat": 48.0703985,
+  "lon": 7.3653935
+},
+{
+  "type": "node",
+  "id": 7211054840,
+  "lat": 48.0694137,
+  "lon": 7.3652371
+},
+{
+  "type": "node",
+  "id": 7211054851,
+  "lat": 48.0674568,
+  "lon": 7.3645242
+},
+{
+  "type": "node",
+  "id": 7211054866,
+  "lat": 48.0680324,
+  "lon": 7.3647782
+},
+{
+  "type": "node",
+  "id": 7211055585,
+  "lat": 48.0694378,
+  "lon": 7.3651105
+},
+{
+  "type": "node",
+  "id": 7211055586,
+  "lat": 48.0694261,
+  "lon": 7.3652405
+},
+{
+  "type": "node",
+  "id": 7211055587,
+  "lat": 48.0698478,
+  "lon": 7.3652472
+},
+{
+  "type": "node",
+  "id": 7211055588,
+  "lat": 48.0698304,
+  "lon": 7.3653705
+},
+{
+  "type": "node",
+  "id": 7211140623,
+  "lat": 48.0694631,
+  "lon": 7.3651170
+},
+{
+  "type": "node",
+  "id": 7560541128,
+  "lat": 48.0676578,
+  "lon": 7.3645700
+},
+{
+  "type": "node",
+  "id": 9202409537,
+  "lat": 48.0729745,
+  "lon": 7.3600875
+},
+{
+  "type": "node",
+  "id": 9202413331,
+  "lat": 48.0728594,
+  "lon": 7.3598347
+},
+{
+  "type": "node",
+  "id": 9428413207,
+  "lat": 48.0728224,
+  "lon": 7.3597712
+},
+{
+  "type": "node",
+  "id": 9428413208,
+  "lat": 48.0728461,
+  "lon": 7.3598119
+},
+{
+  "type": "node",
+  "id": 9442449657,
+  "lat": 48.0704944,
+  "lon": 7.3654213
+},
+{
+  "type": "node",
+  "id": 9442449687,
+  "lat": 48.0694574,
+  "lon": 7.3651155
+},
+{
+  "type": "node",
+  "id": 9442449689,
+  "lat": 48.0694460,
+  "lon": 7.3652472
+},
+{
+  "type": "node",
+  "id": 9442498643,
+  "lat": 48.0695912,
+  "lon": 7.3651718
+},
+{
+  "type": "node",
+  "id": 9442498644,
+  "lat": 48.0695746,
+  "lon": 7.3652924
+},
+{
+  "type": "node",
+  "id": 9442498655,
+  "lat": 48.0698747,
+  "lon": 7.3652544
+},
+{
+  "type": "node",
+  "id": 9442504576,
+  "lat": 48.0698112,
+  "lon": 7.3653650
+},
+{
+  "type": "node",
+  "id": 9442504577,
+  "lat": 48.0698262,
+  "lon": 7.3652423
+},
+{
+  "type": "node",
+  "id": 9442514894,
+  "lat": 48.0694730,
+  "lon": 7.3651209
+},
+{
+  "type": "node",
+  "id": 9442514897,
+  "lat": 48.0694586,
+  "lon": 7.3652516
+},
+{
+  "type": "node",
+  "id": 9442514908,
+  "lat": 48.0697997,
+  "lon": 7.3653617
+},
+{
+  "type": "node",
+  "id": 9442514909,
+  "lat": 48.0698161,
+  "lon": 7.3652400
+},
+{
+  "type": "node",
+  "id": 9445034003,
+  "lat": 48.0693729,
+  "lon": 7.3652236
+},
+{
+  "type": "node",
+  "id": 9445130879,
+  "lat": 48.0720361,
+  "lon": 7.3658513
+},
+{
+  "type": "node",
+  "id": 9445130882,
+  "lat": 48.0720533,
+  "lon": 7.3658544
+},
+{
+  "type": "node",
+  "id": 9445130883,
+  "lat": 48.0720619,
+  "lon": 7.3657671
+},
+{
+  "type": "node",
+  "id": 9445130884,
+  "lat": 48.0722456,
+  "lon": 7.3658082
+},
+{
+  "type": "node",
+  "id": 9445130885,
+  "lat": 48.0707367,
+  "lon": 7.3655868
+},
+{
+  "type": "node",
+  "id": 9445130888,
+  "lat": 48.0707538,
+  "lon": 7.3655909
+},
+{
+  "type": "node",
+  "id": 9445130889,
+  "lat": 48.0707639,
+  "lon": 7.3654896
+},
+{
+  "type": "node",
+  "id": 9445130890,
+  "lat": 48.0709766,
+  "lon": 7.3655402
+},
+{
+  "type": "node",
+  "id": 9445130892,
+  "lat": 48.0711370,
+  "lon": 7.3655737
+},
+{
+  "type": "node",
+  "id": 213768256,
+  "lat": 48.0777123,
+  "lon": 7.3547313
+},
+{
+  "type": "node",
+  "id": 213768264,
+  "lat": 48.0767301,
+  "lon": 7.3549680
+},
+{
+  "type": "node",
+  "id": 213768269,
+  "lat": 48.0762517,
+  "lon": 7.3549054
+},
+{
+  "type": "node",
+  "id": 213768275,
+  "lat": 48.0758748,
+  "lon": 7.3548368
+},
+{
+  "type": "node",
+  "id": 213768280,
+  "lat": 48.0750592,
+  "lon": 7.3546288
+},
+{
+  "type": "node",
+  "id": 213768286,
+  "lat": 48.0745125,
+  "lon": 7.3545122
+},
+{
+  "type": "node",
+  "id": 213768292,
+  "lat": 48.0742181,
+  "lon": 7.3544674
+},
+{
+  "type": "node",
+  "id": 268944827,
+  "lat": 48.0776351,
+  "lon": 7.3547781
+},
+{
+  "type": "node",
+  "id": 268946100,
+  "lat": 48.0761066,
+  "lon": 7.3548796
+},
+{
+  "type": "node",
+  "id": 269137667,
+  "lat": 48.0764574,
+  "lon": 7.3549391
+},
+{
+  "type": "node",
+  "id": 616725929,
+  "lat": 48.0781152,
+  "lon": 7.3539590
+},
+{
+  "type": "node",
+  "id": 617760140,
+  "lat": 48.0754573,
+  "lon": 7.3547305
+},
+{
+  "type": "node",
+  "id": 617764428,
+  "lat": 48.0765011,
+  "lon": 7.3549459
+},
+{
+  "type": "node",
+  "id": 698704457,
+  "lat": 48.0803729,
+  "lon": 7.3545639
+},
+{
+  "type": "node",
+  "id": 847018388,
+  "lat": 48.0803778,
+  "lon": 7.3545867
+},
+{
+  "type": "node",
+  "id": 1392303001,
+  "lat": 48.0776098,
+  "lon": 7.3547783
+},
+{
+  "type": "node",
+  "id": 1392303010,
+  "lat": 48.0780895,
+  "lon": 7.3540194
+},
+{
+  "type": "node",
+  "id": 1509561280,
+  "lat": 48.0755701,
+  "lon": 7.3547600
+},
+{
+  "type": "node",
+  "id": 9214868929,
+  "lat": 48.0777931,
+  "lon": 7.3546560
+},
+{
+  "type": "node",
+  "id": 9214868930,
+  "lat": 48.0778388,
+  "lon": 7.3545916
+},
+{
+  "type": "node",
+  "id": 9214868931,
+  "lat": 48.0779212,
+  "lon": 7.3544173
+},
+{
+  "type": "node",
+  "id": 170622141,
+  "lat": 48.0785468,
+  "lon": 7.3652334
+},
+{
+  "type": "node",
+  "id": 183838613,
+  "lat": 48.0767141,
+  "lon": 7.3661178
+},
+{
+  "type": "node",
+  "id": 186961509,
+  "lat": 48.0788649,
+  "lon": 7.3651092
+},
+{
+  "type": "node",
+  "id": 186961516,
+  "lat": 48.0794965,
+  "lon": 7.3648923
+},
+{
+  "type": "node",
+  "id": 187011065,
+  "lat": 48.0802446,
+  "lon": 7.3646202
+},
+{
+  "type": "node",
+  "id": 218832201,
+  "lat": 48.0801899,
+  "lon": 7.3644832
+},
+{
+  "type": "node",
+  "id": 218832208,
+  "lat": 48.0793680,
+  "lon": 7.3647850
+},
+{
+  "type": "node",
+  "id": 218832211,
+  "lat": 48.0791441,
+  "lon": 7.3641208
+},
+{
+  "type": "node",
+  "id": 218832218,
+  "lat": 48.0787226,
+  "lon": 7.3650544
+},
+{
+  "type": "node",
+  "id": 218832223,
+  "lat": 48.0783067,
+  "lon": 7.3652210
+},
+{
+  "type": "node",
+  "id": 218832228,
+  "lat": 48.0766760,
+  "lon": 7.3660139
+},
+{
+  "type": "node",
+  "id": 219119125,
+  "lat": 48.0745092,
+  "lon": 7.3614962
+},
+{
+  "type": "node",
+  "id": 219119131,
+  "lat": 48.0746616,
+  "lon": 7.3617101
+},
+{
+  "type": "node",
+  "id": 219119135,
+  "lat": 48.0748361,
+  "lon": 7.3620894
+},
+{
+  "type": "node",
+  "id": 219119140,
+  "lat": 48.0752623,
+  "lon": 7.3630616
+},
+{
+  "type": "node",
+  "id": 219119144,
+  "lat": 48.0770521,
+  "lon": 7.3643929
+},
+{
+  "type": "node",
+  "id": 219119150,
+  "lat": 48.0771852,
+  "lon": 7.3644385
+},
+{
+  "type": "node",
+  "id": 219119157,
+  "lat": 48.0773593,
+  "lon": 7.3644647
+},
+{
+  "type": "node",
+  "id": 219119164,
+  "lat": 48.0789784,
+  "lon": 7.3642403
+},
+{
+  "type": "node",
+  "id": 219119169,
+  "lat": 48.0790882,
+  "lon": 7.3641709
+},
+{
+  "type": "node",
+  "id": 247095926,
+  "lat": 48.0780218,
+  "lon": 7.3643833
+},
+{
+  "type": "node",
+  "id": 247095928,
+  "lat": 48.0780696,
+  "lon": 7.3653358
+},
+{
+  "type": "node",
+  "id": 247109085,
+  "lat": 48.0781084,
+  "lon": 7.3654356
+},
+{
+  "type": "node",
+  "id": 247865955,
+  "lat": 48.0743238,
+  "lon": 7.3619278
+},
+{
+  "type": "node",
+  "id": 247897119,
+  "lat": 48.0756365,
+  "lon": 7.3633369
+},
+{
+  "type": "node",
+  "id": 247897122,
+  "lat": 48.0762585,
+  "lon": 7.3637936
+},
+{
+  "type": "node",
+  "id": 265593381,
+  "lat": 48.0753759,
+  "lon": 7.3631806
+},
+{
+  "type": "node",
+  "id": 265596039,
+  "lat": 48.0769290,
+  "lon": 7.3643137
+},
+{
+  "type": "node",
+  "id": 267635232,
+  "lat": 48.0785302,
+  "lon": 7.3651275
+},
+{
+  "type": "node",
+  "id": 574275712,
+  "lat": 48.0802316,
+  "lon": 7.3644692
+},
+{
+  "type": "node",
+  "id": 574431696,
+  "lat": 48.0769902,
+  "lon": 7.3643570
+},
+{
+  "type": "node",
+  "id": 574814097,
+  "lat": 48.0771276,
+  "lon": 7.3644236
+},
+{
+  "type": "node",
+  "id": 618751160,
+  "lat": 48.0743657,
+  "lon": 7.3613608
+},
+{
+  "type": "node",
+  "id": 619237296,
+  "lat": 48.0750381,
+  "lon": 7.3625681
+},
+{
+  "type": "node",
+  "id": 619729384,
+  "lat": 48.0793390,
+  "lon": 7.3649502
+},
+{
+  "type": "node",
+  "id": 619729388,
+  "lat": 48.0794332,
+  "lon": 7.3647595
+},
+{
+  "type": "node",
+  "id": 619737965,
+  "lat": 48.0802163,
+  "lon": 7.3647065
+},
+{
+  "type": "node",
+  "id": 619737967,
+  "lat": 48.0803544,
+  "lon": 7.3644262
+},
+{
+  "type": "node",
+  "id": 860365566,
+  "lat": 48.0802060,
+  "lon": 7.3646301
+},
+{
+  "type": "node",
+  "id": 860373550,
+  "lat": 48.0793571,
+  "lon": 7.3647888
+},
+{
+  "type": "node",
+  "id": 860373552,
+  "lat": 48.0793802,
+  "lon": 7.3649348
+},
+{
+  "type": "node",
+  "id": 902405788,
+  "lat": 48.0798215,
+  "lon": 7.3647713
+},
+{
+  "type": "node",
+  "id": 902405790,
+  "lat": 48.0801258,
+  "lon": 7.3646593
+},
+{
+  "type": "node",
+  "id": 983103092,
+  "lat": 48.0794021,
+  "lon": 7.3649269
+},
+{
+  "type": "node",
+  "id": 2874332309,
+  "lat": 48.0794445,
+  "lon": 7.3649114
+},
+{
+  "type": "node",
+  "id": 4193163886,
+  "lat": 48.0768031,
+  "lon": 7.3659674
+},
+{
+  "type": "node",
+  "id": 4193163887,
+  "lat": 48.0768429,
+  "lon": 7.3660619
+},
+{
+  "type": "node",
+  "id": 4848209077,
+  "lat": 48.0772562,
+  "lon": 7.3644529
+},
+{
+  "type": "node",
+  "id": 4848209087,
+  "lat": 48.0765271,
+  "lon": 7.3660782
+},
+{
+  "type": "node",
+  "id": 4848209088,
+  "lat": 48.0765424,
+  "lon": 7.3661828
+},
+{
+  "type": "node",
+  "id": 5984190365,
+  "lat": 48.0755000,
+  "lon": 7.3632432
+},
+{
+  "type": "node",
+  "id": 5984190367,
+  "lat": 48.0775073,
+  "lon": 7.3644564
+},
+{
+  "type": "node",
+  "id": 5984190370,
+  "lat": 48.0779166,
+  "lon": 7.3644005
+},
+{
+  "type": "node",
+  "id": 5984190371,
+  "lat": 48.0781256,
+  "lon": 7.3643657
+},
+{
+  "type": "node",
+  "id": 5991674378,
+  "lat": 48.0744543,
+  "lon": 7.3616240
+},
+{
+  "type": "node",
+  "id": 5991674379,
+  "lat": 48.0746037,
+  "lon": 7.3616288
+},
+{
+  "type": "node",
+  "id": 5991674380,
+  "lat": 48.0744178,
+  "lon": 7.3614100
+},
+{
+  "type": "node",
+  "id": 6018913819,
+  "lat": 48.0800918,
+  "lon": 7.3646718
+},
+{
+  "type": "node",
+  "id": 6018913820,
+  "lat": 48.0800878,
+  "lon": 7.3645217
+},
+{
+  "type": "node",
+  "id": 6018917721,
+  "lat": 48.0803216,
+  "lon": 7.3645840
+},
+{
+  "type": "node",
+  "id": 6018917722,
+  "lat": 48.0803044,
+  "lon": 7.3644448
+},
+{
+  "type": "node",
+  "id": 6018918186,
+  "lat": 48.0800603,
+  "lon": 7.3646834
+},
+{
+  "type": "node",
+  "id": 6654582197,
+  "lat": 48.0754354,
+  "lon": 7.3632106
+},
+{
+  "type": "node",
+  "id": 7158933146,
+  "lat": 48.0755974,
+  "lon": 7.3633088
+},
+{
+  "type": "node",
+  "id": 9161443510,
+  "lat": 48.0780737,
+  "lon": 7.3643745
+},
+{
+  "type": "node",
+  "id": 9202413332,
+  "lat": 48.0744818,
+  "lon": 7.3615601
+},
+{
+  "type": "node",
+  "id": 9202419069,
+  "lat": 48.0743433,
+  "lon": 7.3618824
+},
+{
+  "type": "node",
+  "id": 9202424478,
+  "lat": 48.0744603,
+  "lon": 7.3614501
+},
+{
+  "type": "node",
+  "id": 9445170004,
+  "lat": 48.0768365,
+  "lon": 7.3659508
+},
+{
+  "type": "node",
+  "id": 9445170007,
+  "lat": 48.0771239,
+  "lon": 7.3658074
+},
+{
+  "type": "node",
+  "id": 9445170008,
+  "lat": 48.0767396,
+  "lon": 7.3659907
+},
+{
+  "type": "node",
+  "id": 9459317685,
+  "lat": 48.0765629,
+  "lon": 7.3661734
+},
+{
+  "type": "node",
+  "id": 254690077,
+  "lat": 48.0812623,
+  "lon": 7.3460436
+},
+{
+  "type": "node",
+  "id": 254690090,
+  "lat": 48.0833250,
+  "lon": 7.3405825
+},
+{
+  "type": "node",
+  "id": 257055617,
+  "lat": 48.0820637,
+  "lon": 7.3439482
+},
+{
+  "type": "node",
+  "id": 257061775,
+  "lat": 48.0814806,
+  "lon": 7.3454641
+},
+{
+  "type": "node",
+  "id": 259437041,
+  "lat": 48.0868704,
+  "lon": 7.3435962
+},
+{
+  "type": "node",
+  "id": 259438128,
+  "lat": 48.0869108,
+  "lon": 7.3438117
+},
+{
+  "type": "node",
+  "id": 259438153,
+  "lat": 48.0863466,
+  "lon": 7.3441605
+},
+{
+  "type": "node",
+  "id": 259438176,
+  "lat": 48.0864360,
+  "lon": 7.3442897
+},
+{
+  "type": "node",
+  "id": 661137397,
+  "lat": 48.0827933,
+  "lon": 7.3420486
+},
+{
+  "type": "node",
+  "id": 1440802386,
+  "lat": 48.0832994,
+  "lon": 7.3407408
+},
+{
+  "type": "node",
+  "id": 1492450414,
+  "lat": 48.0821924,
+  "lon": 7.3436191
+},
+{
+  "type": "node",
+  "id": 2136241298,
+  "lat": 48.0815353,
+  "lon": 7.3453219
+},
+{
+  "type": "node",
+  "id": 2136241300,
+  "lat": 48.0821140,
+  "lon": 7.3438241
+},
+{
+  "type": "node",
+  "id": 2136241302,
+  "lat": 48.0832267,
+  "lon": 7.3409398
+},
+{
+  "type": "node",
+  "id": 2332977256,
+  "lat": 48.0819553,
+  "lon": 7.3442301
+},
+{
+  "type": "node",
+  "id": 2332977268,
+  "lat": 48.0811419,
+  "lon": 7.3463662
+},
+{
+  "type": "node",
+  "id": 2411764943,
+  "lat": 48.0867859,
+  "lon": 7.3436872
+},
+{
+  "type": "node",
+  "id": 2411764947,
+  "lat": 48.0868451,
+  "lon": 7.3438778
+},
+{
+  "type": "node",
+  "id": 5984190419,
+  "lat": 48.0819197,
+  "lon": 7.3443225
+},
+{
+  "type": "node",
+  "id": 5984190421,
+  "lat": 48.0821322,
+  "lon": 7.3437766
+},
+{
+  "type": "node",
+  "id": 5984190422,
+  "lat": 48.0820153,
+  "lon": 7.3440740
+},
+{
+  "type": "node",
+  "id": 5984190424,
+  "lat": 48.0822666,
+  "lon": 7.3434253
+},
+{
+  "type": "node",
+  "id": 251171768,
+  "lat": 48.0837929,
+  "lon": 7.3474455
+},
+{
+  "type": "node",
+  "id": 254656599,
+  "lat": 48.0809627,
+  "lon": 7.3467532
+},
+{
+  "type": "node",
+  "id": 259438172,
+  "lat": 48.0846181,
+  "lon": 7.3476317
+},
+{
+  "type": "node",
+  "id": 611034414,
+  "lat": 48.0838896,
+  "lon": 7.3474673
+},
+{
+  "type": "node",
+  "id": 1440802377,
+  "lat": 48.0810082,
+  "lon": 7.3466528
+},
+{
+  "type": "node",
+  "id": 2411764841,
+  "lat": 48.0839102,
+  "lon": 7.3474710
+},
+{
+  "type": "node",
+  "id": 2411764846,
+  "lat": 48.0843082,
+  "lon": 7.3475596
+},
+{
+  "type": "node",
+  "id": 2411764855,
+  "lat": 48.0845647,
+  "lon": 7.3476196
+},
+{
+  "type": "node",
+  "id": 2411764856,
+  "lat": 48.0845536,
+  "lon": 7.3476171
+},
+{
+  "type": "node",
+  "id": 8955198644,
+  "lat": 48.0839331,
+  "lon": 7.3474761
+},
+{
+  "type": "node",
+  "id": 219081829,
+  "lat": 48.0809472,
+  "lon": 7.3552310
+},
+{
+  "type": "node",
+  "id": 269152295,
+  "lat": 48.0807817,
+  "lon": 7.3540685
+},
+{
+  "type": "node",
+  "id": 615192628,
+  "lat": 48.0805220,
+  "lon": 7.3543715
+},
+{
+  "type": "node",
+  "id": 778909348,
+  "lat": 48.0807504,
+  "lon": 7.3541725
+},
+{
+  "type": "node",
+  "id": 3757084549,
+  "lat": 48.0808398,
+  "lon": 7.3542752
+},
+{
+  "type": "node",
+  "id": 5934136497,
+  "lat": 48.0806969,
+  "lon": 7.3541550
+},
+{
+  "type": "node",
+  "id": 5934136498,
+  "lat": 48.0808022,
+  "lon": 7.3541446
+},
+{
+  "type": "node",
+  "id": 9202466880,
+  "lat": 48.0807217,
+  "lon": 7.3542044
+},
+{
+  "type": "node",
+  "id": 9211324458,
+  "lat": 48.0808879,
+  "lon": 7.3547754
+},
+{
+  "type": "node",
+  "id": 238442902,
+  "lat": 48.0810592,
+  "lon": 7.3642134
+},
+{
+  "type": "node",
+  "id": 243460484,
+  "lat": 48.0847652,
+  "lon": 7.3619403
+},
+{
+  "type": "node",
+  "id": 243464222,
+  "lat": 48.0858972,
+  "lon": 7.3612770
+},
+{
+  "type": "node",
+  "id": 243464223,
+  "lat": 48.0858682,
+  "lon": 7.3611764
+},
+{
+  "type": "node",
+  "id": 247071916,
+  "lat": 48.0869212,
+  "lon": 7.3605357
+},
+{
+  "type": "node",
+  "id": 247072552,
+  "lat": 48.0820072,
+  "lon": 7.3605372
+},
+{
+  "type": "node",
+  "id": 247072612,
+  "lat": 48.0813177,
+  "lon": 7.3638744
+},
+{
+  "type": "node",
+  "id": 247086514,
+  "lat": 48.0817447,
+  "lon": 7.3616574
+},
+{
+  "type": "node",
+  "id": 247088860,
+  "lat": 48.0810587,
+  "lon": 7.3640415
+},
+{
+  "type": "node",
+  "id": 617182231,
+  "lat": 48.0812475,
+  "lon": 7.3639256
+},
+{
+  "type": "node",
+  "id": 619734124,
+  "lat": 48.0809528,
+  "lon": 7.3642870
+},
+{
+  "type": "node",
+  "id": 635824791,
+  "lat": 48.0818580,
+  "lon": 7.3612460
+},
+{
+  "type": "node",
+  "id": 2874018693,
+  "lat": 48.0849502,
+  "lon": 7.3618283
+},
+{
+  "type": "node",
+  "id": 2874018695,
+  "lat": 48.0849269,
+  "lon": 7.3616971
+},
+{
+  "type": "node",
+  "id": 4848209108,
+  "lat": 48.0807675,
+  "lon": 7.3642342
+},
+{
+  "type": "node",
+  "id": 6654610929,
+  "lat": 48.0819952,
+  "lon": 7.3606136
+},
+{
+  "type": "node",
+  "id": 9202720059,
+  "lat": 48.0861349,
+  "lon": 7.3611382
+},
+{
+  "type": "node",
+  "id": 9202742950,
+  "lat": 48.0809887,
+  "lon": 7.3640907
+},
+{
+  "type": "node",
+  "id": 9202750873,
+  "lat": 48.0861112,
+  "lon": 7.3610282
+},
+{
+  "type": "node",
+  "id": 9202780151,
+  "lat": 48.0849068,
+  "lon": 7.3617084
+},
+{
+  "type": "node",
+  "id": 9340100876,
+  "lat": 48.0810162,
+  "lon": 7.3640714
+},
+{
+  "type": "node",
+  "id": 9340100878,
+  "lat": 48.0846779,
+  "lon": 7.3618405
+},
+{
+  "type": "node",
+  "id": 96696806,
+  "lat": 48.0885402,
+  "lon": 7.3596887
+},
+{
+  "type": "node",
+  "id": 59663642,
+  "lat": 48.0877990,
+  "lon": 7.3600086
+},
+{
+  "type": "node",
+  "id": 218727564,
+  "lat": 48.0885382,
+  "lon": 7.3598391
+},
+{
+  "type": "node",
+  "id": 218832305,
+  "lat": 48.0882016,
+  "lon": 7.3599078
+},
+{
+  "type": "node",
+  "id": 218832310,
+  "lat": 48.0878209,
+  "lon": 7.3601493
+},
+{
+  "type": "node",
+  "id": 635061621,
+  "lat": 48.0882545,
+  "lon": 7.3597718
+},
+{
+  "type": "node",
+  "id": 635129895,
+  "lat": 48.0874243,
+  "lon": 7.3603853
+},
+{
+  "type": "node",
+  "id": 635129899,
+  "lat": 48.0879113,
+  "lon": 7.3600961
+},
+{
+  "type": "node",
+  "id": 6328529476,
+  "lat": 48.0883839,
+  "lon": 7.3598514
+},
+{
+  "type": "node",
+  "id": 6328529477,
+  "lat": 48.0883670,
+  "lon": 7.3597388
+},
+{
+  "type": "node",
+  "id": 9202757741,
+  "lat": 48.0870971,
+  "lon": 7.3605763
+},
+{
+  "type": "node",
+  "id": 9202771073,
+  "lat": 48.0870588,
+  "lon": 7.3604516
+},
+{
+  "type": "node",
+  "id": 170622150,
+  "lat": 48.0736029,
+  "lon": 7.3663143
+},
+{
+  "type": "node",
+  "id": 170622142,
+  "lat": 48.0750351,
+  "lon": 7.3668386
+},
+{
+  "type": "node",
+  "id": 170622146,
+  "lat": 48.0745079,
+  "lon": 7.3668047
+},
+{
+  "type": "node",
+  "id": 183831322,
+  "lat": 48.0753641,
+  "lon": 7.3667658
+},
+{
+  "type": "node",
+  "id": 218832234,
+  "lat": 48.0753399,
+  "lon": 7.3666756
+},
+{
+  "type": "node",
+  "id": 218832240,
+  "lat": 48.0750212,
+  "lon": 7.3667493
+},
+{
+  "type": "node",
+  "id": 218832246,
+  "lat": 48.0745415,
+  "lon": 7.3667141
+},
+{
+  "type": "node",
+  "id": 265598679,
+  "lat": 48.0759125,
+  "lon": 7.3663978
+},
+{
+  "type": "node",
+  "id": 621125913,
+  "lat": 48.0744310,
+  "lon": 7.3667630
+},
+{
+  "type": "node",
+  "id": 621125914,
+  "lat": 48.0745772,
+  "lon": 7.3668157
+},
+{
+  "type": "node",
+  "id": 4848209089,
+  "lat": 48.0748811,
+  "lon": 7.3667431
+},
+{
+  "type": "node",
+  "id": 4848209090,
+  "lat": 48.0748797,
+  "lon": 7.3668423
+},
+{
+  "type": "node",
+  "id": 4848209091,
+  "lat": 48.0751647,
+  "lon": 7.3668215
+},
+{
+  "type": "node",
+  "id": 4848209092,
+  "lat": 48.0751633,
+  "lon": 7.3667216
+},
+{
+  "type": "node",
+  "id": 6654577029,
+  "lat": 48.0751354,
+  "lon": 7.3667270
+},
+{
+  "type": "node",
+  "id": 6654577030,
+  "lat": 48.0751427,
+  "lon": 7.3668244
+},
+{
+  "type": "node",
+  "id": 9445170000,
+  "lat": 48.0748442,
+  "lon": 7.3668392
+},
+{
+  "type": "node",
+  "id": 183153565,
+  "lat": 48.0804989,
+  "lon": 7.3824015
+},
+{
+  "type": "node",
+  "id": 183158092,
+  "lat": 48.0804197,
+  "lon": 7.3817459
+},
+{
+  "type": "node",
+  "id": 183158097,
+  "lat": 48.0803126,
+  "lon": 7.3818106
+},
+{
+  "type": "node",
+  "id": 183158101,
+  "lat": 48.0802826,
+  "lon": 7.3818959
+},
+{
+  "type": "node",
+  "id": 183158104,
+  "lat": 48.0802825,
+  "lon": 7.3819874
+},
+{
+  "type": "node",
+  "id": 183158115,
+  "lat": 48.0803725,
+  "lon": 7.3821301
+},
+{
+  "type": "node",
+  "id": 638575306,
+  "lat": 48.0804818,
+  "lon": 7.3817771
+},
+{
+  "type": "node",
+  "id": 638575307,
+  "lat": 48.0803101,
+  "lon": 7.3820691
+},
+{
+  "type": "node",
+  "id": 638575308,
+  "lat": 48.0803611,
+  "lon": 7.3817596
+},
+{
+  "type": "node",
+  "id": 638575311,
+  "lat": 48.0804495,
+  "lon": 7.3821294
+},
+{
+  "type": "node",
+  "id": 2874012426,
+  "lat": 48.0804482,
+  "lon": 7.3822932
+},
+{
+  "type": "node",
+  "id": 9447526384,
+  "lat": 48.0802908,
+  "lon": 7.3818726
+},
+{
+  "type": "node",
+  "id": 183153573,
+  "lat": 48.0805131,
+  "lon": 7.3820641
+},
+{
+  "type": "node",
+  "id": 183158080,
+  "lat": 48.0805312,
+  "lon": 7.3820182
+},
+{
+  "type": "node",
+  "id": 183158086,
+  "lat": 48.0805261,
+  "lon": 7.3818493
+},
+{
+  "type": "node",
+  "id": 638575309,
+  "lat": 48.0805414,
+  "lon": 7.3819329
+},
+{
+  "type": "node",
+  "id": 6017837624,
+  "lat": 48.0805052,
+  "lon": 7.3822713
+},
+{
+  "type": "node",
+  "id": 7183974690,
+  "lat": 48.0805080,
+  "lon": 7.3821473
+}
+
+  ]
+}

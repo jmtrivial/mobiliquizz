@@ -1,0 +1,3749 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 788058082,
+  "lat": 48.6312720,
+  "lon": 2.4415029,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aguado",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3721;6965",
+    "route_ref": "403;404;7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes;no"
+  }
+},
+{
+  "type": "node",
+  "id": 1016157543,
+  "lat": 48.6227641,
+  "lon": 2.4287868,
+  "tags": {
+    "addr:city": "Évry",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie",
+    "network": "Tice",
+    "operator": "Tice",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1025632571,
+  "lat": 48.6379725,
+  "lon": 2.4239339,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée du Parc des Loges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8500",
+    "ref:FR:STIF:stop_id": "StopPoint:10:302",
+    "route_ref": "405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1028655947,
+  "lat": 48.6368323,
+  "lon": 2.4287429,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Genevoix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3886",
+    "ref:FR:STIF:stop_id": "StopPoint:10:331",
+    "route_ref": "408;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1028731414,
+  "lat": 48.6377421,
+  "lon": 2.4266775,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3768",
+    "ref:FR:STIF:stop_id": "StopPoint:10:100",
+    "route_ref": "408;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1028734250,
+  "lat": 48.6108275,
+  "lon": 2.4020080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Vergers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462437,
+  "lat": 48.6403280,
+  "lon": 2.4346484,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ratisbonne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3953;17571",
+    "ref:FR:STIF:stop_id": "StopPoint:10:429;StopPoint:66:14797",
+    "route_ref": "408;407;7002",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462444,
+  "lat": 48.6208414,
+  "lon": 2.4272979,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Estudines",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3799",
+    "route_ref": "415;404;405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462445,
+  "lat": 48.6354870,
+  "lon": 2.4295530,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Vallès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8496",
+    "ref:FR:STIF:stop_id": "StopPoint:10:273",
+    "route_ref": "408"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462457,
+  "lat": 48.6391659,
+  "lon": 2.4330202,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nouveaux Champs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8506",
+    "ref:FR:STIF:stop_id": "StopPoint:10:351",
+    "route_ref": "403;404;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462471,
+  "lat": 48.6432445,
+  "lon": 2.4315805,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champs Élysées - Grand Bourg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3814",
+    "ref:FR:STIF:stop_id": "StopPoint:10:191",
+    "route_ref": "408;407",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1297462484,
+  "lat": 48.6355386,
+  "lon": 2.4297041,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Vallès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3857",
+    "ref:FR:STIF:stop_id": "StopPoint:10:271",
+    "route_ref": "408"
+  }
+},
+{
+  "type": "node",
+  "id": 1317496651,
+  "lat": 48.6296354,
+  "lon": 2.4228373,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Renoir",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 1347352670,
+  "lat": 48.6141602,
+  "lon": 2.4337452,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aunettes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3728",
+    "ref:FR:STIF:stop_id": "StopPoint:10:26",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1347352685,
+  "lat": 48.6437107,
+  "lon": 2.4310271,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Champs Élysées - Grand Bourg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3813",
+    "ref:FR:STIF:stop_id": "StopPoint:10:190",
+    "route_ref": "408;407",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1347754017,
+  "lat": 48.6371802,
+  "lon": 2.4285546,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Genevoix",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3887",
+    "ref:FR:STIF:stop_id": "StopPoint:10:332",
+    "route_ref": "408;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1731635989,
+  "lat": 48.6305871,
+  "lon": 2.4482063,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3975;2511",
+    "ref:FR:STIF:stop_id": "StopPoint:10:474",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1733980726,
+  "lat": 48.6300104,
+  "lon": 2.4478251,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3976;2512",
+    "ref:FR:STIF:stop_id": "StopPoint:10:475",
+    "route_ref": "403;91-01",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1733980727,
+  "lat": 48.6331224,
+  "lon": 2.4418274,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée Clemenceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3717",
+    "ref:FR:STIF:stop_id": "StopPoint:10:7",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1734058074,
+  "lat": 48.6200639,
+  "lon": 2.4218731,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Avenue du Lac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3723",
+    "route_ref": "401;414",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1740730185,
+  "lat": 48.6198692,
+  "lon": 2.4222398,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Lac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3724",
+    "route_ref": "414",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1805532983,
+  "lat": 48.6264288,
+  "lon": 2.4394397,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Institut de Biologie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22426",
+    "ref:FR:STIF:stop_id": "StopPoint:56:11843",
+    "route_ref": "91-01;91-04;91-05;91-09",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1810647119,
+  "lat": 48.6236533,
+  "lon": 2.4514990,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare du Bras de Fer - Évry Génopole",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3818",
+    "route_ref": "401;404;408",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1810647129,
+  "lat": 48.6219895,
+  "lon": 2.4564878,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Corbeil-Essonnes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point de l'Hôpital",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22436;40574",
+    "route_ref": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 1810647131,
+  "lat": 48.6277254,
+  "lon": 2.4466238,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8521",
+    "route_ref": "404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1810647132,
+  "lat": 48.6282094,
+  "lon": 2.4464937,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3977",
+    "route_ref": "404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1949765136,
+  "lat": 48.6220404,
+  "lon": 2.4495112,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "note": "Marquage au sol mais aucune signalisation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1949804794,
+  "lat": 48.6182863,
+  "lon": 2.4419318,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Jean Malézieux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8510",
+    "ref:FR:STIF:stop_id": "StopPoint:10:394",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1949804807,
+  "lat": 48.6182784,
+  "lon": 2.4422898,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Jean Malézieux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3930",
+    "ref:FR:STIF:stop_id": "StopPoint:10:393",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2095304811,
+  "lat": 48.6246608,
+  "lon": 2.4392964,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name:signed": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2095334832,
+  "lat": 48.6294944,
+  "lon": 2.4308331,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Arènes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420833",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1338",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2095993183,
+  "lat": 48.6376635,
+  "lon": 2.4265073,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3767",
+    "ref:FR:STIF:stop_id": "StopPoint:10:99",
+    "route_ref": "408;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2095993184,
+  "lat": 48.6378415,
+  "lon": 2.4240295,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée du Parc des Loges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3870",
+    "ref:FR:STIF:stop_id": "StopPoint:10:301",
+    "route_ref": "405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2095993190,
+  "lat": 48.6329012,
+  "lon": 2.4244040,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Loges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3932",
+    "ref:FR:STIF:stop_id": "StopPoint:10:396",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2095993192,
+  "lat": 48.6329966,
+  "lon": 2.4242033,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Loges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3931",
+    "ref:FR:STIF:stop_id": "StopPoint:10:395",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2129037179,
+  "lat": 48.6259242,
+  "lon": 2.4494583,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3909",
+    "route_ref": "404",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129037187,
+  "lat": 48.6261621,
+  "lon": 2.4496249,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3910",
+    "route_ref": "404",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129037192,
+  "lat": 48.6303009,
+  "lon": 2.4364209,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3949",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329430,
+  "lat": 48.6278840,
+  "lon": 2.4285104,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Agora",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19803;19815;6963;19806",
+    "route_ref": "401;402;403;404;405;407;7002",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329431,
+  "lat": 48.6279018,
+  "lon": 2.4282249,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Agora",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19809;19800;19817;6962",
+    "route_ref": "401;402;403;404;405;407;7002",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329433,
+  "lat": 48.6315361,
+  "lon": 2.4288866,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Miroirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19799;19811;6966",
+    "route_ref": "401;403;404;405;407;7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329435,
+  "lat": 48.6318443,
+  "lon": 2.4289851,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Miroirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19816;6967;19804",
+    "route_ref": "401;403;404;405;407;7002",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329451,
+  "lat": 48.6231182,
+  "lon": 2.4277316,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monseigneur Roméro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3897",
+    "route_ref": "401;402;403;404;405;407;414;414D;415;416;453",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2129329452,
+  "lat": 48.6233310,
+  "lon": 2.4279304,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monseigneur Roméro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3896",
+    "route_ref": "401;402;403;404;405;407;414;414D;415;416;453",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2211394111,
+  "lat": 48.6268145,
+  "lon": 2.4203335,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2229429645,
+  "lat": 48.6215254,
+  "lon": 2.4401837,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Commune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3921",
+    "ref:FR:STIF:stop_id": "StopPoint:10:382",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2229429698,
+  "lat": 48.6218369,
+  "lon": 2.4401598,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de la Commune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3920",
+    "ref:FR:STIF:stop_id": "StopPoint:10:381",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2279291872,
+  "lat": 48.6325805,
+  "lon": 2.4321658,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rosenberg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3964",
+    "ref:FR:STIF:stop_id": "StopPoint:10:459",
+    "route_ref": "408",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2283116762,
+  "lat": 48.6239204,
+  "lon": 2.4502615,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bras de Fer Gare RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "33360",
+    "route_ref": "50",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2283127822,
+  "lat": 48.6286590,
+  "lon": 2.4532877,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bonhomme en Pierre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3742",
+    "ref:FR:STIF:stop_id": "StopPoint:10:46",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2283127823,
+  "lat": 48.6284874,
+  "lon": 2.4529651,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bonhomme en Pierre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3743",
+    "ref:FR:STIF:stop_id": "StopPoint:10:47",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2283133182,
+  "lat": 48.6341792,
+  "lon": 2.4528638,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Gare Val de Seine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39866;39868",
+    "ref:FR:STIF:stop_id": "StopPoint:66:14807;StopPoint:66:14809",
+    "route_ref": "7002",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2284015171,
+  "lat": 48.6344604,
+  "lon": 2.4252184,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Pyramides",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41400",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8797794",
+    "route_ref": "N135",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2284015197,
+  "lat": 48.6355614,
+  "lon": 2.4256402,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Pyramides",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41400",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8797794R",
+    "route_ref": "N135;N144",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2286603901,
+  "lat": 48.6331652,
+  "lon": 2.4430675,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nowy Targ",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3901",
+    "ref:FR:STIF:stop_id": "StopPoint:10:356",
+    "route_ref": "408",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2286604231,
+  "lat": 48.6342902,
+  "lon": 2.4383136,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petits Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3918",
+    "ref:FR:STIF:stop_id": "StopPoint:10:379",
+    "route_ref": "408",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2286699940,
+  "lat": 48.6294360,
+  "lon": 2.4362438,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2771",
+    "ref:FR:STIF:stop_id": "StopPoint:56:9446",
+    "route_ref": "91-01;91-04;91-05;91-09",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2287709672,
+  "lat": 48.6186247,
+  "lon": 2.4468947,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Temps des Cerises - Snecma",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3990",
+    "ref:FR:STIF:stop_id": "StopPoint:10:495",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2287709675,
+  "lat": 48.6187857,
+  "lon": 2.4469693,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Temps des Cerises - Snecma",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3989",
+    "ref:FR:STIF:stop_id": "StopPoint:10:494",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2356926187,
+  "lat": 48.6376447,
+  "lon": 2.4353468,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2505418020,
+  "lat": 48.6235803,
+  "lon": 2.4503459,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ÉVRY Le Bras de Fer RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21686",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2505418021,
+  "lat": 48.6235458,
+  "lon": 2.4520896,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare du Bras de Fer - Évry Génopole",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3817",
+    "route_ref": "401;404;408",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2505613668,
+  "lat": 48.6307682,
+  "lon": 2.4500192,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Patton-Mousseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8509",
+    "ref:FR:STIF:stop_id": "StopPoint:10:365",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2505613669,
+  "lat": 48.6309814,
+  "lon": 2.4499292,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Patton-Mousseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3906",
+    "ref:FR:STIF:stop_id": "StopPoint:10:364",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2508703872,
+  "lat": 48.6355753,
+  "lon": 2.4471689,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie Annexe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12945",
+    "ref:FR:STIF:stop_id": "StopPoint:10:315",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2508703876,
+  "lat": 48.6356826,
+  "lon": 2.4472044,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie Annexe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3875",
+    "ref:FR:STIF:stop_id": "StopPoint:10:314",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2524234263,
+  "lat": 48.6355692,
+  "lon": 2.4388478,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champtier du Coq",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8477",
+    "ref:FR:STIF:stop_id": "StopPoint:10:71",
+    "route_ref": "408",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532546058,
+  "lat": 48.6385583,
+  "lon": 2.4375659,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3908",
+    "ref:FR:STIF:stop_id": "StopPoint:10:367",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532546059,
+  "lat": 48.6386834,
+  "lon": 2.4376637,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3907",
+    "ref:FR:STIF:stop_id": "StopPoint:10:366",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532546060,
+  "lat": 48.6366544,
+  "lon": 2.4391373,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue d'Antin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8515",
+    "ref:FR:STIF:stop_id": "StopPoint:10:427",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532546061,
+  "lat": 48.6368614,
+  "lon": 2.4391582,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue d'Antin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3951",
+    "ref:FR:STIF:stop_id": "StopPoint:10:426",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532578688,
+  "lat": 48.6188695,
+  "lon": 2.4117412,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Paul Fort",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3776",
+    "ref:FR:STIF:stop_id": "StopPoint:10:112",
+    "route_ref": "453;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532578689,
+  "lat": 48.6172476,
+  "lon": 2.4139883,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Lac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462582",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1429",
+    "route_ref": "453;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2532594046,
+  "lat": 48.6234862,
+  "lon": 2.4036559,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Garenne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3810",
+    "route_ref": "413;404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532613137,
+  "lat": 48.6273553,
+  "lon": 2.4084368,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "418858",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1316",
+    "route_ref": "413;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532613139,
+  "lat": 48.6310290,
+  "lon": 2.4128250,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Orme à Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8507",
+    "ref:FR:STIF:stop_id": "StopPoint:10:360",
+    "route_ref": "413;404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653825,
+  "lat": 48.6187216,
+  "lon": 2.4117246,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Paul Fort",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3775",
+    "ref:FR:STIF:stop_id": "StopPoint:10:111",
+    "route_ref": "453;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653846,
+  "lat": 48.6274129,
+  "lon": 2.4082450,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3851",
+    "ref:FR:STIF:stop_id": "StopPoint:10:257",
+    "route_ref": "413;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653865,
+  "lat": 48.6235285,
+  "lon": 2.4035038,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Garenne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8487",
+    "route_ref": "413;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653888,
+  "lat": 48.6167389,
+  "lon": 2.4140917,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Lac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462583",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1428",
+    "route_ref": "453;404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653924,
+  "lat": 48.6309213,
+  "lon": 2.4127230,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Orme à Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3904",
+    "ref:FR:STIF:stop_id": "StopPoint:10:359",
+    "route_ref": "413;404",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532653943,
+  "lat": 48.6200986,
+  "lon": 2.4062291,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thorigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3992",
+    "ref:FR:STIF:stop_id": "StopPoint:10:497",
+    "route_ref": "414;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532668267,
+  "lat": 48.6327140,
+  "lon": 2.4123975,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Marchais Guesdon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422528",
+    "ref:FR:STIF:stop_id": "StopPoint:10:333",
+    "route_ref": "413;404;402",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532955483,
+  "lat": 48.6337058,
+  "lon": 2.4529494,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Val de Seine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21529",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1211",
+    "route_ref": "403",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532955484,
+  "lat": 48.6340589,
+  "lon": 2.4507379,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Val de Seine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21534",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1216",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2532955488,
+  "lat": 48.6342745,
+  "lon": 2.4512295,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Val de Seine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21536",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1218",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2630227086,
+  "lat": 48.6264434,
+  "lon": 2.4397646,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Institut de Biologie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22427",
+    "ref:FR:STIF:stop_id": "StopPoint:56:11844",
+    "route_ref": "91-01;91-04;91-05;91-09",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712113,
+  "lat": 48.6240546,
+  "lon": 2.4374423,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lisière des Deux Parcs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8498",
+    "ref:FR:STIF:stop_id": "StopPoint:10:282",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712114,
+  "lat": 48.6243356,
+  "lon": 2.4373176,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lisière des Deux Parcs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3859",
+    "ref:FR:STIF:stop_id": "StopPoint:10:281",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712115,
+  "lat": 48.6239961,
+  "lon": 2.4321249,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Rostand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3855",
+    "ref:FR:STIF:stop_id": "StopPoint:10:267",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712116,
+  "lat": 48.6239677,
+  "lon": 2.4323877,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Rostand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3856",
+    "ref:FR:STIF:stop_id": "StopPoint:10:268",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712117,
+  "lat": 48.6318420,
+  "lon": 2.4286507,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Miroirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8505",
+    "ref:FR:STIF:stop_id": "StopPoint:10:342",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712118,
+  "lat": 48.6317515,
+  "lon": 2.4287389,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Miroirs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3891",
+    "ref:FR:STIF:stop_id": "StopPoint:10:341",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712119,
+  "lat": 48.6296445,
+  "lon": 2.4226066,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Renoir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8495",
+    "ref:FR:STIF:stop_id": "StopPoint:10:265",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712120,
+  "lat": 48.6296842,
+  "lon": 2.4228299,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Renoir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3854",
+    "ref:FR:STIF:stop_id": "StopPoint:10:266",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712121,
+  "lat": 48.6276945,
+  "lon": 2.4187468,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Georges Brassens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3862",
+    "ref:FR:STIF:stop_id": "StopPoint:10:288",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3241712122,
+  "lat": 48.6276504,
+  "lon": 2.4189500,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Georges Brassens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8499",
+    "ref:FR:STIF:stop_id": "StopPoint:10:289",
+    "route_ref": "402",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3382933985,
+  "lat": 48.6303656,
+  "lon": 2.4365271,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8511",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4148782545,
+  "lat": 48.6387501,
+  "lon": 2.4262199,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Guillaume",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23550",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1237",
+    "route_ref": "407",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4148785644,
+  "lat": 48.6388989,
+  "lon": 2.4261670,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Guillaume",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23549",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1234",
+    "route_ref": "407",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4319986868,
+  "lat": 48.6138308,
+  "lon": 2.4061834,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Vanne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4751533335,
+  "lat": 48.6432056,
+  "lon": 2.4219953,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Mennecy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23035",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1235",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4854005138,
+  "lat": 48.6331800,
+  "lon": 2.4429653,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nowy Targ",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3900",
+    "ref:FR:STIF:stop_id": "StopPoint:10:355",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5074220093,
+  "lat": 48.6320311,
+  "lon": 2.4337808,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Galants Courts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3863",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5074220094,
+  "lat": 48.6321601,
+  "lon": 2.4337419,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Galants Courts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18198",
+    "route_ref": "401",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5302265595,
+  "lat": 48.6248524,
+  "lon": 2.4314510,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sabatier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420823",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1332",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5302293238,
+  "lat": 48.6291414,
+  "lon": 2.4362173,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2770",
+    "ref:FR:STIF:stop_id": "StopPoint:56:9445",
+    "route_ref": "91-01;91-04;91-05;91-09",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5302293943,
+  "lat": 48.6257724,
+  "lon": 2.4284756,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry-Courcouronnes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12979",
+    "ref:FR:STIF:stop_id": "StopPoint:56:9449",
+    "route_ref": "91.05",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5302293944,
+  "lat": 48.6259549,
+  "lon": 2.4281103,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry-Courcouronnes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12980",
+    "ref:FR:STIF:stop_id": "StopPoint:56:9450",
+    "route_ref": "91.05;91.04",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5335782080,
+  "lat": 48.6296965,
+  "lon": 2.4226255,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Renoir",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 5491746733,
+  "lat": 48.6260533,
+  "lon": 2.4285324,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Evry-Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19802;19805",
+    "route_ref": "414;402;401",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5491746734,
+  "lat": 48.6256879,
+  "lon": 2.4280594,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry - Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21194",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1157",
+    "route_ref": "414;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5531234663,
+  "lat": 48.6234524,
+  "lon": 2.4507361,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Bras de Fer RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8488",
+    "ref:FR:STIF:stop_id": "StopPoint:10:197",
+    "route_ref": "402",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820063,
+  "lat": 48.6212133,
+  "lon": 2.4275197,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Estudines",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462581",
+    "route_ref": "415;416;404;405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820064,
+  "lat": 48.6178762,
+  "lon": 2.4307025,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean-Marie Djibaou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3788",
+    "ref:FR:STIF:stop_id": "StopPoint:10:132",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820065,
+  "lat": 48.6158730,
+  "lon": 2.4271522,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaspéri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3811",
+    "ref:FR:STIF:stop_id": "StopPoint:10:188",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820066,
+  "lat": 48.6148543,
+  "lon": 2.4256609,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petite Montagne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3941",
+    "ref:FR:STIF:stop_id": "StopPoint:10:405",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820090,
+  "lat": 48.6146829,
+  "lon": 2.4250055,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petite Montagne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3942",
+    "ref:FR:STIF:stop_id": "StopPoint:10:406",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820091,
+  "lat": 48.6159349,
+  "lon": 2.4270422,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gaspéri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3812",
+    "ref:FR:STIF:stop_id": "StopPoint:10:189",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820092,
+  "lat": 48.6179445,
+  "lon": 2.4306133,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean-Marie Djibaou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8480",
+    "ref:FR:STIF:stop_id": "StopPoint:10:133",
+    "route_ref": "415;404;405",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5604820095,
+  "lat": 48.6260530,
+  "lon": 2.4281287,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Evry-Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19801",
+    "route_ref": "415"
+  }
+},
+{
+  "type": "node",
+  "id": 5604978772,
+  "lat": 48.6308350,
+  "lon": 2.4060260,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425892",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1381",
+    "route_ref": "406"
+  }
+},
+{
+  "type": "node",
+  "id": 5604978773,
+  "lat": 48.6282550,
+  "lon": 2.4067820,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Osiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3905",
+    "ref:FR:STIF:stop_id": "StopPoint:10:362",
+    "route_ref": "406"
+  }
+},
+{
+  "type": "node",
+  "id": 5604978801,
+  "lat": 48.6280570,
+  "lon": 2.4064570,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Osiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8508",
+    "ref:FR:STIF:stop_id": "StopPoint:10:361",
+    "route_ref": "406"
+  }
+},
+{
+  "type": "node",
+  "id": 5604978802,
+  "lat": 48.6308038,
+  "lon": 2.4058557,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425889",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1380",
+    "route_ref": "406"
+  }
+},
+{
+  "type": "node",
+  "id": 5667763509,
+  "lat": 48.6200142,
+  "lon": 2.3980112,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415256",
+    "route_ref": "413",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5667763510,
+  "lat": 48.6204125,
+  "lon": 2.3972437,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415257",
+    "route_ref": "413",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5667763511,
+  "lat": 48.6189496,
+  "lon": 2.4017127,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Édouard Branly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415259",
+    "route_ref": "413",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5667763512,
+  "lat": 48.6191119,
+  "lon": 2.4014401,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Édouard Branly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415258",
+    "route_ref": "413",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5683592888,
+  "lat": 48.6187420,
+  "lon": 2.3940110,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Bourdet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23547",
+    "route_ref": "413",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5683592895,
+  "lat": 48.6187514,
+  "lon": 2.3932049,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Louis Bourdet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3858",
+    "route_ref": "413",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5683592901,
+  "lat": 48.6323150,
+  "lon": 2.4123602,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marchais Guesdon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3889",
+    "ref:FR:STIF:stop_id": "StopPoint:10:334",
+    "route_ref": "413;404;402",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684734614,
+  "lat": 48.6330290,
+  "lon": 2.4522367,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:city": "Évry",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry Val de Seine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21530",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1212",
+    "route_ref": "403",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684734620,
+  "lat": 48.6391611,
+  "lon": 2.4333034,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nouveaux Champs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3898",
+    "ref:FR:STIF:stop_id": "StopPoint:10:350",
+    "route_ref": "403;404;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684735721,
+  "lat": 48.6338648,
+  "lon": 2.4293751,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Prévert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427459",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1396",
+    "route_ref": "403;404;405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684735724,
+  "lat": 48.6256660,
+  "lon": 2.4284538,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry - Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19814",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1160",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684735727,
+  "lat": 48.6338589,
+  "lon": 2.4292940,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Prévert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427456",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1395",
+    "route_ref": "403;404;405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684735731,
+  "lat": 48.6332547,
+  "lon": 2.4418749,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée Clemenceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3716",
+    "ref:FR:STIF:stop_id": "StopPoint:10:6",
+    "route_ref": "403;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684735732,
+  "lat": 48.6312516,
+  "lon": 2.4418627,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aguado",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3722;6964",
+    "route_ref": "403;401;404;453;7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes;no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921677,
+  "lat": 48.6203664,
+  "lon": 2.4059847,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thorigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3991",
+    "ref:FR:STIF:stop_id": "StopPoint:10:496",
+    "route_ref": "414;404",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921678,
+  "lat": 48.6174490,
+  "lon": 2.4081230,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23553",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1240",
+    "route_ref": "414",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921679,
+  "lat": 48.6138640,
+  "lon": 2.4062340,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "La Vanne",
+    "network": "TICE",
+    "operator": "TICE",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3998",
+    "ref:FR:STIF:stop_id": "StopPoint:10:505",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921680,
+  "lat": 48.6116620,
+  "lon": 2.4043330,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Bocages",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8474",
+    "ref:FR:STIF:stop_id": "StopPoint:10:51",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921681,
+  "lat": 48.6108460,
+  "lon": 2.4020690,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Vergers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4002",
+    "ref:FR:STIF:stop_id": "StopPoint:10:509",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921697,
+  "lat": 48.6108820,
+  "lon": 2.4021910,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Vergers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4001",
+    "ref:FR:STIF:stop_id": "StopPoint:10:508",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921698,
+  "lat": 48.6117340,
+  "lon": 2.4042790,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Bocages",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3744",
+    "ref:FR:STIF:stop_id": "StopPoint:10:50",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921699,
+  "lat": 48.6136660,
+  "lon": 2.4055430,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Vanne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3997",
+    "ref:FR:STIF:stop_id": "StopPoint:10:504",
+    "route_ref": "414;409",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5684921700,
+  "lat": 48.6171460,
+  "lon": 2.4079410,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mairie",
+    "network": "TICE",
+    "operator": "TICE",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8503",
+    "ref:FR:STIF:stop_id": "StopPoint:10:312",
+    "route_ref": "414",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685169640,
+  "lat": 48.6308530,
+  "lon": 2.4058640,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1380",
+    "route_ref": "406"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246021,
+  "lat": 48.6219815,
+  "lon": 2.4431061,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Paul Eluard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420817",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1343",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246022,
+  "lat": 48.6240410,
+  "lon": 2.4404170,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Institut de Biologie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420829",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1342",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246023,
+  "lat": 48.6246600,
+  "lon": 2.4317810,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sabatier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420825",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1341",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246024,
+  "lat": 48.6251609,
+  "lon": 2.4283769,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "description": "gare basse",
+    "highway": "bus_stop",
+    "name": "Evry-Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422539;420822;2773;33359;460309",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1340;StopPoint:10:1333;StopPoint:56:9456;StopPoint:29:414;StopPoint:3:57",
+    "route_ref": "91-01;91-04;91-05;91-09;207;408A;408B",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246025,
+  "lat": 48.6272341,
+  "lon": 2.4303615,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blaise Pascal - Les Passages",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420818",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1339",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246027,
+  "lat": 48.6316162,
+  "lon": 2.4312107,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Facteur Cheval",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420830",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1337",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246031,
+  "lat": 48.6411098,
+  "lon": 2.4288123,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gutenberg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3832",
+    "ref:FR:STIF:stop_id": "StopPoint:10:228",
+    "route_ref": "408;419;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246033,
+  "lat": 48.6404960,
+  "lon": 2.4348480,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ratisbonne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3952;6971",
+    "ref:FR:STIF:stop_id": "StopPoint:10:428;StopPoint:66:9479",
+    "route_ref": "408;407;7002",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246035,
+  "lat": 48.6329330,
+  "lon": 2.4383330,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petits Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21535",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1217",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246037,
+  "lat": 48.6352842,
+  "lon": 2.4442565,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rossini",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3966",
+    "ref:FR:STIF:stop_id": "StopPoint:10:461",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246039,
+  "lat": 48.6345330,
+  "lon": 2.4488330,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foyer Club",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3803",
+    "ref:FR:STIF:stop_id": "StopPoint:10:176",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246043,
+  "lat": 48.6284217,
+  "lon": 2.4572202,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beauvoir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39958",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1297",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246044,
+  "lat": 48.6235308,
+  "lon": 2.4615775,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Tourelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422540",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1296",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246045,
+  "lat": 48.6237211,
+  "lon": 2.4587746,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grippet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22440",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1225",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246046,
+  "lat": 48.6237126,
+  "lon": 2.4585214,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grippet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22441",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1226",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246047,
+  "lat": 48.6236340,
+  "lon": 2.4617040,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Tourelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35135",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1299",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246048,
+  "lat": 48.6284539,
+  "lon": 2.4573849,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beauvoir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422538",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1298",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246052,
+  "lat": 48.6338827,
+  "lon": 2.4495484,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foyer Club",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3804",
+    "ref:FR:STIF:stop_id": "StopPoint:10:177",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246054,
+  "lat": 48.6350387,
+  "lon": 2.4435093,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rossini",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3967",
+    "ref:FR:STIF:stop_id": "StopPoint:10:462",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246059,
+  "lat": 48.6412650,
+  "lon": 2.4290990,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gutenberg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3833",
+    "ref:FR:STIF:stop_id": "StopPoint:10:229",
+    "route_ref": "408;419;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246062,
+  "lat": 48.6328043,
+  "lon": 2.4323997,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rosenberg",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3965",
+    "ref:FR:STIF:stop_id": "StopPoint:10:460",
+    "route_ref": "408",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246063,
+  "lat": 48.6318905,
+  "lon": 2.4313791,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Facteur Cheval",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420832",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1336",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246064,
+  "lat": 48.6292210,
+  "lon": 2.4311380,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Arènes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420836",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1335",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246065,
+  "lat": 48.6272193,
+  "lon": 2.4306158,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Blaise Pascal - Les Passages",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420821",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1334",
+    "route_ref": "408",
+    "source:wheelchair": "STIF 2018-05",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246068,
+  "lat": 48.6240680,
+  "lon": 2.4408110,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Institut de Biologie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420826",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1331",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5685246069,
+  "lat": 48.6225470,
+  "lon": 2.4428550,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Collège Paul Eluard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420814",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1330",
+    "route_ref": "408",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5713420630,
+  "lat": 48.6251382,
+  "lon": 2.4288025,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Evry-Courcouronnes Centre (gare basse)",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2772",
+    "ref:FR:STIF:stop_id": "StopPoint:56:9455",
+    "route_ref": "91-01;91-04;91-05;91-09",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-05",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6052761705,
+  "lat": 48.6218320,
+  "lon": 2.4276151,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aimé Césaire",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6052761706,
+  "lat": 48.6255118,
+  "lon": 2.4129018,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Guénault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3979",
+    "ref:FR:STIF:stop_id": "StopPoint:3:1006;StopPoint:56:8959",
+    "route_ref": "300;91.05",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6163714394,
+  "lat": 48.6251424,
+  "lon": 2.4283736,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Évry - Courcouronnes Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411313",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8757495",
+    "route_ref": "N135;N144"
+  }
+},
+{
+  "type": "node",
+  "id": 6163714395,
+  "lat": 48.6234438,
+  "lon": 2.4505750,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bras de Fer Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41513",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8757496",
+    "route_ref": "N135;N144"
+  }
+},
+{
+  "type": "node",
+  "id": 6176591084,
+  "lat": 48.6241752,
+  "lon": 2.4507541,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bras de Fer Gare RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "33361",
+    "route_ref": "50"
+  }
+},
+{
+  "type": "node",
+  "id": 6415656425,
+  "lat": 48.6381664,
+  "lon": 2.4201235,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Camille Guérin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474427",
+    "route_ref": "405",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415656427,
+  "lat": 48.6254179,
+  "lon": 2.4284080,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry - Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19823",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1170",
+    "route_ref": "405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415656439,
+  "lat": 48.6253252,
+  "lon": 2.4279721,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare d'Évry - Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19818",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1164",
+    "route_ref": "405;407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415656442,
+  "lat": 48.6380717,
+  "lon": 2.4202719,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Camille Guérin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3755",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1397",
+    "route_ref": "405",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6415827780,
+  "lat": 48.6152199,
+  "lon": 2.4342563,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yerres - Louise Michel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4007",
+    "ref:FR:STIF:stop_id": "StopPoint:10:515",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415827781,
+  "lat": 48.6181170,
+  "lon": 2.4327192,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Aunettes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3913",
+    "ref:FR:STIF:stop_id": "StopPoint:10:373",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415827784,
+  "lat": 48.6425268,
+  "lon": 2.4231212,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Mennecy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23036",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1236",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415829494,
+  "lat": 48.6182993,
+  "lon": 2.4327260,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Aunettes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3912",
+    "ref:FR:STIF:stop_id": "StopPoint:10:372",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6415829495,
+  "lat": 48.6155141,
+  "lon": 2.4343198,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yerres - Louise Michel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "4006",
+    "ref:FR:STIF:stop_id": "StopPoint:10:514",
+    "route_ref": "407",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6535898572,
+  "lat": 48.6355882,
+  "lon": 2.4256380,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Parc des Loges 2",
+    "public_transport": "platform",
+    "ref:FR:STIF": "6970",
+    "ref:FR:STIF:stop_id": "StopPoint:66:9474",
+    "route_ref": "7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6535898578,
+  "lat": 48.6258691,
+  "lon": 2.4284939,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Gare Évry - Courcouronnes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39867",
+    "ref:FR:STIF:stop_id": "StopPoint:66:14808",
+    "route_ref": "7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6535898581,
+  "lat": 48.6344965,
+  "lon": 2.4252237,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Parc des Loges 1",
+    "public_transport": "platform",
+    "ref:FR:STIF": "6968",
+    "ref:FR:STIF:stop_id": "StopPoint:66:9469",
+    "route_ref": "7002",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548909696,
+  "lat": 48.6290960,
+  "lon": 2.4366980,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2509",
+    "ref:FR:STIF:stop_id": "StopPoint:43:124",
+    "route_ref": "501",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548909702,
+  "lat": 48.6289710,
+  "lon": 2.4364130,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422932",
+    "ref:FR:STIF:stop_id": "StopPoint:43:125",
+    "route_ref": "501",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548909703,
+  "lat": 48.6416624,
+  "lon": 2.4341187,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Notre-Dame de Sion",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2508",
+    "ref:FR:STIF:stop_id": "StopPoint:43:122",
+    "route_ref": "501",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548909704,
+  "lat": 48.6376650,
+  "lon": 2.4341780,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Baudelaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2505",
+    "ref:FR:STIF:stop_id": "StopPoint:43:123",
+    "route_ref": "501",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548964672,
+  "lat": 48.6204140,
+  "lon": 2.4183460,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Briard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462575",
+    "route_ref": "401",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6548964677,
+  "lat": 48.6208400,
+  "lon": 2.4190560,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Briard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "462577",
+    "route_ref": "401",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6554075935,
+  "lat": 48.6253840,
+  "lon": 2.4130700,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Guénault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3978",
+    "ref:FR:STIF:stop_id": "StopPoint:56:8960",
+    "route_ref": "91-05",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6655315044,
+  "lat": 48.6252907,
+  "lon": 2.4281864,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "level": "1",
+    "name": "Évry - Courcouronnes Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19810",
+    "ref:FR:STIF:stop_id": "StopPoint:10:1155",
+    "route_ref": "402",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6655315046,
+  "lat": 48.6304614,
+  "lon": 2.4128351,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orme à Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3903",
+    "ref:FR:STIF:stop_id": "StopPoint:10:358",
+    "route_ref": "402",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6655315056,
+  "lat": 48.6305970,
+  "lon": 2.4129560,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orme à Martin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3902",
+    "ref:FR:STIF:stop_id": "StopPoint:10:357",
+    "route_ref": "402",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8895181391,
+  "lat": 48.6215463,
+  "lon": 2.4157485,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Abris bus présent mais encore aucune ligne s'arrête pour le moment. À corriger au moment venu.",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

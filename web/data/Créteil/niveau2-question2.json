@@ -1,0 +1,333 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 30028379,
+  "nodes": [
+    330639268,
+    330639793
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Verdun",
+    "oneway": "yes",
+    "ref": "D 86",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 133476818,
+  "nodes": [
+    1474338466,
+    2493500576,
+    343475266,
+    1474338481,
+    922260454,
+    8691041104
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue du Canal",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 366200489,
+  "nodes": [
+    431044866,
+    6793968116,
+    431045666
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 540758252,
+  "nodes": [
+    1725742453,
+    15130688
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Verdun",
+    "old_ref": "N 186",
+    "oneway": "yes",
+    "ref": "D 86",
+    "sidewalk": "no",
+    "surface": "asphalt",
+    "toll:hgv": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 802273423,
+  "nodes": [
+    248815330,
+    2407214853,
+    248810715,
+    9171794140,
+    248810716,
+    2602981727
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "Avenue de la Pompadour",
+    "old_ref": "N186",
+    "oneway": "yes",
+    "ref": "D 86",
+    "sidewalk:right": "separate",
+    "surface": "asphalt",
+    "toll:hgv": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 802273424,
+  "nodes": [
+    274083379,
+    470106796,
+    248815328
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "name": "Avenue de la Pompadour",
+    "old_ref": "N186",
+    "oneway": "yes",
+    "ref": "D 86",
+    "sidewalk:right": "separate",
+    "surface": "asphalt",
+    "toll:hgv": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 949726187,
+  "nodes": [
+    8792167722,
+    431044850
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue du Canal",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 949726188,
+  "nodes": [
+    8691041104,
+    8792167722
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Rue du Canal",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600105389,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Créteil",
+    "name:el": "Κρετέιγ",
+    "population": "93246",
+    "population:date": "2019",
+    "postal_code": "94000",
+    "ref:INSEE": "94028",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q46135",
+    "wikipedia": "fr:Créteil"
+  }
+},
+{
+  "type": "node",
+  "id": 248810715,
+  "lat": 48.7712058,
+  "lon": 2.4290131
+},
+{
+  "type": "node",
+  "id": 248815328,
+  "lat": 48.7709151,
+  "lon": 2.4276167
+},
+{
+  "type": "node",
+  "id": 248815330,
+  "lat": 48.7707861,
+  "lon": 2.4276659
+},
+{
+  "type": "node",
+  "id": 2407214853,
+  "lat": 48.7710120,
+  "lon": 2.4284135
+},
+{
+  "type": "node",
+  "id": 9171794140,
+  "lat": 48.7717364,
+  "lon": 2.4308161
+},
+{
+  "type": "node",
+  "id": 248810716,
+  "lat": 48.7723111,
+  "lon": 2.4327693
+},
+{
+  "type": "node",
+  "id": 274083379,
+  "lat": 48.7729557,
+  "lon": 2.4343314
+},
+{
+  "type": "node",
+  "id": 470106796,
+  "lat": 48.7722577,
+  "lon": 2.4321440
+},
+{
+  "type": "node",
+  "id": 2602981727,
+  "lat": 48.7728148,
+  "lon": 2.4344570
+},
+{
+  "type": "node",
+  "id": 343475266,
+  "lat": 48.7700224,
+  "lon": 2.4612856
+},
+{
+  "type": "node",
+  "id": 431044850,
+  "lat": 48.7707928,
+  "lon": 2.4581810
+},
+{
+  "type": "node",
+  "id": 431044866,
+  "lat": 48.7710290,
+  "lon": 2.4582873
+},
+{
+  "type": "node",
+  "id": 431045666,
+  "lat": 48.7711393,
+  "lon": 2.4583791
+},
+{
+  "type": "node",
+  "id": 922260454,
+  "lat": 48.7704972,
+  "lon": 2.4593911
+},
+{
+  "type": "node",
+  "id": 1474338466,
+  "lat": 48.7699975,
+  "lon": 2.4614219
+},
+{
+  "type": "node",
+  "id": 1474338481,
+  "lat": 48.7700934,
+  "lon": 2.4609889
+},
+{
+  "type": "node",
+  "id": 2493500576,
+  "lat": 48.7700170,
+  "lon": 2.4613053
+},
+{
+  "type": "node",
+  "id": 6793968116,
+  "lat": 48.7711067,
+  "lon": 2.4583347
+},
+{
+  "type": "node",
+  "id": 8691041104,
+  "lat": 48.7707592,
+  "lon": 2.4583216
+},
+{
+  "type": "node",
+  "id": 8792167722,
+  "lat": 48.7707784,
+  "lon": 2.4582419
+},
+{
+  "type": "node",
+  "id": 15130688,
+  "lat": 48.7992209,
+  "lon": 2.4657863
+},
+{
+  "type": "node",
+  "id": 330639268,
+  "lat": 48.7995299,
+  "lon": 2.4676076
+},
+{
+  "type": "node",
+  "id": 330639793,
+  "lat": 48.7994929,
+  "lon": 2.4672898
+},
+{
+  "type": "node",
+  "id": 1725742453,
+  "lat": 48.7992391,
+  "lon": 2.4658570
+}
+
+  ]
+}

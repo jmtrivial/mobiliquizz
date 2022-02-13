@@ -1,0 +1,3612 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:48:54Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 295431630,
+  "lat": 48.8057486,
+  "lon": 2.4972031,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Marronniers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39679",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614413",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 299606934,
+  "lat": 48.7985918,
+  "lon": 2.4859217,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre de Saint-Maur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22669",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687047",
+    "route_ref": "317",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 313918103,
+  "lat": 48.8005473,
+  "lon": 2.4716649,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Créteil",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27588",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035948;StopPoint:59:7275726",
+    "route_ref": "Tvm;N35;N71;317",
+    "shelter": "yes",
+    "source": "survey 2019-03",
+    "source:position": "BDOrtho IGN 2019",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 387899945,
+  "lat": 48.8064643,
+  "lon": 2.4716992,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37701",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730102",
+    "route_ref": "N71;Tvm",
+    "shelter": "yes",
+    "source": "survey 2019-03",
+    "source:position": "BDOrtho IGN 2019",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 703698535,
+  "lat": 48.7903628,
+  "lon": 2.5124064,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Église de La Varenne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27981",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723874",
+    "route_ref": "111",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "wikidata": "Q56857448"
+  }
+},
+{
+  "type": "node",
+  "id": 749086116,
+  "lat": 48.7854051,
+  "lon": 2.4951505,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raspail - Pont de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27624",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619696",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086120,
+  "lat": 48.7857661,
+  "lon": 2.4952991,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raspail - Pont de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27625",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619697",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086142,
+  "lat": 48.7983713,
+  "lon": 2.5033841,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27622",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619689",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086146,
+  "lat": 48.7974878,
+  "lon": 2.5021028,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27628",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619688",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086158,
+  "lat": 48.7958095,
+  "lon": 2.4997511,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Ferme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27619",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619691",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086164,
+  "lat": 48.7952986,
+  "lon": 2.4991396,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Ferme",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27617",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619690",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086170,
+  "lat": 48.8069249,
+  "lon": 2.5055327,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général Leclerc",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344346",
+    "ref:FR:STIF": "39677",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614417",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086176,
+  "lat": 48.8073707,
+  "lon": 2.5058074,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général Leclerc",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344377",
+    "ref:FR:STIF": "39682",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614418",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086192,
+  "lat": 48.8067777,
+  "lon": 2.4958119,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France - Pierre Brossolette",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344343",
+    "ref:FR:STIF": "39684",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614411",
+    "route_ref": "306;N35",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086201,
+  "lat": 48.8075150,
+  "lon": 2.4963618,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Anatole France - Pierre Brossolette",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344380",
+    "ref:FR:STIF": "39671",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614412",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086211,
+  "lat": 48.8053348,
+  "lon": 2.4971516,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Marronniers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36448",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614414",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086222,
+  "lat": 48.8100842,
+  "lon": 2.4709924,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Croix-Souris",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39535",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614397",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086226,
+  "lat": 48.8066091,
+  "lon": 2.4734365,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER - Le Parvis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "428003",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614396",
+    "route_ref": "306;107;N35;N71",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56716813"
+  }
+},
+{
+  "type": "node",
+  "id": 749086239,
+  "lat": 48.8078317,
+  "lon": 2.4909774,
+  "tags": {
+    "STIF:zone": "3",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neptune",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344342",
+    "ref:FR:STIF": "39675",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614409",
+    "route_ref": "306;N35",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086252,
+  "lat": 48.8077933,
+  "lon": 2.4922860,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neptune",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344381",
+    "ref:FR:STIF": "39683",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614410",
+    "route_ref": "306;N35",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086266,
+  "lat": 48.8109006,
+  "lon": 2.4787315,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération-Condé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39673",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614403",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086272,
+  "lat": 48.8112781,
+  "lon": 2.4776086,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération-Condé",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344384",
+    "ref:FR:STIF": "39680",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614404",
+    "route_ref": "306",
+    "shelter": "no",
+    "source": "Bing;RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086280,
+  "lat": 48.8122793,
+  "lon": 2.4739813,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Armes",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344385",
+    "ref:FR:STIF": "39687",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614402",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source": "Bing ; RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086285,
+  "lat": 48.8112460,
+  "lon": 2.4698764,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Berteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39536",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614399",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086293,
+  "lat": 48.8107716,
+  "lon": 2.4695650,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Berteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27842",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3686731",
+    "route_ref": "111;112;N35",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749086348,
+  "lat": 48.8099278,
+  "lon": 2.4823041,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344340",
+    "ref:FR:STIF": "39676",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614405",
+    "route_ref": "306;N35",
+    "shelter": "yes",
+    "source": "RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579442,
+  "lat": 48.8000007,
+  "lon": 2.4842057,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Septembre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28736",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663586",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 749579482,
+  "lat": 48.7982782,
+  "lon": 2.4788673,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaujeu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7794",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478440",
+    "route_ref": "112;317",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 749579498,
+  "lat": 48.7991664,
+  "lon": 2.4730507,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Tourasse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28832",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687001",
+    "route_ref": "317",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579530,
+  "lat": 48.8041142,
+  "lon": 2.4868502,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc de Saint-Maur RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28729",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687008",
+    "route_ref": "317",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579563,
+  "lat": 48.8048023,
+  "lon": 2.4861863,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc de Saint-Maur RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28728",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687007",
+    "route_ref": "107;317",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579586,
+  "lat": 48.7996938,
+  "lon": 2.4884221,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bibliothèque Municipale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12371",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663616",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56708885"
+  }
+},
+{
+  "type": "node",
+  "id": 749579602,
+  "lat": 48.7975109,
+  "lon": 2.4883168,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Inkermann",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12372",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663615",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56709083"
+  }
+},
+{
+  "type": "node",
+  "id": 749579645,
+  "lat": 48.8071167,
+  "lon": 2.4761392,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération - Rabelais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22479",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687011",
+    "route_ref": "317;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579670,
+  "lat": 48.8028047,
+  "lon": 2.4845613,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Saint-Maur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27583",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663585",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 749579676,
+  "lat": 48.8031251,
+  "lon": 2.4860993,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Saint-Maur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28727",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687048",
+    "route_ref": "317;107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579692,
+  "lat": 48.8107479,
+  "lon": 2.4780772,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération - Condé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22670",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275731",
+    "route_ref": "317;N35;N71",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579728,
+  "lat": 48.8110503,
+  "lon": 2.4765901,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération - Condé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28828",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275732",
+    "route_ref": "317;N35;N71",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 749579746,
+  "lat": 48.8091789,
+  "lon": 2.4768896,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marinville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28830",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275729",
+    "route_ref": "317;N35;N71",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 765205245,
+  "lat": 48.8068034,
+  "lon": 2.4710557,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27980",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3686733",
+    "route_ref": "111;112",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 770220050,
+  "lat": 48.8070486,
+  "lon": 2.4710189,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27585",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035945",
+    "route_ref": "N35;107;N71;168",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1130849862,
+  "lat": 48.7991654,
+  "lon": 2.4719214,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Créteil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27873",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478266",
+    "route_ref": "111;112",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1130849922,
+  "lat": 48.8043762,
+  "lon": 2.4720353,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Remises",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27578",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663655",
+    "route_ref": "107;N35",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1157804750,
+  "lat": 48.8054749,
+  "lon": 2.5021212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1194021297,
+  "lat": 48.7981105,
+  "lon": 2.4878666,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "noname": "yes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1194021466,
+  "lat": 48.7968304,
+  "lon": 2.4900728,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1223061809,
+  "lat": 48.8091244,
+  "lon": 2.4856459,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "name:RATP": "CIMETIERE DE SAINT-MAUR-DES-FOSSES",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344382",
+    "ref:FR:STIF": "39672",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614408",
+    "route_ref": "306;N35",
+    "shelter": "yes",
+    "source": "RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1224811465,
+  "lat": 48.7981536,
+  "lon": 2.4853780,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre de Saint-Maur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28831",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687005",
+    "route_ref": "317",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226725936,
+  "lat": 48.7914879,
+  "lon": 2.5033963,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "separate",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Avenue de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10094",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723871",
+    "shelter": "no",
+    "source": "bing",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226725986,
+  "lat": 48.7909190,
+  "lon": 2.5102955,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37746",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723889",
+    "shelter": "no",
+    "source": "bing",
+    "wheelchair": "yes",
+    "wikidata": "Q56869524"
+  }
+},
+{
+  "type": "node",
+  "id": 1226725989,
+  "lat": 48.7898878,
+  "lon": 2.5023243,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Molènes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27975",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723869",
+    "shelter": "no",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226725996,
+  "lat": 48.8004391,
+  "lon": 2.5186421,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Péguy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25802",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723879",
+    "shelter": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726017,
+  "lat": 48.8069081,
+  "lon": 2.5123544,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre Dumas",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25795",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723887",
+    "route_ref": "111",
+    "shelter": "no",
+    "source": "bing",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56869522"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726030,
+  "lat": 48.7971617,
+  "lon": 2.5161007,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capitaine Charton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25804",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723877",
+    "shelter": "no",
+    "source": "bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726032,
+  "lat": 48.8009844,
+  "lon": 2.5186240,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Péguy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25798",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723880",
+    "shelter": "no",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726042,
+  "lat": 48.7968413,
+  "lon": 2.5157327,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capitaine Charton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37743",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723878",
+    "shelter": "no",
+    "source": "bing",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726047,
+  "lat": 48.7944059,
+  "lon": 2.5139621,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Varenne - Chennevières RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39550;25801;428023",
+    "ref:FR:STIF:stop_id": "StopPoint:49:52171;StopPoint:59:5478458;StopPoint:59:3686751;StopPoint:59:4723875",
+    "route_ref": "112;111",
+    "shelter": "yes",
+    "source": "bing",
+    "source:ref:FR:STIF": "opendata STIF - 03/2017",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726062,
+  "lat": 48.7876582,
+  "lon": 2.4979617,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sorbiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27974",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723866",
+    "shelter": "no",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226726072,
+  "lat": 48.8069084,
+  "lon": 2.4713907,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424912",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723846",
+    "route_ref": "111;112",
+    "shelter": "yes",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917482,
+  "lat": 48.7977860,
+  "lon": 2.5015821,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28074",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478452",
+    "route_ref": "112",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917486,
+  "lat": 48.7938385,
+  "lon": 2.4925381,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Roux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28069",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478446",
+    "shelter": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917498,
+  "lat": 48.7938824,
+  "lon": 2.4873575,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Adamville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28068",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478444",
+    "shelter": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917513,
+  "lat": 48.7953526,
+  "lon": 2.4842654,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Garibaldi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27584",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663588",
+    "route_ref": "112;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917524,
+  "lat": 48.7958625,
+  "lon": 2.5078304,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28072",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478454",
+    "route_ref": "112",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917531,
+  "lat": 48.7958766,
+  "lon": 2.4972261,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Delerue",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12641",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478449",
+    "route_ref": "112",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870834"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917534,
+  "lat": 48.7958878,
+  "lon": 2.4836248,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Garibaldi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28726",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478442",
+    "shelter": "yes",
+    "source": "bing",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917572,
+  "lat": 48.7974936,
+  "lon": 2.5039863,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Jean Moulin",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11338943",
+    "ref:FR:STIF": "28070",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478453",
+    "shelter": "yes",
+    "source": "bing;RATP - 07/2012",
+    "source:ref:FR:STIF": "opendata STIF - 03/2017",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917585,
+  "lat": 48.7938995,
+  "lon": 2.4952099,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Rimini",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28067",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478448",
+    "shelter": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917606,
+  "lat": 48.7946345,
+  "lon": 2.5109972,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École Michelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28073",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478456",
+    "route_ref": "112",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56870742"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917609,
+  "lat": 48.7934264,
+  "lon": 2.4864421,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Adamville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28725",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663614",
+    "route_ref": "107;112",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917617,
+  "lat": 48.7979130,
+  "lon": 2.4990775,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Edgar Quinet",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11338944",
+    "ref:FR:STIF": "28075",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478451",
+    "shelter": "no",
+    "source": "bing;RATP - 07/2012",
+    "source:ref:FR:STIF": "opendata STIF - 03/2017",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917653,
+  "lat": 48.7937378,
+  "lon": 2.4920142,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Roux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28739",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478445",
+    "route_ref": "112",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1226917658,
+  "lat": 48.8009736,
+  "lon": 2.4712350,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin Vert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27978",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478265",
+    "route_ref": "111;112",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56859994"
+  }
+},
+{
+  "type": "node",
+  "id": 1226928446,
+  "lat": 48.7962355,
+  "lon": 2.5071838,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28066",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478455",
+    "shelter": "no",
+    "source": "bing",
+    "source:ref:FR:STIF": "opendata STIF - 03/2017",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1226928460,
+  "lat": 48.7969100,
+  "lon": 2.4959463,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Victoria",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39549",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478459",
+    "shelter": "no",
+    "source": "bing",
+    "source:ref:FR:STIF": "opendata STIF - 03/2017",
+    "tactile_paving": "no",
+    "wikidata": "Q56870885"
+  }
+},
+{
+  "type": "node",
+  "id": 1240476869,
+  "lat": 48.8060122,
+  "lon": 2.4726032,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39681",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614394",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1244137491,
+  "lat": 48.7882124,
+  "lon": 2.4804588,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28732",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663593",
+    "route_ref": "107",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1244137497,
+  "lat": 48.7914657,
+  "lon": 2.4792165,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arromanches",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422970",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723856",
+    "source": "STIF - 12/2016",
+    "wikidata": "Q56857417"
+  }
+},
+{
+  "type": "node",
+  "id": 1244137528,
+  "lat": 48.8075257,
+  "lon": 2.4742638,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Godefroy - Cavaignac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28731",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663621",
+    "route_ref": "107",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1244371717,
+  "lat": 48.8123548,
+  "lon": 2.4688464,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Berteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28071",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478429",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1245256989,
+  "lat": 48.7943206,
+  "lon": 2.4770087,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Galilée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27976",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723854",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1245256991,
+  "lat": 48.7885581,
+  "lon": 2.4816378,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Pie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10092",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723857",
+    "shelter": "no",
+    "source": "STIF - 2/2018",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1260927469,
+  "lat": 48.7938181,
+  "lon": 2.4949574,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Rimini",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28076",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478447",
+    "route_ref": "112",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1480326073,
+  "lat": 48.7915516,
+  "lon": 2.4742188,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Côteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27581",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663591",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1480326074,
+  "lat": 48.7904213,
+  "lon": 2.4769380,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Beaurepaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27582",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663612",
+    "route_ref": "107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1480326075,
+  "lat": 48.7889203,
+  "lon": 2.4767201,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villette",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28733",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663592",
+    "route_ref": "107",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56709052"
+  }
+},
+{
+  "type": "node",
+  "id": 1481150773,
+  "lat": 48.7858010,
+  "lon": 2.4917512,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Corneilles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25797",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723861",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1481150776,
+  "lat": 48.7862045,
+  "lon": 2.4986218,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sorbiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27977",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723865",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532209,
+  "lat": 48.7875770,
+  "lon": 2.4946238,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alma",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27973",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723864",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532296,
+  "lat": 48.7872783,
+  "lon": 2.5023721,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Falonnières",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422966",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723867",
+    "shelter": "no",
+    "source": "STIF - 12/2016",
+    "wikidata": "Q56857447"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532309,
+  "lat": 48.7887917,
+  "lon": 2.4889108,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Docteur Roux - Chambre des Métiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22655",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723860",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532311,
+  "lat": 48.7889886,
+  "lon": 2.5034971,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Molènes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37747",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723868",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532327,
+  "lat": 48.7899155,
+  "lon": 2.4863258,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guynemer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10091",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723890",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "wikidata": "Q56869525"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532330,
+  "lat": 48.7916851,
+  "lon": 2.4821484,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "JoUgPRdf9cvhqukVRoQFDg",
+    "name": "Bourbaki",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10090",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723891",
+    "route_ref": "111",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "survey:date": "2017-08-26"
+  }
+},
+{
+  "type": "node",
+  "id": 1481532339,
+  "lat": 48.7921172,
+  "lon": 2.4814741,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bourbaki",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27579",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663613",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1506798815,
+  "lat": 48.7921253,
+  "lon": 2.4862281,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1506799287,
+  "lat": 48.7966809,
+  "lon": 2.4869708,
+  "tags": {
+    "bus": "school",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1549965824,
+  "lat": 48.8091891,
+  "lon": 2.4850793,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "name:RATP": "CIMETIERE DE SAINT-MAUR-DES-FOSSES",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344341",
+    "ref:FR:STIF": "39685",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614407",
+    "route_ref": "306;N35",
+    "shelter": "no",
+    "source": "RATP - 07/2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1549965831,
+  "lat": 48.7876036,
+  "lon": 2.4917635,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Corneilles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10093",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723862",
+    "shelter": "yes",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1552445511,
+  "lat": 48.8062425,
+  "lon": 2.4797457,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière - Rabelais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22478",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687010",
+    "route_ref": "317;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1552445531,
+  "lat": 48.8064088,
+  "lon": 2.4794727,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière - Rabelais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28730",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687009",
+    "route_ref": "317;107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1642006606,
+  "lat": 48.7859522,
+  "lon": 2.4949444,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alma",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37744",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723863",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1642006627,
+  "lat": 48.7860497,
+  "lon": 2.4882886,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Roux - Chambre des Métiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25794",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723859",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1642962834,
+  "lat": 48.8016279,
+  "lon": 2.5061045,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carpeaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27626",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619684",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1642962838,
+  "lat": 48.8020273,
+  "lon": 2.5065660,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carpeaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27623",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619685",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1642962964,
+  "lat": 48.8007947,
+  "lon": 2.5054983,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Auguste Marin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27620",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619687",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1643358007,
+  "lat": 48.7908039,
+  "lon": 2.5068539,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7790",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723873",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1982793606,
+  "lat": 48.7967619,
+  "lon": 2.4756413,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaujeu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37745",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723852",
+    "shelter": "no",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2001588992,
+  "lat": 48.8035810,
+  "lon": 2.5079649,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joffre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27630",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619683",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2001588999,
+  "lat": 48.8036965,
+  "lon": 2.5079316,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joffre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27631",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619682",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2001614026,
+  "lat": 48.7978319,
+  "lon": 2.4990341,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Edgar Quinet",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11338937",
+    "ref:FR:STIF": "28077",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478450",
+    "route_ref": "112",
+    "shelter": "no",
+    "source": "bing;RATP - 07/2012",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2008965143,
+  "lat": 48.7981703,
+  "lon": 2.4794907,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaujeu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27874",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478439",
+    "route_ref": "112;317",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2008965158,
+  "lat": 48.7995600,
+  "lon": 2.4716936,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Docteur Tourasse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8333",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3687000",
+    "route_ref": "317",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2072387048,
+  "lat": 48.8006088,
+  "lon": 2.4718525,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Créteil",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7784",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275725",
+    "route_ref": "107;Tvm;N35;N71",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2503026460,
+  "lat": 48.8101273,
+  "lon": 2.4818704,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39686",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614406",
+    "shelter": "yes",
+    "source": "STIF - 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2559599172,
+  "lat": 48.7936677,
+  "lon": 2.4858795,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Adamville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28737",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663589",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2689424673,
+  "lat": 48.8061499,
+  "lon": 2.4731717,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "note": "service partiel - réservé à la descente",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39532",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663685",
+    "route_ref": "107",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3501882124,
+  "lat": 48.8068612,
+  "lon": 2.5110508,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny–Saint-Maur RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37297",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3718032",
+    "route_ref": "208A",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3501882126,
+  "lat": 48.8072820,
+  "lon": 2.5099013,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413263",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614419",
+    "route_ref": "306 Noisy-le-Grand;N35",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3501882127,
+  "lat": 48.8073571,
+  "lon": 2.5095978,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40047;419144",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619742;StopPoint:49:53650",
+    "route_ref": "208A;208B;7;116;117",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3501882128,
+  "lat": 48.8067813,
+  "lon": 2.5112136,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37299",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3718081",
+    "route_ref": "208S;208b",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4352689032,
+  "lat": 48.7941092,
+  "lon": 2.5135151,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Varenne - Chennevières RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37740",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723876",
+    "route_ref": "111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4614662292,
+  "lat": 48.8057436,
+  "lon": 2.5169500,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Goublier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37751",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723883",
+    "shelter": "no",
+    "source": "bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4614662293,
+  "lat": 48.8058001,
+  "lon": 2.5164605,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Goublier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25796",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723884",
+    "shelter": "no",
+    "source": "bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4621168094,
+  "lat": 48.8062348,
+  "lon": 2.5007104,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Tilleuls",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39678",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614415",
+    "route_ref": "306",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4621168095,
+  "lat": 48.8063188,
+  "lon": 2.5007298,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Tilleuls",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39674",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614416",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5060716947,
+  "lat": 48.7894125,
+  "lon": 2.4953999,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mûriers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27629",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619694",
+    "route_ref": "117",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5060716948,
+  "lat": 48.7892370,
+  "lon": 2.4954446,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mûriers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27616",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619695",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5060716949,
+  "lat": 48.7931041,
+  "lon": 2.4976408,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boulevard de la Marne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27627",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619692",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5060716950,
+  "lat": 48.7928501,
+  "lon": 2.4976589,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boulevard de la Marne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27618",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619693",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5263163197,
+  "lat": 48.8070940,
+  "lon": 2.5109689,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37749",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723885",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5471283595,
+  "lat": 48.8061662,
+  "lon": 2.4724244,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maur - Créteil RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425028",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730101",
+    "route_ref": "N71;Tvm",
+    "shelter": "no",
+    "source": "survey 2019-03",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5828939891,
+  "lat": 48.7929963,
+  "lon": 2.5103357,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue des Piliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22654",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6851967",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870796"
+  }
+},
+{
+  "type": "node",
+  "id": 5992866834,
+  "lat": 48.8072903,
+  "lon": 2.5098463,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39538",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614420",
+    "route_ref": "306 Saint-Maur Créteil RER",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5992884274,
+  "lat": 48.8070015,
+  "lon": 2.5110199,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny–Saint-Maur RER",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "ref:FR:STIF": "424433",
+    "ref:FR:STIF:stop_id": "StopPoint:49:53651",
+    "route_ref": "7",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5992898830,
+  "lat": 48.8069853,
+  "lon": 2.5107393,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37752",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6401770",
+    "route_ref": "116",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5992911488,
+  "lat": 48.8071348,
+  "lon": 2.5103239,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Champigny - Saint-Maur RER",
+    "operator": "RATP",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39534",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5150150",
+    "route_ref": "117;N35",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6252201993,
+  "lat": 48.8094477,
+  "lon": 2.4753610,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marinville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28829",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275730",
+    "route_ref": "317;N35;N71",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6257871532,
+  "lat": 48.8001587,
+  "lon": 2.5048057,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Auguste Marin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27621",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3619686",
+    "route_ref": "117",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080748,
+  "lat": 48.8035195,
+  "lon": 2.5179471,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25803",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723882",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080759,
+  "lat": 48.7963666,
+  "lon": 2.4761609,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaujeu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37738",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723853",
+    "route_ref": "111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080760,
+  "lat": 48.7940197,
+  "lon": 2.4778784,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Galilée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37739",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723855",
+    "route_ref": "111",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080781,
+  "lat": 48.8028583,
+  "lon": 2.5182408,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25800",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4723881",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080783,
+  "lat": 48.7904249,
+  "lon": 2.5079612,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25799",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478279",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278080784,
+  "lat": 48.7911109,
+  "lon": 2.5049310,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Bonneuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27979",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478278",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6278082886,
+  "lat": 48.7863437,
+  "lon": 2.4841222,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25793",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5478271",
+    "route_ref": "111",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56857085"
+  }
+},
+{
+  "type": "node",
+  "id": 6291062308,
+  "lat": 48.8106779,
+  "lon": 2.4697050,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Berteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36449",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614400",
+    "route_ref": "306",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325282833,
+  "lat": 48.7933592,
+  "lon": 2.4783340,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vassal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12373",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663590",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56708776"
+  }
+},
+{
+  "type": "node",
+  "id": 6325282834,
+  "lat": 48.7978530,
+  "lon": 2.4839821,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boulevard de Créteil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28734",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3663587",
+    "route_ref": "107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588596,
+  "lat": 48.8031045,
+  "lon": 2.4860991,
+  "tags": {
+    "description": "11 avenue de la République",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville (République)",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588597,
+  "lat": 48.8059672,
+  "lon": 2.4714616,
+  "tags": {
+    "description": "41 rue du pont de Créteil",
+    "highway": "bus_stop",
+    "name": "Saint-Maur-Créteil RER",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588598,
+  "lat": 48.8086600,
+  "lon": 2.4679063,
+  "tags": {
+    "description": "2 avenue Ronsard",
+    "highway": "bus_stop",
+    "name": "Bagaudes",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588599,
+  "lat": 48.8067793,
+  "lon": 2.4958289,
+  "tags": {
+    "description": "51 avenue de Lattre de Tassigny",
+    "highway": "bus_stop",
+    "name": "Centre sportif Pierre Brossolette",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588600,
+  "lat": 48.8049309,
+  "lon": 2.4960438,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place des Marronniers",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588601,
+  "lat": 48.7996721,
+  "lon": 2.5123311,
+  "tags": {
+    "description": "57 avenue Pierre Sémard",
+    "highway": "bus_stop",
+    "name": "Jardin des Facultés",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588602,
+  "lat": 48.7946330,
+  "lon": 2.5110137,
+  "tags": {
+    "description": "66 avenue du Bac",
+    "highway": "bus_stop",
+    "name": "La Varenne RER",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588603,
+  "lat": 48.7902211,
+  "lon": 2.5121782,
+  "tags": {
+    "description": "38 rue Saint-Hilaire",
+    "highway": "bus_stop",
+    "name": "Église Saint-Hilaire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588604,
+  "lat": 48.7890262,
+  "lon": 2.5042590,
+  "tags": {
+    "description": "18 avenue Saint-Louis",
+    "highway": "bus_stop",
+    "name": "Place de Molènes",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588605,
+  "lat": 48.7939001,
+  "lon": 2.4951734,
+  "tags": {
+    "description": "109 boulevard de bellachasse",
+    "highway": "bus_stop",
+    "name": "Place Rimini",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588606,
+  "lat": 48.7939038,
+  "lon": 2.4873362,
+  "tags": {
+    "description": "5 Place d'adamville Kennedy",
+    "highway": "bus_stop",
+    "name": "Place d'Adamville",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588607,
+  "lat": 48.7889469,
+  "lon": 2.4816230,
+  "tags": {
+    "description": "26 rue Paul Déroulède",
+    "highway": "bus_stop",
+    "name": "Place de la Pie",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588608,
+  "lat": 48.7904570,
+  "lon": 2.4765212,
+  "tags": {
+    "description": "25 avenue du Port au Fouarre",
+    "highway": "bus_stop",
+    "name": "Square Beaurepaire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588609,
+  "lat": 48.7940300,
+  "lon": 2.4778637,
+  "tags": {
+    "description": "60 boulevard du Général Giraud",
+    "highway": "bus_stop",
+    "name": "Cimetière de la Pie",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588610,
+  "lat": 48.7980462,
+  "lon": 2.4860572,
+  "tags": {
+    "FIXME": "position à vérifier",
+    "description": "boulevard de Créteil",
+    "highway": "bus_stop",
+    "name": "Baratte-Cholet Commerces",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588611,
+  "lat": 48.7988740,
+  "lon": 2.4903661,
+  "tags": {
+    "description": "49 avenue Gambetta",
+    "highway": "bus_stop",
+    "name": "Théâtre-Conservatoire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588612,
+  "lat": 48.7996404,
+  "lon": 2.5124492,
+  "tags": {
+    "description": "24 avenue Pierre Sémard",
+    "highway": "bus_stop",
+    "name": "Jardin des Facultés",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire;antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588613,
+  "lat": 48.7934105,
+  "lon": 2.4864646,
+  "tags": {
+    "description": "Au droit de l'arrêt du 112",
+    "highway": "bus_stop",
+    "name": "Place d'Adamville",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588614,
+  "lat": 48.7904370,
+  "lon": 2.4769626,
+  "tags": {
+    "description": "24 av. d'Arromanches, au droit des bornes d'apport volontaire",
+    "highway": "bus_stop",
+    "name": "Square Beaurepaire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588615,
+  "lat": 48.7927452,
+  "lon": 2.4768611,
+  "tags": {
+    "description": "Au niveau du 11 rue Vassal au possible",
+    "highway": "bus_stop",
+    "name": "Résidence de l'Orme - Vassal",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135588616,
+  "lat": 48.7941881,
+  "lon": 2.4770334,
+  "tags": {
+    "description": "Place Galilée, Au bout de l'arrêt de bus juste avant le portail en bois",
+    "highway": "bus_stop",
+    "name": "Cimetière de la Pie",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613017,
+  "lat": 48.7958348,
+  "lon": 2.4859764,
+  "tags": {
+    "description": "17 rue Delerue",
+    "highway": "bus_stop",
+    "name": "Baratte-Cholet Commerces",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613018,
+  "lat": 48.7988397,
+  "lon": 2.4902732,
+  "tags": {
+    "description": "36 rue de Solférino",
+    "highway": "bus_stop",
+    "name": "Théâtre-Conservatoire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613019,
+  "lat": 48.8020872,
+  "lon": 2.4917127,
+  "tags": {
+    "description": "Dans la contre allée du rond, au droit des premiers bancs rencontrés",
+    "highway": "bus_stop",
+    "name": "La Poste Foch",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613020,
+  "lat": 48.8028325,
+  "lon": 2.4845610,
+  "tags": {
+    "description": "22 av. Emile Zola, au droit de l'arrêt du bus 107",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613021,
+  "lat": 48.8049628,
+  "lon": 2.4781099,
+  "tags": {
+    "description": "48 rue d'Alsace Lorraine, en amont de l'entrée",
+    "highway": "bus_stop",
+    "name": "Clinique Métivet",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613022,
+  "lat": 48.8059259,
+  "lon": 2.4726531,
+  "tags": {
+    "description": "Rue Leroux, au droit du feu",
+    "highway": "bus_stop",
+    "name": "Saint-Maur-Créteil RER",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613023,
+  "lat": 48.8123465,
+  "lon": 2.4734576,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Armes",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11344338",
+    "ref:FR:STIF": "39688",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614401",
+    "shelter": "yes",
+    "source": "RATP - 07/2012",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613024,
+  "lat": 48.8123274,
+  "lon": 2.4841161,
+  "tags": {
+    "description": "34 quai du Petit Parc, au droit du passage piéton",
+    "highway": "bus_stop",
+    "name": "Avenue des Roses",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613025,
+  "lat": 48.8091450,
+  "lon": 2.4859970,
+  "tags": {
+    "description": "2 avenue Francis Berthier",
+    "highway": "bus_stop",
+    "name": "Cimetière de Condé",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613026,
+  "lat": 48.8077961,
+  "lon": 2.4957428,
+  "tags": {
+    "description": "51 av. Pierre Brossolette, au droit de l'entrée de la piscine",
+    "highway": "bus_stop",
+    "name": "Centre sportif Pierre-Brossolette",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613027,
+  "lat": 48.8053320,
+  "lon": 2.4971380,
+  "tags": {
+    "description": "Arrêt bus 306",
+    "highway": "bus_stop",
+    "name": "Place des Marronniers",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "yes",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613028,
+  "lat": 48.8040449,
+  "lon": 2.5042296,
+  "tags": {
+    "description": "81 avenue Joffre;79 avenue Joffre",
+    "highway": "bus_stop",
+    "name": "Joffre",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire;antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613029,
+  "lat": 48.8053619,
+  "lon": 2.5107014,
+  "tags": {
+    "description": "120 avenue Pierre Sémard",
+    "highway": "bus_stop",
+    "name": "Champignol",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613030,
+  "lat": 48.7947065,
+  "lon": 2.5117442,
+  "tags": {
+    "description": "Av Condorcet",
+    "highway": "bus_stop",
+    "name": "La Varenne RER",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613031,
+  "lat": 48.7903527,
+  "lon": 2.5124060,
+  "tags": {
+    "description": "36 Rue Saint-Hilaire",
+    "highway": "bus_stop",
+    "name": "Église Saint-Hilaire",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613032,
+  "lat": 48.7889646,
+  "lon": 2.5042248,
+  "tags": {
+    "description": "16 Avenue Saint Louis",
+    "highway": "bus_stop",
+    "name": "Place de Molènes",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613033,
+  "lat": 48.7938189,
+  "lon": 2.4949854,
+  "tags": {
+    "description": "96 boulevard de Bellechasse",
+    "highway": "bus_stop",
+    "name": "Place Rimini",
+    "operator": "Ville de Saint-Maur",
+    "sens": "antihoraire",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613034,
+  "lat": 48.8135879,
+  "lon": 2.4766546,
+  "tags": {
+    "description": "Dans la résidence 10 T quai Beaubourg",
+    "highway": "bus_stop",
+    "name": "Résidence de l'Abbaye",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire;antihoraire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613035,
+  "lat": 48.8052621,
+  "lon": 2.5107340,
+  "tags": {
+    "description": "rue Joséphine Adam",
+    "highway": "bus_stop",
+    "name": "Champignol",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613036,
+  "lat": 48.8091156,
+  "lon": 2.4858887,
+  "tags": {
+    "description": "1 avenue Francis Berthier",
+    "highway": "bus_stop",
+    "name": "Cimetière de Condé",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613037,
+  "lat": 48.8114044,
+  "lon": 2.4835194,
+  "tags": {
+    "description": "52 avenue Andrée",
+    "highway": "bus_stop",
+    "name": "Avenue des Roses",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613038,
+  "lat": 48.8122801,
+  "lon": 2.4724944,
+  "tags": {
+    "description": "34 rue du Four",
+    "highway": "bus_stop",
+    "name": "Place d'Armes",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613039,
+  "lat": 48.8037377,
+  "lon": 2.4775456,
+  "tags": {
+    "description": "1 avenue Victor Hugo",
+    "highway": "bus_stop",
+    "name": "Clinique Métivet (Victor Hugo)",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+},
+{
+  "type": "node",
+  "id": 9135613040,
+  "lat": 48.8021345,
+  "lon": 2.4926103,
+  "tags": {
+    "description": "Carrefour du 8 mai 1945",
+    "highway": "bus_stop",
+    "name": "Crèche départementale du 8 mai 1945",
+    "operator": "Ville de Saint-Maur",
+    "sens": "horaire",
+    "shelter": "no",
+    "source": "Ville de Saint-Maur (2021-09)"
+  }
+}
+
+  ]
+}

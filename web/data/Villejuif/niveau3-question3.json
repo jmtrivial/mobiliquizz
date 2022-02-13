@@ -1,0 +1,1698 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 331271215,
+  "lat": 48.7946784,
+  "lon": 2.3626479,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Groupe Hospitalier Paul Brousse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29836",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458788",
+    "route_ref": "RATP ligne 162",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1453587483,
+  "lat": 48.7842576,
+  "lon": 2.3622828,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Auguste Delaune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12956",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730632",
+    "route_ref": "286",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1696831757,
+  "lat": 48.7945257,
+  "lon": 2.3542409,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Institut Gustave Roussy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37162",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864891",
+    "route_ref": "131;380",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1822876547,
+  "lat": 48.8046799,
+  "lon": 2.3663473,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Groupe Scolaire Pasteur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29883",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378061",
+    "route_ref": "v7",
+    "shelter": "yes",
+    "wikidata": "Q56859077"
+  }
+},
+{
+  "type": "node",
+  "id": 1822876551,
+  "lat": 48.8057840,
+  "lon": 2.3642256,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dauphin - RN7",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29884",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378060",
+    "route_ref": "v7",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1822940999,
+  "lat": 48.7952826,
+  "lon": 2.3669776,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif – Paul Vaillant-Couturier",
+    "note": "temps reel ligne 162 uniquement. eclairé, panneau info municipale et publicité présente.",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23221",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458795",
+    "route_ref": "V7;162",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1822941016,
+  "lat": 48.7991414,
+  "lon": 2.3697563,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beaumarchais",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29882",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378064",
+    "route_ref": "v7",
+    "wikidata": "Q56868739"
+  }
+},
+{
+  "type": "node",
+  "id": 1822941021,
+  "lat": 48.7969046,
+  "lon": 2.3712798,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clément - Bizet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29881",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378065",
+    "route_ref": "v7",
+    "wikidata": "Q56869107"
+  }
+},
+{
+  "type": "node",
+  "id": 1822954620,
+  "lat": 48.7926352,
+  "lon": 2.3673937,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guynemer - Place des Fusillés",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37180",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378050",
+    "route_ref": "185;v7;N22;N15",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935627,
+  "lat": 48.7884526,
+  "lon": 2.3620389,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auguste Delaune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23236",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161544",
+    "route_ref": "172;380",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935631,
+  "lat": 48.7884183,
+  "lon": 2.3592627,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Paul Guiraud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23237",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161542",
+    "route_ref": "172",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935635,
+  "lat": 48.7884093,
+  "lon": 2.3582463,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Paul Guiraud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8116",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161543",
+    "route_ref": "172",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935652,
+  "lat": 48.7867640,
+  "lon": 2.3518530,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "République - Gaïté",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23239",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5688809",
+    "route_ref": "172",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935660,
+  "lat": 48.7870227,
+  "lon": 2.3524615,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République - Gaïté",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37191",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5688810",
+    "route_ref": "172",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935664,
+  "lat": 48.7875584,
+  "lon": 2.3547903,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413371",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161541",
+    "route_ref": "172",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1921935667,
+  "lat": 48.7874543,
+  "lon": 2.3547166,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413370",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161540",
+    "route_ref": "172;380",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1938046930,
+  "lat": 48.7882882,
+  "lon": 2.3754800,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colonel Fabien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23198",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4843513",
+    "route_ref": "132",
+    "shelter": "no",
+    "source": "survey 01/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1938046937,
+  "lat": 48.7881982,
+  "lon": 2.3756915,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colonel Fabien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15199",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4843528",
+    "shelter": "yes",
+    "source": "survey 01/2018",
+    "source:position": "BD Ortho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 1938055469,
+  "lat": 48.7885098,
+  "lon": 2.3699452,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Commune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422940",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5688819",
+    "route_ref": "172;180",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56869166"
+  }
+},
+{
+  "type": "node",
+  "id": 1938060191,
+  "lat": 48.7872665,
+  "lon": 2.3675232,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29886",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378069;StopPoint:59:5688818",
+    "route_ref": "172;v7",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1938072902,
+  "lat": 48.7884828,
+  "lon": 2.3647869,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420273",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5688817",
+    "route_ref": "172",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1938088418,
+  "lat": 48.7885379,
+  "lon": 2.3612678,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Auguste Delaune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8117",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161545",
+    "route_ref": "172;380",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1944042128,
+  "lat": 48.8050931,
+  "lon": 2.3636706,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dauphin - Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427373",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153076",
+    "route_ref": "185;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1964639959,
+  "lat": 48.7868436,
+  "lon": 2.3676023,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36702;36271",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378048;StopPoint:59:3730628",
+    "route_ref": "N15;N22;v7;185",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1964639965,
+  "lat": 48.7880927,
+  "lon": 2.3682095,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36271",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730628",
+    "route_ref": "286",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1967244770,
+  "lat": 48.7845793,
+  "lon": 2.3602482,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auguste Delaune - Stade Nautique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29887",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378072",
+    "route_ref": "v7"
+  }
+},
+{
+  "type": "node",
+  "id": 1967244778,
+  "lat": 48.7834447,
+  "lon": 2.3621472,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Auguste Delaune",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23275",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730631",
+    "route_ref": "286",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1967244784,
+  "lat": 48.7844477,
+  "lon": 2.3612524,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auguste Delaune - Stade Nautique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29878",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378073",
+    "route_ref": "v7"
+  }
+},
+{
+  "type": "node",
+  "id": 2031032232,
+  "lat": 48.7988343,
+  "lon": 2.3671528,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dispensaire Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26735",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153081",
+    "route_ref": "185;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2563558890,
+  "lat": 48.7808114,
+  "lon": 2.3612369,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36712",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730634",
+    "route_ref": "286",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2563558891,
+  "lat": 48.7810535,
+  "lon": 2.3612422,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23276",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730679",
+    "route_ref": "286",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3110695911,
+  "lat": 48.7938399,
+  "lon": 2.3692234,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guynemer - Maxime Gorki",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37178",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036814",
+    "route_ref": "168;185;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3339605734,
+  "lat": 48.8024452,
+  "lon": 2.3645623,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26738",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153078",
+    "route_ref": "185;N15;N22",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120642,
+  "lat": 48.7880714,
+  "lon": 2.3676650,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif–Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413368",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458791",
+    "route_ref": "380"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120643,
+  "lat": 48.7875172,
+  "lon": 2.3673965,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30012",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036815",
+    "route_ref": "286;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120644,
+  "lat": 48.7868962,
+  "lon": 2.3673243,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29848",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153087",
+    "route_ref": "185;N22",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120645,
+  "lat": 48.7880438,
+  "lon": 2.3677526,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413368",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458791",
+    "route_ref": "180;162"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120646,
+  "lat": 48.7874960,
+  "lon": 2.3674991,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37799",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3730627",
+    "route_ref": "180",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120647,
+  "lat": 48.7873882,
+  "lon": 2.3674622,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif-Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413367",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458792",
+    "route_ref": "162"
+  }
+},
+{
+  "type": "node",
+  "id": 3647120648,
+  "lat": 48.7873985,
+  "lon": 2.3673438,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif - Louis Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413367",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458792",
+    "route_ref": "380"
+  }
+},
+{
+  "type": "node",
+  "id": 3647128429,
+  "lat": 48.7908868,
+  "lon": 2.3692746,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guynemer - Maxime Gorki",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28542",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036813",
+    "route_ref": "162;185;v7;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3647128430,
+  "lat": 48.7929012,
+  "lon": 2.3664705,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guynemer - Place des Fusillés",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37919",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153083",
+    "route_ref": "185;v7;N15;N22",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3647135393,
+  "lat": 48.7948023,
+  "lon": 2.3633578,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Groupe Hospitalier Paul Brousse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29838",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458796",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3647135394,
+  "lat": 48.7947844,
+  "lon": 2.3550412,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun–Grosménil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29837",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458797",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3647135395,
+  "lat": 48.7955391,
+  "lon": 2.3675580,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villejuif – Paul Vaillant-Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29840",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458789"
+  }
+},
+{
+  "type": "node",
+  "id": 3647135396,
+  "lat": 48.7944469,
+  "lon": 2.3563125,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun–Grosménil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23220",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378054",
+    "shelter": "yes",
+    "source": "STIF - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3647142079,
+  "lat": 48.7978969,
+  "lon": 2.3477715,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belvédère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28839",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458799",
+    "route_ref": "162;380",
+    "source": "survey 07/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3647142080,
+  "lat": 48.7978365,
+  "lon": 2.3476165,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belvédère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8047",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4458785",
+    "route_ref": "162;380",
+    "shelter": "yes",
+    "source": "survey 07/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 3655197928,
+  "lat": 48.8047696,
+  "lon": 2.3640141,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dauphin - Anatole France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427374",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153077",
+    "route_ref": "185;N22;N15",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3692920725,
+  "lat": 48.7976224,
+  "lon": 2.3660778,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dispensaire Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26737",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153080",
+    "route_ref": "185;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3754847491,
+  "lat": 48.7947040,
+  "lon": 2.3597121,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Groupe Hospitalier Paul Brousse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29889",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378055",
+    "route_ref": "v7",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3754847492,
+  "lat": 48.7925842,
+  "lon": 2.3642029,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Villejuif",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29885",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378051",
+    "route_ref": "v7",
+    "wikidata": "Q56859076"
+  }
+},
+{
+  "type": "node",
+  "id": 3754847493,
+  "lat": 48.8050820,
+  "lon": 2.3617881,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Guipons",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29891",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378059",
+    "route_ref": "v7",
+    "wikidata": "Q56868971"
+  }
+},
+{
+  "type": "node",
+  "id": 3754847494,
+  "lat": 48.7930942,
+  "lon": 2.3555914,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Édouard Vaillant - Cimetière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29879",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378052",
+    "route_ref": "v7",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wikidata": "Q56868881"
+  }
+},
+{
+  "type": "node",
+  "id": 3889758394,
+  "lat": 48.8025135,
+  "lon": 2.3647327,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37798",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153079",
+    "route_ref": "185;N15;N22",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3889758395,
+  "lat": 48.7973034,
+  "lon": 2.3680616,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Vaillant-Couturier - Hôpital Paul Brousse-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22864",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036817",
+    "route_ref": "185;N22;N15",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56859317"
+  }
+},
+{
+  "type": "node",
+  "id": 3889758396,
+  "lat": 48.7953338,
+  "lon": 2.3663205,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26736",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4036810",
+    "route_ref": "185;N15;N22",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56868841"
+  }
+},
+{
+  "type": "node",
+  "id": 3889760684,
+  "lat": 48.7846328,
+  "lon": 2.3677850,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Division Leclerc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29850",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378364",
+    "route_ref": "185"
+  }
+},
+{
+  "type": "node",
+  "id": 3889760685,
+  "lat": 48.7847035,
+  "lon": 2.3676167,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Division Leclerc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "425782",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6563566",
+    "route_ref": "185"
+  }
+},
+{
+  "type": "node",
+  "id": 3889771581,
+  "lat": 48.7842126,
+  "lon": 2.3712557,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Lurçat - Luisette",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23262",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378365",
+    "route_ref": "185"
+  }
+},
+{
+  "type": "node",
+  "id": 3889771583,
+  "lat": 48.7846650,
+  "lon": 2.3712987,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Lurçat - Luisette",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23263",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6563565",
+    "route_ref": "185"
+  }
+},
+{
+  "type": "node",
+  "id": 4058185423,
+  "lat": 48.7848089,
+  "lon": 2.3546090,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lozaits",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23677",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864898",
+    "route_ref": "131",
+    "shelter": "no",
+    "source": "survey 09/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 4058185426,
+  "lat": 48.7867909,
+  "lon": 2.3541770,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23679",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6075100",
+    "route_ref": "131",
+    "shelter": "yes",
+    "source": "survey",
+    "source:position": "BD Ortho 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 4058185427,
+  "lat": 48.7877454,
+  "lon": 2.3542108,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-08-22",
+    "highway": "bus_stop",
+    "name": "Verdun - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23678",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6075101",
+    "route_ref": "131",
+    "shelter": "yes",
+    "source": "survey 09/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4058185429,
+  "lat": 48.7908895,
+  "lon": 2.3535954,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-08-22",
+    "highway": "bus_stop",
+    "name": "Verdun - Hautes Bruyères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26905",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864893",
+    "route_ref": "131;380",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4058185430,
+  "lat": 48.7913213,
+  "lon": 2.3537805,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-08-22",
+    "highway": "bus_stop",
+    "name": "Verdun - Hautes Bruyères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37159",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864894",
+    "route_ref": "131;380",
+    "shelter": "yes",
+    "source": "survey 07/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4058209710,
+  "lat": 48.8003650,
+  "lon": 2.3554366,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ambroise Croizat",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37161",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4293178",
+    "route_ref": "v1",
+    "shelter": "yes",
+    "source": "survey 09/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 4058209711,
+  "lat": 48.8006677,
+  "lon": 2.3552928,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ambroise Croizat",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37163",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4293177",
+    "route_ref": "v1",
+    "shelter": "yes",
+    "source": "survey",
+    "source:position": "BD Ortho 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 4980045396,
+  "lat": 48.7801459,
+  "lon": 2.3675269,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine Cherioux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37474",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7153156",
+    "route_ref": "N22",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5143938200,
+  "lat": 48.7980093,
+  "lon": 2.3548200,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27452",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864889",
+    "route_ref": "v1;131",
+    "shelter": "yes",
+    "source": "survey",
+    "source:position": "BD Ortho 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5143938201,
+  "lat": 48.7982420,
+  "lon": 2.3551392,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37160",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864890",
+    "route_ref": "v1;131",
+    "shelter": "yes",
+    "source": "survey 09/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5518900529,
+  "lat": 48.7969873,
+  "lon": 2.3498814,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Institut Gustave Roussy - Hautes Bruyères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29839",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7946420",
+    "route_ref": "162;131",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5610157880,
+  "lat": 48.7936302,
+  "lon": 2.3502393,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Institut Gustave Roussy - Entrée Principale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413369",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161536",
+    "route_ref": "380",
+    "shelter": "no",
+    "source": "survey 07/2018",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5610157881,
+  "lat": 48.7935459,
+  "lon": 2.3502296,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Institut Gustave Roussy - Entrée Principale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28224",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5161537",
+    "route_ref": "380",
+    "shelter": "yes",
+    "source": "survey 07/2018",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829888,
+  "lat": 48.7845220,
+  "lon": 2.3551040,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lozaits",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29880",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378075",
+    "route_ref": "v7"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829899,
+  "lat": 48.8030240,
+  "lon": 2.3706080,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Zola",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29888",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378063",
+    "route_ref": "v7",
+    "wikidata": "Q56869106"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829900,
+  "lat": 48.8042380,
+  "lon": 2.3685950,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29890",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378062",
+    "route_ref": "v7"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829905,
+  "lat": 48.8002860,
+  "lon": 2.3564970,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ambroise Croizat",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29876",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378057",
+    "route_ref": "v7"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829906,
+  "lat": 48.7975270,
+  "lon": 2.3580880,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Guy Môquet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29892",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378056",
+    "route_ref": "v7;v1",
+    "wikidata": "Q56869104"
+  }
+},
+{
+  "type": "node",
+  "id": 5627829908,
+  "lat": 48.7936946,
+  "lon": 2.3542210,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Institut Gustave Roussy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36730",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378053",
+    "route_ref": "131;380;v7",
+    "shelter": "yes",
+    "source": "survey 07/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5632362294,
+  "lat": 48.7831204,
+  "lon": 2.3673551,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37479",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251795",
+    "route_ref": "N22",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5632362545,
+  "lat": 48.7829755,
+  "lon": 2.3669762,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lamartine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413431",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251794",
+    "route_ref": "N22",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568491,
+  "lat": 48.7845430,
+  "lon": 2.3662997,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Bons Enfants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27282",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378071",
+    "route_ref": "286;V7",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568492,
+  "lat": 48.7846442,
+  "lon": 2.3665112,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Les Bons Enfants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27281",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4378070",
+    "route_ref": "286;V7",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593709,
+  "lat": 48.7814775,
+  "lon": 2.3555837,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Youri Gagarine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10195",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864900",
+    "route_ref": "131;v7",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593710,
+  "lat": 48.7802883,
+  "lon": 2.3553562,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Youri Gagarine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27315",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864899",
+    "route_ref": "131;v7",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593711,
+  "lat": 48.7832469,
+  "lon": 2.3548586,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Lozaits",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27314",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3864897",
+    "route_ref": "131;v7",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6345607158,
+  "lat": 48.7965503,
+  "lon": 2.3505204,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Institut Gustave Roussy - Hautes Bruyères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29835",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7946419",
+    "route_ref": "131;162",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8051927164,
+  "lat": 48.8042622,
+  "lon": 2.3587078,
+  "tags": {
+    "bus": "yes",
+    "fixme": "Vérifier la position et les lignes qui s'y arrêtent",
+    "highway": "bus_stop",
+    "name": "Les Coquettes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36731;461142;480133",
+    "route_ref": "131;v6"
+  }
+},
+{
+  "type": "node",
+  "id": 8853053753,
+  "lat": 48.7922223,
+  "lon": 2.3693266,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

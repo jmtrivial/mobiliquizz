@@ -1,0 +1,76 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 229683468,
+  "nodes": [
+    2382494779,
+    2382494757
+  ],
+  "tags": {
+    "cycleway:left": "opposite",
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Avenue François Mitterrand",
+    "oneway": "yes",
+    "oneway:bicycle": "no"
+  }
+},
+{
+  "type": "area",
+  "id": 3600402614,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Chelles",
+    "population": "55154",
+    "population:date": "2019",
+    "postal_code": "77500",
+    "ref:INSEE": "77108",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "wikidata": "Q272916",
+    "wikipedia": "fr:Chelles"
+  }
+},
+{
+  "type": "area",
+  "id": 3601230132,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Chelles",
+    "population": "473",
+    "population:date": "2019",
+    "postal_code": "60350",
+    "ref:INSEE": "60145",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q1047571",
+    "wikipedia": "fr:Chelles (Oise)"
+  }
+},
+{
+  "type": "node",
+  "id": 2382494757,
+  "lat": 48.8770825,
+  "lon": 2.6013071
+},
+{
+  "type": "node",
+  "id": 2382494779,
+  "lat": 48.8770048,
+  "lon": 2.6001537
+}
+
+  ]
+}

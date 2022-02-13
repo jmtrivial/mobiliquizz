@@ -1,0 +1,922 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 24869605,
+  "nodes": [
+    6034225406,
+    1892173822,
+    6034225396,
+    270251796
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Nice",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through"
+  }
+},
+{
+  "type": "way",
+  "id": 24869615,
+  "nodes": [
+    270251782,
+    270251785,
+    6034225407
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes": "through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 30416630,
+  "nodes": [
+    33491424,
+    6034200554,
+    6034200553
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 30416647,
+  "nodes": [
+    33491422,
+    9110465728,
+    3060586478,
+    9110465729,
+    335678597,
+    4058683881
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary_link",
+    "layer": "1",
+    "maxspeed": "50",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 30785418,
+  "nodes": [
+    340422446,
+    5105270125,
+    340422447,
+    1297848324,
+    33491426
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 41418084,
+  "nodes": [
+    6174742928,
+    8194406813,
+    506534324,
+    339131600,
+    339131599,
+    6174742936,
+    6174742935,
+    6174742930,
+    6174742934,
+    6174742933,
+    6174742931,
+    6174742932,
+    339131597,
+    339131596,
+    251214067
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:oneway": "-1",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Rue de la Pinède",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 41439768,
+  "nodes": [
+    506835224,
+    506835239,
+    506835229,
+    506835230
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue du Cheiron",
+    "oneway": "yes",
+    "ref": "M 436",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "source:ref": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 46888010,
+  "nodes": [
+    33491426,
+    1297848100,
+    33491425,
+    5105270124,
+    33491424
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 232875591,
+  "nodes": [
+    1892173817,
+    6034225397,
+    6779824835,
+    6405603002,
+    2411792032
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Nice",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 264588266,
+  "nodes": [
+    2702498647,
+    29456384
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "70",
+    "name": "Route de Vence",
+    "oneway": "yes",
+    "ref": "M 36",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 301893028,
+  "nodes": [
+    4058683881,
+    9110465730,
+    9110465731,
+    335678595,
+    9110465732,
+    335678594,
+    9110465733,
+    3744795837,
+    9110465734,
+    335678593
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary_link",
+    "lanes": "1",
+    "maxspeed": "50",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 442208445,
+  "nodes": [
+    506835227,
+    4398991046,
+    506835228,
+    506835222
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue du Cheiron",
+    "oneway": "yes",
+    "ref": "M 436",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "source:ref": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 640540380,
+  "nodes": [
+    335678593,
+    9110465735,
+    335678592,
+    335678591,
+    1873689721,
+    1873689722
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary_link",
+    "lanes": "2",
+    "maxspeed": "50",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 640543173,
+  "nodes": [
+    6034200553,
+    33491423,
+    33491422
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "source:maxspeed": "sign",
+    "surface": "asphalt",
+    "turn:lanes": "through|slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 640546978,
+  "nodes": [
+    2411792032,
+    6927161949,
+    6034225406
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Nice",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 640546979,
+  "nodes": [
+    6034225407,
+    270251808
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Cannes",
+    "oneway": "yes",
+    "ref": "M 6007",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|right"
+  }
+},
+{
+  "type": "way",
+  "id": 755331660,
+  "nodes": [
+    270086929,
+    8836458440,
+    270086930,
+    6390505763,
+    270086931,
+    1027879187,
+    270086932
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "maxweight": "3.5",
+    "name": "Chemin de Saint-Laurent du Var",
+    "sidewalk": "both",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 768662053,
+  "nodes": [
+    506835231,
+    506835234,
+    506835241,
+    506835227
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue du Cheiron",
+    "oneway": "yes",
+    "ref": "M 436",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "source:ref": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600078617,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Cagnes-sur-Mer",
+    "name:fr": "Cagnes-sur-Mer",
+    "name:ja": "カーニュ＝シュル＝メール",
+    "name:oc": "Canha de Mar",
+    "old_name:it": "Cagno",
+    "population": "52178",
+    "population:date": "2019",
+    "postal_code": "06800",
+    "ref:FR:SIREN": "210600276",
+    "ref:INSEE": "06027",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "website": "http://www.cagnes-sur-mer.fr/",
+    "wikidata": "Q193832",
+    "wikipedia": "fr:Cagnes-sur-Mer"
+  }
+},
+{
+  "type": "node",
+  "id": 506835222,
+  "lat": 43.6702001,
+  "lon": 7.1251321
+},
+{
+  "type": "node",
+  "id": 506835224,
+  "lat": 43.6704391,
+  "lon": 7.1250131
+},
+{
+  "type": "node",
+  "id": 506835227,
+  "lat": 43.6703538,
+  "lon": 7.1249589
+},
+{
+  "type": "node",
+  "id": 506835228,
+  "lat": 43.6702292,
+  "lon": 7.1250892
+},
+{
+  "type": "node",
+  "id": 506835229,
+  "lat": 43.6711052,
+  "lon": 7.1245769
+},
+{
+  "type": "node",
+  "id": 506835230,
+  "lat": 43.6711778,
+  "lon": 7.1244938
+},
+{
+  "type": "node",
+  "id": 506835231,
+  "lat": 43.6711001,
+  "lon": 7.1245074
+},
+{
+  "type": "node",
+  "id": 506835234,
+  "lat": 43.6708873,
+  "lon": 7.1246096
+},
+{
+  "type": "node",
+  "id": 506835239,
+  "lat": 43.6708861,
+  "lon": 7.1247116
+},
+{
+  "type": "node",
+  "id": 506835241,
+  "lat": 43.6706623,
+  "lon": 7.1247368
+},
+{
+  "type": "node",
+  "id": 4398991046,
+  "lat": 43.6702810,
+  "lon": 7.1250317
+},
+{
+  "type": "node",
+  "id": 33491422,
+  "lat": 43.6527798,
+  "lon": 7.1440205
+},
+{
+  "type": "node",
+  "id": 33491423,
+  "lat": 43.6529959,
+  "lon": 7.1449436
+},
+{
+  "type": "node",
+  "id": 33491424,
+  "lat": 43.6532711,
+  "lon": 7.1461212
+},
+{
+  "type": "node",
+  "id": 33491425,
+  "lat": 43.6534217,
+  "lon": 7.1464795
+},
+{
+  "type": "node",
+  "id": 33491426,
+  "lat": 43.6537561,
+  "lon": 7.1470157
+},
+{
+  "type": "node",
+  "id": 335678591,
+  "lat": 43.6531740,
+  "lon": 7.1436714
+},
+{
+  "type": "node",
+  "id": 335678592,
+  "lat": 43.6531420,
+  "lon": 7.1436010
+},
+{
+  "type": "node",
+  "id": 335678593,
+  "lat": 43.6530801,
+  "lon": 7.1435335
+},
+{
+  "type": "node",
+  "id": 335678594,
+  "lat": 43.6529172,
+  "lon": 7.1434771
+},
+{
+  "type": "node",
+  "id": 335678595,
+  "lat": 43.6528330,
+  "lon": 7.1435107
+},
+{
+  "type": "node",
+  "id": 335678597,
+  "lat": 43.6527568,
+  "lon": 7.1437124
+},
+{
+  "type": "node",
+  "id": 340422446,
+  "lat": 43.6532385,
+  "lon": 7.1461236
+},
+{
+  "type": "node",
+  "id": 340422447,
+  "lat": 43.6533881,
+  "lon": 7.1465049
+},
+{
+  "type": "node",
+  "id": 1297848100,
+  "lat": 43.6536536,
+  "lon": 7.1468512
+},
+{
+  "type": "node",
+  "id": 1297848324,
+  "lat": 43.6536311,
+  "lon": 7.1468793
+},
+{
+  "type": "node",
+  "id": 1873689721,
+  "lat": 43.6532090,
+  "lon": 7.1437747
+},
+{
+  "type": "node",
+  "id": 1873689722,
+  "lat": 43.6532266,
+  "lon": 7.1438369
+},
+{
+  "type": "node",
+  "id": 3060586478,
+  "lat": 43.6527606,
+  "lon": 7.1438234
+},
+{
+  "type": "node",
+  "id": 3744795837,
+  "lat": 43.6529958,
+  "lon": 7.1434905
+},
+{
+  "type": "node",
+  "id": 4058683881,
+  "lat": 43.6527644,
+  "lon": 7.1436512
+},
+{
+  "type": "node",
+  "id": 5105270124,
+  "lat": 43.6533364,
+  "lon": 7.1462898
+},
+{
+  "type": "node",
+  "id": 5105270125,
+  "lat": 43.6532986,
+  "lon": 7.1462925
+},
+{
+  "type": "node",
+  "id": 6034200553,
+  "lat": 43.6530399,
+  "lon": 7.1451396
+},
+{
+  "type": "node",
+  "id": 6034200554,
+  "lat": 43.6531356,
+  "lon": 7.1455475
+},
+{
+  "type": "node",
+  "id": 9110465728,
+  "lat": 43.6527731,
+  "lon": 7.1438802
+},
+{
+  "type": "node",
+  "id": 9110465729,
+  "lat": 43.6527560,
+  "lon": 7.1437655
+},
+{
+  "type": "node",
+  "id": 9110465730,
+  "lat": 43.6527735,
+  "lon": 7.1435984
+},
+{
+  "type": "node",
+  "id": 9110465731,
+  "lat": 43.6527972,
+  "lon": 7.1435512
+},
+{
+  "type": "node",
+  "id": 9110465732,
+  "lat": 43.6528712,
+  "lon": 7.1434867
+},
+{
+  "type": "node",
+  "id": 9110465733,
+  "lat": 43.6529529,
+  "lon": 7.1434796
+},
+{
+  "type": "node",
+  "id": 9110465734,
+  "lat": 43.6530335,
+  "lon": 7.1435065
+},
+{
+  "type": "node",
+  "id": 9110465735,
+  "lat": 43.6531123,
+  "lon": 7.1435630
+},
+{
+  "type": "node",
+  "id": 270251782,
+  "lat": 43.6548473,
+  "lon": 7.1503571
+},
+{
+  "type": "node",
+  "id": 270251785,
+  "lat": 43.6548700,
+  "lon": 7.1505375
+},
+{
+  "type": "node",
+  "id": 270251796,
+  "lat": 43.6551854,
+  "lon": 7.1514051
+},
+{
+  "type": "node",
+  "id": 270251808,
+  "lat": 43.6549200,
+  "lon": 7.1507575
+},
+{
+  "type": "node",
+  "id": 1892173817,
+  "lat": 43.6551098,
+  "lon": 7.1515994
+},
+{
+  "type": "node",
+  "id": 1892173822,
+  "lat": 43.6552416,
+  "lon": 7.1516452
+},
+{
+  "type": "node",
+  "id": 2411792032,
+  "lat": 43.6553963,
+  "lon": 7.1522796
+},
+{
+  "type": "node",
+  "id": 6034225396,
+  "lat": 43.6552246,
+  "lon": 7.1515672
+},
+{
+  "type": "node",
+  "id": 6034225397,
+  "lat": 43.6551220,
+  "lon": 7.1516227
+},
+{
+  "type": "node",
+  "id": 6034225406,
+  "lat": 43.6553376,
+  "lon": 7.1520177
+},
+{
+  "type": "node",
+  "id": 6034225407,
+  "lat": 43.6548916,
+  "lon": 7.1506399
+},
+{
+  "type": "node",
+  "id": 6405603002,
+  "lat": 43.6553703,
+  "lon": 7.1522336
+},
+{
+  "type": "node",
+  "id": 6779824835,
+  "lat": 43.6552707,
+  "lon": 7.1519834
+},
+{
+  "type": "node",
+  "id": 6927161949,
+  "lat": 43.6553898,
+  "lon": 7.1522222
+},
+{
+  "type": "node",
+  "id": 339131596,
+  "lat": 43.6567567,
+  "lon": 7.1584136
+},
+{
+  "type": "node",
+  "id": 339131597,
+  "lat": 43.6564075,
+  "lon": 7.1585568
+},
+{
+  "type": "node",
+  "id": 339131599,
+  "lat": 43.6562499,
+  "lon": 7.1582702
+},
+{
+  "type": "node",
+  "id": 339131600,
+  "lat": 43.6560487,
+  "lon": 7.1576222
+},
+{
+  "type": "node",
+  "id": 506534324,
+  "lat": 43.6558653,
+  "lon": 7.1570297
+},
+{
+  "type": "node",
+  "id": 6174742928,
+  "lat": 43.6557893,
+  "lon": 7.1568092
+},
+{
+  "type": "node",
+  "id": 6174742930,
+  "lat": 43.6563409,
+  "lon": 7.1585517
+},
+{
+  "type": "node",
+  "id": 6174742931,
+  "lat": 43.6563814,
+  "lon": 7.1585651
+},
+{
+  "type": "node",
+  "id": 6174742932,
+  "lat": 43.6563938,
+  "lon": 7.1585624
+},
+{
+  "type": "node",
+  "id": 6174742933,
+  "lat": 43.6563652,
+  "lon": 7.1585637
+},
+{
+  "type": "node",
+  "id": 6174742934,
+  "lat": 43.6563531,
+  "lon": 7.1585604
+},
+{
+  "type": "node",
+  "id": 6174742935,
+  "lat": 43.6563327,
+  "lon": 7.1585396
+},
+{
+  "type": "node",
+  "id": 6174742936,
+  "lat": 43.6563240,
+  "lon": 7.1585195
+},
+{
+  "type": "node",
+  "id": 8194406813,
+  "lat": 43.6558222,
+  "lon": 7.1569046
+},
+{
+  "type": "node",
+  "id": 251214067,
+  "lat": 43.6574692,
+  "lon": 7.1581772
+},
+{
+  "type": "node",
+  "id": 29456384,
+  "lat": 43.6722965,
+  "lon": 7.1433603
+},
+{
+  "type": "node",
+  "id": 2702498647,
+  "lat": 43.6718509,
+  "lon": 7.1435889
+},
+{
+  "type": "node",
+  "id": 270086929,
+  "lat": 43.6654710,
+  "lon": 7.1736231
+},
+{
+  "type": "node",
+  "id": 270086930,
+  "lat": 43.6656542,
+  "lon": 7.1740868
+},
+{
+  "type": "node",
+  "id": 270086931,
+  "lat": 43.6657851,
+  "lon": 7.1747562
+},
+{
+  "type": "node",
+  "id": 270086932,
+  "lat": 43.6659324,
+  "lon": 7.1751938
+},
+{
+  "type": "node",
+  "id": 1027879187,
+  "lat": 43.6658333,
+  "lon": 7.1748966
+},
+{
+  "type": "node",
+  "id": 6390505763,
+  "lat": 43.6656970,
+  "lon": 7.1742781
+},
+{
+  "type": "node",
+  "id": 8836458440,
+  "lat": 43.6655492,
+  "lon": 7.1738134
+}
+
+  ]
+}

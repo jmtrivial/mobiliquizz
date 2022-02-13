@@ -1,0 +1,90 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 22774099,
+  "nodes": [
+    244492257,
+    2207110322,
+    244492258
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "name": "Quai de l'Apport Paris",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 22774100,
+  "nodes": [
+    244492258,
+    1960746928
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "name": "Quai de l'Apport Paris",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600149203,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Corbeil-Essonnes",
+    "population": "51234",
+    "population:date": "2019",
+    "postal_code": "91100",
+    "ref:INSEE": "91174",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q208812",
+    "wikipedia": "fr:Corbeil-Essonnes"
+  }
+},
+{
+  "type": "node",
+  "id": 244492257,
+  "lat": 48.6149936,
+  "lon": 2.4802716
+},
+{
+  "type": "node",
+  "id": 244492258,
+  "lat": 48.6151122,
+  "lon": 2.4800979
+},
+{
+  "type": "node",
+  "id": 1960746928,
+  "lat": 48.6149603,
+  "lon": 2.4801893
+},
+{
+  "type": "node",
+  "id": 2207110322,
+  "lat": 48.6150545,
+  "lon": 2.4802288
+}
+
+  ]
+}

@@ -1,0 +1,2814 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:49:54Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 304815760,
+  "lat": 49.0449129,
+  "lon": 2.0106396,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "L'Orangerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8718",
+    "ref:FR:STIF:stop_id": "StopPoint:40:41"
+  }
+},
+{
+  "type": "node",
+  "id": 307710366,
+  "lat": 49.0437666,
+  "lon": 2.0284907,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Cèdre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9604",
+    "ref:FR:STIF:stop_id": "StopPoint:40:31"
+  }
+},
+{
+  "type": "node",
+  "id": 307715452,
+  "lat": 49.0408065,
+  "lon": 2.0149885,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Golf",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8662;13745",
+    "ref:FR:STIF:stop_id": "StopPoint:40:35;StopPoint:23:109",
+    "route_ref": "14;34;36;40",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 307715852,
+  "lat": 49.0444277,
+  "lon": 2.0102759,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "L'Orangerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8663",
+    "ref:FR:STIF:stop_id": "StopPoint:40:36"
+  }
+},
+{
+  "type": "node",
+  "id": 441168023,
+  "lat": 49.0472439,
+  "lon": 2.0101116,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8940",
+    "ref:FR:STIF:stop_id": "StopPoint:40:119",
+    "route_ref": "39"
+  }
+},
+{
+  "type": "node",
+  "id": 510603960,
+  "lat": 49.0541939,
+  "lon": 2.0145764,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Verne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9061",
+    "ref:FR:STIF:stop_id": "StopPoint:40:247",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 527328784,
+  "lat": 49.0506857,
+  "lon": 2.0408918,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centaure-Martelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8605",
+    "ref:FR:STIF:stop_id": "StopPoint:40:528",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 527360298,
+  "lat": 49.0459774,
+  "lon": 2.0395725,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9602;13749",
+    "ref:FR:STIF:stop_id": "StopPoint:40:29;StopPoint:23:113",
+    "route_ref": "14;36;45",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 527360369,
+  "lat": 49.0429910,
+  "lon": 2.0323543,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Tilleul",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9603",
+    "ref:FR:STIF:stop_id": "StopPoint:40:30"
+  }
+},
+{
+  "type": "node",
+  "id": 529965309,
+  "lat": 49.0425643,
+  "lon": 2.0679401,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Linandes Vertes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8672",
+    "ref:FR:STIF:stop_id": "StopPoint:40:238",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 617854908,
+  "lat": 49.0302249,
+  "lon": 2.0697259,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brûloir Hautil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8804",
+    "ref:FR:STIF:stop_id": "StopPoint:40:277",
+    "shelter": "yes",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 617854911,
+  "lat": 49.0301662,
+  "lon": 2.0702731,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brûloir Hautil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8798",
+    "ref:FR:STIF:stop_id": "StopPoint:40:312",
+    "shelter": "yes",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 617854913,
+  "lat": 49.0317879,
+  "lon": 2.0736849,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conseil Départemental",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41477",
+    "route_ref": "29;N152",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 617854915,
+  "lat": 49.0318886,
+  "lon": 2.0750513,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Conseil Général Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41477",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8743287",
+    "route_ref": "29;30;38;48;N152"
+  }
+},
+{
+  "type": "node",
+  "id": 617854938,
+  "lat": 49.0336123,
+  "lon": 2.0806126,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Plants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8949",
+    "ref:FR:STIF:stop_id": "StopPoint:40:55",
+    "shelter": "yes",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 617854939,
+  "lat": 49.0335377,
+  "lon": 2.0811653,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#9c91c5",
+    "highway": "bus_stop",
+    "loc_name": "Hautil Sud",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10138",
+    "ref:FR:STIF:stop_id": "StopPoint:40:14",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 619157601,
+  "lat": 49.0391457,
+  "lon": 2.0764079,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#009fe3",
+    "highway": "bus_stop",
+    "loc_name": "Oise Ouest",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "36;42;44;57;60;80;95-04;603;604;605"
+  }
+},
+{
+  "type": "node",
+  "id": 619157602,
+  "lat": 49.0411629,
+  "lon": 2.0735072,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Marjoberts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474272",
+    "route_ref": "95-04;95-05;95-41;95-48;95-50",
+    "shelter": "yes",
+    "source": "knowledge",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 619157604,
+  "lat": 49.0411838,
+  "lon": 2.0739321,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marjoberts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "474273",
+    "route_ref": "57;60;80;95-04;95-05;95-08;95-41;95-48",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 619157606,
+  "lat": 49.0548713,
+  "lon": 2.0402737,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Genottes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8958",
+    "ref:FR:STIF:stop_id": "StopPoint:40:222",
+    "shelter": "yes",
+    "source": "knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 619157617,
+  "lat": 49.0540304,
+  "lon": 2.0445062,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Albi",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8959",
+    "ref:FR:STIF:stop_id": "StopPoint:40:223",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 619157621,
+  "lat": 49.0545971,
+  "lon": 2.0469402,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plaine des Sports",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8607",
+    "ref:FR:STIF:stop_id": "StopPoint:40:224",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 619157630,
+  "lat": 49.0449084,
+  "lon": 2.0701718,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Artisanale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9597",
+    "ref:FR:STIF:stop_id": "StopPoint:40:24",
+    "route_ref": "44;95-04;95-48",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 620019834,
+  "lat": 49.0439180,
+  "lon": 2.0706618,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Artisanale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416809",
+    "ref:FR:STIF:stop_id": "StopPoint:40:52",
+    "route_ref": "36;44;95-04;95-41;95-48;95-50",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1147993522,
+  "lat": 49.0381161,
+  "lon": 2.0680034,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Ponceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8901",
+    "ref:FR:STIF:stop_id": "StopPoint:40:257",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1147993543,
+  "lat": 49.0384635,
+  "lon": 2.0681978,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Ponceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8670",
+    "ref:FR:STIF:stop_id": "StopPoint:40:236",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1147993597,
+  "lat": 49.0366798,
+  "lon": 2.0686680,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Croix-Petit",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8669",
+    "ref:FR:STIF:stop_id": "StopPoint:40:235",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1147993831,
+  "lat": 49.0364602,
+  "lon": 2.0686801,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "La Croix-Petit",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8902",
+    "ref:FR:STIF:stop_id": "StopPoint:40:258",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1219046296,
+  "lat": 49.0477034,
+  "lon": 2.0168186,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Terroir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8920",
+    "ref:FR:STIF:stop_id": "StopPoint:40:133",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 1219046309,
+  "lat": 49.0474930,
+  "lon": 2.0179512,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Terroir",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8910",
+    "ref:FR:STIF:stop_id": "StopPoint:40:153",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2011"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713425,
+  "lat": 49.0549429,
+  "lon": 2.0326343,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Horloge",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8956",
+    "ref:FR:STIF:stop_id": "StopPoint:40:220",
+    "source": "b"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713544,
+  "lat": 49.0499596,
+  "lon": 2.0186083,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hérons",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8601",
+    "ref:FR:STIF:stop_id": "StopPoint:40:524",
+    "shelter": "yes",
+    "source": "b"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713638,
+  "lat": 49.0505209,
+  "lon": 2.0436482,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Verger",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8706",
+    "ref:FR:STIF:stop_id": "StopPoint:40:515",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713677,
+  "lat": 49.0519549,
+  "lon": 2.0281464,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin du Soleil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8978",
+    "ref:FR:STIF:stop_id": "StopPoint:40:104",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713802,
+  "lat": 49.0453463,
+  "lon": 2.0259158,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de l'Embellie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9605",
+    "ref:FR:STIF:stop_id": "StopPoint:40:32",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713884,
+  "lat": 49.0554400,
+  "lon": 2.0357358,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Cascades",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8957",
+    "ref:FR:STIF:stop_id": "StopPoint:40:221",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1224713916,
+  "lat": 49.0446069,
+  "lon": 2.0313116,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "417110",
+    "ref:FR:STIF:stop_id": "StopPoint:40:132",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714220,
+  "lat": 49.0497864,
+  "lon": 2.0176007,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hérons",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8711",
+    "ref:FR:STIF:stop_id": "StopPoint:40:520",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714288,
+  "lat": 49.0511521,
+  "lon": 2.0308308,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Constellation",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8946",
+    "ref:FR:STIF:stop_id": "StopPoint:40:124",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714310,
+  "lat": 49.0546335,
+  "lon": 2.0324291,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Horloge",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9068",
+    "ref:FR:STIF:stop_id": "StopPoint:40:216",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714321,
+  "lat": 49.0435832,
+  "lon": 2.0182733,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Essarts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9607",
+    "ref:FR:STIF:stop_id": "StopPoint:40:34",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714366,
+  "lat": 49.0526246,
+  "lon": 2.0222204,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Bontemps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8979",
+    "ref:FR:STIF:stop_id": "StopPoint:40:105",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714443,
+  "lat": 49.0503459,
+  "lon": 2.0443783,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Verger",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8606",
+    "ref:FR:STIF:stop_id": "StopPoint:40:529",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714460,
+  "lat": 49.0445017,
+  "lon": 2.0269470,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de l'Embellie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9585",
+    "ref:FR:STIF:stop_id": "StopPoint:40:44",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714471,
+  "lat": 49.0507616,
+  "lon": 2.0410706,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centaure-Martelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8707",
+    "ref:FR:STIF:stop_id": "StopPoint:40:516",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1224714529,
+  "lat": 49.0452947,
+  "lon": 2.0307116,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8870",
+    "ref:FR:STIF:stop_id": "StopPoint:40:154",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1417482483,
+  "lat": 49.0474493,
+  "lon": 2.0105402,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8921",
+    "ref:FR:STIF:stop_id": "StopPoint:40:37"
+  }
+},
+{
+  "type": "node",
+  "id": 1417482484,
+  "lat": 49.0473285,
+  "lon": 2.0103592,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8717",
+    "ref:FR:STIF:stop_id": "StopPoint:40:547",
+    "route_ref": "34"
+  }
+},
+{
+  "type": "node",
+  "id": 1417482485,
+  "lat": 49.0473910,
+  "lon": 2.0104474,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9321",
+    "ref:FR:STIF:stop_id": "StopPoint:40:523",
+    "route_ref": "34N;35"
+  }
+},
+{
+  "type": "node",
+  "id": 1417482486,
+  "lat": 49.0474279,
+  "lon": 2.0100676,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14145",
+    "ref:FR:STIF:stop_id": "StopPoint:23:937",
+    "route_ref": "14;Baladobus;CSO 14;95-48;95-50",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1417482487,
+  "lat": 49.0475053,
+  "lon": 2.0101618,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413538",
+    "ref:FR:STIF:stop_id": "StopPoint:21:149",
+    "route_ref": "95-22;95-23;CSO 2",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1417484791,
+  "lat": 49.0464544,
+  "lon": 2.0658646,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Linandes Orange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9592",
+    "ref:FR:STIF:stop_id": "StopPoint:40:51"
+  }
+},
+{
+  "type": "node",
+  "id": 1417484849,
+  "lat": 49.0473412,
+  "lon": 2.0526342,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Sébille",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9590",
+    "ref:FR:STIF:stop_id": "StopPoint:40:49",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1417484970,
+  "lat": 49.0480185,
+  "lon": 2.0460032,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Haut de Cengy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9589",
+    "ref:FR:STIF:stop_id": "StopPoint:40:48"
+  }
+},
+{
+  "type": "node",
+  "id": 1535565653,
+  "lat": 49.0393631,
+  "lon": 2.0608864,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sentier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8986",
+    "ref:FR:STIF:stop_id": "StopPoint:40:62",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1596018873,
+  "lat": 49.0317103,
+  "lon": 2.0608988,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "jgFa-Yx-EJqdYRILynMnxw",
+    "name": "Le Grand Hunier",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8954",
+    "ref:FR:STIF:stop_id": "StopPoint:40:80",
+    "shelter": "no",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1800525101,
+  "lat": 49.0463939,
+  "lon": 2.0239394,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Chêne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9584",
+    "ref:FR:STIF:stop_id": "StopPoint:40:43"
+  }
+},
+{
+  "type": "node",
+  "id": 1864281285,
+  "lat": 49.0305375,
+  "lon": 2.0821929,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché des Touleuses",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1864281286,
+  "lat": 49.0306682,
+  "lon": 2.0821247,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché des Touleuses",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10135",
+    "ref:FR:STIF:stop_id": "StopPoint:40:10"
+  }
+},
+{
+  "type": "node",
+  "id": 1864283852,
+  "lat": 49.0307991,
+  "lon": 2.0754721,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Châteaux Saint-Sylvère",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864283856,
+  "lat": 49.0308306,
+  "lon": 2.0759796,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Châteaux Saint-Sylvère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18038",
+    "ref:FR:STIF:stop_id": "StopPoint:40:12",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864283859,
+  "lat": 49.0307801,
+  "lon": 2.0796509,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Touleuses",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10136",
+    "ref:FR:STIF:stop_id": "StopPoint:40:11",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864283861,
+  "lat": 49.0306961,
+  "lon": 2.0793966,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Touleuses",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864322188,
+  "lat": 49.0477714,
+  "lon": 2.0512064,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Sébille",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9600",
+    "ref:FR:STIF:stop_id": "StopPoint:40:27"
+  }
+},
+{
+  "type": "node",
+  "id": 1864322189,
+  "lat": 49.0473866,
+  "lon": 2.0551215,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Heuruelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9599",
+    "ref:FR:STIF:stop_id": "StopPoint:40:26"
+  }
+},
+{
+  "type": "node",
+  "id": 1864322192,
+  "lat": 49.0467736,
+  "lon": 2.0651102,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Linandes Orange",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9598",
+    "ref:FR:STIF:stop_id": "StopPoint:40:25"
+  }
+},
+{
+  "type": "node",
+  "id": 1864322195,
+  "lat": 49.0482686,
+  "lon": 2.0456289,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Haut de Cengy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9601",
+    "ref:FR:STIF:stop_id": "StopPoint:40:28",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864331439,
+  "lat": 49.0430550,
+  "lon": 2.0300988,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Cèdre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9586",
+    "ref:FR:STIF:stop_id": "StopPoint:40:45",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864378071,
+  "lat": 49.0473031,
+  "lon": 2.0079360,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fief à Caven",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9578",
+    "ref:FR:STIF:stop_id": "StopPoint:40:20"
+  }
+},
+{
+  "type": "node",
+  "id": 1864379678,
+  "lat": 49.0443848,
+  "lon": 2.0194880,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Les Essarts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9583",
+    "ref:FR:STIF:stop_id": "StopPoint:40:42",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1864384051,
+  "lat": 49.0465095,
+  "lon": 2.0240392,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Chêne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9606",
+    "ref:FR:STIF:stop_id": "StopPoint:40:33"
+  }
+},
+{
+  "type": "node",
+  "id": 1864390916,
+  "lat": 49.0425779,
+  "lon": 2.0332941,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Tilleul",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9587",
+    "ref:FR:STIF:stop_id": "StopPoint:40:46"
+  }
+},
+{
+  "type": "node",
+  "id": 1864399358,
+  "lat": 49.0470387,
+  "lon": 2.0559974,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Heuruelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9591",
+    "ref:FR:STIF:stop_id": "StopPoint:40:50"
+  }
+},
+{
+  "type": "node",
+  "id": 1864425136,
+  "lat": 49.0324213,
+  "lon": 2.0682125,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Grouettes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8951",
+    "ref:FR:STIF:stop_id": "StopPoint:40:57"
+  }
+},
+{
+  "type": "node",
+  "id": 1864425142,
+  "lat": 49.0362726,
+  "lon": 2.0620035,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "description": "Direction Menucourt Taillette / La Croix Lieu",
+    "highway": "bus_stop",
+    "name": "Place de la Libération",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8985",
+    "ref:FR:STIF:stop_id": "StopPoint:40:61",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1864425155,
+  "lat": 49.0334951,
+  "lon": 2.0662740,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "hH-1Ixw3Nzr3QmcEOjfLMw",
+    "name": "Paradis",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8952",
+    "ref:FR:STIF:stop_id": "StopPoint:40:58",
+    "shelter": "no",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1864444097,
+  "lat": 49.0422405,
+  "lon": 2.0445585,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gency",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8988",
+    "ref:FR:STIF:stop_id": "StopPoint:40:64"
+  }
+},
+{
+  "type": "node",
+  "id": 1864444100,
+  "lat": 49.0423166,
+  "lon": 2.0448290,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gency",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9097",
+    "ref:FR:STIF:stop_id": "StopPoint:40:95"
+  }
+},
+{
+  "type": "node",
+  "id": 1864444107,
+  "lat": 49.0418115,
+  "lon": 2.0579321,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Menandon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8987",
+    "ref:FR:STIF:stop_id": "StopPoint:40:63"
+  }
+},
+{
+  "type": "node",
+  "id": 1865597871,
+  "lat": 49.0525763,
+  "lon": 2.0082441,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Explorateurs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413573;416731",
+    "route_ref": "95-41;95-22:95-48;95-50:39",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1865603274,
+  "lat": 49.0529222,
+  "lon": 2.0183865,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Hazay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8943",
+    "ref:FR:STIF:stop_id": "StopPoint:40:122"
+  }
+},
+{
+  "type": "node",
+  "id": 1865603275,
+  "lat": 49.0530903,
+  "lon": 2.0173939,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Hazay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8980",
+    "ref:FR:STIF:stop_id": "StopPoint:40:106"
+  }
+},
+{
+  "type": "node",
+  "id": 1865606336,
+  "lat": 49.0517411,
+  "lon": 2.0282319,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin du Soleil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8945",
+    "ref:FR:STIF:stop_id": "StopPoint:40:123",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1865606338,
+  "lat": 49.0524158,
+  "lon": 2.0234969,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Bontemps",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8944",
+    "ref:FR:STIF:stop_id": "StopPoint:40:115"
+  }
+},
+{
+  "type": "node",
+  "id": 1866033585,
+  "lat": 49.0321831,
+  "lon": 2.0624111,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "x3PdY1akgPNeCoWu7PGZjg",
+    "name": "Le Port",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8936",
+    "ref:FR:STIF:stop_id": "StopPoint:40:81",
+    "shelter": "yes",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1866033587,
+  "lat": 49.0317087,
+  "lon": 2.0689295,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "7woxlfMMIqpZOgGunNZWvQ",
+    "name": "Les Grouettes",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8938",
+    "ref:FR:STIF:stop_id": "StopPoint:40:100",
+    "shelter": "no",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1866033588,
+  "lat": 49.0320729,
+  "lon": 2.0633631,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "P6gKZpL7EPRVVbbacB_VVw",
+    "name": "Lozier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8953",
+    "ref:FR:STIF:stop_id": "StopPoint:40:79",
+    "shelter": "yes",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1866033590,
+  "lat": 49.0326878,
+  "lon": 2.0651216,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "Jjw_kHwrfrtGsBNZOF2G2w",
+    "name": "Paradis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8937",
+    "ref:FR:STIF:stop_id": "StopPoint:40:99",
+    "shelter": "yes",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1866061347,
+  "lat": 49.0418919,
+  "lon": 2.0576731,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Menandon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9098",
+    "ref:FR:STIF:stop_id": "StopPoint:40:96"
+  }
+},
+{
+  "type": "node",
+  "id": 1867202368,
+  "lat": 49.0507569,
+  "lon": 2.0318804,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Constellation",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8977",
+    "ref:FR:STIF:stop_id": "StopPoint:40:103"
+  }
+},
+{
+  "type": "node",
+  "id": 1867242088,
+  "lat": 49.0364200,
+  "lon": 2.0708652,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin Dupuis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8903",
+    "ref:FR:STIF:stop_id": "StopPoint:40:259"
+  }
+},
+{
+  "type": "node",
+  "id": 1867242092,
+  "lat": 49.0364528,
+  "lon": 2.0703736,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "GvqpvSwuTtBANQ4PR3d85Q",
+    "name": "Chemin Dupuis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8668",
+    "ref:FR:STIF:stop_id": "StopPoint:40:234",
+    "shelter": "yes",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 1867249724,
+  "lat": 49.0402865,
+  "lon": 2.0692372,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Chênes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8900",
+    "ref:FR:STIF:stop_id": "StopPoint:40:256",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867249731,
+  "lat": 49.0405232,
+  "lon": 2.0693261,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Chênes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8671",
+    "ref:FR:STIF:stop_id": "StopPoint:40:237",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1867251765,
+  "lat": 49.0422209,
+  "lon": 2.0682954,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Linandes Vertes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8899",
+    "ref:FR:STIF:stop_id": "StopPoint:40:255",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867254035,
+  "lat": 49.0433615,
+  "lon": 2.0624527,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Collège",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8673",
+    "ref:FR:STIF:stop_id": "StopPoint:40:239",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867254036,
+  "lat": 49.0433910,
+  "lon": 2.0630040,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Collège",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8898",
+    "ref:FR:STIF:stop_id": "StopPoint:40:254",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867256853,
+  "lat": 49.0435885,
+  "lon": 2.0582430,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8897",
+    "ref:FR:STIF:stop_id": "StopPoint:40:253",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867256854,
+  "lat": 49.0438135,
+  "lon": 2.0577060,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Couturier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8674",
+    "ref:FR:STIF:stop_id": "StopPoint:40:240",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867264780,
+  "lat": 49.0443255,
+  "lon": 2.0552887,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Justice",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8896",
+    "ref:FR:STIF:stop_id": "StopPoint:40:252",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867264781,
+  "lat": 49.0445116,
+  "lon": 2.0550078,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Justice",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8675",
+    "ref:FR:STIF:stop_id": "StopPoint:40:241"
+  }
+},
+{
+  "type": "node",
+  "id": 1867264782,
+  "lat": 49.0468439,
+  "lon": 2.0518628,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Sébille",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8676",
+    "ref:FR:STIF:stop_id": "StopPoint:40:242",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867269592,
+  "lat": 49.0474684,
+  "lon": 2.0364915,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Chemin de Fer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8894;8677",
+    "ref:FR:STIF:stop_id": "StopPoint:40:251;StopPoint:23:107",
+    "route_ref": "14",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867269593,
+  "lat": 49.0480935,
+  "lon": 2.0367836,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Chemin de Fer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8894;8677",
+    "ref:FR:STIF:stop_id": "StopPoint:40:243;StopPoint:23:108",
+    "route_ref": "14"
+  }
+},
+{
+  "type": "node",
+  "id": 1867282344,
+  "lat": 49.0538577,
+  "lon": 2.0266903,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin à Vent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9063",
+    "ref:FR:STIF:stop_id": "StopPoint:40:249"
+  }
+},
+{
+  "type": "node",
+  "id": 1867282345,
+  "lat": 49.0540880,
+  "lon": 2.0262325,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin à Vent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9059",
+    "ref:FR:STIF:stop_id": "StopPoint:40:245"
+  }
+},
+{
+  "type": "node",
+  "id": 1867282346,
+  "lat": 49.0547314,
+  "lon": 2.0178524,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Puiseux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9073",
+    "ref:FR:STIF:stop_id": "StopPoint:40:248;StopPoint:87:241",
+    "route_ref": "95-04;95-41",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867680630,
+  "lat": 49.0287536,
+  "lon": 2.0847692,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Bocages",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1870391606,
+  "lat": 49.0493959,
+  "lon": 2.0242702,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belle Haumière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8602",
+    "ref:FR:STIF:stop_id": "StopPoint:23:112",
+    "route_ref": "14;35"
+  }
+},
+{
+  "type": "node",
+  "id": 1870391613,
+  "lat": 49.0495323,
+  "lon": 2.0239727,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belle Haumière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8710",
+    "ref:FR:STIF:stop_id": "StopPoint:23:111",
+    "route_ref": "14;35"
+  }
+},
+{
+  "type": "node",
+  "id": 1870391617,
+  "lat": 49.0490079,
+  "lon": 2.0303479,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musaraigne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8603",
+    "ref:FR:STIF:stop_id": "StopPoint:23:116",
+    "route_ref": "14;35"
+  }
+},
+{
+  "type": "node",
+  "id": 1870391622,
+  "lat": 49.0491212,
+  "lon": 2.0300039,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musaraigne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8709",
+    "ref:FR:STIF:stop_id": "StopPoint:23:115",
+    "route_ref": "14;35"
+  }
+},
+{
+  "type": "node",
+  "id": 2192574959,
+  "lat": 49.0343378,
+  "lon": 2.0819433,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#9c91c5",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Hautil Sud",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8803",
+    "ref:FR:STIF:stop_id": "StopPoint:40:276",
+    "route_ref": "29;48",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2192574970,
+  "lat": 49.0353065,
+  "lon": 2.0818913,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2192574973,
+  "lat": 49.0356076,
+  "lon": 2.0814483,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "45;56;58;N150;N152",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2458082812,
+  "lat": 49.0472349,
+  "lon": 2.0101758,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8965",
+    "ref:FR:STIF:stop_id": "StopPoint:40:109",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2458082813,
+  "lat": 49.0472849,
+  "lon": 2.0102695,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9579",
+    "ref:FR:STIF:stop_id": "StopPoint:40:40",
+    "route_ref": "36;40",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470192703,
+  "lat": 49.0339263,
+  "lon": 2.0818758,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#9c91c5",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Hautil Sud",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "13542",
+    "ref:FR:STIF:stop_id": "StopPoint:58:522",
+    "route_ref": "12",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4596696547,
+  "lat": 49.0329550,
+  "lon": 2.0635710,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "x9Jx9iqigNgOf6LaiBRSgw",
+    "name": "Le Port",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8983",
+    "ref:FR:STIF:stop_id": "StopPoint:40:59",
+    "shelter": "no",
+    "survey:date": "2017-03-11"
+  }
+},
+{
+  "type": "node",
+  "id": 4607927456,
+  "lat": 49.0500860,
+  "lon": 2.0331821,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "description": "95.41 Magny-en-Vexin;95.04 Bray-et-Lû;27.01 Etrépagny;14 via Poissy;95-48",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426584;13587",
+    "ref:FR:STIF:stop_id": "StopPoint:87:103;StopPoint:23:1133",
+    "route_ref": "14;27.04;95-01;95-04;95-41;95-48;95-50"
+  }
+},
+{
+  "type": "node",
+  "id": 4616182863,
+  "lat": 49.0357962,
+  "lon": 2.0816220,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "30;45;56;58;N150;N152",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4901138412,
+  "lat": 49.0497380,
+  "lon": 2.0350027,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Cergy-Saint-Christophe Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41524",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8760019R",
+    "route_ref": "35;N150;N152"
+  }
+},
+{
+  "type": "node",
+  "id": 4901138413,
+  "lat": 49.0497178,
+  "lon": 2.0352200,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8893",
+    "ref:FR:STIF:stop_id": "StopPoint:40:250",
+    "route_ref": "45 Pontoise Gare"
+  }
+},
+{
+  "type": "node",
+  "id": 4901138415,
+  "lat": 49.0500412,
+  "lon": 2.0335413,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "description": "direction Cergy Préfecture",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21759",
+    "ref:FR:STIF:stop_id": "StopPoint:40:219",
+    "route_ref": "44"
+  }
+},
+{
+  "type": "node",
+  "id": 4901138416,
+  "lat": 49.0500135,
+  "lon": 2.0337937,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Cergy-Saint-Christophe Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41524;8708",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8760019;StopPoint:40:517",
+    "route_ref": "35;N150;N152"
+  }
+},
+{
+  "type": "node",
+  "id": 4901138417,
+  "lat": 49.0498969,
+  "lon": 2.0350683,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9058",
+    "ref:FR:STIF:stop_id": "StopPoint:40:244",
+    "route_ref": "45 Cergy Lycée Jules Vernes"
+  }
+},
+{
+  "type": "node",
+  "id": 4931193427,
+  "lat": 49.0515109,
+  "lon": 2.0318954,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Constellation",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9069",
+    "ref:FR:STIF:stop_id": "StopPoint:40:217"
+  }
+},
+{
+  "type": "node",
+  "id": 4933871069,
+  "lat": 49.0337849,
+  "lon": 2.0816289,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#9c91c5",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "loc_name": "Hautil Sud",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34632;18640;18641;13542",
+    "ref:FR:STIF:stop_id": "StopPoint:15:283;StopPoint:20:682",
+    "route_ref": "16;27",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4937296589,
+  "lat": 49.0394174,
+  "lon": 2.0765663,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#009fe3",
+    "highway": "bus_stop",
+    "loc_name": "Oise Ouest",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "44;60",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4989295827,
+  "lat": 49.0340815,
+  "lon": 2.0821425,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#9c91c5",
+    "highway": "bus_stop",
+    "loc_name": "Hautil Sud",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10118",
+    "ref:FR:STIF:stop_id": "StopPoint:40:101",
+    "route_ref": "38;48;49",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5008101011,
+  "lat": 49.0419498,
+  "lon": 2.0301358,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Parc Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8934",
+    "ref:FR:STIF:stop_id": "StopPoint:40:144",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5008101016,
+  "lat": 49.0480390,
+  "lon": 2.0310907,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mondétour",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8918",
+    "ref:FR:STIF:stop_id": "StopPoint:40:131"
+  }
+},
+{
+  "type": "node",
+  "id": 5009813221,
+  "lat": 49.0469824,
+  "lon": 2.0307098,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mondétour",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8871",
+    "ref:FR:STIF:stop_id": "StopPoint:40:155"
+  }
+},
+{
+  "type": "node",
+  "id": 5009813225,
+  "lat": 49.0423753,
+  "lon": 2.0304188,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Parc Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8869",
+    "ref:FR:STIF:stop_id": "StopPoint:40:156",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5019289903,
+  "lat": 49.0473663,
+  "lon": 2.0108910,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy-le-Haut",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8712",
+    "ref:FR:STIF:stop_id": "StopPoint:40:21",
+    "route_ref": "34;35"
+  }
+},
+{
+  "type": "node",
+  "id": 5403025103,
+  "lat": 49.0500507,
+  "lon": 2.0334165,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "note": "-> Menucourt Croix du Jubilé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8976",
+    "ref:FR:STIF:stop_id": "StopPoint:40:102",
+    "route_ref": "39"
+  }
+},
+{
+  "type": "node",
+  "id": 5403025104,
+  "lat": 49.0496933,
+  "lon": 2.0354870,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "13587;18645",
+    "route_ref": "10 Préfecture;80 Préfecture;14 Haut de Gency"
+  }
+},
+{
+  "type": "node",
+  "id": 5404338622,
+  "lat": 49.0499227,
+  "lon": 2.0348478,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18646;426584",
+    "ref:FR:STIF:stop_id": "StopPoint:81:15714;StopPoint:58:1331",
+    "route_ref": "10 Limay;80"
+  }
+},
+{
+  "type": "node",
+  "id": 5404385310,
+  "lat": 49.0499895,
+  "lon": 2.0340637,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "note": "Quai de Dépose",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9070",
+    "ref:FR:STIF:stop_id": "StopPoint:40:218",
+    "route_ref": "39;44;49"
+  }
+},
+{
+  "type": "node",
+  "id": 5404385311,
+  "lat": 49.0498805,
+  "lon": 2.0338115,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "note": "Quai de Dépose",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8872;462460",
+    "ref:FR:STIF:stop_id": "StopPoint:40:125;StopPoint:58:1226;StopPoint:87:102",
+    "route_ref": "40;80;95-04;95-41;95-48;95-50",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5567854788,
+  "lat": 49.0351333,
+  "lon": 2.0821399,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-48;95-50",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5599079824,
+  "lat": 49.0498692,
+  "lon": 2.0339543,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Cergy Saint-Christophe",
+    "note": "Quai de Dépose",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8917",
+    "ref:FR:STIF:stop_id": "StopPoint:40:130",
+    "route_ref": "40;49"
+  }
+},
+{
+  "type": "node",
+  "id": 5761107450,
+  "lat": 49.0412654,
+  "lon": 2.0738138,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15087",
+    "ref:FR:STIF:stop_id": "StopPoint:34:1760",
+    "route_ref": "37E;49",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5761107453,
+  "lat": 49.0411429,
+  "lon": 2.0735346,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:FR:STIF": "15086",
+    "ref:FR:STIF:stop_id": "StopPoint:34:1759",
+    "route_ref": "37E;49",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5809979835,
+  "lat": 49.0370605,
+  "lon": 2.0854661,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Kastler",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8666",
+    "ref:FR:STIF:stop_id": "StopPoint:84:133;StopPoint:40:233",
+    "route_ref": "95-05;95-06;95-07;95-08;95-12;95-48;45;56;58",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2009",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5811800375,
+  "lat": 49.0397189,
+  "lon": 2.0793902,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#a2c617",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Port Nord",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-03A;95-03B;95-19;95-20",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563787,
+  "lat": 49.0476135,
+  "lon": 2.0103401,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Cergy-le-Haut Noctilien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "41525",
+    "ref:FR:STIF:stop_id": "StopPoint:800:8760020",
+    "route_ref": "N152;N150"
+  }
+},
+{
+  "type": "node",
+  "id": 6224990781,
+  "lat": 49.0392460,
+  "lon": 2.0768109,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#009fe3",
+    "highway": "bus_stop",
+    "loc_name": "Oise Ouest",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "42;57"
+  }
+},
+{
+  "type": "node",
+  "id": 6566534711,
+  "lat": 49.0527050,
+  "lon": 2.0092440,
+  "tags": {
+    "STIF:zone": "5",
+    "alt_name": "Le Haut - Les Explorateurs",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Explorateurs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413573;416731",
+    "route_ref": "39;95-22;95-41;95-48",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6575502403,
+  "lat": 49.0474207,
+  "lon": 2.0224387,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Chêne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14147",
+    "ref:FR:STIF:stop_id": "StopPoint:23:940",
+    "route_ref": "14",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6575502404,
+  "lat": 49.0478190,
+  "lon": 2.0451200,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Haut de Gency",
+    "public_transport": "platform",
+    "ref:FR:STIF": "13742",
+    "ref:FR:STIF:stop_id": "StopPoint:23:106",
+    "route_ref": "14",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6575502408,
+  "lat": 49.0466410,
+  "lon": 2.0231850,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Chêne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14146",
+    "ref:FR:STIF:stop_id": "StopPoint:23:939",
+    "route_ref": "14",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7055290455,
+  "lat": 49.0511039,
+  "lon": 2.0546674,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7055290456,
+  "lat": 49.0511479,
+  "lon": 2.0558464,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7086406357,
+  "lat": 49.0361422,
+  "lon": 2.0622920,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "description": "Direction Cergy Préfecture",
+    "highway": "bus_stop",
+    "name": "Place de la Libération",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7388418412,
+  "lat": 49.0332244,
+  "lon": 2.0746517,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9339208180,
+  "lat": 49.0396016,
+  "lon": 2.0762814,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#009fe3",
+    "highway": "bus_stop",
+    "loc_name": "Oise Ouest",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-04;604;603;609",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9339208182,
+  "lat": 49.0397836,
+  "lon": 2.0759891,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "colour": "#009fe3",
+    "highway": "bus_stop",
+    "loc_name": "Oise Ouest",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "80;10",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226255,
+  "lat": 49.0355618,
+  "lon": 2.0819561,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-48;95-50",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226256,
+  "lat": 49.0352928,
+  "lon": 2.0823597,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-22;95-23;95-41",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226257,
+  "lat": 49.0349736,
+  "lon": 2.0823853,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "colour": "#f0d100",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-22;95-23;95-41",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226258,
+  "lat": 49.0354721,
+  "lon": 2.0816463,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Oise Centre",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226320,
+  "lat": 49.0352233,
+  "lon": 2.0830504,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#f18700",
+    "highway": "bus_stop",
+    "loc_name": "Hautil Nord",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "95-05;95-06;95-07;95-08;95-12"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226321,
+  "lat": 49.0395984,
+  "lon": 2.0791720,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#a2c617",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Port Nord",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "58;59",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9339226322,
+  "lat": 49.0394801,
+  "lon": 2.0789453,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "yes",
+    "bus": "yes",
+    "colour": "#a2c617",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "loc_name": "Port Nord",
+    "name": "Cergy Préfecture",
+    "public_transport": "platform",
+    "route_ref": "56;57",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,2390 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1444935403,
+  "lat": 49.8588046,
+  "lon": 3.2776918,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vallée Ducastelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1614528127,
+  "lat": 49.8485915,
+  "lon": 3.2767469,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paringault",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1614528137,
+  "lat": 49.8502797,
+  "lon": 3.2549236,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1901187909,
+  "lat": 49.8450921,
+  "lon": 3.2660716,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Musiciens",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1901187936,
+  "lat": 49.8462518,
+  "lon": 3.2657661,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Charcot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1901187937,
+  "lat": 49.8473224,
+  "lon": 3.2678819,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Noirmont",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1901187940,
+  "lat": 49.8472667,
+  "lon": 3.2676812,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Noirmont",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3718548063,
+  "lat": 49.8289318,
+  "lon": 3.3085402,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pond de Guise",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718548064,
+  "lat": 49.8290547,
+  "lon": 3.3083047,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718562879,
+  "lat": 49.8317583,
+  "lon": 3.3075327,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Patte d'Oie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718562881,
+  "lat": 49.8346238,
+  "lon": 3.3065223,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vieux Ménages",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572337,
+  "lat": 49.8342992,
+  "lon": 3.3084766,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572338,
+  "lat": 49.8365202,
+  "lon": 3.3054968,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stalingrad",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572339,
+  "lat": 49.8368724,
+  "lon": 3.3057427,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stalingrad",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572348,
+  "lat": 49.8379083,
+  "lon": 3.3047824,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Industrie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572351,
+  "lat": 49.8395261,
+  "lon": 3.3010363,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Carnot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718572357,
+  "lat": 49.8375182,
+  "lon": 3.3037319,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Baudin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616061,
+  "lat": 49.8405668,
+  "lon": 3.3092225,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cailleret",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616064,
+  "lat": 49.8403895,
+  "lon": 3.3072230,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marceau",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616075,
+  "lat": 49.8404986,
+  "lon": 3.2981711,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passage Superieur ( Gare SNCF )",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616076,
+  "lat": 49.8406315,
+  "lon": 3.2978404,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616077,
+  "lat": 49.8421748,
+  "lon": 3.2951890,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "8 Octobre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616078,
+  "lat": 49.8419871,
+  "lon": 3.2947258,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "8 Octobre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616082,
+  "lat": 49.8444135,
+  "lon": 3.2912555,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Isle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616083,
+  "lat": 49.8439479,
+  "lon": 3.2916484,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Isle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616086,
+  "lat": 49.8470912,
+  "lon": 3.2895242,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Basilique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616087,
+  "lat": 49.8469440,
+  "lon": 3.2894420,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Basilique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616093,
+  "lat": 49.8487435,
+  "lon": 3.2906428,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616095,
+  "lat": 49.8493374,
+  "lon": 3.2943239,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Champ Elysées",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616098,
+  "lat": 49.8512582,
+  "lon": 3.2980736,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616099,
+  "lat": 49.8525886,
+  "lon": 3.2993589,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Ramée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616101,
+  "lat": 49.8530681,
+  "lon": 3.2996893,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Église de Remicourt",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718616103,
+  "lat": 49.8534753,
+  "lon": 3.3008740,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Église de Remicourt",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718625926,
+  "lat": 49.8572164,
+  "lon": 3.3072996,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saliége",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718625937,
+  "lat": 49.8570152,
+  "lon": 3.3092903,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Dunant",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642392,
+  "lat": 49.8536845,
+  "lon": 3.3102830,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pïscine",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642393,
+  "lat": 49.8538304,
+  "lon": 3.3104755,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642394,
+  "lat": 49.8514146,
+  "lon": 3.3065657,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Briand",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642395,
+  "lat": 49.8497142,
+  "lon": 3.3023489,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "DEAL",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642399,
+  "lat": 49.8475294,
+  "lon": 3.2940529,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Suzannes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642402,
+  "lat": 49.8415314,
+  "lon": 3.2935237,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Spendid",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642406,
+  "lat": 49.8391726,
+  "lon": 3.2852949,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "BUL",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642408,
+  "lat": 49.8416495,
+  "lon": 3.2853412,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718642416,
+  "lat": 49.8427877,
+  "lon": 3.2816711,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Moulin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718661887,
+  "lat": 49.8477833,
+  "lon": 3.2861188,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marché",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718661891,
+  "lat": 49.8472590,
+  "lon": 3.2854863,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Victor Basch",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718661902,
+  "lat": 49.8497487,
+  "lon": 3.2851350,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "H. Martin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3718661905,
+  "lat": 49.8496107,
+  "lon": 3.2867090,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raspail",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721576424,
+  "lat": 49.8509418,
+  "lon": 3.2873732,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "États Généraux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581429,
+  "lat": 49.8514353,
+  "lon": 3.2869491,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "États Généraux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581433,
+  "lat": 49.8523381,
+  "lon": 3.2867619,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Crommerlin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581434,
+  "lat": 49.8528500,
+  "lon": 3.2862577,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Crommerlin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581436,
+  "lat": 49.8527531,
+  "lon": 3.2858500,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Crommerlin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581445,
+  "lat": 49.8511058,
+  "lon": 3.2853458,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Serurier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581451,
+  "lat": 49.8533619,
+  "lon": 3.2824306,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "ST- Jean",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581464,
+  "lat": 49.8553105,
+  "lon": 3.2795203,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mulot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581486,
+  "lat": 49.8571124,
+  "lon": 3.2785558,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gricourt",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581488,
+  "lat": 49.8567979,
+  "lon": 3.2780740,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gricourt",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581495,
+  "lat": 49.8587062,
+  "lon": 3.2760189,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "De Corbie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581505,
+  "lat": 49.8591689,
+  "lon": 3.2773607,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vallée Ducastelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581509,
+  "lat": 49.8583446,
+  "lon": 3.2760404,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "De Corbie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721581561,
+  "lat": 49.8602160,
+  "lon": 3.2732196,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hanoteaux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721602519,
+  "lat": 49.8637300,
+  "lon": 3.2658870,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Valenciennes",
+    "network": "Pastel",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3721602521,
+  "lat": 49.8611404,
+  "lon": 3.2644748,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721602522,
+  "lat": 49.8613466,
+  "lon": 3.2644172,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Armentières",
+    "network": "Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721603429,
+  "lat": 49.8598430,
+  "lon": 3.2643970,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Allende",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721603436,
+  "lat": 49.8569453,
+  "lon": 3.2693950,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Artois",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721603437,
+  "lat": 49.8556806,
+  "lon": 3.2709781,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "David et Maigret",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721603440,
+  "lat": 49.8542152,
+  "lon": 3.2740406,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "3e DIM.",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721603441,
+  "lat": 49.8580832,
+  "lon": 3.2676781,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hospice Cordier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655583,
+  "lat": 49.8352180,
+  "lon": 3.3108366,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rimbaud",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655584,
+  "lat": 49.8357105,
+  "lon": 3.3124898,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Brisson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655585,
+  "lat": 49.8358957,
+  "lon": 3.3128655,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Brisson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655591,
+  "lat": 49.8360200,
+  "lon": 3.3152915,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cantelon",
+    "operator": "Bus Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655595,
+  "lat": 49.8313746,
+  "lon": 3.3180067,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Neuville",
+    "operator": "Bus Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721655597,
+  "lat": 49.8319773,
+  "lon": 3.3185422,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Prévert",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721656026,
+  "lat": 49.8334440,
+  "lon": 3.3182908,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Raoul Hughet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721656027,
+  "lat": 49.8331037,
+  "lon": 3.3186317,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Raoul Hughet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721656029,
+  "lat": 49.8364592,
+  "lon": 3.3181227,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Blanchot",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721735806,
+  "lat": 49.8401768,
+  "lon": 3.3042023,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "CCAS",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721737531,
+  "lat": 49.8401984,
+  "lon": 3.3164455,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721737542,
+  "lat": 49.8406408,
+  "lon": 3.3119500,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Convention",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721737553,
+  "lat": 49.8416827,
+  "lon": 3.3139295,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721772040,
+  "lat": 49.8414358,
+  "lon": 3.3126493,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chemin d'Harly",
+    "network": "Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721820520,
+  "lat": 49.8407147,
+  "lon": 3.2903534,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721820523,
+  "lat": 49.8440870,
+  "lon": 3.2741728,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cordier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826233,
+  "lat": 49.8436244,
+  "lon": 3.2704369,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Langrand",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826234,
+  "lat": 49.8435331,
+  "lon": 3.2702033,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Langrand",
+    "network": "Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826236,
+  "lat": 49.8432430,
+  "lon": 3.2662753,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mozart",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826237,
+  "lat": 49.8449290,
+  "lon": 3.2651366,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Musiciens",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826253,
+  "lat": 49.8479785,
+  "lon": 3.2657033,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grieg",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826254,
+  "lat": 49.8480584,
+  "lon": 3.2657475,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grieg",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826255,
+  "lat": 49.8487783,
+  "lon": 3.2626727,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Proméo",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826257,
+  "lat": 49.8513860,
+  "lon": 3.2631235,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Zac La Vallée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826260,
+  "lat": 49.8530839,
+  "lon": 3.2610366,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Parmentier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826263,
+  "lat": 49.8541719,
+  "lon": 3.2583761,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Charles Naudin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826264,
+  "lat": 49.8531994,
+  "lon": 3.2556401,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Marcel Paul",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826265,
+  "lat": 49.8509104,
+  "lon": 3.2516946,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Parc des Autoroutes",
+    "operator": "Bus Pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3721826267,
+  "lat": 49.8499916,
+  "lon": 3.2563857,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "EPIDE",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3723213310,
+  "lat": 49.8349759,
+  "lon": 3.3062527,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vieux Ménages",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3723235741,
+  "lat": 49.8339119,
+  "lon": 3.3011162,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Lazare",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3723235742,
+  "lat": 49.8341732,
+  "lon": 3.3012128,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Lazare",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3725892104,
+  "lat": 49.8407229,
+  "lon": 3.2981641,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Quentin Gare",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3725892109,
+  "lat": 49.8407828,
+  "lon": 3.2980731,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gare de Saint-Quentin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728849695,
+  "lat": 49.8579610,
+  "lon": 3.3101345,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Liberation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728849696,
+  "lat": 49.8564369,
+  "lon": 3.3106427,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Liberation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728863827,
+  "lat": 49.8510050,
+  "lon": 3.3086642,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Bouin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728863848,
+  "lat": 49.8475002,
+  "lon": 3.2969637,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jacquard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728863849,
+  "lat": 49.8487061,
+  "lon": 3.3000247,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Quentin Barré",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728863853,
+  "lat": 49.8484929,
+  "lon": 3.2958117,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3728863854,
+  "lat": 49.8490318,
+  "lon": 3.2934585,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Champ Elysées",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729073472,
+  "lat": 49.8454805,
+  "lon": 3.2823387,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Henri IV",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729073477,
+  "lat": 49.8468854,
+  "lon": 3.2812279,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729073478,
+  "lat": 49.8454212,
+  "lon": 3.2830281,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Henri IV",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074725,
+  "lat": 49.8438172,
+  "lon": 3.2791071,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Faidherbe",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074726,
+  "lat": 49.8438829,
+  "lon": 3.2798817,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Faidherbe",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074727,
+  "lat": 49.8431222,
+  "lon": 3.2779797,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Dufour Denelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074734,
+  "lat": 49.8411402,
+  "lon": 3.2754208,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Flandre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074752,
+  "lat": 49.8269579,
+  "lon": 3.2533831,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Oëstres. Papillons Blancs",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074753,
+  "lat": 49.8287605,
+  "lon": 3.2567903,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai 1945",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074759,
+  "lat": 49.8276448,
+  "lon": 3.2574744,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Grand'Rue",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074760,
+  "lat": 49.8310154,
+  "lon": 3.2568907,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Oëstres",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074761,
+  "lat": 49.8315938,
+  "lon": 3.2572640,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Route de Paris",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074762,
+  "lat": 49.8318865,
+  "lon": 3.2575989,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Route de Paris",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3729074764,
+  "lat": 49.8333966,
+  "lon": 3.2608891,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Debeney",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340396,
+  "lat": 49.8352572,
+  "lon": 3.2605284,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340397,
+  "lat": 49.8348762,
+  "lon": 3.2614624,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340399,
+  "lat": 49.8362919,
+  "lon": 3.2595547,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chantraine",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340400,
+  "lat": 49.8362647,
+  "lon": 3.2598349,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chantraine",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340401,
+  "lat": 49.8354289,
+  "lon": 3.2628470,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Falloux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340402,
+  "lat": 49.8356563,
+  "lon": 3.2624384,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Falloux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340404,
+  "lat": 49.8367104,
+  "lon": 3.2685170,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Tombelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730340405,
+  "lat": 49.8380689,
+  "lon": 3.2653665,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "A. Gile",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730341339,
+  "lat": 49.8383927,
+  "lon": 3.2604735,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cimetière Tombelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730341340,
+  "lat": 49.8407592,
+  "lon": 3.2598696,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "M. Lenglet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730341357,
+  "lat": 49.8392563,
+  "lon": 3.2633913,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "G. Appert",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730341360,
+  "lat": 49.8383348,
+  "lon": 3.2718599,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rocourt",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730437921,
+  "lat": 49.8541160,
+  "lon": 3.3032691,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "La Paix",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730437923,
+  "lat": 49.8547647,
+  "lon": 3.3050635,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Collery",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730438026,
+  "lat": 49.8564596,
+  "lon": 3.3038303,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Moulin Blanc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730438031,
+  "lat": 49.8567817,
+  "lon": 3.3027935,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730438093,
+  "lat": 49.8582126,
+  "lon": 3.3106497,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Liberation",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3730438094,
+  "lat": 49.8594858,
+  "lon": 3.3104450,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Polyclinque",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741611611,
+  "lat": 49.8628697,
+  "lon": 3.3086089,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "L.T. Colard Noël",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612531,
+  "lat": 49.8589035,
+  "lon": 3.3039089,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Buffon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612555,
+  "lat": 49.8613500,
+  "lon": 3.3028354,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Barbusse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612556,
+  "lat": 49.8605221,
+  "lon": 3.3021582,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Barbusse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612565,
+  "lat": 49.8608947,
+  "lon": 3.2990925,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Shuman",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612566,
+  "lat": 49.8609097,
+  "lon": 3.2993937,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Shuman",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612581,
+  "lat": 49.8621619,
+  "lon": 3.3052880,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Laplace",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612711,
+  "lat": 49.8591486,
+  "lon": 3.2935649,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Juliot Curie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612712,
+  "lat": 49.8590019,
+  "lon": 3.2942703,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Juliot Curie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612713,
+  "lat": 49.8600053,
+  "lon": 3.2970412,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chapelle Jean XXIII",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612714,
+  "lat": 49.8600253,
+  "lon": 3.2974495,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chapelle Jean XXIII",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612715,
+  "lat": 49.8590621,
+  "lon": 3.2911216,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bonnier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612716,
+  "lat": 49.8589154,
+  "lon": 3.2917009,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bonnier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612830,
+  "lat": 49.8633562,
+  "lon": 3.2918222,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Route de Bohain",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612831,
+  "lat": 49.8632238,
+  "lon": 3.2916718,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Route de Bohain",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612834,
+  "lat": 49.8652624,
+  "lon": 3.2899277,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Salicamp",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612835,
+  "lat": 49.8651262,
+  "lon": 3.2900944,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Salicamp",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612845,
+  "lat": 49.8645893,
+  "lon": 3.2874475,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cité de la Solarité",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612898,
+  "lat": 49.8648431,
+  "lon": 3.2802153,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Paul-Debrésie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612899,
+  "lat": 49.8648826,
+  "lon": 3.2794469,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Paul-Debrésie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612900,
+  "lat": 49.8647002,
+  "lon": 3.2766840,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jardin Ouvriers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741612907,
+  "lat": 49.8646120,
+  "lon": 3.2767220,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jardin Ouvriers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741613136,
+  "lat": 49.8636517,
+  "lon": 3.2751937,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mayenne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741613147,
+  "lat": 49.8636215,
+  "lon": 3.2750909,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mayenne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741613183,
+  "lat": 49.8555340,
+  "lon": 3.2534649,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cerisiers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3741613184,
+  "lat": 49.8555604,
+  "lon": 3.2535583,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cerisiers",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3743419874,
+  "lat": 49.8553390,
+  "lon": 3.2883115,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Camille Desmoulins",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3743419877,
+  "lat": 49.8581780,
+  "lon": 3.2896383,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3743419879,
+  "lat": 49.8627933,
+  "lon": 3.3030189,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Capitaine Dumont",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3743419880,
+  "lat": 49.8634139,
+  "lon": 3.2992019,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Europe",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399946,
+  "lat": 49.8352072,
+  "lon": 3.2931948,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Abattoirs",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399947,
+  "lat": 49.8355702,
+  "lon": 3.2934340,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Abattoirs",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399948,
+  "lat": 49.8352041,
+  "lon": 3.2952365,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Roux",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399956,
+  "lat": 49.8343613,
+  "lon": 3.2987057,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Dorgelés",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399957,
+  "lat": 49.8347151,
+  "lon": 3.3028466,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Clastrois",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399958,
+  "lat": 49.8358393,
+  "lon": 3.3023903,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Desfossez",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399959,
+  "lat": 49.8354479,
+  "lon": 3.3009999,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Desfossez",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399968,
+  "lat": 49.8367221,
+  "lon": 3.3013533,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "IUT",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399969,
+  "lat": 49.8376052,
+  "lon": 3.2999567,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "IUT",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399970,
+  "lat": 49.8371332,
+  "lon": 3.3005204,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "IUT",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399976,
+  "lat": 49.8385238,
+  "lon": 3.2988873,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ostende",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3748399980,
+  "lat": 49.8385606,
+  "lon": 3.2987277,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Ostende",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796857418,
+  "lat": 49.8487962,
+  "lon": 3.2803490,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Longueville",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796901173,
+  "lat": 49.8475257,
+  "lon": 3.2802876,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Brossolette",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796993647,
+  "lat": 49.8497345,
+  "lon": 3.2728681,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gonnier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796993652,
+  "lat": 49.8504064,
+  "lon": 3.2695368,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jean Zay"
+  }
+},
+{
+  "type": "node",
+  "id": 4796993666,
+  "lat": 49.8510631,
+  "lon": 3.2694961,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bachy",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796993667,
+  "lat": 49.8517457,
+  "lon": 3.2671320,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bugain",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796995728,
+  "lat": 49.8537666,
+  "lon": 3.2688734,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paul Codos",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796995729,
+  "lat": 49.8548647,
+  "lon": 3.2690308,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Artois",
+    "network": "pastel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4796995730,
+  "lat": 49.8543159,
+  "lon": 3.2660212,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Archimède"
+  }
+},
+{
+  "type": "node",
+  "id": 4797042583,
+  "lat": 49.8580186,
+  "lon": 3.2611064,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Irets",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4797042584,
+  "lat": 49.8575206,
+  "lon": 3.2616160,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Irets",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4797193432,
+  "lat": 49.8588804,
+  "lon": 3.2568772,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bois de la Choque",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4885265751,
+  "lat": 49.8418491,
+  "lon": 3.2845859,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5251043622,
+  "lat": 49.8370364,
+  "lon": 3.3048117,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stalingrad",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5569999253,
+  "lat": 49.8598892,
+  "lon": 3.3101195,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Polyclinique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7543247303,
+  "lat": 49.8428398,
+  "lon": 3.2809089,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Moulin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7724938748,
+  "lat": 49.8409980,
+  "lon": 3.2982446,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8229032932,
+  "lat": 49.8404086,
+  "lon": 3.2981072,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passage Superieur ( Gare SNCF )",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8242352568,
+  "lat": 49.8343098,
+  "lon": 3.3081132,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8255973978,
+  "lat": 49.8430810,
+  "lon": 3.2775575,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8297347436,
+  "lat": 49.8369454,
+  "lon": 3.2687733,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Tombelle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8309438133,
+  "lat": 49.8302060,
+  "lon": 3.3064704,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Faubourg d'Isle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8309459197,
+  "lat": 49.8388413,
+  "lon": 3.3011623,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Eloi",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8309459198,
+  "lat": 49.8390870,
+  "lon": 3.3008780,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Eloi",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8740410895,
+  "lat": 49.8494918,
+  "lon": 3.2869506,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Raspail",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8740410904,
+  "lat": 49.8471180,
+  "lon": 3.2892385,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Basilique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8740410905,
+  "lat": 49.8474423,
+  "lon": 3.2891272,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Basilique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8740466396,
+  "lat": 49.8552506,
+  "lon": 3.2881006,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Camille Desmoulins",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8740669531,
+  "lat": 49.8576997,
+  "lon": 3.2894869,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cimetière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9236980980,
+  "lat": 49.8484965,
+  "lon": 3.2768199,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Paringault",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

@@ -5,7 +5,7 @@ Un quizz pour reconnaître les villes suivant leurs infrastructures de mobilité
 ## Comment ça fonctionnera
 
 À chaque connexion, une ville est tirée au sort parmi toutes les villes du pays, en privilégiant les villes à grand nombre d'habitants. 
-Les données cartographiques de la ville dédiée à la mobilité cyclable sont récupérées depuis OpenStreetMap, puis affichées à l'utilisateur, sans autre contexte que la forme de ces tracés.
+Les données cartographiques de la ville dédiée à la mobilité cyclable issues d'OpenStreetMap (préalablement préparées) sont sélectionnées, puis affichées à l'utilisateur, sans autre contexte que la forme de ces tracés.
 L'utilisateur doit alors deviner le nom de la ville.
 
 ## Variations possibles

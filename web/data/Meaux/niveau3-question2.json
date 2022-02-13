@@ -1,0 +1,211 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 29185088,
+  "nodes": [
+    259081942,
+    259081943
+  ],
+  "tags": {
+    "cycleway": "opposite_track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Avenue du Maréchal Foch",
+    "old_ref": "D 405",
+    "oneway": "yes",
+    "ref": "D 336"
+  }
+},
+{
+  "type": "way",
+  "id": 38163819,
+  "nodes": [
+    259081941,
+    6536640154,
+    259081942
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway": "opposite_track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "layer": "1",
+    "level": "1",
+    "name": "Pont Foch",
+    "old_ref": "D 405",
+    "oneway": "yes",
+    "ref": "D 336",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 38861435,
+  "nodes": [
+    259081953,
+    6537061487,
+    3530752248,
+    1277094688,
+    7695384630,
+    1277094669,
+    5613900640
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:oneway": "no",
+    "highway": "tertiary",
+    "name": "Rue du 11 Novembre 1918",
+    "oneway": "yes",
+    "oneway:bicycle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 406767719,
+  "nodes": [
+    1278210728,
+    259081941
+  ],
+  "tags": {
+    "cycleway": "opposite_track",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Rue des Fusiliers",
+    "oneway": "yes",
+    "ref": "D 405"
+  }
+},
+{
+  "type": "way",
+  "id": 1019098900,
+  "nodes": [
+    9399844391,
+    2872387998
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:oneway": "no",
+    "highway": "primary",
+    "lanes": "3",
+    "name": "Avenue du Maréchal Foch",
+    "old_ref": "N 3",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "ref": "D 603"
+  }
+},
+{
+  "type": "area",
+  "id": 3600086609,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "label:FR:history": "VAH",
+    "name": "Meaux",
+    "population": "55750",
+    "population:date": "2019",
+    "postal_code": "77100",
+    "ref:INSEE": "77284",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "wikidata": "Q207620",
+    "wikipedia": "fr:Meaux"
+  }
+},
+{
+  "type": "node",
+  "id": 259081941,
+  "lat": 48.9531192,
+  "lon": 2.8815700
+},
+{
+  "type": "node",
+  "id": 259081942,
+  "lat": 48.9530421,
+  "lon": 2.8828087
+},
+{
+  "type": "node",
+  "id": 259081943,
+  "lat": 48.9530284,
+  "lon": 2.8830233
+},
+{
+  "type": "node",
+  "id": 1278210728,
+  "lat": 48.9531300,
+  "lon": 2.8814375
+},
+{
+  "type": "node",
+  "id": 6536640154,
+  "lat": 48.9530747,
+  "lon": 2.8822849
+},
+{
+  "type": "node",
+  "id": 259081953,
+  "lat": 48.9533189,
+  "lon": 2.8901692
+},
+{
+  "type": "node",
+  "id": 1277094669,
+  "lat": 48.9534788,
+  "lon": 2.8925438
+},
+{
+  "type": "node",
+  "id": 1277094688,
+  "lat": 48.9533844,
+  "lon": 2.8910524
+},
+{
+  "type": "node",
+  "id": 2872387998,
+  "lat": 48.9558965,
+  "lon": 2.8939496
+},
+{
+  "type": "node",
+  "id": 3530752248,
+  "lat": 48.9533749,
+  "lon": 2.8909236
+},
+{
+  "type": "node",
+  "id": 5613900640,
+  "lat": 48.9535111,
+  "lon": 2.8930683
+},
+{
+  "type": "node",
+  "id": 6537061487,
+  "lat": 48.9533495,
+  "lon": 2.8905186
+},
+{
+  "type": "node",
+  "id": 7695384630,
+  "lat": 48.9534682,
+  "lon": 2.8924151
+},
+{
+  "type": "node",
+  "id": 9399844391,
+  "lat": 48.9553480,
+  "lon": 2.8936533
+}
+
+  ]
+}

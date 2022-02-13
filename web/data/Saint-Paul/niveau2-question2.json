@@ -1,0 +1,914 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 30335648,
+  "nodes": [
+    334514949,
+    370530426,
+    334514951,
+    4991091395,
+    370530421,
+    4991091396,
+    334514952,
+    4991091397,
+    334514953,
+    4991091398,
+    334514954,
+    4991091399,
+    334514942,
+    370530424,
+    6928676745,
+    370530427,
+    6928676746,
+    370530425,
+    334514945,
+    334515274,
+    385992770,
+    334514947,
+    385992771,
+    334514948,
+    4991091394,
+    334514949
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "lanes": "2",
+    "source_ref": "yahoo_imagery",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32900402,
+  "nodes": [
+    370530424,
+    914000664,
+    914000449,
+    334514944
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "name": "Route des Plages",
+    "oneway": "yes",
+    "ref": "N 1A",
+    "source_ref": "yahoo_imagery",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 58916096,
+  "nodes": [
+    333250861,
+    333256972,
+    1048927881,
+    333253587,
+    333256523,
+    333256786,
+    333257323,
+    333251261,
+    1048929569
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Route des Premiers Français",
+    "oneway": "yes",
+    "ref": "N 1A"
+  }
+},
+{
+  "type": "way",
+  "id": 90418075,
+  "nodes": [
+    333257115,
+    333250987,
+    333251069,
+    333250976,
+    901078165,
+    1048928079,
+    4282617510,
+    333256540,
+    901078064,
+    1048928736
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Route des Premiers Français",
+    "oneway": "yes",
+    "ref": "N 1A",
+    "source": "cadastre-dgi-fr source, Yahoo Imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 90418097,
+  "nodes": [
+    1048927778,
+    1048927669,
+    1048928305,
+    1048928636
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Route des Premiers Français",
+    "oneway": "yes",
+    "ref": "N 1A",
+    "source": "cadastre-dgi-fr source, Yahoo Imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 484715365,
+  "nodes": [
+    1048929569,
+    1048927865,
+    1048928482,
+    1048927478,
+    1048929644,
+    1048928601,
+    1048929565,
+    1048929299,
+    1048928205,
+    1048927413,
+    1048929137,
+    1861806500,
+    9381572877,
+    1048929323,
+    1048928236,
+    729935644
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "name": "Route des Premiers Français",
+    "oneway": "yes",
+    "ref": "N 1A",
+    "source": "cadastre-dgi-fr source, Yahoo Imagery"
+  }
+},
+{
+  "type": "way",
+  "id": 491926438,
+  "nodes": [
+    4739825149,
+    4739825150,
+    4739825137,
+    4739825157,
+    4902910529,
+    4739825133,
+    4739825138,
+    4739825139,
+    4739825140,
+    6428961504,
+    4739825141,
+    4739825142,
+    4739825134,
+    4739825135,
+    4739825136,
+    6428961519,
+    4739825143,
+    4902910541,
+    4739825147,
+    4902910539,
+    4902910538,
+    4739825148,
+    4739825156,
+    4739825149
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600080321,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "population": "724",
+    "population:date": "2019",
+    "postal_code": "73170",
+    "ref:INSEE": "73269",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q655869",
+    "wikipedia": "fr:Saint-Paul (Savoie)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600116563,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "name:oc": "Sent Paul",
+    "population": "1227",
+    "population:date": "2019",
+    "postal_code": "87260",
+    "ref:INSEE": "87174",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q1149233",
+    "wikipedia": "fr:Saint-Paul (Haute-Vienne)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600121647,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "name:oc": "Sent Pau",
+    "population": "234",
+    "population:date": "2019",
+    "postal_code": "19150",
+    "ref:INSEE": "19235",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q191242",
+    "wikipedia": "fr:Saint-Paul (Corrèze)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600158505,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "population": "1556",
+    "population:date": "2019",
+    "postal_code": "60650",
+    "ref:INSEE": "60591",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q1365286",
+    "wikipedia": "fr:Saint-Paul (Oise)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600166372,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "name:oc": "Sent Pau de Nestés",
+    "population": "318",
+    "population:date": "2019",
+    "postal_code": "65150",
+    "ref:INSEE": "65394",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q1155397",
+    "wikipedia": "fr:Saint-Paul (Hautes-Pyrénées)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600278308,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "name:el": "Σαιν-Πωλ",
+    "name:ja": "サン＝ポール",
+    "population": "103208",
+    "population:date": "2019",
+    "postal_code": "97411;97422;97423;97434;97435;97460",
+    "ref:INSEE": "97415",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "website": "http://www.mairie-saintpaul.fr",
+    "wikidata": "Q316887",
+    "wikipedia": "fr:Saint-Paul (La Réunion)"
+  }
+},
+{
+  "type": "area",
+  "id": 3600938078,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "population": "165",
+    "population:date": "2019",
+    "postal_code": "88170",
+    "ref:FR:SIREN": "218804318",
+    "ref:INSEE": "88431",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q214641",
+    "wikipedia": "fr:Saint-Paul (Vosges)"
+  }
+},
+{
+  "type": "area",
+  "id": 3601238848,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "population": "689",
+    "population:date": "2019",
+    "postal_code": "61100",
+    "ref:INSEE": "61443",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "wikidata": "Q251361",
+    "wikipedia": "fr:Saint-Paul (Orne)"
+  }
+},
+{
+  "type": "area",
+  "id": 3601664326,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Paul",
+    "name:oc": "Sent Pau",
+    "population": "977",
+    "population:date": "2019",
+    "postal_code": "33390",
+    "ref:INSEE": "33458",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q609770",
+    "wikipedia": "fr:Saint-Paul (Gironde)"
+  }
+},
+{
+  "type": "node",
+  "id": 334514942,
+  "lat": -21.0746540,
+  "lon": 55.2279760
+},
+{
+  "type": "node",
+  "id": 334514944,
+  "lat": -21.0740858,
+  "lon": 55.2275891
+},
+{
+  "type": "node",
+  "id": 334514945,
+  "lat": -21.0747988,
+  "lon": 55.2276976
+},
+{
+  "type": "node",
+  "id": 334514947,
+  "lat": -21.0749422,
+  "lon": 55.2276986
+},
+{
+  "type": "node",
+  "id": 334514948,
+  "lat": -21.0750296,
+  "lon": 55.2277593
+},
+{
+  "type": "node",
+  "id": 334514949,
+  "lat": -21.0750841,
+  "lon": 55.2278677
+},
+{
+  "type": "node",
+  "id": 334514951,
+  "lat": -21.0750752,
+  "lon": 55.2280073
+},
+{
+  "type": "node",
+  "id": 334514952,
+  "lat": -21.0749084,
+  "lon": 55.2281550
+},
+{
+  "type": "node",
+  "id": 334514953,
+  "lat": -21.0747964,
+  "lon": 55.2281455
+},
+{
+  "type": "node",
+  "id": 334514954,
+  "lat": -21.0747031,
+  "lon": 55.2280782
+},
+{
+  "type": "node",
+  "id": 334515274,
+  "lat": -21.0748387,
+  "lon": 55.2276875
+},
+{
+  "type": "node",
+  "id": 370530421,
+  "lat": -21.0749942,
+  "lon": 55.2281171
+},
+{
+  "type": "node",
+  "id": 370530424,
+  "lat": -21.0746482,
+  "lon": 55.2279184
+},
+{
+  "type": "node",
+  "id": 370530425,
+  "lat": -21.0747613,
+  "lon": 55.2277154
+},
+{
+  "type": "node",
+  "id": 370530426,
+  "lat": -21.0750895,
+  "lon": 55.2279382
+},
+{
+  "type": "node",
+  "id": 370530427,
+  "lat": -21.0746794,
+  "lon": 55.2278007
+},
+{
+  "type": "node",
+  "id": 385992770,
+  "lat": -21.0748911,
+  "lon": 55.2276865
+},
+{
+  "type": "node",
+  "id": 385992771,
+  "lat": -21.0749893,
+  "lon": 55.2277234
+},
+{
+  "type": "node",
+  "id": 914000449,
+  "lat": -21.0742323,
+  "lon": 55.2277066
+},
+{
+  "type": "node",
+  "id": 914000664,
+  "lat": -21.0745169,
+  "lon": 55.2278585
+},
+{
+  "type": "node",
+  "id": 4991091394,
+  "lat": -21.0750635,
+  "lon": 55.2278096
+},
+{
+  "type": "node",
+  "id": 4991091395,
+  "lat": -21.0750424,
+  "lon": 55.2280688
+},
+{
+  "type": "node",
+  "id": 4991091396,
+  "lat": -21.0749532,
+  "lon": 55.2281409
+},
+{
+  "type": "node",
+  "id": 4991091397,
+  "lat": -21.0748518,
+  "lon": 55.2281580
+},
+{
+  "type": "node",
+  "id": 4991091398,
+  "lat": -21.0747457,
+  "lon": 55.2281183
+},
+{
+  "type": "node",
+  "id": 4991091399,
+  "lat": -21.0746727,
+  "lon": 55.2280304
+},
+{
+  "type": "node",
+  "id": 6928676745,
+  "lat": -21.0746566,
+  "lon": 55.2278573
+},
+{
+  "type": "node",
+  "id": 6928676746,
+  "lat": -21.0747151,
+  "lon": 55.2277523
+},
+{
+  "type": "node",
+  "id": 4739825133,
+  "lat": -21.0459760,
+  "lon": 55.2218459
+},
+{
+  "type": "node",
+  "id": 4739825134,
+  "lat": -21.0460018,
+  "lon": 55.2221021
+},
+{
+  "type": "node",
+  "id": 4739825135,
+  "lat": -21.0459767,
+  "lon": 55.2221239
+},
+{
+  "type": "node",
+  "id": 4739825136,
+  "lat": -21.0459228,
+  "lon": 55.2221475
+},
+{
+  "type": "node",
+  "id": 4739825137,
+  "lat": -21.0458577,
+  "lon": 55.2218237
+},
+{
+  "type": "node",
+  "id": 4739825138,
+  "lat": -21.0460121,
+  "lon": 55.2218805
+},
+{
+  "type": "node",
+  "id": 4739825139,
+  "lat": -21.0460365,
+  "lon": 55.2219254
+},
+{
+  "type": "node",
+  "id": 4739825140,
+  "lat": -21.0460467,
+  "lon": 55.2219762
+},
+{
+  "type": "node",
+  "id": 4739825141,
+  "lat": -21.0460367,
+  "lon": 55.2220442
+},
+{
+  "type": "node",
+  "id": 4739825142,
+  "lat": -21.0460221,
+  "lon": 55.2220751
+},
+{
+  "type": "node",
+  "id": 4739825143,
+  "lat": -21.0458103,
+  "lon": 55.2221255
+},
+{
+  "type": "node",
+  "id": 4739825147,
+  "lat": -21.0457611,
+  "lon": 55.2220726
+},
+{
+  "type": "node",
+  "id": 4739825148,
+  "lat": -21.0457432,
+  "lon": 55.2219413
+},
+{
+  "type": "node",
+  "id": 4739825149,
+  "lat": -21.0457866,
+  "lon": 55.2218644
+},
+{
+  "type": "node",
+  "id": 4739825150,
+  "lat": -21.0458195,
+  "lon": 55.2218390
+},
+{
+  "type": "node",
+  "id": 4739825156,
+  "lat": -21.0457599,
+  "lon": 55.2218996
+},
+{
+  "type": "node",
+  "id": 4739825157,
+  "lat": -21.0458985,
+  "lon": 55.2218197
+},
+{
+  "type": "node",
+  "id": 4902910529,
+  "lat": -21.0459388,
+  "lon": 55.2218272
+},
+{
+  "type": "node",
+  "id": 4902910538,
+  "lat": -21.0457377,
+  "lon": 55.2219863
+},
+{
+  "type": "node",
+  "id": 4902910539,
+  "lat": -21.0457438,
+  "lon": 55.2220312
+},
+{
+  "type": "node",
+  "id": 4902910541,
+  "lat": -21.0457828,
+  "lon": 55.2221021
+},
+{
+  "type": "node",
+  "id": 6428961504,
+  "lat": -21.0460451,
+  "lon": 55.2220108
+},
+{
+  "type": "node",
+  "id": 6428961519,
+  "lat": -21.0458646,
+  "lon": 55.2221481
+},
+{
+  "type": "node",
+  "id": 1048928736,
+  "lat": -21.0155516,
+  "lon": 55.2593073
+},
+{
+  "type": "node",
+  "id": 333250976,
+  "lat": -21.0148974,
+  "lon": 55.2613054
+},
+{
+  "type": "node",
+  "id": 333250987,
+  "lat": -21.0147305,
+  "lon": 55.2618459
+},
+{
+  "type": "node",
+  "id": 333251069,
+  "lat": -21.0148187,
+  "lon": 55.2615565
+},
+{
+  "type": "node",
+  "id": 333251261,
+  "lat": -21.0142658,
+  "lon": 55.2649026
+},
+{
+  "type": "node",
+  "id": 333253587,
+  "lat": -21.0143403,
+  "lon": 55.2659164
+},
+{
+  "type": "node",
+  "id": 333256523,
+  "lat": -21.0142785,
+  "lon": 55.2656434
+},
+{
+  "type": "node",
+  "id": 333256540,
+  "lat": -21.0151325,
+  "lon": 55.2606236
+},
+{
+  "type": "node",
+  "id": 333256786,
+  "lat": -21.0142363,
+  "lon": 55.2653118
+},
+{
+  "type": "node",
+  "id": 333256972,
+  "lat": -21.0144960,
+  "lon": 55.2664057
+},
+{
+  "type": "node",
+  "id": 333257115,
+  "lat": -21.0146337,
+  "lon": 55.2622325
+},
+{
+  "type": "node",
+  "id": 333257323,
+  "lat": -21.0142303,
+  "lon": 55.2652097
+},
+{
+  "type": "node",
+  "id": 901078064,
+  "lat": -21.0153166,
+  "lon": 55.2600362
+},
+{
+  "type": "node",
+  "id": 901078165,
+  "lat": -21.0149087,
+  "lon": 55.2612692
+},
+{
+  "type": "node",
+  "id": 1048927478,
+  "lat": -21.0142898,
+  "lon": 55.2653041
+},
+{
+  "type": "node",
+  "id": 1048927669,
+  "lat": -21.0151213,
+  "lon": 55.2608126
+},
+{
+  "type": "node",
+  "id": 1048927778,
+  "lat": -21.0153572,
+  "lon": 55.2600599
+},
+{
+  "type": "node",
+  "id": 1048927865,
+  "lat": -21.0142927,
+  "lon": 55.2649717
+},
+{
+  "type": "node",
+  "id": 1048927881,
+  "lat": -21.0144078,
+  "lon": 55.2661507
+},
+{
+  "type": "node",
+  "id": 1048928079,
+  "lat": -21.0149476,
+  "lon": 55.2612139
+},
+{
+  "type": "node",
+  "id": 1048928205,
+  "lat": -21.0145942,
+  "lon": 55.2664549
+},
+{
+  "type": "node",
+  "id": 1048928305,
+  "lat": -21.0150001,
+  "lon": 55.2611995
+},
+{
+  "type": "node",
+  "id": 1048928482,
+  "lat": -21.0142842,
+  "lon": 55.2652079
+},
+{
+  "type": "node",
+  "id": 1048928601,
+  "lat": -21.0143883,
+  "lon": 55.2658906
+},
+{
+  "type": "node",
+  "id": 1048928636,
+  "lat": -21.0149617,
+  "lon": 55.2613220
+},
+{
+  "type": "node",
+  "id": 1048929299,
+  "lat": -21.0144511,
+  "lon": 55.2661089
+},
+{
+  "type": "node",
+  "id": 1048929565,
+  "lat": -21.0143991,
+  "lon": 55.2659284
+},
+{
+  "type": "node",
+  "id": 1048929569,
+  "lat": -21.0143310,
+  "lon": 55.2644897
+},
+{
+  "type": "node",
+  "id": 1048929644,
+  "lat": -21.0143341,
+  "lon": 55.2656514
+},
+{
+  "type": "node",
+  "id": 4282617510,
+  "lat": -21.0150767,
+  "lon": 55.2608019
+},
+{
+  "type": "node",
+  "id": 333250861,
+  "lat": -21.0145688,
+  "lon": 55.2665673
+},
+{
+  "type": "node",
+  "id": 729935644,
+  "lat": -21.0151372,
+  "lon": 55.2677957
+},
+{
+  "type": "node",
+  "id": 1048927413,
+  "lat": -21.0146405,
+  "lon": 55.2665542
+},
+{
+  "type": "node",
+  "id": 1048928236,
+  "lat": -21.0151101,
+  "lon": 55.2676043
+},
+{
+  "type": "node",
+  "id": 1048929137,
+  "lat": -21.0147340,
+  "lon": 55.2667544
+},
+{
+  "type": "node",
+  "id": 1048929323,
+  "lat": -21.0150689,
+  "lon": 55.2674720
+},
+{
+  "type": "node",
+  "id": 1861806500,
+  "lat": -21.0148409,
+  "lon": 55.2669835
+},
+{
+  "type": "node",
+  "id": 9381572877,
+  "lat": -21.0149002,
+  "lon": 55.2671106
+}
+
+  ]
+}

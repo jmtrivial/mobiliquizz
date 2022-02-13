@@ -1,0 +1,2943 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 702199607,
+  "lat": 50.7187552,
+  "lon": 3.1763710,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Levant",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 702199608,
+  "lat": 50.7193481,
+  "lon": 3.1779148,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Levant",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "source:name": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 934919522,
+  "lat": 50.7111723,
+  "lon": 3.1594869,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Carliers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 934919699,
+  "lat": 50.7046662,
+  "lon": 3.1601778,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Mercure",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 934919741,
+  "lat": 50.7129672,
+  "lon": 3.1592017,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Gambetta",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 934919759,
+  "lat": 50.7052369,
+  "lon": 3.1604365,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mercure",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "source:accuracy": "3m"
+  }
+},
+{
+  "type": "node",
+  "id": 934919987,
+  "lat": 50.7114052,
+  "lon": 3.1591616,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Carliers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "source:accuracy": "6m"
+  }
+},
+{
+  "type": "node",
+  "id": 934920043,
+  "lat": 50.7143480,
+  "lon": 3.1586456,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sacré Cœur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "source:accuracy": "6m"
+  }
+},
+{
+  "type": "node",
+  "id": 934920143,
+  "lat": 50.7147850,
+  "lon": 3.1588884,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sacré Cœur",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 934920177,
+  "lat": 50.7129654,
+  "lon": 3.1588954,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Gambetta",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "source:accuracy": "6m",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2265925600,
+  "lat": 50.6968591,
+  "lon": 3.1528820,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villas",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2265925736,
+  "lat": 50.6963348,
+  "lon": 3.1520577,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villas",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2265927851,
+  "lat": 50.6948831,
+  "lon": 3.1512352,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Descat",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2460090859,
+  "lat": 50.6947114,
+  "lon": 3.1546361,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mackellerie",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332243,
+  "lat": 50.7244523,
+  "lon": 3.1818304,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332249,
+  "lat": 50.7244396,
+  "lon": 3.1821781,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332481,
+  "lat": 50.7262081,
+  "lon": 3.1845629,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Potente",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332486,
+  "lat": 50.7266236,
+  "lon": 3.1844009,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Potente",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332571,
+  "lat": 50.7219730,
+  "lon": 3.1814420,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Touquet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332575,
+  "lat": 50.7225188,
+  "lon": 3.1812243,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Touquet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2581332596,
+  "lat": 50.7173689,
+  "lon": 3.1679395,
+  "tags": {
+    "bus": "yes",
+    "description": "Z1 vers Neuville-en-Ferrain – Reckem, Z4 vers Bondues – Ravennes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Gare",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601390987,
+  "lat": 50.7172652,
+  "lon": 3.1352421,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Amsterdam",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2601390988,
+  "lat": 50.7175800,
+  "lon": 3.1350488,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Amsterdam",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2601390999,
+  "lat": 50.7254797,
+  "lon": 3.1567993,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Colbert",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391009,
+  "lat": 50.7255174,
+  "lon": 3.1566508,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Colbert",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391025,
+  "lat": 50.6947800,
+  "lon": 3.1518128,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Descat",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391033,
+  "lat": 50.7175827,
+  "lon": 3.1400553,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Einstein",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391036,
+  "lat": 50.6996177,
+  "lon": 3.1559201,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fresnoy",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391037,
+  "lat": 50.6997297,
+  "lon": 3.1557261,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fresnoy",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391038,
+  "lat": 50.7217040,
+  "lon": 3.1439153,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391039,
+  "lat": 50.7216498,
+  "lon": 3.1440176,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391040,
+  "lat": 50.7246891,
+  "lon": 3.1464373,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel des Voyageurs",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391041,
+  "lat": 50.7247929,
+  "lon": 3.1463542,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel des Voyageurs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391045,
+  "lat": 50.7041108,
+  "lon": 3.1548925,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean XXIII",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391050,
+  "lat": 50.7046430,
+  "lon": 3.1553963,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean XXIII",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391057,
+  "lat": 50.7197346,
+  "lon": 3.1425945,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Francs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391058,
+  "lat": 50.7187815,
+  "lon": 3.1416858,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Francs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391068,
+  "lat": 50.7067673,
+  "lon": 3.1568236,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Point Central",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391069,
+  "lat": 50.7072780,
+  "lon": 3.1570384,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Point Central",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391070,
+  "lat": 50.6951336,
+  "lon": 3.1458971,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont du Blanc Seau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391071,
+  "lat": 50.6952162,
+  "lon": 3.1459013,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont du Blanc Seau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391078,
+  "lat": 50.7166003,
+  "lon": 3.1381829,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-François",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391084,
+  "lat": 50.7212812,
+  "lon": 3.1578178,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "84 vers Comines – Les Glycines, 87 vers Linselles – Cimetière",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391085,
+  "lat": 50.7214798,
+  "lon": 3.1573435,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "C8 vers Tourcoing – Clinquet",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391087,
+  "lat": 50.7214468,
+  "lon": 3.1580108,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "L8 vers Tourcoing – Risquons Tout",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391089,
+  "lat": 50.7213847,
+  "lon": 3.1581408,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "30 vers Wasquehal – Jean-Paul Sartre",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391109,
+  "lat": 50.7016736,
+  "lon": 3.1534090,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391113,
+  "lat": 50.7016802,
+  "lon": 3.1532689,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391114,
+  "lat": 50.7172127,
+  "lon": 3.1589359,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron, Relais Tram T vers Tourcoing – Centre",
+    "highway": "bus_stop",
+    "name": "Victoire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391115,
+  "lat": 50.7173024,
+  "lon": 3.1570858,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victoire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2601391116,
+  "lat": 50.7176307,
+  "lon": 3.1589181,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert, Relais Tram T vers Lille – Gare Lille Flandres",
+    "highway": "bus_stop",
+    "name": "Victoire",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275567,
+  "lat": 50.7238083,
+  "lon": 3.1370723,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anor",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275568,
+  "lat": 50.7240734,
+  "lon": 3.1360710,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anor",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275574,
+  "lat": 50.7288452,
+  "lon": 3.1305256,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Braille",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275575,
+  "lat": 50.7292921,
+  "lon": 3.1314211,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Braille",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275576,
+  "lat": 50.7300782,
+  "lon": 3.1345993,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brossolette",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275577,
+  "lat": 50.7303286,
+  "lon": 3.1342605,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brossolette",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275578,
+  "lat": 50.7173403,
+  "lon": 3.1518507,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Calais",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275579,
+  "lat": 50.7174150,
+  "lon": 3.1517836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Calais",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275586,
+  "lat": 50.7176203,
+  "lon": 3.1445874,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haubourdin",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275587,
+  "lat": 50.7177030,
+  "lon": 3.1447084,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haubourdin",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275590,
+  "lat": 50.7256847,
+  "lon": 3.1309449,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinquet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275591,
+  "lat": 50.7226139,
+  "lon": 3.1392934,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lemire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275592,
+  "lat": 50.7227997,
+  "lon": 3.1391451,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lemire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275595,
+  "lat": 50.7309589,
+  "lon": 3.1341931,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orions",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275596,
+  "lat": 50.7325860,
+  "lon": 3.1313171,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orions",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275597,
+  "lat": 50.7275811,
+  "lon": 3.1381908,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275598,
+  "lat": 50.7280163,
+  "lon": 3.1370801,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275603,
+  "lat": 50.7204608,
+  "lon": 3.1413438,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Francs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275604,
+  "lat": 50.7206914,
+  "lon": 3.1411277,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Francs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275605,
+  "lat": 50.7377300,
+  "lon": 3.1433244,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Racine",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275606,
+  "lat": 50.7378062,
+  "lon": 3.1434036,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Racine",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275611,
+  "lat": 50.7258428,
+  "lon": 3.1422223,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Champs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275612,
+  "lat": 50.7263409,
+  "lon": 3.1414252,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Champs",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275615,
+  "lat": 50.7386471,
+  "lon": 3.1386668,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Centre Commercial",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275616,
+  "lat": 50.7390856,
+  "lon": 3.1390792,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Centre Commercial",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275617,
+  "lat": 50.7177218,
+  "lon": 3.1563183,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victoire",
+    "public_transport": "platform",
+    "reference_point": "ICT001",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275618,
+  "lat": 50.7264329,
+  "lon": 3.1286901,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275619,
+  "lat": 50.7287029,
+  "lon": 3.1360940,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Watt",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2611275620,
+  "lat": 50.7289820,
+  "lon": 3.1368225,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Watt",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620014971,
+  "lat": 50.7275901,
+  "lon": 3.1668210,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avesnes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015049,
+  "lat": 50.7275420,
+  "lon": 3.1665484,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avesnes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015068,
+  "lat": 50.7395322,
+  "lon": 3.1792500,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015072,
+  "lat": 50.7396246,
+  "lon": 3.1798137,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015117,
+  "lat": 50.7242426,
+  "lon": 3.1625299,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conservatoire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015122,
+  "lat": 50.7243622,
+  "lon": 3.1625108,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conservatoire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015156,
+  "lat": 50.7293130,
+  "lon": 3.1671350,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Florence",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015159,
+  "lat": 50.7297623,
+  "lon": 3.1675452,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Florence",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015161,
+  "lat": 50.7253816,
+  "lon": 3.1636168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hentgès",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015162,
+  "lat": 50.7256385,
+  "lon": 3.1641785,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hentgès",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015194,
+  "lat": 50.7396355,
+  "lon": 3.1634599,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts de Neuville",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015197,
+  "lat": 50.7401418,
+  "lon": 3.1640342,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts de Neuville",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015228,
+  "lat": 50.7431422,
+  "lon": 3.1709422,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015231,
+  "lat": 50.7432379,
+  "lon": 3.1714117,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015241,
+  "lat": 50.7366795,
+  "lon": 3.1707192,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "82 vers Armentières / Comines / Halluin",
+    "highway": "bus_stop",
+    "name": "Pont de Neuville",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015244,
+  "lat": 50.7367720,
+  "lon": 3.1715594,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "CIT3 vers Tourcoing Centre Commercial par Neuville",
+    "highway": "bus_stop",
+    "name": "Pont de Neuville",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015247,
+  "lat": 50.7369887,
+  "lon": 3.1707722,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "CIT4 vers Promenade de Flandre par Tourcoing Centre, Z1 vers Neuville, Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Pont de Neuville",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015249,
+  "lat": 50.7370901,
+  "lon": 3.1705474,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "Z1 vers Tourcoing – Gare, Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Pont de Neuville",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015269,
+  "lat": 50.7317493,
+  "lon": 3.1677820,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rochdale",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015272,
+  "lat": 50.7324079,
+  "lon": 3.1681575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rochdale",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015275,
+  "lat": 50.7389833,
+  "lon": 3.1752653,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roitelet",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015279,
+  "lat": 50.7390094,
+  "lon": 3.1754609,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roitelet",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015282,
+  "lat": 50.7378155,
+  "lon": 3.1628203,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Gand",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015284,
+  "lat": 50.7380262,
+  "lon": 3.1629930,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Gand",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015287,
+  "lat": 50.7410680,
+  "lon": 3.1660067,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015290,
+  "lat": 50.7410476,
+  "lon": 3.1661585,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015295,
+  "lat": 50.7411464,
+  "lon": 3.1667981,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015299,
+  "lat": 50.7412552,
+  "lon": 3.1673186,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de l'Yser",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015660,
+  "lat": 50.7354572,
+  "lon": 3.1684023,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Égalité",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2620015669,
+  "lat": 50.7356899,
+  "lon": 3.1687019,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Égalité",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5416650854,
+  "lat": 50.7329479,
+  "lon": 3.1436000,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Denis Papin",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338843,
+  "lat": 50.7249113,
+  "lon": 3.1497060,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Millet",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338844,
+  "lat": 50.7250193,
+  "lon": 3.1494212,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Millet",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338845,
+  "lat": 50.7251668,
+  "lon": 3.1506568,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Millet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338846,
+  "lat": 50.7251554,
+  "lon": 3.1508526,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Millet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338847,
+  "lat": 50.7274624,
+  "lon": 3.1491923,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Clemenceau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338848,
+  "lat": 50.7277926,
+  "lon": 3.1487444,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Clemenceau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338850,
+  "lat": 50.7294013,
+  "lon": 3.1445374,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fin de la Guerre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338851,
+  "lat": 50.7291348,
+  "lon": 3.1451100,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fin de la Guerre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338852,
+  "lat": 50.7299828,
+  "lon": 3.1419544,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucie Aubrac",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289338853,
+  "lat": 50.7301441,
+  "lon": 3.1413348,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucie Aubrac",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289357879,
+  "lat": 50.7250488,
+  "lon": 3.1569298,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colbert",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289357880,
+  "lat": 50.7251817,
+  "lon": 3.1568180,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colbert",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393560,
+  "lat": 50.7192304,
+  "lon": 3.1630982,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Poste",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393561,
+  "lat": 50.7187439,
+  "lon": 3.1636119,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Poste",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393562,
+  "lat": 50.7196329,
+  "lon": 3.1617612,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Arcades",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393563,
+  "lat": 50.7197705,
+  "lon": 3.1618698,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Arcades",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393564,
+  "lat": 50.7206959,
+  "lon": 3.1586673,
+  "tags": {
+    "bus": "yes",
+    "description": "L4 vers Halluin – Gounod, CIT3 vers Tourcoing – Centre Commercial, Z1 vers Neuville-en-Ferrain – Reckem, Z4 vers Bondues – Ravennes / Tourcoing – Gare, Relais M2 vers CH Dron",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393565,
+  "lat": 50.7205779,
+  "lon": 3.1586605,
+  "tags": {
+    "bus": "yes",
+    "description": "L4 vers Hem – Blanchisserie, CIT4 vers Neuville-en-Ferrain – Promenade de Flandre, Z1 vers Tourcoing – Gare, Z4 vers Bondues – Ravennes / Tourcoing – Gare, Relais M2 vers Saint-Philibert, Relais Tram T vers Gare Lille Flandres",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393566,
+  "lat": 50.7241090,
+  "lon": 3.1588805,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Hôtel de Ville",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289393567,
+  "lat": 50.7240284,
+  "lon": 3.1594343,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Hôtel de Ville",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508612,
+  "lat": 50.7091448,
+  "lon": 3.1680094,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tossée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508613,
+  "lat": 50.7093113,
+  "lon": 3.1677116,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tossée",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508614,
+  "lat": 50.7113002,
+  "lon": 3.1664403,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Omnibus",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508615,
+  "lat": 50.7122590,
+  "lon": 3.1659655,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Omnibus",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508616,
+  "lat": 50.7143565,
+  "lon": 3.1644125,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hondschoote",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508617,
+  "lat": 50.7141628,
+  "lon": 3.1647049,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hondschoote",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508618,
+  "lat": 50.7163810,
+  "lon": 3.1642598,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508619,
+  "lat": 50.7161602,
+  "lon": 3.1642354,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508620,
+  "lat": 50.7173886,
+  "lon": 3.1669719,
+  "tags": {
+    "bus": "yes",
+    "description": "L4 vers Halluin – Gounod, 35 vers Tourcoing – Centre",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Gare",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508621,
+  "lat": 50.7173098,
+  "lon": 3.1676164,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "L8 vers Hem – Blanchisserie / Tourcoing – Risquons Tout, 17 vers Tourcoing – Centre",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Gare",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289508622,
+  "lat": 50.7172351,
+  "lon": 3.1668265,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "L4 vers Leers – Centre Commercial, 35 vers Wattrelos – Quartier Beaulieu / Roubaix – Eurotéléport",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Gare",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6296251399,
+  "lat": 50.7215153,
+  "lon": 3.1578197,
+  "tags": {
+    "bus": "yes",
+    "description": "L8 vers Hem – Blanchisserie, 17 vers Wattrelos – Centre",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 6296251400,
+  "lat": 50.7213706,
+  "lon": 3.1575987,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "89 vers Bondues – Norbert Ségard, 24R",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6297186252,
+  "lat": 50.7393994,
+  "lon": 3.1686263,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Cimetière",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6297186255,
+  "lat": 50.7393434,
+  "lon": 3.1689253,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Cimetière",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6297186256,
+  "lat": 50.7435738,
+  "lon": 3.1807273,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "L8 vers Hem – Blanchisserie, CIT4 vers Neuville-en-Ferrain – Promenade de Flandre via Pont de Neuville et Tourcoing Centre, Z1 vers Neuville-en-Ferrain – Reckem / Tourcoing – Gare",
+    "highway": "bus_stop",
+    "name": "C.H. Dron",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6345056680,
+  "lat": 50.7172249,
+  "lon": 3.1678444,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "description": "L8 vers Hem – Blanchisserie / Tourcoing – Risquons Tout, 17 vers Wattrelos – Centre, Z1 Terminus, Z4 Terminus",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Gare",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6498974543,
+  "lat": 50.7330618,
+  "lon": 3.1433022,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Denis Papin",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6498974687,
+  "lat": 50.7300084,
+  "lon": 3.1389435,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucie Aubrac",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6498974688,
+  "lat": 50.7308039,
+  "lon": 3.1405766,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucie Aubrac",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657828,
+  "lat": 50.7438019,
+  "lon": 3.1804637,
+  "tags": {
+    "bus": "yes",
+    "description": "L8 vers Tourcoing – Risquons Tout, CIT3 vers Tourcoing – Centre Commercial via Neuville, RT vers Mouscron, Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "C.H. Dron",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657829,
+  "lat": 50.7465867,
+  "lon": 3.1771946,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Forgette",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657830,
+  "lat": 50.7467485,
+  "lon": 3.1777569,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Forgette",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657831,
+  "lat": 50.7479868,
+  "lon": 3.1801241,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Risquons Tout",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657832,
+  "lat": 50.7481120,
+  "lon": 3.1805802,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Risquons Tout",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6499657833,
+  "lat": 50.7479794,
+  "lon": 3.1806274,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Risquons Tout",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532210088,
+  "lat": 50.7126222,
+  "lon": 3.1563822,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais Tram T vers Tourcoing – Centre",
+    "highway": "bus_stop",
+    "name": "Pont Hydraulique",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6532295727,
+  "lat": 50.7127596,
+  "lon": 3.1557010,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais Tram T vers Lille – Gare Lille Flandres",
+    "highway": "bus_stop",
+    "name": "Pont Hydraulique",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6532295906,
+  "lat": 50.7100277,
+  "lon": 3.1535211,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais Tram T vers Tourcoing – Centre",
+    "highway": "bus_stop",
+    "name": "Ma Campagne",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558638,
+  "lat": 50.7114606,
+  "lon": 3.1487976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flocon",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558639,
+  "lat": 50.7110465,
+  "lon": 3.1494419,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Flocon",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558644,
+  "lat": 50.7138823,
+  "lon": 3.1456302,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Peupliers",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558646,
+  "lat": 50.7133026,
+  "lon": 3.1458344,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Peupliers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558650,
+  "lat": 50.7154762,
+  "lon": 3.1438024,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bradford",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6532558652,
+  "lat": 50.7147937,
+  "lon": 3.1440891,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bradford",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6697205690,
+  "lat": 50.7098518,
+  "lon": 3.1522881,
+  "tags": {
+    "bus": "yes",
+    "description": "Relais Tram T vers Lille – Gare Lille Flandres",
+    "highway": "bus_stop",
+    "name": "Ma Campagne",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6959852080,
+  "lat": 50.7319813,
+  "lon": 3.1367956,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6959852081,
+  "lat": 50.7319269,
+  "lon": 3.1368855,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6975228782,
+  "lat": 50.7419284,
+  "lon": 3.1846612,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ogier de Bousbecque",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6975228783,
+  "lat": 50.7417714,
+  "lon": 3.1846252,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ogier de Bousbecque",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6975228798,
+  "lat": 50.7395805,
+  "lon": 3.1866370,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Juin",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6975228799,
+  "lat": 50.7394606,
+  "lon": 3.1865468,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Juin",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6976965913,
+  "lat": 50.7371793,
+  "lon": 3.1895696,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marlière",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6976965914,
+  "lat": 50.7372930,
+  "lon": 3.1897708,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marlière",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6976974153,
+  "lat": 50.7363600,
+  "lon": 3.1884636,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mirabeau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6976974154,
+  "lat": 50.7360562,
+  "lon": 3.1882925,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mirabeau",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6976974435,
+  "lat": 50.7343701,
+  "lon": 3.1842918,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curie",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6976974436,
+  "lat": 50.7340935,
+  "lon": 3.1840224,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curie",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436788,
+  "lat": 50.7319669,
+  "lon": 3.1805798,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix Rouge",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436789,
+  "lat": 50.7321180,
+  "lon": 3.1804591,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix Rouge",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436790,
+  "lat": 50.7308073,
+  "lon": 3.1788390,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Joseph",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436791,
+  "lat": 50.7308209,
+  "lon": 3.1786486,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Joseph",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436896,
+  "lat": 50.7276180,
+  "lon": 3.1758221,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacquard",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436897,
+  "lat": 50.7275624,
+  "lon": 3.1759799,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacquard",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436898,
+  "lat": 50.7250519,
+  "lon": 3.1741814,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Virolois",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436899,
+  "lat": 50.7248177,
+  "lon": 3.1740346,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Virolois",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436900,
+  "lat": 50.7221825,
+  "lon": 3.1709215,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Renaix",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436901,
+  "lat": 50.7220795,
+  "lon": 3.1710267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Renaix",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436903,
+  "lat": 50.7189353,
+  "lon": 3.1693901,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tilleul",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436904,
+  "lat": 50.7188153,
+  "lon": 3.1696156,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tilleul",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6977436905,
+  "lat": 50.7216262,
+  "lon": 3.1573855,
+  "tags": {
+    "bus": "yes",
+    "description": "35 vers Wattrelos – Quartier Beaulieu / Roubaix – Eurotéléport",
+    "highway": "bus_stop",
+    "name": "Tourcoing Centre",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7056503288,
+  "lat": 50.7212633,
+  "lon": 3.1627258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing",
+    "public_transport": "platform",
+    "route_ref": "Flixbus 757, 804, 1747"
+  }
+},
+{
+  "type": "node",
+  "id": 8587126355,
+  "lat": 50.7265999,
+  "lon": 3.1347969,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Watt",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8587126357,
+  "lat": 50.7278275,
+  "lon": 3.1359744,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Watt",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8593617146,
+  "lat": 50.7313028,
+  "lon": 3.1598085,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Phalempins",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8593617148,
+  "lat": 50.7307383,
+  "lon": 3.1590240,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "description": "Relais M2 vers Lomme – Saint-Philibert",
+    "highway": "bus_stop",
+    "name": "Phalempins",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8600622066,
+  "lat": 50.7334793,
+  "lon": 3.1459348,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Roncq",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8600622067,
+  "lat": 50.7291772,
+  "lon": 3.1541343,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bert",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8600622070,
+  "lat": 50.7322357,
+  "lon": 3.1492352,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Jacques",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8600622106,
+  "lat": 50.7327798,
+  "lon": 3.1517592,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Phalempins",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8600622293,
+  "lat": 50.7280974,
+  "lon": 3.1531030,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jourdan",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8680190734,
+  "lat": 50.7480313,
+  "lon": 3.1806399,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tourcoing – Risquons Tout",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8765595466,
+  "lat": 50.7138410,
+  "lon": 3.1576627,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Gambetta",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8776567249,
+  "lat": 50.7055973,
+  "lon": 3.1603543,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "description": "Relais M2 vers Tourcoing – C.H. Dron",
+    "highway": "bus_stop",
+    "name": "Mercure",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+}
+
+  ]
+}

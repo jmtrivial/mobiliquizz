@@ -1,0 +1,1862 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 441241662,
+  "lat": 48.9017646,
+  "lon": 2.2645658,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ulbach",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25948",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024804",
+    "route_ref": "275",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 442134329,
+  "lat": 48.9031132,
+  "lon": 2.2562669,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "République - Colombes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420568",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775580",
+    "route_ref": "178",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 556804803,
+  "lat": 48.8957950,
+  "lon": 2.2563506,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8128",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 564612972,
+  "lat": 48.9028440,
+  "lon": 2.2754700,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24312",
+    "route_ref": "175",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 637070043,
+  "lat": 48.8969955,
+  "lon": 2.2559657,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hérold - Mairie de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36862",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024799",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 637070048,
+  "lat": 48.8957687,
+  "lon": 2.2493108,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Charras",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26927",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023374",
+    "route_ref": "176",
+    "shelter": "yes",
+    "source": "Microsoft Bing orbital imagery + survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 637086328,
+  "lat": 48.8975333,
+  "lon": 2.2565988,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hérold - Mairie de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25944",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024827",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1001505536,
+  "lat": 48.9007598,
+  "lon": 2.2606152,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paix - Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23742",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023283",
+    "route_ref": "163;164;278",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1001505570,
+  "lat": 48.9020765,
+  "lon": 2.2593043,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun - Rue Latérale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23741",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023285",
+    "route_ref": "163;164;278",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1001505586,
+  "lat": 48.9020109,
+  "lon": 2.2590775,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun - Rue Latérale",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27418",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023286",
+    "route_ref": "163;164;278",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1003114773,
+  "lat": 48.8919315,
+  "lon": 2.2539193,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27428",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023373",
+    "route_ref": "175;176",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1138846871,
+  "lat": 48.9024322,
+  "lon": 2.2741453,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24311",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1145362413,
+  "lat": 48.9009154,
+  "lon": 2.2443236,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24326",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023379",
+    "route_ref": "176",
+    "shelter": "yes",
+    "source": "Microsoft Bing satellite 2011",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1188299275,
+  "lat": 48.8953382,
+  "lon": 2.2503800,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Charras",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36826",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024823",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1211037635,
+  "lat": 48.8952400,
+  "lon": 2.2567330,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18259",
+    "route_ref": "175",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1211041136,
+  "lat": 48.8990620,
+  "lon": 2.2570360,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20440",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024801",
+    "route_ref": "275;278",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1211058090,
+  "lat": 48.8949130,
+  "lon": 2.2494200,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Charras",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36827",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024824",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1215232769,
+  "lat": 48.8979541,
+  "lon": 2.2634342,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24287",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1215233226,
+  "lat": 48.8980550,
+  "lon": 2.2640390,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24286",
+    "route_ref": "175",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1221135312,
+  "lat": 48.9043161,
+  "lon": 2.2786592,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haussmann",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24313",
+    "route_ref": "175",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1221135465,
+  "lat": 48.9037581,
+  "lon": 2.2772070,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haussmann",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24307",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1221140928,
+  "lat": 48.8967196,
+  "lon": 2.2598556,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Montagne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18260",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1221162679,
+  "lat": 48.8995760,
+  "lon": 2.2587570,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39381",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024800",
+    "route_ref": "275;278",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1221164444,
+  "lat": 48.9003710,
+  "lon": 2.2604201,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Paix - Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36807",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024803",
+    "route_ref": "275;278",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1221171350,
+  "lat": 48.9006137,
+  "lon": 2.2603961,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paix - Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36806",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023284",
+    "route_ref": "164;163",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1221171358,
+  "lat": 48.9005860,
+  "lon": 2.2615220,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Paix - Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25946",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024802",
+    "route_ref": "275",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1358670316,
+  "lat": 48.8973237,
+  "lon": 2.2640348,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36803",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7714294",
+    "route_ref": "164;163",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1358670375,
+  "lat": 48.8975427,
+  "lon": 2.2634367,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Bineau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36804",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7714295",
+    "route_ref": "164;163",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1364929159,
+  "lat": 48.9015213,
+  "lon": 2.2636809,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ulbach",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20441",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024805",
+    "route_ref": "275",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1432261556,
+  "lat": 48.8978253,
+  "lon": 2.2473265,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24327",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023377",
+    "route_ref": "176",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1491960498,
+  "lat": 48.8919255,
+  "lon": 2.2430180,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39767",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376299",
+    "route_ref": "278;73;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1491960506,
+  "lat": 48.8963606,
+  "lon": 2.2519177,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alma - Baudin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25947",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024826",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1491960508,
+  "lat": 48.8932040,
+  "lon": 2.2474530,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carnot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36861",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024822",
+    "route_ref": "278;275",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56868503"
+  }
+},
+{
+  "type": "node",
+  "id": 1515990772,
+  "lat": 48.8998055,
+  "lon": 2.2462912,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Marceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24334",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775576",
+    "route_ref": "178;178",
+    "shelter": "no",
+    "source": "Microsoft Bing satellite 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1515990773,
+  "lat": 48.8999805,
+  "lon": 2.2465527,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Marceau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24333",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775577",
+    "route_ref": "178;178",
+    "shelter": "yes",
+    "source": "Microsoft Bing satellite 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1515990775,
+  "lat": 48.9004156,
+  "lon": 2.2449640,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24328",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023378",
+    "route_ref": "176",
+    "shelter": "yes",
+    "source": "Microsoft Bing satellite 2011",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1515990776,
+  "lat": 48.8984908,
+  "lon": 2.2419522,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Normandie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420570",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775575",
+    "route_ref": "178;178",
+    "shelter": "no",
+    "source": "Microsoft Bing satellite 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1515990778,
+  "lat": 48.8987366,
+  "lon": 2.2429019,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Normandie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24336",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775574",
+    "route_ref": "178",
+    "shelter": "no",
+    "source": "Microsoft Bing satellite 2011",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1525627154,
+  "lat": 48.8962217,
+  "lon": 2.2576389,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Montagne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24309",
+    "route_ref": "175",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1557096021,
+  "lat": 48.9008456,
+  "lon": 2.2707740,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Franklin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24306",
+    "route_ref": "175",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1727806345,
+  "lat": 48.8965184,
+  "lon": 2.2452355,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre de P.M.I.",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1729090093,
+  "lat": 48.8950270,
+  "lon": 2.2444604,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1744626738,
+  "lat": 48.8926049,
+  "lon": 2.2533882,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24308",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023372",
+    "route_ref": "176",
+    "source": "Microsoft Bing satellite 2012",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1795166614,
+  "lat": 48.9015867,
+  "lon": 2.2385889,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Fauvelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23720",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022935",
+    "route_ref": "73",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1834676299,
+  "lat": 48.9003134,
+  "lon": 2.2692687,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Franklin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24310",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1873395693,
+  "lat": 48.9049053,
+  "lon": 2.2561991,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "471433",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023288",
+    "route_ref": "164;163",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2121956335,
+  "lat": 48.9055670,
+  "lon": 2.2568525,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420557",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775582",
+    "route_ref": "178",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2464304035,
+  "lat": 48.9011087,
+  "lon": 2.2746826,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ajoux",
+    "on_demand": "yes",
+    "public_transport": "platform",
+    "route_ref": "Curviabus",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3157529778,
+  "lat": 48.9014483,
+  "lon": 2.2512048,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "D'Estienne d'Orves",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24337",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775578",
+    "route_ref": "178",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3407902416,
+  "lat": 48.9043526,
+  "lon": 2.2567389,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Courbevoie - Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36808",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024836",
+    "route_ref": "278",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3508294407,
+  "lat": 48.8969550,
+  "lon": 2.2374139,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard de Vinci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23716",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022924",
+    "route_ref": "73",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3508294408,
+  "lat": 48.8969007,
+  "lon": 2.2375820,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard de Vinci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18789",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022925",
+    "route_ref": "73",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3508300062,
+  "lat": 48.8969126,
+  "lon": 2.2376282,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "3 Frères Lebœuf",
+    "on_demand": "yes",
+    "public_transport": "platform",
+    "route_ref": "Curviabus",
+    "shelter": "no",
+    "source": "survey 2015",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3689889327,
+  "lat": 48.9049643,
+  "lon": 2.2690700,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "operator": "Ville de Courbevoie",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3706474653,
+  "lat": 48.8948070,
+  "lon": 2.2502698,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Charras",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24325",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023375",
+    "route_ref": "176",
+    "shelter": "yes",
+    "source": "Microsoft Bing orbital imagery + survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4130040086,
+  "lat": 48.8978917,
+  "lon": 2.2474926,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Courbevoie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24329",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023376",
+    "route_ref": "176",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4317627176,
+  "lat": 48.8879006,
+  "lon": 2.2535176,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Neuilly - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23729",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024290",
+    "route_ref": "157;158",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4317627177,
+  "lat": 48.8879270,
+  "lon": 2.2535954,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Neuilly - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24255",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023369",
+    "route_ref": "176",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4324460700,
+  "lat": 48.8995518,
+  "lon": 2.2397000,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dieppe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36853",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275268",
+    "route_ref": "N24",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4325800785,
+  "lat": 48.8987684,
+  "lon": 2.2345685,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Puvis de Chavannes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23717",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022928",
+    "route_ref": "73",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326776422,
+  "lat": 48.8965500,
+  "lon": 2.2346450,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Étudiants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23715",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022927",
+    "route_ref": "73",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4331123059,
+  "lat": 48.8905733,
+  "lon": 2.2554879,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Doumer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8127",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023371",
+    "route_ref": "175;176",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4341202911,
+  "lat": 48.8994666,
+  "lon": 2.2369636,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Puvis de Chavannes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23719",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022929",
+    "route_ref": "73",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4341202913,
+  "lat": 48.8971643,
+  "lon": 2.2400749,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faubourg de l'Arche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427918",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275270",
+    "route_ref": "N24;178;73",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4341202914,
+  "lat": 48.8972482,
+  "lon": 2.2403033,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faubourg de l'Arche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23820",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275271",
+    "route_ref": "178;N24",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4556753207,
+  "lat": 48.8926181,
+  "lon": 2.2545140,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29159",
+    "route_ref": "175",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4590972187,
+  "lat": 48.8951505,
+  "lon": 2.2406263,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caron",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23713",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275272",
+    "route_ref": "73;178",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4590972318,
+  "lat": 48.8958319,
+  "lon": 2.2405047,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caron",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8025",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275273",
+    "route_ref": "N24;178",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597747012,
+  "lat": 48.9003513,
+  "lon": 2.2400852,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dieppe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34194",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275269",
+    "route_ref": "N24",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597747076,
+  "lat": 48.9020307,
+  "lon": 2.2394616,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Les Fauvelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34176",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275266",
+    "route_ref": "N24",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4597747077,
+  "lat": 48.9020475,
+  "lon": 2.2398451,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Fauvelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427930",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275267",
+    "route_ref": "N24",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4892634663,
+  "lat": 48.8898375,
+  "lon": 2.2500944,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alsace",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421767",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022915",
+    "route_ref": "73;N24",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4894277307,
+  "lat": 48.8879309,
+  "lon": 2.2519619,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont de Neuilly - Rive Gauche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24256",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376297",
+    "route_ref": "73;N24",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4896654639,
+  "lat": 48.8969279,
+  "lon": 2.2345121,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Étudiants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23714",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022926",
+    "route_ref": "73",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4896802212,
+  "lat": 48.9012443,
+  "lon": 2.2387231,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Fauvelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21681",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022930",
+    "route_ref": "73",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4896802215,
+  "lat": 48.8949923,
+  "lon": 2.2406035,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caron",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413000",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4022921",
+    "route_ref": "73",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4897538876,
+  "lat": 48.8969023,
+  "lon": 2.2343847,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étudiants",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4897570443,
+  "lat": 48.8997419,
+  "lon": 2.2381425,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Fauvelles",
+    "on_demand": "yes",
+    "public_transport": "platform",
+    "route_ref": "Curviabus",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4965648796,
+  "lat": 48.8906542,
+  "lon": 2.2556691,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Doumer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29467",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023370",
+    "route_ref": "175;176",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4965648798,
+  "lat": 48.8874959,
+  "lon": 2.2534340,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "RD7 - Pont de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25835",
+    "route_ref": "175",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5341863630,
+  "lat": 48.8914043,
+  "lon": 2.2415273,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Terminal Jules Verne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36903;16933",
+    "ref:FR:STIF:stop_id": "StopPoint:83:600;StopPoint:89:4;StopPoint:89:3",
+    "route_ref": "ExpA14;Exp100",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5767323041,
+  "lat": 48.8914645,
+  "lon": 2.2419047,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Défense - Terminal Jules Verne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421322",
+    "route_ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 5864827838,
+  "lat": 48.8914250,
+  "lon": 2.2414332,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Défense Gare",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14801",
+    "ref:FR:STIF:stop_id": "StopPoint:68:109",
+    "route_ref": "14",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5864827857,
+  "lat": 48.8914139,
+  "lon": 2.2414899,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Défense Gare",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14802",
+    "ref:FR:STIF:stop_id": "StopPoint:68:110",
+    "route_ref": "14",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312557,
+  "lat": 48.9033714,
+  "lon": 2.2686775,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Belgique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8083",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024807",
+    "route_ref": "167;275;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312558,
+  "lat": 48.9028265,
+  "lon": 2.2739736,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26860",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275538",
+    "route_ref": "167;275;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312562,
+  "lat": 48.9022689,
+  "lon": 2.2750399,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36824",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275537",
+    "route_ref": "167;275;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312563,
+  "lat": 48.9031849,
+  "lon": 2.2689678,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Belgique",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8082",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024806",
+    "route_ref": "167;275;N52",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5926312565,
+  "lat": 48.9065398,
+  "lon": 2.2614754,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin des Bruyères",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28490",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7512902",
+    "route_ref": "167;278",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563795,
+  "lat": 48.9051045,
+  "lon": 2.2564845,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39427",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4023287",
+    "route_ref": "163;164;N152",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5986745564,
+  "lat": 48.9045265,
+  "lon": 2.2569603,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Courbevoie - Europe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39426",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024835",
+    "route_ref": "278",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6260924268,
+  "lat": 48.8965706,
+  "lon": 2.2532957,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alma - Baudin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25945",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4024825",
+    "route_ref": "278;275",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6367780461,
+  "lat": 48.9017072,
+  "lon": 2.2517563,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "D'Estienne d'Orves",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420558",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775579",
+    "route_ref": "178",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6367780462,
+  "lat": 48.9034176,
+  "lon": 2.2559338,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "République - Colombes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420569",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5775581",
+    "route_ref": "178",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9259955417,
+  "lat": 48.8980075,
+  "lon": 2.2471577,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Courbevoie",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,431 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 28417873,
+  "nodes": [
+    296071910,
+    2670528655,
+    2670528649
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "maxspeed": "30",
+    "name": "Quai du Port de Créteil",
+    "oneway": "no",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 30376298,
+  "nodes": [
+    7804469278,
+    7804469279,
+    7804469280,
+    335207615,
+    1226725945,
+    1226726090,
+    1226726101,
+    7804469272,
+    7804469273,
+    335207618,
+    1226726056,
+    1226726049,
+    7804469274,
+    7804469275,
+    335207619,
+    7804469276,
+    7804469277,
+    1226726052,
+    1226725984,
+    1226726097,
+    7804469278
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "junction": "roundabout",
+    "maxspeed": "30",
+    "noname": "yes",
+    "source:maxspeed": "Arrêté du maire, date d'effet 1/2/2021"
+  }
+},
+{
+  "type": "way",
+  "id": 36872150,
+  "nodes": [
+    309974028,
+    1855261529,
+    298983926,
+    2694668364,
+    313559242,
+    2694668365,
+    742398393,
+    2694668366,
+    314820783
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue de Lattre de Tassigny",
+    "oneway": "yes",
+    "source:maxspeed": "Arrêté du maire, date d'effet 1/2/2021"
+  }
+},
+{
+  "type": "way",
+  "id": 64391723,
+  "nodes": [
+    311487513,
+    8897085960,
+    793574969
+  ],
+  "tags": {
+    "bicycle": "yes",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "foot": "yes",
+    "highway": "tertiary",
+    "horse": "yes",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue Charles de Gaulle",
+    "old_name": "Avenue de la Mairie",
+    "oneway": "yes",
+    "parking:condition:both": "ticket",
+    "parking:lane:both": "parallel",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 97675806,
+  "nodes": [
+    312164297,
+    846437814
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lit": "yes",
+    "maxspeed": "30",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 449655201,
+  "nodes": [
+    314820783,
+    742492989,
+    298984204,
+    742492942,
+    298984205,
+    315466048
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue de Lattre de Tassigny",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600050964,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Saint-Maur-des-Fossés",
+    "name:el": "Σαιν-Μωρ-ντε-Φοσέ",
+    "population": "74976",
+    "population:date": "2019",
+    "postal_code": "94100;94210",
+    "ref:INSEE": "94068",
+    "ref:mhs": "IA00059599",
+    "short_name": "Saint-Maur-des-F.",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q193313",
+    "wikipedia": "fr:Saint-Maur-des-Fossés"
+  }
+},
+{
+  "type": "node",
+  "id": 296071910,
+  "lat": 48.8007020,
+  "lon": 2.4702801
+},
+{
+  "type": "node",
+  "id": 2670528649,
+  "lat": 48.8004644,
+  "lon": 2.4703699
+},
+{
+  "type": "node",
+  "id": 2670528655,
+  "lat": 48.8005811,
+  "lon": 2.4703236
+},
+{
+  "type": "node",
+  "id": 312164297,
+  "lat": 48.7992249,
+  "lon": 2.4711911
+},
+{
+  "type": "node",
+  "id": 846437814,
+  "lat": 48.7991402,
+  "lon": 2.4709958
+},
+{
+  "type": "node",
+  "id": 335207615,
+  "lat": 48.7875114,
+  "lon": 2.4920197
+},
+{
+  "type": "node",
+  "id": 335207618,
+  "lat": 48.7873989,
+  "lon": 2.4921719
+},
+{
+  "type": "node",
+  "id": 335207619,
+  "lat": 48.7875032,
+  "lon": 2.4922902
+},
+{
+  "type": "node",
+  "id": 1226725945,
+  "lat": 48.7874820,
+  "lon": 2.4920160
+},
+{
+  "type": "node",
+  "id": 1226725984,
+  "lat": 48.7875742,
+  "lon": 2.4922029
+},
+{
+  "type": "node",
+  "id": 1226726049,
+  "lat": 48.7874238,
+  "lon": 2.4922498
+},
+{
+  "type": "node",
+  "id": 1226726052,
+  "lat": 48.7875587,
+  "lon": 2.4922429
+},
+{
+  "type": "node",
+  "id": 1226726056,
+  "lat": 48.7874072,
+  "lon": 2.4922139
+},
+{
+  "type": "node",
+  "id": 1226726090,
+  "lat": 48.7874534,
+  "lon": 2.4920266
+},
+{
+  "type": "node",
+  "id": 1226726097,
+  "lat": 48.7875802,
+  "lon": 2.4921574
+},
+{
+  "type": "node",
+  "id": 1226726101,
+  "lat": 48.7874286,
+  "lon": 2.4920506
+},
+{
+  "type": "node",
+  "id": 7804469272,
+  "lat": 48.7874101,
+  "lon": 2.4920853
+},
+{
+  "type": "node",
+  "id": 7804469273,
+  "lat": 48.7873998,
+  "lon": 2.4921272
+},
+{
+  "type": "node",
+  "id": 7804469274,
+  "lat": 48.7874469,
+  "lon": 2.4922761
+},
+{
+  "type": "node",
+  "id": 7804469275,
+  "lat": 48.7874743,
+  "lon": 2.4922900
+},
+{
+  "type": "node",
+  "id": 7804469276,
+  "lat": 48.7875240,
+  "lon": 2.4922814
+},
+{
+  "type": "node",
+  "id": 7804469277,
+  "lat": 48.7875429,
+  "lon": 2.4922653
+},
+{
+  "type": "node",
+  "id": 7804469278,
+  "lat": 48.7875758,
+  "lon": 2.4921114
+},
+{
+  "type": "node",
+  "id": 7804469279,
+  "lat": 48.7875617,
+  "lon": 2.4920702
+},
+{
+  "type": "node",
+  "id": 7804469280,
+  "lat": 48.7875394,
+  "lon": 2.4920384
+},
+{
+  "type": "node",
+  "id": 311487513,
+  "lat": 48.8045238,
+  "lon": 2.4855864
+},
+{
+  "type": "node",
+  "id": 793574969,
+  "lat": 48.8034430,
+  "lon": 2.4854153
+},
+{
+  "type": "node",
+  "id": 8897085960,
+  "lat": 48.8044923,
+  "lon": 2.4855749
+},
+{
+  "type": "node",
+  "id": 309974028,
+  "lat": 48.8068706,
+  "lon": 2.4962564
+},
+{
+  "type": "node",
+  "id": 1855261529,
+  "lat": 48.8068838,
+  "lon": 2.4963487
+},
+{
+  "type": "node",
+  "id": 298983926,
+  "lat": 48.8073471,
+  "lon": 2.4995960
+},
+{
+  "type": "node",
+  "id": 313559242,
+  "lat": 48.8075172,
+  "lon": 2.5007816
+},
+{
+  "type": "node",
+  "id": 742398393,
+  "lat": 48.8077260,
+  "lon": 2.5022080
+},
+{
+  "type": "node",
+  "id": 2694668364,
+  "lat": 48.8075008,
+  "lon": 2.5006671
+},
+{
+  "type": "node",
+  "id": 2694668365,
+  "lat": 48.8075307,
+  "lon": 2.5008735
+},
+{
+  "type": "node",
+  "id": 2694668366,
+  "lat": 48.8078953,
+  "lon": 2.5034187
+},
+{
+  "type": "node",
+  "id": 314820783,
+  "lat": 48.8079103,
+  "lon": 2.5035259
+},
+{
+  "type": "node",
+  "id": 298984204,
+  "lat": 48.8079793,
+  "lon": 2.5043572
+},
+{
+  "type": "node",
+  "id": 298984205,
+  "lat": 48.8080003,
+  "lon": 2.5052370
+},
+{
+  "type": "node",
+  "id": 315466048,
+  "lat": 48.8079995,
+  "lon": 2.5056030
+},
+{
+  "type": "node",
+  "id": 742492942,
+  "lat": 48.8079982,
+  "lon": 2.5047841
+},
+{
+  "type": "node",
+  "id": 742492989,
+  "lat": 48.8079561,
+  "lon": 2.5039297
+}
+
+  ]
+}

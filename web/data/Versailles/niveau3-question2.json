@@ -1,0 +1,6254 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 9923188,
+  "nodes": [
+    2480637158,
+    5321741952,
+    5321741953,
+    5321741954,
+    2482409605,
+    206142594,
+    9453494131,
+    96511169
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed:type": "FR:urban",
+    "name": "Rue Robert de Cotte",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "sidewalk:right:surface": "sett",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 10097979,
+  "nodes": [
+    173867639,
+    7272630934,
+    5318619526,
+    6705451400,
+    5318619530,
+    5318619531,
+    6705451401,
+    3110070249,
+    205641364
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue des États-Unis",
+    "oneway": "yes",
+    "ref": "D 185",
+    "sidewalk:right": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 15794374,
+  "nodes": [
+    158520542,
+    2482442298,
+    7216409034,
+    193928400,
+    158520566
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue de l'Indépendance Américaine",
+    "old_name": "Rue de la Surintendance",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 15794377,
+  "nodes": [
+    158520554,
+    6078440444,
+    1412993791,
+    158520547
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Pierre Girauld de Nolhac",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "asphalt",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 16797791,
+  "nodes": [
+    173864274,
+    173864271,
+    5659506439,
+    2288583036,
+    793649670
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Boulevard de la République",
+    "oneway": "yes",
+    "ref": "D 183",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 18307916,
+  "nodes": [
+    81079817,
+    5321786440,
+    1204778374,
+    5321786443,
+    2482409614,
+    206156860
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des Réservoirs",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 18780607,
+  "nodes": [
+    158520547,
+    8309551198,
+    2482442310,
+    158520566
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue de l'Indépendance Américaine",
+    "old_name": "Rue de la Surintendance",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19195592,
+  "nodes": [
+    199112585,
+    907015994,
+    1427882650,
+    270242658
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Foch",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19196015,
+  "nodes": [
+    1204778388,
+    5321741950,
+    81079817
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "foot": "no",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des Réservoirs",
+    "oneway": "yes",
+    "sidewalk": "none",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19200755,
+  "nodes": [
+    180232904,
+    6009763233,
+    1045552085,
+    1414667160,
+    1336807160,
+    9048282350,
+    199187210,
+    1426126310,
+    199187215,
+    199187221,
+    199187225,
+    730033583,
+    199187227
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "cycleway:right:oneway": "yes",
+    "cycleway:right:surface": "asphalt",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxheight": "default",
+    "maxspeed": "30",
+    "name": "Avenue de Porchefontaine",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19200756,
+  "nodes": [
+    199187227,
+    199187234,
+    199187239,
+    244131755
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue de Porchefontaine",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19745920,
+  "nodes": [
+    205338479,
+    1837326953,
+    5318302716,
+    205338476,
+    205338470,
+    5318304024,
+    5318304022,
+    5318304023,
+    204996897,
+    5318304038
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue Saint-Symphorien",
+    "source:maxspeed": "FR:zone30",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 19745921,
+  "nodes": [
+    205338482,
+    205338479
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "layer": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Saint-Symphorien",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19752472,
+  "nodes": [
+    205458477,
+    6413710439,
+    5199881747,
+    315520732,
+    6413710453,
+    1204778264,
+    2478976998
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Hoche",
+    "oneway": "yes",
+    "ref": "D 186",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19782222,
+  "nodes": [
+    199112585,
+    907016478,
+    206143678,
+    241126708,
+    315057304,
+    1772412337,
+    205455868
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Carnot",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19786004,
+  "nodes": [
+    8248495269,
+    8248495270
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Général Leclerc",
+    "ref": "D 10",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "asphalt",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19787883,
+  "nodes": [
+    206156860,
+    5321786450,
+    2480637158
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Place Léon Gambetta",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19788193,
+  "nodes": [
+    206158775,
+    206160272
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "30",
+    "name": "Rue du Maréchal Foch",
+    "oneway": "yes",
+    "source": "survey",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19797013,
+  "nodes": [
+    206278303,
+    5318256442,
+    206278304,
+    5318256441,
+    206278305,
+    5318256440,
+    206278306,
+    206278308
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Place de la Paix"
+  }
+},
+{
+  "type": "way",
+  "id": 19797014,
+  "nodes": [
+    206278308,
+    5318256449,
+    5318256450,
+    206278316
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard de Glatigny",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19797016,
+  "nodes": [
+    206278330,
+    5318256452,
+    3507321495,
+    5318256454,
+    1300572747,
+    5318336650,
+    5318336639,
+    3507321504,
+    5318256477,
+    206301494
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Boulevard de Glatigny",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 19797977,
+  "nodes": [
+    206301469,
+    5318256488,
+    206316073,
+    6232699212,
+    206301481
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Route de Rueil",
+    "oneway": "yes",
+    "ref": "D 173",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 19797978,
+  "nodes": [
+    206301481,
+    7222777093,
+    206301466,
+    7222745157,
+    206301461,
+    5891748377,
+    206217262
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "maxspeed": "30",
+    "name": "Route de Rueil",
+    "oneway": "yes",
+    "ref": "D 173",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 20921068,
+  "nodes": [
+    139458486,
+    6696736130,
+    6696736126,
+    6696736127,
+    1903816050,
+    2497915741,
+    1903816057,
+    1903816059,
+    2497915778,
+    139489276
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary_link",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 22752852,
+  "nodes": [
+    139463905,
+    6696736121,
+    139463906,
+    139463907,
+    139463908,
+    6696736119,
+    6696736118,
+    139463909,
+    139463911,
+    6696736117,
+    139463913,
+    6696736114,
+    139463914,
+    6696736112,
+    139463915,
+    6696736111,
+    139463916,
+    6696736108,
+    139463917,
+    6696736107,
+    139463920,
+    6696736105,
+    6696736102,
+    139463921,
+    6696736103,
+    139463922,
+    6696736099,
+    139463924,
+    6696736097,
+    4067133477,
+    6696736095,
+    139463926
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "70",
+    "name": "Route de Dampierre",
+    "oneway": "yes",
+    "ref": "D 91",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 35397013,
+  "nodes": [
+    206223797,
+    205331334
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Bonne Aventure",
+    "sidewalk": "both",
+    "source:maxspeed": "sign"
+  }
+},
+{
+  "type": "way",
+  "id": 52407185,
+  "nodes": [
+    125629787,
+    2497878565,
+    129586811
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Joffre",
+    "ref": "D 91",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "sett",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 58883040,
+  "nodes": [
+    5273975556,
+    1426186858,
+    5320835940,
+    5320835939,
+    1426186831,
+    8248495280,
+    8248495281,
+    907016853,
+    96512098
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 184 (route de Versailles à Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxième rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "asphalt",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "was:cycleway": "share_busway",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 64590479,
+  "nodes": [
+    793649670,
+    5405652583,
+    96528482
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "oneway": "yes",
+    "ref": "D 183",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 64590488,
+  "nodes": [
+    793649105,
+    2288583034,
+    205498700
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Boulevard de la République",
+    "oneway": "yes",
+    "ref": "D 183",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 129225983,
+  "nodes": [
+    86874974,
+    5320187552,
+    8251022707,
+    907016756,
+    1425521632
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des États Généraux",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 148125989,
+  "nodes": [
+    244131754,
+    1336807165,
+    1336807192,
+    96512112
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 155469852,
+  "nodes": [
+    907016569,
+    8248495279,
+    1427882586,
+    1426186825,
+    907016385,
+    1427882582,
+    96512099,
+    8248495277,
+    1427882579,
+    1426186816,
+    8234677383,
+    96529839
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 155469866,
+  "nodes": [
+    1426186837,
+    1426119195,
+    1426119203,
+    9045428525
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 184 (route de Versailles à Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxième rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "asphalt",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 158078454,
+  "nodes": [
+    8327202314,
+    8248495278,
+    1427882584,
+    8234677386,
+    1426186818,
+    81079973,
+    8327202315,
+    907016691,
+    1426186829,
+    907016400
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "left|through;left|through;right",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 158078461,
+  "nodes": [
+    139463926,
+    6696736093,
+    139463927,
+    4067133466,
+    6696736088,
+    6696736089,
+    6696736087,
+    139463928,
+    139463930,
+    5138691552,
+    5138691554,
+    4067133473,
+    5138691553,
+    139463931,
+    6696697082,
+    4067133472,
+    139463933,
+    139463934,
+    6696697080
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Route de Dampierre",
+    "oneway": "yes",
+    "ref": "D 91",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 158078463,
+  "nodes": [
+    360599770,
+    6413771004,
+    1045551937,
+    161395188
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue de l'Abbé Rousseaux",
+    "oneway": "no",
+    "sidewalk": "both",
+    "source": "© 2008 Direction Générale des Impôts - Cadastre",
+    "source:maxspeed": "FR:zone30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 158078464,
+  "nodes": [
+    125630626,
+    2276686272,
+    6114053563
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Joffre",
+    "oneway:bicycle": "yes",
+    "ref": "D 91",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "sett",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 168964124,
+  "nodes": [
+    96512799,
+    96512801,
+    2477659821,
+    2477659801,
+    8248495288,
+    5322089807
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "turn:lanes": "left|through|through",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 169223546,
+  "nodes": [
+    1770503175,
+    5885199750,
+    5885199579,
+    5318256447,
+    206163452
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard de Glatigny"
+  }
+},
+{
+  "type": "way",
+  "id": 179938101,
+  "nodes": [
+    139489274,
+    2497915752,
+    1903816054,
+    6696736129,
+    1903816046,
+    8948342497,
+    1903816043
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary_link",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 195002816,
+  "nodes": [
+    206217262,
+    206217541
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Route de Rueil",
+    "oneway": "yes",
+    "ref": "D 173",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 195002821,
+  "nodes": [
+    206301494,
+    5318256479,
+    5318256480,
+    5318256484,
+    206293530,
+    5318256485
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "50",
+    "name": "Boulevard de Glatigny",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 195523757,
+  "nodes": [
+    206223797,
+    3753052727,
+    2472124831,
+    338965160,
+    2472124821,
+    5318255593,
+    5318619275,
+    5318619277,
+    205601541
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Antoine Richard",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:zone30",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 208109421,
+  "nodes": [
+    2184277665,
+    6705451399,
+    2184277664
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue des États-Unis",
+    "oneway": "yes",
+    "ref": "D 185",
+    "sidewalk:right": "yes",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 212429230,
+  "nodes": [
+    205331334,
+    1371764974,
+    3753052522,
+    2086490666
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Bonne Aventure",
+    "sidewalk": "both",
+    "source:maxspeed": "sign"
+  }
+},
+{
+  "type": "way",
+  "id": 212429231,
+  "nodes": [
+    2086490666,
+    205331338,
+    8960730890,
+    5886951090,
+    5886951091,
+    205338508
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Bonne Aventure",
+    "source:maxspeed": "sign"
+  }
+},
+{
+  "type": "way",
+  "id": 239998250,
+  "nodes": [
+    672476319,
+    6270322373,
+    6270322376,
+    8222573004,
+    8222573005,
+    3892677332,
+    205031577
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 265485903,
+  "nodes": [
+    2184277661,
+    5318619602,
+    5318619590,
+    6705451420
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue des États-Unis",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 185",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 265485904,
+  "nodes": [
+    206160272,
+    2483337359,
+    2483337316,
+    199120717
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "maxspeed": "30",
+    "name": "Rue du Maréchal Foch",
+    "oneway": "yes",
+    "source": "survey",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 265704238,
+  "nodes": [
+    409474311,
+    8220600270,
+    409472633,
+    35157900,
+    6047526792
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Pont Colbert",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 316688076,
+  "nodes": [
+    206217541,
+    7222747849,
+    206218903,
+    206217606,
+    206217582
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lane_markings": "no",
+    "maxspeed": "30",
+    "name": "Route de Rueil",
+    "oneway": "yes",
+    "ref": "D 173",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 316688077,
+  "nodes": [
+    206217582,
+    3228449333,
+    206217758,
+    5318256424,
+    5318256423,
+    5318256422,
+    206217759,
+    7222719527,
+    206217741
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lane_markings": "no",
+    "maxspeed": "30",
+    "name": "Route de Rueil",
+    "oneway": "yes",
+    "ref": "D 173",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 432866812,
+  "nodes": [
+    205031604,
+    3892677331,
+    6270099438,
+    6270099435,
+    734200692,
+    8010738551,
+    8010738552,
+    2477976279,
+    206129756
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 432866813,
+  "nodes": [
+    96512098,
+    907016569
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "foot": "no",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "none",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 442111949,
+  "nodes": [
+    139489274,
+    345771085
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 442111952,
+  "nodes": [
+    139489283,
+    345771071,
+    7085686499
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 444229764,
+  "nodes": [
+    206129784,
+    8563689185,
+    2477659806,
+    96512101,
+    2477659810,
+    96512102,
+    6270099432,
+    6270099430,
+    6270099427,
+    2860615955,
+    6270099424,
+    6270099411,
+    6270099412,
+    5186203174
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 444229765,
+  "nodes": [
+    672476363,
+    7530412337,
+    672476367
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 534877506,
+  "nodes": [
+    672476367,
+    1426119161,
+    8248495289,
+    1336807147,
+    1336807173,
+    205231767
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 534877516,
+  "nodes": [
+    1411683074,
+    672476372,
+    7530412342,
+    729651002,
+    8248495291,
+    8248495290,
+    672476365
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 534877547,
+  "nodes": [
+    96512097,
+    1386619755,
+    1460964662,
+    5186203176
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "bande cyclable temporaire",
+    "foot": "yes",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 184 (route de Versailles à Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxième rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "compacted",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 534877557,
+  "nodes": [
+    1425521632,
+    96529537
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des États Généraux",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 534877563,
+  "nodes": [
+    907016706,
+    907016518,
+    5320187549,
+    86874974
+  ],
+  "tags": {
+    "busway": "lane",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des États Généraux",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 534877569,
+  "nodes": [
+    6270350585,
+    7856720319,
+    2477975731,
+    6270350587,
+    96530609,
+    6270350590,
+    1426186815,
+    8248495286,
+    8248495287,
+    466187924,
+    2477975728,
+    6270350593,
+    205535629,
+    199195394,
+    8248495283,
+    907016320
+  ],
+  "tags": {
+    "busway:right": "lane",
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "psv:lanes": "yes|yes|yes|designated",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "was:cycleway:right": "share_busway",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 534877574,
+  "nodes": [
+    96529537,
+    8327295919,
+    199195393,
+    1427882573,
+    6270350596,
+    8248495284,
+    8248495285,
+    2477975727,
+    466187915,
+    1426186813,
+    6270350599,
+    5322092121,
+    96530607,
+    8330985356,
+    5322089813,
+    6696812932,
+    2477975729,
+    206128207
+  ],
+  "tags": {
+    "busway:right": "lane",
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "separate",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "was:cycleway:right": "share_busway",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 536874244,
+  "nodes": [
+    338965536,
+    338961226,
+    338965151,
+    205602558
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Ceinture",
+    "note": "lane is only on right side.",
+    "source": "© 2008 Direction Générale des Impôts - Cadastre",
+    "source:maxspeed": "sign"
+  }
+},
+{
+  "type": "way",
+  "id": 545708342,
+  "nodes": [
+    5186203176,
+    5273975556
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 184 (route de Versailles à Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxième rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "asphalt",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "was:cycleway": "share_busway",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 550632876,
+  "nodes": [
+    5318304038,
+    5318304037,
+    5318304027,
+    204996894,
+    5318304039
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Saint-Symphorien",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:zone30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 551034211,
+  "nodes": [
+    5321786439,
+    1204778388
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed": "50",
+    "name": "Rue des Réservoirs",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 551069303,
+  "nodes": [
+    1045552271,
+    8251022708,
+    1045552186,
+    161395188
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Rue des Chantiers",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "sidewalk": "both",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 552215414,
+  "nodes": [
+    139489289,
+    7085686496,
+    345771088,
+    7085686495,
+    345771090,
+    7085686494,
+    139489273
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 552215555,
+  "nodes": [
+    139489279,
+    7085686488,
+    345771076,
+    7085686487,
+    139489281,
+    139489282
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 552236751,
+  "nodes": [
+    1039813158,
+    6114053678,
+    4323548037
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "name": "Avenue du Maréchal Juin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 560562452,
+  "nodes": [
+    105435644,
+    1426186837
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 184 (route de Versailles à Pontoise), puis en 1978, cette partie est prise par la N 186 qui forme la deuxième rocade de Paris, puis vers 1991, l'A 86, la fait devenir D 186",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 567376056,
+  "nodes": [
+    6114050650,
+    2497878552,
+    125630626
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Joffre",
+    "oneway:bicycle": "yes",
+    "ref": "D 91",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "sett",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 584908079,
+  "nodes": [
+    6462442442,
+    6462442475,
+    6462442472,
+    6462442460,
+    6462442452
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue Royale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "sidewalk:right:surface": "asphalt",
+    "source": "survey;bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 612821662,
+  "nodes": [
+    205231767,
+    205250381
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 612821663,
+  "nodes": [
+    5186203174,
+    6270099417,
+    1411683072,
+    6270099418,
+    6270471048,
+    1411683074
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "separate",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 612821672,
+  "nodes": [
+    2477975725,
+    8222573002,
+    8222573003,
+    5322089809
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 612821673,
+  "nodes": [
+    206128201,
+    7856720320,
+    2477975725
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 619768886,
+  "nodes": [
+    5856597469,
+    1039813158
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "name": "Avenue du Maréchal Juin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 642323787,
+  "nodes": [
+    6047526792,
+    6696681934,
+    6047526794
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed:backward": "50",
+    "maxspeed:forward": "30",
+    "name": "Rue du Pont Colbert",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 642323788,
+  "nodes": [
+    6047526795,
+    250485486,
+    6047526796
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "maxspeed:backward": "30",
+    "maxspeed:forward": "50",
+    "name": "Rue du Pont Colbert",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 642323789,
+  "nodes": [
+    6047526794,
+    7829457271,
+    6047526795
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue du Pont Colbert",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "surface": "asphalt",
+    "traffic_calming": "hump"
+  }
+},
+{
+  "type": "way",
+  "id": 652097968,
+  "nodes": [
+    6114053563,
+    125629787
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Joffre",
+    "oneway:bicycle": "yes",
+    "ref": "D 91",
+    "sidewalk": "both",
+    "sidewalk:both:surface": "sett",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652097990,
+  "nodes": [
+    6114053681,
+    5856597469
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "name": "Avenue du Maréchal Juin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 652097991,
+  "nodes": [
+    6114053692,
+    6114053681
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "fixme": "maxheight",
+    "highway": "tertiary",
+    "name": "Avenue du Maréchal Juin",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 666444139,
+  "nodes": [
+    907016320,
+    907016546,
+    96529538
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 673670434,
+  "nodes": [
+    6308791249,
+    6133197435,
+    3892678959,
+    1426119164
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue de Noailles",
+    "sidewalk": "both",
+    "source:maxspeed": "FR:zone30",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 684543261,
+  "nodes": [
+    2478976998,
+    2479095346,
+    2479095347
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Place Hoche",
+    "oneway": "yes",
+    "ref": "D 186",
+    "sidewalk": "both",
+    "source": "Bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "right|left;through"
+  }
+},
+{
+  "type": "way",
+  "id": 691399690,
+  "nodes": [
+    6462442452,
+    3243830606,
+    6462442441
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue du Général de Gaulle",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "source": "survey;bing",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 701084673,
+  "nodes": [
+    199120717,
+    2483337310,
+    206160265,
+    8309130448
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Square Jean Houdon",
+    "oneway": "yes",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 703992491,
+  "nodes": [
+    1045552028,
+    5343200822
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "2",
+    "lanes:forward": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des Chantiers",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "sidewalk": "both",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 704023961,
+  "nodes": [
+    206163452,
+    206278300,
+    206278301,
+    5318256443,
+    206278302,
+    206278303
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "maxspeed": "50",
+    "name": "Place de la Paix"
+  }
+},
+{
+  "type": "way",
+  "id": 704256448,
+  "nodes": [
+    205338508,
+    205331342
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "maxspeed": "30",
+    "name": "Rue de la Bonne Aventure",
+    "source:maxspeed": "sign"
+  }
+},
+{
+  "type": "way",
+  "id": 704412288,
+  "nodes": [
+    205031577,
+    1426186803
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 704412923,
+  "nodes": [
+    139489286,
+    7085686498,
+    139489287,
+    7085686497,
+    139489289
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 704412924,
+  "nodes": [
+    139489273,
+    139489274
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 704412925,
+  "nodes": [
+    139489276,
+    7085686490,
+    139489277,
+    7085686489,
+    139489279
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 704412926,
+  "nodes": [
+    139489282,
+    7085686486,
+    139489283
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 712231694,
+  "nodes": [
+    139458489,
+    139458486
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "name": "Route de Dampierre",
+    "oneway": "yes",
+    "ref": "D 91",
+    "surface": "asphalt",
+    "turn:lanes": "none|slight_right"
+  }
+},
+{
+  "type": "way",
+  "id": 712231695,
+  "nodes": [
+    1903816043,
+    139463903,
+    139463904,
+    139463905
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "maxspeed": "70",
+    "name": "Route de Dampierre",
+    "oneway": "yes",
+    "ref": "D 91",
+    "surface": "asphalt",
+    "turn:lanes": "none|none|merge_to_left"
+  }
+},
+{
+  "type": "way",
+  "id": 713098455,
+  "nodes": [
+    6703491567,
+    2184277661
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue du Général Pershing",
+    "oneway": "yes",
+    "ref": "D 182",
+    "ref:FR:FANTOIR": "786461170J",
+    "sidewalk": "right",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 713098786,
+  "nodes": [
+    6703506376,
+    2184277665
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue des États-Unis",
+    "oneway": "yes",
+    "ref": "D 185",
+    "sidewalk:right": "yes",
+    "source": "survey",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 720945036,
+  "nodes": [
+    6703119600,
+    8251022700,
+    8251022701,
+    1045552028
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "3",
+    "lanes:backward": "1",
+    "lanes:forward": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue des Chantiers",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "ref": "D 186",
+    "sidewalk": "both",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 727436620,
+  "nodes": [
+    6233693076,
+    7216788536,
+    6233630036,
+    2485243558,
+    243455374
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue de Sceaux",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 728003832,
+  "nodes": [
+    5186203175,
+    8010738553,
+    6270350585
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "lanes": "4",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "psv:lanes": "yes|yes|yes|designated",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 757535798,
+  "nodes": [
+    205231767,
+    7074508586
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Saint-Charles",
+    "oneway": "yes",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 809915099,
+  "nodes": [
+    6696736094,
+    139458517,
+    6696736096,
+    6696736098,
+    139458516,
+    6696736100,
+    4067133483,
+    139458514,
+    6696736104,
+    6696736101,
+    139458513,
+    6696736106,
+    8180652489,
+    139458510,
+    6696736109,
+    139458508,
+    6696736110,
+    139458506,
+    6696736113,
+    139458504,
+    6696736115,
+    139458503,
+    6696736116,
+    139458502,
+    139458501,
+    139458499,
+    6696736120,
+    139458497,
+    139458496,
+    139458494,
+    6696736122,
+    139458491,
+    139458490,
+    139458489
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "Route de Dampierre",
+    "oneway": "yes",
+    "ref": "D 91",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 842161086,
+  "nodes": [
+    206128197,
+    7856720323,
+    7856720321,
+    7327791759,
+    206128201
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "fixme": "Lignes de bus cassées ici entre Rue Franklin et Avenue de Paris",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue de Vergennes",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "turn:lanes": "left|right"
+  }
+},
+{
+  "type": "way",
+  "id": 842161087,
+  "nodes": [
+    206128207,
+    7856720317,
+    206128197
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "fixme": "Lignes de bus cassées ici entre Rue Franklin et Avenue de Paris",
+    "highway": "residential",
+    "lanes": "1",
+    "lit": "yes",
+    "name": "Rue de Vergennes",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 857581552,
+  "nodes": [
+    345771068,
+    139489286
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 857581553,
+  "nodes": [
+    7085686499,
+    4398032103,
+    7085686500,
+    139489284,
+    7085686501,
+    345771068
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "layer": "1",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 857581554,
+  "nodes": [
+    139489275,
+    139489276
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 857581555,
+  "nodes": [
+    345771085,
+    7085686493,
+    345771096,
+    7085686492,
+    4398032102,
+    7085686491,
+    139489275
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "junction": "roundabout",
+    "layer": "1",
+    "noname": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 859401704,
+  "nodes": [
+    205250381,
+    672476316,
+    96512799
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "oneway": "yes",
+    "ref": "D 10",
+    "sidewalk": "right",
+    "surface": "asphalt",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 881931794,
+  "nodes": [
+    270242658,
+    105435648
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rue du Maréchal Foch",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 887537829,
+  "nodes": [
+    1183542456,
+    8251870613,
+    125656131
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "name": "Rampe Saint-Martin",
+    "note": "BC sur trottoir",
+    "ref": "D 938",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 895842323,
+  "nodes": [
+    96529538,
+    96529838,
+    8327202314
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "3",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Paris",
+    "old_ref": "En 1820/1824, plusieurs départementales de Seine-et-Oise forment la N 186 (route de Versailles à Choisy), puis en 1933, la N 186 forme la deuxième rocade de Paris puis à partir de 1991, l'A 86, la fait redevenir en partie départementale",
+    "oneway": "yes",
+    "ref": "D 10",
+    "source:maxspeed": "FR:urban",
+    "surface": "asphalt",
+    "turn:lanes": "through;left|through|through;right",
+    "wikipedia": "fr:Avenue de Paris (Versailles)"
+  }
+},
+{
+  "type": "way",
+  "id": 901125768,
+  "nodes": [
+    81080024,
+    8371096750,
+    8371096749,
+    5405653573,
+    81080038
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "goods": "no",
+    "hgv": "no",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Montbauron",
+    "oneway": "yes",
+    "psv": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 934286878,
+  "nodes": [
+    6462442472,
+    6462442473,
+    2477944923,
+    6233662014,
+    1426924516,
+    7216734374,
+    6233693076
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "unclassified",
+    "lane_markings": "no",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue de Sceaux",
+    "oneway": "yes",
+    "sidewalk": "right",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600030295,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Versailles",
+    "name:br": "Versailhez",
+    "name:es": "Versalles",
+    "name:pl": "Wersal",
+    "name:pt": "Versalhes",
+    "name:ru": "Версаль",
+    "population": "84808",
+    "population:date": "2019",
+    "postal_code": "78000",
+    "ref:INSEE": "78646",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q621",
+    "wikipedia": "fr:Versailles"
+  }
+},
+{
+  "type": "node",
+  "id": 139463930,
+  "lat": 48.7811243,
+  "lon": 2.0969750
+},
+{
+  "type": "node",
+  "id": 139463931,
+  "lat": 48.7809317,
+  "lon": 2.0963514
+},
+{
+  "type": "node",
+  "id": 139463933,
+  "lat": 48.7806324,
+  "lon": 2.0961287
+},
+{
+  "type": "node",
+  "id": 139463934,
+  "lat": 48.7804716,
+  "lon": 2.0960979
+},
+{
+  "type": "node",
+  "id": 4067133472,
+  "lat": 48.7807509,
+  "lon": 2.0961736
+},
+{
+  "type": "node",
+  "id": 4067133473,
+  "lat": 48.7810550,
+  "lon": 2.0965888
+},
+{
+  "type": "node",
+  "id": 5138691552,
+  "lat": 48.7811075,
+  "lon": 2.0968129
+},
+{
+  "type": "node",
+  "id": 5138691553,
+  "lat": 48.7809988,
+  "lon": 2.0964615
+},
+{
+  "type": "node",
+  "id": 5138691554,
+  "lat": 48.7810744,
+  "lon": 2.0966526
+},
+{
+  "type": "node",
+  "id": 6696697080,
+  "lat": 48.7801080,
+  "lon": 2.0961490
+},
+{
+  "type": "node",
+  "id": 6696697082,
+  "lat": 48.7808512,
+  "lon": 2.0962603
+},
+{
+  "type": "node",
+  "id": 139458506,
+  "lat": 48.7790961,
+  "lon": 2.1028403
+},
+{
+  "type": "node",
+  "id": 139458508,
+  "lat": 48.7789795,
+  "lon": 2.1021682
+},
+{
+  "type": "node",
+  "id": 139458510,
+  "lat": 48.7789979,
+  "lon": 2.1015837
+},
+{
+  "type": "node",
+  "id": 139458513,
+  "lat": 48.7791478,
+  "lon": 2.1009912
+},
+{
+  "type": "node",
+  "id": 139458514,
+  "lat": 48.7795257,
+  "lon": 2.1003186
+},
+{
+  "type": "node",
+  "id": 139458516,
+  "lat": 48.7802185,
+  "lon": 2.0998238
+},
+{
+  "type": "node",
+  "id": 139458517,
+  "lat": 48.7806167,
+  "lon": 2.0994192
+},
+{
+  "type": "node",
+  "id": 139463915,
+  "lat": 48.7791730,
+  "lon": 2.1028658
+},
+{
+  "type": "node",
+  "id": 139463916,
+  "lat": 48.7790521,
+  "lon": 2.1021794
+},
+{
+  "type": "node",
+  "id": 139463917,
+  "lat": 48.7790805,
+  "lon": 2.1015891
+},
+{
+  "type": "node",
+  "id": 139463920,
+  "lat": 48.7792402,
+  "lon": 2.1010269
+},
+{
+  "type": "node",
+  "id": 139463921,
+  "lat": 48.7795899,
+  "lon": 2.1004798
+},
+{
+  "type": "node",
+  "id": 139463922,
+  "lat": 48.7798022,
+  "lon": 2.1003175
+},
+{
+  "type": "node",
+  "id": 139463924,
+  "lat": 48.7802893,
+  "lon": 2.1000050
+},
+{
+  "type": "node",
+  "id": 139463926,
+  "lat": 48.7807929,
+  "lon": 2.0994665
+},
+{
+  "type": "node",
+  "id": 139463927,
+  "lat": 48.7810594,
+  "lon": 2.0990202
+},
+{
+  "type": "node",
+  "id": 139463928,
+  "lat": 48.7812260,
+  "lon": 2.0981656
+},
+{
+  "type": "node",
+  "id": 4067133466,
+  "lat": 48.7811573,
+  "lon": 2.0987887
+},
+{
+  "type": "node",
+  "id": 4067133477,
+  "lat": 48.7805822,
+  "lon": 2.0997385
+},
+{
+  "type": "node",
+  "id": 4067133483,
+  "lat": 48.7797372,
+  "lon": 2.1001290
+},
+{
+  "type": "node",
+  "id": 6696736087,
+  "lat": 48.7812276,
+  "lon": 2.0983095
+},
+{
+  "type": "node",
+  "id": 6696736088,
+  "lat": 48.7811994,
+  "lon": 2.0986140
+},
+{
+  "type": "node",
+  "id": 6696736089,
+  "lat": 48.7812197,
+  "lon": 2.0984597
+},
+{
+  "type": "node",
+  "id": 6696736093,
+  "lat": 48.7809395,
+  "lon": 2.0992497
+},
+{
+  "type": "node",
+  "id": 6696736094,
+  "lat": 48.7806921,
+  "lon": 2.0993261
+},
+{
+  "type": "node",
+  "id": 6696736095,
+  "lat": 48.7806895,
+  "lon": 2.0996118
+},
+{
+  "type": "node",
+  "id": 6696736096,
+  "lat": 48.7804968,
+  "lon": 2.0995621
+},
+{
+  "type": "node",
+  "id": 6696736097,
+  "lat": 48.7804420,
+  "lon": 2.0998733
+},
+{
+  "type": "node",
+  "id": 6696736098,
+  "lat": 48.7803757,
+  "lon": 2.0996842
+},
+{
+  "type": "node",
+  "id": 6696736099,
+  "lat": 48.7800726,
+  "lon": 2.1001549
+},
+{
+  "type": "node",
+  "id": 6696736100,
+  "lat": 48.7800382,
+  "lon": 2.0999376
+},
+{
+  "type": "node",
+  "id": 6696736101,
+  "lat": 48.7792843,
+  "lon": 2.1006712
+},
+{
+  "type": "node",
+  "id": 6696736102,
+  "lat": 48.7794752,
+  "lon": 2.1006162
+},
+{
+  "type": "node",
+  "id": 6696736103,
+  "lat": 48.7796661,
+  "lon": 2.1004044
+},
+{
+  "type": "node",
+  "id": 6696736104,
+  "lat": 48.7794054,
+  "lon": 2.1004835
+},
+{
+  "type": "node",
+  "id": 6696736105,
+  "lat": 48.7793709,
+  "lon": 2.1007624
+},
+{
+  "type": "node",
+  "id": 6696736106,
+  "lat": 48.7790616,
+  "lon": 2.1012720
+},
+{
+  "type": "node",
+  "id": 6696736107,
+  "lat": 48.7791429,
+  "lon": 2.1013042
+},
+{
+  "type": "node",
+  "id": 6696736108,
+  "lat": 48.7790537,
+  "lon": 2.1019050
+},
+{
+  "type": "node",
+  "id": 6696736109,
+  "lat": 48.7789794,
+  "lon": 2.1018635
+},
+{
+  "type": "node",
+  "id": 6696736110,
+  "lat": 48.7790095,
+  "lon": 2.1025005
+},
+{
+  "type": "node",
+  "id": 6696736111,
+  "lat": 48.7790864,
+  "lon": 2.1025045
+},
+{
+  "type": "node",
+  "id": 6696736112,
+  "lat": 48.7793427,
+  "lon": 2.1033253
+},
+{
+  "type": "node",
+  "id": 6696736113,
+  "lat": 48.7792711,
+  "lon": 2.1033494
+},
+{
+  "type": "node",
+  "id": 8180652489,
+  "lat": 48.7790314,
+  "lon": 2.1014199
+},
+{
+  "type": "node",
+  "id": 139458499,
+  "lat": 48.7814263,
+  "lon": 2.1058686
+},
+{
+  "type": "node",
+  "id": 139458501,
+  "lat": 48.7809646,
+  "lon": 2.1055708
+},
+{
+  "type": "node",
+  "id": 139458502,
+  "lat": 48.7804764,
+  "lon": 2.1051865
+},
+{
+  "type": "node",
+  "id": 139458503,
+  "lat": 48.7799798,
+  "lon": 2.1046264
+},
+{
+  "type": "node",
+  "id": 139458504,
+  "lat": 48.7794954,
+  "lon": 2.1038537
+},
+{
+  "type": "node",
+  "id": 139463909,
+  "lat": 48.7809967,
+  "lon": 2.1054772
+},
+{
+  "type": "node",
+  "id": 139463911,
+  "lat": 48.7805113,
+  "lon": 2.1050803
+},
+{
+  "type": "node",
+  "id": 139463913,
+  "lat": 48.7800205,
+  "lon": 2.1045398
+},
+{
+  "type": "node",
+  "id": 139463914,
+  "lat": 48.7795457,
+  "lon": 2.1037662
+},
+{
+  "type": "node",
+  "id": 6696736114,
+  "lat": 48.7797713,
+  "lon": 2.1041702
+},
+{
+  "type": "node",
+  "id": 6696736115,
+  "lat": 48.7797253,
+  "lon": 2.1042480
+},
+{
+  "type": "node",
+  "id": 6696736116,
+  "lat": 48.7802299,
+  "lon": 2.1049359
+},
+{
+  "type": "node",
+  "id": 6696736117,
+  "lat": 48.7802688,
+  "lon": 2.1048447
+},
+{
+  "type": "node",
+  "id": 6696736118,
+  "lat": 48.7814353,
+  "lon": 2.1057621
+},
+{
+  "type": "node",
+  "id": 139458486,
+  "lat": 48.7844423,
+  "lon": 2.1058694
+},
+{
+  "type": "node",
+  "id": 139458489,
+  "lat": 48.7842307,
+  "lon": 2.1060209
+},
+{
+  "type": "node",
+  "id": 139458490,
+  "lat": 48.7837329,
+  "lon": 2.1063170
+},
+{
+  "type": "node",
+  "id": 139458491,
+  "lat": 48.7834414,
+  "lon": 2.1064117
+},
+{
+  "type": "node",
+  "id": 139458494,
+  "lat": 48.7829811,
+  "lon": 2.1064680
+},
+{
+  "type": "node",
+  "id": 139458496,
+  "lat": 48.7827713,
+  "lon": 2.1064469
+},
+{
+  "type": "node",
+  "id": 139458497,
+  "lat": 48.7824420,
+  "lon": 2.1063683
+},
+{
+  "type": "node",
+  "id": 139463903,
+  "lat": 48.7839774,
+  "lon": 2.1060682
+},
+{
+  "type": "node",
+  "id": 139463904,
+  "lat": 48.7837159,
+  "lon": 2.1062055
+},
+{
+  "type": "node",
+  "id": 139463905,
+  "lat": 48.7834296,
+  "lon": 2.1063063
+},
+{
+  "type": "node",
+  "id": 139463906,
+  "lat": 48.7829777,
+  "lon": 2.1063698
+},
+{
+  "type": "node",
+  "id": 139463907,
+  "lat": 48.7827750,
+  "lon": 2.1063444
+},
+{
+  "type": "node",
+  "id": 139463908,
+  "lat": 48.7824575,
+  "lon": 2.1062559
+},
+{
+  "type": "node",
+  "id": 139489273,
+  "lat": 48.7860448,
+  "lon": 2.1050805
+},
+{
+  "type": "node",
+  "id": 139489274,
+  "lat": 48.7859978,
+  "lon": 2.1051563
+},
+{
+  "type": "node",
+  "id": 139489275,
+  "lat": 48.7859743,
+  "lon": 2.1056702
+},
+{
+  "type": "node",
+  "id": 139489276,
+  "lat": 48.7860027,
+  "lon": 2.1057349
+},
+{
+  "type": "node",
+  "id": 139489277,
+  "lat": 48.7860898,
+  "lon": 2.1058495
+},
+{
+  "type": "node",
+  "id": 139489279,
+  "lat": 48.7861984,
+  "lon": 2.1059083
+},
+{
+  "type": "node",
+  "id": 139489281,
+  "lat": 48.7863763,
+  "lon": 2.1058715
+},
+{
+  "type": "node",
+  "id": 139489282,
+  "lat": 48.7864162,
+  "lon": 2.1058384
+},
+{
+  "type": "node",
+  "id": 139489283,
+  "lat": 48.7864765,
+  "lon": 2.1057612
+},
+{
+  "type": "node",
+  "id": 139489284,
+  "lat": 48.7865581,
+  "lon": 2.1054088
+},
+{
+  "type": "node",
+  "id": 139489286,
+  "lat": 48.7865121,
+  "lon": 2.1051916
+},
+{
+  "type": "node",
+  "id": 139489287,
+  "lat": 48.7864357,
+  "lon": 2.1050640
+},
+{
+  "type": "node",
+  "id": 139489289,
+  "lat": 48.7863343,
+  "lon": 2.1049864
+},
+{
+  "type": "node",
+  "id": 345771068,
+  "lat": 48.7865352,
+  "lon": 2.1052599
+},
+{
+  "type": "node",
+  "id": 345771071,
+  "lat": 48.7865076,
+  "lon": 2.1057007
+},
+{
+  "type": "node",
+  "id": 345771076,
+  "lat": 48.7862891,
+  "lon": 2.1059097
+},
+{
+  "type": "node",
+  "id": 345771085,
+  "lat": 48.7859705,
+  "lon": 2.1052220
+},
+{
+  "type": "node",
+  "id": 345771088,
+  "lat": 48.7862327,
+  "lon": 2.1049680
+},
+{
+  "type": "node",
+  "id": 345771090,
+  "lat": 48.7861326,
+  "lon": 2.1050005
+},
+{
+  "type": "node",
+  "id": 345771096,
+  "lat": 48.7859388,
+  "lon": 2.1053693
+},
+{
+  "type": "node",
+  "id": 1903816043,
+  "lat": 48.7843149,
+  "lon": 2.1058243
+},
+{
+  "type": "node",
+  "id": 1903816046,
+  "lat": 48.7847621,
+  "lon": 2.1054984
+},
+{
+  "type": "node",
+  "id": 1903816050,
+  "lat": 48.7852413,
+  "lon": 2.1056335
+},
+{
+  "type": "node",
+  "id": 1903816054,
+  "lat": 48.7852363,
+  "lon": 2.1053080
+},
+{
+  "type": "node",
+  "id": 1903816057,
+  "lat": 48.7856978,
+  "lon": 2.1056441
+},
+{
+  "type": "node",
+  "id": 1903816059,
+  "lat": 48.7858536,
+  "lon": 2.1056690
+},
+{
+  "type": "node",
+  "id": 2497915741,
+  "lat": 48.7855275,
+  "lon": 2.1056264
+},
+{
+  "type": "node",
+  "id": 2497915752,
+  "lat": 48.7859382,
+  "lon": 2.1051875
+},
+{
+  "type": "node",
+  "id": 2497915778,
+  "lat": 48.7859296,
+  "lon": 2.1056914
+},
+{
+  "type": "node",
+  "id": 4398032102,
+  "lat": 48.7859401,
+  "lon": 2.1055242
+},
+{
+  "type": "node",
+  "id": 4398032103,
+  "lat": 48.7865486,
+  "lon": 2.1055610
+},
+{
+  "type": "node",
+  "id": 6696736119,
+  "lat": 48.7820433,
+  "lon": 2.1060799
+},
+{
+  "type": "node",
+  "id": 6696736120,
+  "lat": 48.7820318,
+  "lon": 2.1061952
+},
+{
+  "type": "node",
+  "id": 6696736121,
+  "lat": 48.7831991,
+  "lon": 2.1063508
+},
+{
+  "type": "node",
+  "id": 6696736122,
+  "lat": 48.7831965,
+  "lon": 2.1064608
+},
+{
+  "type": "node",
+  "id": 6696736126,
+  "lat": 48.7848374,
+  "lon": 2.1057151
+},
+{
+  "type": "node",
+  "id": 6696736127,
+  "lat": 48.7849823,
+  "lon": 2.1056762
+},
+{
+  "type": "node",
+  "id": 6696736129,
+  "lat": 48.7850053,
+  "lon": 2.1053812
+},
+{
+  "type": "node",
+  "id": 6696736130,
+  "lat": 48.7847155,
+  "lon": 2.1057647
+},
+{
+  "type": "node",
+  "id": 7085686486,
+  "lat": 48.7864479,
+  "lon": 2.1058027
+},
+{
+  "type": "node",
+  "id": 7085686487,
+  "lat": 48.7863336,
+  "lon": 2.1058955
+},
+{
+  "type": "node",
+  "id": 7085686488,
+  "lat": 48.7862438,
+  "lon": 2.1059140
+},
+{
+  "type": "node",
+  "id": 7085686489,
+  "lat": 48.7861423,
+  "lon": 2.1058866
+},
+{
+  "type": "node",
+  "id": 7085686490,
+  "lat": 48.7860428,
+  "lon": 2.1057984
+},
+{
+  "type": "node",
+  "id": 7085686491,
+  "lat": 48.7859532,
+  "lon": 2.1055994
+},
+{
+  "type": "node",
+  "id": 7085686492,
+  "lat": 48.7859352,
+  "lon": 2.1054469
+},
+{
+  "type": "node",
+  "id": 7085686493,
+  "lat": 48.7859506,
+  "lon": 2.1052937
+},
+{
+  "type": "node",
+  "id": 7085686494,
+  "lat": 48.7860865,
+  "lon": 2.1050350
+},
+{
+  "type": "node",
+  "id": 7085686495,
+  "lat": 48.7861817,
+  "lon": 2.1049780
+},
+{
+  "type": "node",
+  "id": 7085686496,
+  "lat": 48.7862840,
+  "lon": 2.1049709
+},
+{
+  "type": "node",
+  "id": 7085686497,
+  "lat": 48.7863874,
+  "lon": 2.1050182
+},
+{
+  "type": "node",
+  "id": 7085686498,
+  "lat": 48.7864778,
+  "lon": 2.1051225
+},
+{
+  "type": "node",
+  "id": 7085686499,
+  "lat": 48.7865319,
+  "lon": 2.1056334
+},
+{
+  "type": "node",
+  "id": 7085686500,
+  "lat": 48.7865574,
+  "lon": 2.1054855
+},
+{
+  "type": "node",
+  "id": 7085686501,
+  "lat": 48.7865506,
+  "lon": 2.1053329
+},
+{
+  "type": "node",
+  "id": 8948342497,
+  "lat": 48.7845712,
+  "lon": 2.1056084
+},
+{
+  "type": "node",
+  "id": 125629787,
+  "lat": 48.7942640,
+  "lon": 2.1208324
+},
+{
+  "type": "node",
+  "id": 129586811,
+  "lat": 48.7941322,
+  "lon": 2.1207493
+},
+{
+  "type": "node",
+  "id": 1039813158,
+  "lat": 48.7894264,
+  "lon": 2.1175823
+},
+{
+  "type": "node",
+  "id": 2276686272,
+  "lat": 48.7947600,
+  "lon": 2.1211652
+},
+{
+  "type": "node",
+  "id": 2497878565,
+  "lat": 48.7941908,
+  "lon": 2.1207873
+},
+{
+  "type": "node",
+  "id": 4323548037,
+  "lat": 48.7892787,
+  "lon": 2.1174791
+},
+{
+  "type": "node",
+  "id": 5856597469,
+  "lat": 48.7894927,
+  "lon": 2.1176235
+},
+{
+  "type": "node",
+  "id": 6114053563,
+  "lat": 48.7944854,
+  "lon": 2.1209762
+},
+{
+  "type": "node",
+  "id": 6114053678,
+  "lat": 48.7893301,
+  "lon": 2.1175095
+},
+{
+  "type": "node",
+  "id": 6114053681,
+  "lat": 48.7897131,
+  "lon": 2.1177676
+},
+{
+  "type": "node",
+  "id": 6114053692,
+  "lat": 48.7901222,
+  "lon": 2.1180493
+},
+{
+  "type": "node",
+  "id": 125630626,
+  "lat": 48.7948784,
+  "lon": 2.1212462
+},
+{
+  "type": "node",
+  "id": 158520542,
+  "lat": 48.8008762,
+  "lon": 2.1200339
+},
+{
+  "type": "node",
+  "id": 2482442298,
+  "lat": 48.8009361,
+  "lon": 2.1200736
+},
+{
+  "type": "node",
+  "id": 2497878552,
+  "lat": 48.7949597,
+  "lon": 2.1213015
+},
+{
+  "type": "node",
+  "id": 6114050650,
+  "lat": 48.7952253,
+  "lon": 2.1214751
+},
+{
+  "type": "node",
+  "id": 125656131,
+  "lat": 48.7917702,
+  "lon": 2.1262860
+},
+{
+  "type": "node",
+  "id": 1183542456,
+  "lat": 48.7916841,
+  "lon": 2.1257069
+},
+{
+  "type": "node",
+  "id": 8251870613,
+  "lat": 48.7917606,
+  "lon": 2.1262278
+},
+{
+  "type": "node",
+  "id": 1426924516,
+  "lat": 48.7978859,
+  "lon": 2.1295773
+},
+{
+  "type": "node",
+  "id": 2477944923,
+  "lat": 48.7992021,
+  "lon": 2.1279744
+},
+{
+  "type": "node",
+  "id": 3243830606,
+  "lat": 48.7996083,
+  "lon": 2.1281601
+},
+{
+  "type": "node",
+  "id": 6233662014,
+  "lat": 48.7986547,
+  "lon": 2.1286283
+},
+{
+  "type": "node",
+  "id": 6462442441,
+  "lat": 48.7996695,
+  "lon": 2.1281966
+},
+{
+  "type": "node",
+  "id": 6462442442,
+  "lat": 48.7991155,
+  "lon": 2.1277444
+},
+{
+  "type": "node",
+  "id": 6462442452,
+  "lat": 48.7995829,
+  "lon": 2.1281440
+},
+{
+  "type": "node",
+  "id": 6462442460,
+  "lat": 48.7995216,
+  "lon": 2.1281042
+},
+{
+  "type": "node",
+  "id": 6462442472,
+  "lat": 48.7992546,
+  "lon": 2.1279116
+},
+{
+  "type": "node",
+  "id": 6462442473,
+  "lat": 48.7992267,
+  "lon": 2.1279447
+},
+{
+  "type": "node",
+  "id": 6462442475,
+  "lat": 48.7991869,
+  "lon": 2.1278341
+},
+{
+  "type": "node",
+  "id": 7216734374,
+  "lat": 48.7977685,
+  "lon": 2.1297244
+},
+{
+  "type": "node",
+  "id": 8248495269,
+  "lat": 48.7992546,
+  "lon": 2.1258642
+},
+{
+  "type": "node",
+  "id": 8248495270,
+  "lat": 48.7988471,
+  "lon": 2.1272870
+},
+{
+  "type": "node",
+  "id": 86874974,
+  "lat": 48.8013372,
+  "lon": 2.1317136
+},
+{
+  "type": "node",
+  "id": 96530607,
+  "lat": 48.8005059,
+  "lon": 2.1362259
+},
+{
+  "type": "node",
+  "id": 96530609,
+  "lat": 48.8006046,
+  "lon": 2.1362751
+},
+{
+  "type": "node",
+  "id": 199195393,
+  "lat": 48.8013584,
+  "lon": 2.1329971
+},
+{
+  "type": "node",
+  "id": 205535629,
+  "lat": 48.8013035,
+  "lon": 2.1336909
+},
+{
+  "type": "node",
+  "id": 243455374,
+  "lat": 48.7966016,
+  "lon": 2.1311884
+},
+{
+  "type": "node",
+  "id": 466187915,
+  "lat": 48.8010346,
+  "lon": 2.1342175
+},
+{
+  "type": "node",
+  "id": 466187924,
+  "lat": 48.8011399,
+  "lon": 2.1342840
+},
+{
+  "type": "node",
+  "id": 1045552028,
+  "lat": 48.7971929,
+  "lon": 2.1357673
+},
+{
+  "type": "node",
+  "id": 1045552271,
+  "lat": 48.7967998,
+  "lon": 2.1364071
+},
+{
+  "type": "node",
+  "id": 1426119164,
+  "lat": 48.8002063,
+  "lon": 2.1360446
+},
+{
+  "type": "node",
+  "id": 1426186813,
+  "lat": 48.8009455,
+  "lon": 2.1345401
+},
+{
+  "type": "node",
+  "id": 1426186815,
+  "lat": 48.8010524,
+  "lon": 2.1346097
+},
+{
+  "type": "node",
+  "id": 1427882573,
+  "lat": 48.8011937,
+  "lon": 2.1336146
+},
+{
+  "type": "node",
+  "id": 2477975727,
+  "lat": 48.8010798,
+  "lon": 2.1340459
+},
+{
+  "type": "node",
+  "id": 2477975728,
+  "lat": 48.8011872,
+  "lon": 2.1341082
+},
+{
+  "type": "node",
+  "id": 2485243558,
+  "lat": 48.7966199,
+  "lon": 2.1311620
+},
+{
+  "type": "node",
+  "id": 3892678959,
+  "lat": 48.8001626,
+  "lon": 2.1360208
+},
+{
+  "type": "node",
+  "id": 5320187549,
+  "lat": 48.8013817,
+  "lon": 2.1316614
+},
+{
+  "type": "node",
+  "id": 5320187552,
+  "lat": 48.8013932,
+  "lon": 2.1317191
+},
+{
+  "type": "node",
+  "id": 5322092121,
+  "lat": 48.8005611,
+  "lon": 2.1360227
+},
+{
+  "type": "node",
+  "id": 5343200822,
+  "lat": 48.7972952,
+  "lon": 2.1356334
+},
+{
+  "type": "node",
+  "id": 6133197435,
+  "lat": 48.7992202,
+  "lon": 2.1355077
+},
+{
+  "type": "node",
+  "id": 6233630036,
+  "lat": 48.7967397,
+  "lon": 2.1310103
+},
+{
+  "type": "node",
+  "id": 6233693076,
+  "lat": 48.7969897,
+  "lon": 2.1306915
+},
+{
+  "type": "node",
+  "id": 6270350587,
+  "lat": 48.8005558,
+  "lon": 2.1364568
+},
+{
+  "type": "node",
+  "id": 6270350590,
+  "lat": 48.8007769,
+  "lon": 2.1356344
+},
+{
+  "type": "node",
+  "id": 6270350593,
+  "lat": 48.8012289,
+  "lon": 2.1339531
+},
+{
+  "type": "node",
+  "id": 6270350596,
+  "lat": 48.8011213,
+  "lon": 2.1338854
+},
+{
+  "type": "node",
+  "id": 6270350599,
+  "lat": 48.8008055,
+  "lon": 2.1350800
+},
+{
+  "type": "node",
+  "id": 6308791249,
+  "lat": 48.7982272,
+  "lon": 2.1349680
+},
+{
+  "type": "node",
+  "id": 6703119600,
+  "lat": 48.7971410,
+  "lon": 2.1358392
+},
+{
+  "type": "node",
+  "id": 7216788536,
+  "lat": 48.7967836,
+  "lon": 2.1309543
+},
+{
+  "type": "node",
+  "id": 8248495284,
+  "lat": 48.8010932,
+  "lon": 2.1339942
+},
+{
+  "type": "node",
+  "id": 8248495285,
+  "lat": 48.8010894,
+  "lon": 2.1340088
+},
+{
+  "type": "node",
+  "id": 8248495286,
+  "lat": 48.8011050,
+  "lon": 2.1344139
+},
+{
+  "type": "node",
+  "id": 8248495287,
+  "lat": 48.8011131,
+  "lon": 2.1343839
+},
+{
+  "type": "node",
+  "id": 8251022700,
+  "lat": 48.7971544,
+  "lon": 2.1358222
+},
+{
+  "type": "node",
+  "id": 8251022701,
+  "lat": 48.7971686,
+  "lon": 2.1358019
+},
+{
+  "type": "node",
+  "id": 35157900,
+  "lat": 48.7895737,
+  "lon": 2.1484804
+},
+{
+  "type": "node",
+  "id": 250485486,
+  "lat": 48.7885309,
+  "lon": 2.1495196
+},
+{
+  "type": "node",
+  "id": 409472633,
+  "lat": 48.7896950,
+  "lon": 2.1483550
+},
+{
+  "type": "node",
+  "id": 409474311,
+  "lat": 48.7899952,
+  "lon": 2.1480576
+},
+{
+  "type": "node",
+  "id": 6047526792,
+  "lat": 48.7890655,
+  "lon": 2.1490093
+},
+{
+  "type": "node",
+  "id": 6047526794,
+  "lat": 48.7887518,
+  "lon": 2.1493158
+},
+{
+  "type": "node",
+  "id": 6047526795,
+  "lat": 48.7886316,
+  "lon": 2.1494338
+},
+{
+  "type": "node",
+  "id": 6696681934,
+  "lat": 48.7889984,
+  "lon": 2.1490758
+},
+{
+  "type": "node",
+  "id": 7829457271,
+  "lat": 48.7886900,
+  "lon": 2.1493765
+},
+{
+  "type": "node",
+  "id": 8220600270,
+  "lat": 48.7898956,
+  "lon": 2.1481563
+},
+{
+  "type": "node",
+  "id": 161395188,
+  "lat": 48.7963456,
+  "lon": 2.1374158
+},
+{
+  "type": "node",
+  "id": 205031577,
+  "lat": 48.7994032,
+  "lon": 2.1407509
+},
+{
+  "type": "node",
+  "id": 205031604,
+  "lat": 48.7992832,
+  "lon": 2.1406753
+},
+{
+  "type": "node",
+  "id": 206128197,
+  "lat": 48.7997474,
+  "lon": 2.1377860
+},
+{
+  "type": "node",
+  "id": 206128201,
+  "lat": 48.8000139,
+  "lon": 2.1379566
+},
+{
+  "type": "node",
+  "id": 206128207,
+  "lat": 48.8000389,
+  "lon": 2.1378720
+},
+{
+  "type": "node",
+  "id": 360599770,
+  "lat": 48.7961347,
+  "lon": 2.1371819
+},
+{
+  "type": "node",
+  "id": 734200692,
+  "lat": 48.7987363,
+  "lon": 2.1427280
+},
+{
+  "type": "node",
+  "id": 1045551937,
+  "lat": 48.7962892,
+  "lon": 2.1373618
+},
+{
+  "type": "node",
+  "id": 1045552186,
+  "lat": 48.7964009,
+  "lon": 2.1372889
+},
+{
+  "type": "node",
+  "id": 1426186803,
+  "lat": 48.7994350,
+  "lon": 2.1406378
+},
+{
+  "type": "node",
+  "id": 2477975725,
+  "lat": 48.7999315,
+  "lon": 2.1382848
+},
+{
+  "type": "node",
+  "id": 2477975729,
+  "lat": 48.8001647,
+  "lon": 2.1374516
+},
+{
+  "type": "node",
+  "id": 2477975731,
+  "lat": 48.8002707,
+  "lon": 2.1375171
+},
+{
+  "type": "node",
+  "id": 3892677331,
+  "lat": 48.7992611,
+  "lon": 2.1407684
+},
+{
+  "type": "node",
+  "id": 3892677332,
+  "lat": 48.7993773,
+  "lon": 2.1408467
+},
+{
+  "type": "node",
+  "id": 5186203175,
+  "lat": 48.8001504,
+  "lon": 2.1379446
+},
+{
+  "type": "node",
+  "id": 5322089809,
+  "lat": 48.7993132,
+  "lon": 2.1405649
+},
+{
+  "type": "node",
+  "id": 5322089813,
+  "lat": 48.8001852,
+  "lon": 2.1373826
+},
+{
+  "type": "node",
+  "id": 6270099435,
+  "lat": 48.7989397,
+  "lon": 2.1419686
+},
+{
+  "type": "node",
+  "id": 6270099438,
+  "lat": 48.7990328,
+  "lon": 2.1416100
+},
+{
+  "type": "node",
+  "id": 6270322373,
+  "lat": 48.7989143,
+  "lon": 2.1426272
+},
+{
+  "type": "node",
+  "id": 6270322376,
+  "lat": 48.7989707,
+  "lon": 2.1424183
+},
+{
+  "type": "node",
+  "id": 6270350585,
+  "lat": 48.8002505,
+  "lon": 2.1375923
+},
+{
+  "type": "node",
+  "id": 6413771004,
+  "lat": 48.7961556,
+  "lon": 2.1372378
+},
+{
+  "type": "node",
+  "id": 6696812932,
+  "lat": 48.8001750,
+  "lon": 2.1374168
+},
+{
+  "type": "node",
+  "id": 7327791759,
+  "lat": 48.7998899,
+  "lon": 2.1378619
+},
+{
+  "type": "node",
+  "id": 7856720317,
+  "lat": 48.7999000,
+  "lon": 2.1378235
+},
+{
+  "type": "node",
+  "id": 7856720319,
+  "lat": 48.8002572,
+  "lon": 2.1375672
+},
+{
+  "type": "node",
+  "id": 7856720320,
+  "lat": 48.7999421,
+  "lon": 2.1382424
+},
+{
+  "type": "node",
+  "id": 7856720321,
+  "lat": 48.7998633,
+  "lon": 2.1378477
+},
+{
+  "type": "node",
+  "id": 7856720323,
+  "lat": 48.7998568,
+  "lon": 2.1378438
+},
+{
+  "type": "node",
+  "id": 8010738553,
+  "lat": 48.8002329,
+  "lon": 2.1376579
+},
+{
+  "type": "node",
+  "id": 8222573002,
+  "lat": 48.7993463,
+  "lon": 2.1404427
+},
+{
+  "type": "node",
+  "id": 8222573003,
+  "lat": 48.7993376,
+  "lon": 2.1404750
+},
+{
+  "type": "node",
+  "id": 8222573004,
+  "lat": 48.7993563,
+  "lon": 2.1409278
+},
+{
+  "type": "node",
+  "id": 8222573005,
+  "lat": 48.7993669,
+  "lon": 2.1408868
+},
+{
+  "type": "node",
+  "id": 8251022708,
+  "lat": 48.7964127,
+  "lon": 2.1372629
+},
+{
+  "type": "node",
+  "id": 8330985356,
+  "lat": 48.8002528,
+  "lon": 2.1371389
+},
+{
+  "type": "node",
+  "id": 96512101,
+  "lat": 48.7981434,
+  "lon": 2.1449881
+},
+{
+  "type": "node",
+  "id": 96512102,
+  "lat": 48.7981012,
+  "lon": 2.1454756
+},
+{
+  "type": "node",
+  "id": 96512799,
+  "lat": 48.7982148,
+  "lon": 2.1454507
+},
+{
+  "type": "node",
+  "id": 96512801,
+  "lat": 48.7982192,
+  "lon": 2.1452576
+},
+{
+  "type": "node",
+  "id": 206129756,
+  "lat": 48.7984160,
+  "lon": 2.1439218
+},
+{
+  "type": "node",
+  "id": 206129784,
+  "lat": 48.7983517,
+  "lon": 2.1441644
+},
+{
+  "type": "node",
+  "id": 672476316,
+  "lat": 48.7982616,
+  "lon": 2.1470131
+},
+{
+  "type": "node",
+  "id": 672476319,
+  "lat": 48.7987276,
+  "lon": 2.1433178
+},
+{
+  "type": "node",
+  "id": 2477659801,
+  "lat": 48.7982967,
+  "lon": 2.1448582
+},
+{
+  "type": "node",
+  "id": 2477659806,
+  "lat": 48.7981872,
+  "lon": 2.1447789
+},
+{
+  "type": "node",
+  "id": 2477659810,
+  "lat": 48.7981138,
+  "lon": 2.1452059
+},
+{
+  "type": "node",
+  "id": 2477659821,
+  "lat": 48.7982590,
+  "lon": 2.1450479
+},
+{
+  "type": "node",
+  "id": 2477976279,
+  "lat": 48.7984747,
+  "lon": 2.1437050
+},
+{
+  "type": "node",
+  "id": 2860615955,
+  "lat": 48.7981628,
+  "lon": 2.1477069
+},
+{
+  "type": "node",
+  "id": 5322089807,
+  "lat": 48.7985107,
+  "lon": 2.1441020
+},
+{
+  "type": "node",
+  "id": 6270099411,
+  "lat": 48.7981949,
+  "lon": 2.1488316
+},
+{
+  "type": "node",
+  "id": 6270099424,
+  "lat": 48.7981748,
+  "lon": 2.1481284
+},
+{
+  "type": "node",
+  "id": 6270099427,
+  "lat": 48.7981432,
+  "lon": 2.1469959
+},
+{
+  "type": "node",
+  "id": 6270099430,
+  "lat": 48.7981234,
+  "lon": 2.1462790
+},
+{
+  "type": "node",
+  "id": 6270099432,
+  "lat": 48.7981023,
+  "lon": 2.1455155
+},
+{
+  "type": "node",
+  "id": 8010738551,
+  "lat": 48.7984909,
+  "lon": 2.1436445
+},
+{
+  "type": "node",
+  "id": 8010738552,
+  "lat": 48.7984824,
+  "lon": 2.1436761
+},
+{
+  "type": "node",
+  "id": 8248495288,
+  "lat": 48.7985006,
+  "lon": 2.1441378
+},
+{
+  "type": "node",
+  "id": 8563689185,
+  "lat": 48.7982795,
+  "lon": 2.1444340
+},
+{
+  "type": "node",
+  "id": 158520547,
+  "lat": 48.8035326,
+  "lon": 2.1216804
+},
+{
+  "type": "node",
+  "id": 158520554,
+  "lat": 48.8032652,
+  "lon": 2.1228601
+},
+{
+  "type": "node",
+  "id": 158520566,
+  "lat": 48.8027760,
+  "lon": 2.1212148
+},
+{
+  "type": "node",
+  "id": 193928400,
+  "lat": 48.8014990,
+  "lon": 2.1204233
+},
+{
+  "type": "node",
+  "id": 206156860,
+  "lat": 48.8056622,
+  "lon": 2.1231491
+},
+{
+  "type": "node",
+  "id": 1412993791,
+  "lat": 48.8035644,
+  "lon": 2.1217358
+},
+{
+  "type": "node",
+  "id": 2480637158,
+  "lat": 48.8051378,
+  "lon": 2.1228250
+},
+{
+  "type": "node",
+  "id": 2482409605,
+  "lat": 48.8049813,
+  "lon": 2.1228955
+},
+{
+  "type": "node",
+  "id": 2482409614,
+  "lat": 48.8057453,
+  "lon": 2.1231939
+},
+{
+  "type": "node",
+  "id": 2482442310,
+  "lat": 48.8028405,
+  "lon": 2.1212494
+},
+{
+  "type": "node",
+  "id": 5321741952,
+  "lat": 48.8050828,
+  "lon": 2.1228102
+},
+{
+  "type": "node",
+  "id": 5321741953,
+  "lat": 48.8050475,
+  "lon": 2.1228182
+},
+{
+  "type": "node",
+  "id": 5321741954,
+  "lat": 48.8050139,
+  "lon": 2.1228397
+},
+{
+  "type": "node",
+  "id": 5321786450,
+  "lat": 48.8051683,
+  "lon": 2.1228438
+},
+{
+  "type": "node",
+  "id": 6078440444,
+  "lat": 48.8034770,
+  "lon": 2.1220793
+},
+{
+  "type": "node",
+  "id": 7216409034,
+  "lat": 48.8014590,
+  "lon": 2.1203983
+},
+{
+  "type": "node",
+  "id": 8309551198,
+  "lat": 48.8031840,
+  "lon": 2.1214633
+},
+{
+  "type": "node",
+  "id": 81079817,
+  "lat": 48.8070804,
+  "lon": 2.1239416
+},
+{
+  "type": "node",
+  "id": 96511169,
+  "lat": 48.8046728,
+  "lon": 2.1240331
+},
+{
+  "type": "node",
+  "id": 96512097,
+  "lat": 48.8031166,
+  "lon": 2.1263714
+},
+{
+  "type": "node",
+  "id": 96512098,
+  "lat": 48.8022446,
+  "lon": 2.1296351
+},
+{
+  "type": "node",
+  "id": 105435644,
+  "lat": 48.8023754,
+  "lon": 2.1297158
+},
+{
+  "type": "node",
+  "id": 205455868,
+  "lat": 48.8059350,
+  "lon": 2.1282735
+},
+{
+  "type": "node",
+  "id": 205458477,
+  "lat": 48.8056825,
+  "lon": 2.1276273
+},
+{
+  "type": "node",
+  "id": 206142594,
+  "lat": 48.8047558,
+  "lon": 2.1237495
+},
+{
+  "type": "node",
+  "id": 315057304,
+  "lat": 48.8056869,
+  "lon": 2.1292164
+},
+{
+  "type": "node",
+  "id": 315520732,
+  "lat": 48.8057248,
+  "lon": 2.1277494
+},
+{
+  "type": "node",
+  "id": 907016400,
+  "lat": 48.8023450,
+  "lon": 2.1298267
+},
+{
+  "type": "node",
+  "id": 907016569,
+  "lat": 48.8022131,
+  "lon": 2.1297433
+},
+{
+  "type": "node",
+  "id": 907016853,
+  "lat": 48.8022766,
+  "lon": 2.1295177
+},
+{
+  "type": "node",
+  "id": 1204778264,
+  "lat": 48.8057074,
+  "lon": 2.1278748
+},
+{
+  "type": "node",
+  "id": 1204778374,
+  "lat": 48.8066376,
+  "lon": 2.1237464
+},
+{
+  "type": "node",
+  "id": 1204778388,
+  "lat": 48.8075109,
+  "lon": 2.1242561
+},
+{
+  "type": "node",
+  "id": 1386619755,
+  "lat": 48.8030529,
+  "lon": 2.1266028
+},
+{
+  "type": "node",
+  "id": 1426119195,
+  "lat": 48.8024718,
+  "lon": 2.1293456
+},
+{
+  "type": "node",
+  "id": 1426119203,
+  "lat": 48.8028473,
+  "lon": 2.1279390
+},
+{
+  "type": "node",
+  "id": 1426186831,
+  "lat": 48.8023564,
+  "lon": 2.1292210
+},
+{
+  "type": "node",
+  "id": 1426186837,
+  "lat": 48.8024042,
+  "lon": 2.1295989
+},
+{
+  "type": "node",
+  "id": 1426186858,
+  "lat": 48.8027527,
+  "lon": 2.1278891
+},
+{
+  "type": "node",
+  "id": 1460964662,
+  "lat": 48.8030426,
+  "lon": 2.1266477
+},
+{
+  "type": "node",
+  "id": 1772412337,
+  "lat": 48.8058922,
+  "lon": 2.1284315
+},
+{
+  "type": "node",
+  "id": 2478976998,
+  "lat": 48.8057257,
+  "lon": 2.1279401
+},
+{
+  "type": "node",
+  "id": 2479095346,
+  "lat": 48.8057179,
+  "lon": 2.1280318
+},
+{
+  "type": "node",
+  "id": 2479095347,
+  "lat": 48.8057310,
+  "lon": 2.1281008
+},
+{
+  "type": "node",
+  "id": 5186203176,
+  "lat": 48.8029778,
+  "lon": 2.1270681
+},
+{
+  "type": "node",
+  "id": 5199881747,
+  "lat": 48.8057143,
+  "lon": 2.1277039
+},
+{
+  "type": "node",
+  "id": 5273975556,
+  "lat": 48.8028136,
+  "lon": 2.1276588
+},
+{
+  "type": "node",
+  "id": 5320835939,
+  "lat": 48.8024399,
+  "lon": 2.1290383
+},
+{
+  "type": "node",
+  "id": 5320835940,
+  "lat": 48.8024832,
+  "lon": 2.1289162
+},
+{
+  "type": "node",
+  "id": 5321741950,
+  "lat": 48.8074455,
+  "lon": 2.1241567
+},
+{
+  "type": "node",
+  "id": 5321786439,
+  "lat": 48.8078556,
+  "lon": 2.1244726
+},
+{
+  "type": "node",
+  "id": 5321786440,
+  "lat": 48.8067274,
+  "lon": 2.1237369
+},
+{
+  "type": "node",
+  "id": 5321786443,
+  "lat": 48.8060512,
+  "lon": 2.1233703
+},
+{
+  "type": "node",
+  "id": 6413710439,
+  "lat": 48.8056949,
+  "lon": 2.1276657
+},
+{
+  "type": "node",
+  "id": 6413710453,
+  "lat": 48.8057210,
+  "lon": 2.1278105
+},
+{
+  "type": "node",
+  "id": 8248495280,
+  "lat": 48.8023043,
+  "lon": 2.1294146
+},
+{
+  "type": "node",
+  "id": 8248495281,
+  "lat": 48.8022993,
+  "lon": 2.1294334
+},
+{
+  "type": "node",
+  "id": 9045428525,
+  "lat": 48.8029404,
+  "lon": 2.1275900
+},
+{
+  "type": "node",
+  "id": 9453494131,
+  "lat": 48.8047084,
+  "lon": 2.1239467
+},
+{
+  "type": "node",
+  "id": 81079973,
+  "lat": 48.8020559,
+  "lon": 2.1308824
+},
+{
+  "type": "node",
+  "id": 81080024,
+  "lat": 48.8049914,
+  "lon": 2.1359637
+},
+{
+  "type": "node",
+  "id": 81080038,
+  "lat": 48.8052537,
+  "lon": 2.1360434
+},
+{
+  "type": "node",
+  "id": 96512099,
+  "lat": 48.8019267,
+  "lon": 2.1308129
+},
+{
+  "type": "node",
+  "id": 96529537,
+  "lat": 48.8016671,
+  "lon": 2.1318049
+},
+{
+  "type": "node",
+  "id": 96529538,
+  "lat": 48.8017878,
+  "lon": 2.1318759
+},
+{
+  "type": "node",
+  "id": 96529838,
+  "lat": 48.8018551,
+  "lon": 2.1316253
+},
+{
+  "type": "node",
+  "id": 96529839,
+  "lat": 48.8017328,
+  "lon": 2.1315453
+},
+{
+  "type": "node",
+  "id": 105435648,
+  "lat": 48.8060057,
+  "lon": 2.1316713
+},
+{
+  "type": "node",
+  "id": 199112585,
+  "lat": 48.8052468,
+  "lon": 2.1312122
+},
+{
+  "type": "node",
+  "id": 199195394,
+  "lat": 48.8014680,
+  "lon": 2.1330637
+},
+{
+  "type": "node",
+  "id": 206143678,
+  "lat": 48.8052892,
+  "lon": 2.1308694
+},
+{
+  "type": "node",
+  "id": 241126708,
+  "lat": 48.8054240,
+  "lon": 2.1303091
+},
+{
+  "type": "node",
+  "id": 270242658,
+  "lat": 48.8056889,
+  "lon": 2.1314796
+},
+{
+  "type": "node",
+  "id": 907015994,
+  "lat": 48.8052965,
+  "lon": 2.1312423
+},
+{
+  "type": "node",
+  "id": 907016320,
+  "lat": 48.8016855,
+  "lon": 2.1322547
+},
+{
+  "type": "node",
+  "id": 907016385,
+  "lat": 48.8020672,
+  "lon": 2.1302884
+},
+{
+  "type": "node",
+  "id": 907016478,
+  "lat": 48.8052412,
+  "lon": 2.1310561
+},
+{
+  "type": "node",
+  "id": 907016518,
+  "lat": 48.8014364,
+  "lon": 2.1316170
+},
+{
+  "type": "node",
+  "id": 907016546,
+  "lat": 48.8017471,
+  "lon": 2.1320267
+},
+{
+  "type": "node",
+  "id": 907016691,
+  "lat": 48.8022068,
+  "lon": 2.1303233
+},
+{
+  "type": "node",
+  "id": 907016706,
+  "lat": 48.8015492,
+  "lon": 2.1315411
+},
+{
+  "type": "node",
+  "id": 907016756,
+  "lat": 48.8014898,
+  "lon": 2.1317126
+},
+{
+  "type": "node",
+  "id": 1425521632,
+  "lat": 48.8015194,
+  "lon": 2.1317118
+},
+{
+  "type": "node",
+  "id": 1426186816,
+  "lat": 48.8018001,
+  "lon": 2.1312857
+},
+{
+  "type": "node",
+  "id": 1426186818,
+  "lat": 48.8019990,
+  "lon": 2.1310931
+},
+{
+  "type": "node",
+  "id": 1426186825,
+  "lat": 48.8020893,
+  "lon": 2.1302058
+},
+{
+  "type": "node",
+  "id": 1426186829,
+  "lat": 48.8022201,
+  "lon": 2.1302738
+},
+{
+  "type": "node",
+  "id": 1427882579,
+  "lat": 48.8018027,
+  "lon": 2.1312758
+},
+{
+  "type": "node",
+  "id": 1427882582,
+  "lat": 48.8019406,
+  "lon": 2.1307610
+},
+{
+  "type": "node",
+  "id": 1427882584,
+  "lat": 48.8019870,
+  "lon": 2.1311376
+},
+{
+  "type": "node",
+  "id": 1427882586,
+  "lat": 48.8021014,
+  "lon": 2.1301630
+},
+{
+  "type": "node",
+  "id": 1427882650,
+  "lat": 48.8053300,
+  "lon": 2.1312625
+},
+{
+  "type": "node",
+  "id": 5405653573,
+  "lat": 48.8051747,
+  "lon": 2.1360584
+},
+{
+  "type": "node",
+  "id": 8234677383,
+  "lat": 48.8017899,
+  "lon": 2.1313249
+},
+{
+  "type": "node",
+  "id": 8234677386,
+  "lat": 48.8019918,
+  "lon": 2.1311199
+},
+{
+  "type": "node",
+  "id": 8248495277,
+  "lat": 48.8018130,
+  "lon": 2.1312371
+},
+{
+  "type": "node",
+  "id": 8248495278,
+  "lat": 48.8019807,
+  "lon": 2.1311609
+},
+{
+  "type": "node",
+  "id": 8248495279,
+  "lat": 48.8021084,
+  "lon": 2.1301364
+},
+{
+  "type": "node",
+  "id": 8248495283,
+  "lat": 48.8016802,
+  "lon": 2.1322743
+},
+{
+  "type": "node",
+  "id": 8251022707,
+  "lat": 48.8014763,
+  "lon": 2.1317135
+},
+{
+  "type": "node",
+  "id": 8327202314,
+  "lat": 48.8019198,
+  "lon": 2.1313860
+},
+{
+  "type": "node",
+  "id": 8327202315,
+  "lat": 48.8022004,
+  "lon": 2.1303471
+},
+{
+  "type": "node",
+  "id": 8327295919,
+  "lat": 48.8015929,
+  "lon": 2.1320916
+},
+{
+  "type": "node",
+  "id": 8371096749,
+  "lat": 48.8051528,
+  "lon": 2.1360471
+},
+{
+  "type": "node",
+  "id": 8371096750,
+  "lat": 48.8051406,
+  "lon": 2.1360408
+},
+{
+  "type": "node",
+  "id": 199120717,
+  "lat": 48.8129536,
+  "lon": 2.1358915
+},
+{
+  "type": "node",
+  "id": 206158775,
+  "lat": 48.8139632,
+  "lon": 2.1360580
+},
+{
+  "type": "node",
+  "id": 206160265,
+  "lat": 48.8134200,
+  "lon": 2.1364550
+},
+{
+  "type": "node",
+  "id": 206160272,
+  "lat": 48.8136531,
+  "lon": 2.1360005
+},
+{
+  "type": "node",
+  "id": 2483337310,
+  "lat": 48.8131184,
+  "lon": 2.1360919
+},
+{
+  "type": "node",
+  "id": 2483337316,
+  "lat": 48.8131445,
+  "lon": 2.1359213
+},
+{
+  "type": "node",
+  "id": 2483337359,
+  "lat": 48.8135587,
+  "lon": 2.1359858
+},
+{
+  "type": "node",
+  "id": 173864271,
+  "lat": 48.8078789,
+  "lon": 2.1457318
+},
+{
+  "type": "node",
+  "id": 173864274,
+  "lat": 48.8078368,
+  "lon": 2.1457471
+},
+{
+  "type": "node",
+  "id": 205498700,
+  "lat": 48.8078234,
+  "lon": 2.1456667
+},
+{
+  "type": "node",
+  "id": 793649105,
+  "lat": 48.8078816,
+  "lon": 2.1454034
+},
+{
+  "type": "node",
+  "id": 2288583034,
+  "lat": 48.8078592,
+  "lon": 2.1455131
+},
+{
+  "type": "node",
+  "id": 2288583036,
+  "lat": 48.8079312,
+  "lon": 2.1456318
+},
+{
+  "type": "node",
+  "id": 5659506439,
+  "lat": 48.8079250,
+  "lon": 2.1456437
+},
+{
+  "type": "node",
+  "id": 8309130448,
+  "lat": 48.8134415,
+  "lon": 2.1364767
+},
+{
+  "type": "node",
+  "id": 96528482,
+  "lat": 48.8079999,
+  "lon": 2.1453618
+},
+{
+  "type": "node",
+  "id": 793649670,
+  "lat": 48.8079646,
+  "lon": 2.1455470
+},
+{
+  "type": "node",
+  "id": 5405652583,
+  "lat": 48.8079905,
+  "lon": 2.1454467
+},
+{
+  "type": "node",
+  "id": 206163452,
+  "lat": 48.8201720,
+  "lon": 2.1419943
+},
+{
+  "type": "node",
+  "id": 206217741,
+  "lat": 48.8194290,
+  "lon": 2.1378811
+},
+{
+  "type": "node",
+  "id": 206217759,
+  "lat": 48.8209542,
+  "lon": 2.1379330
+},
+{
+  "type": "node",
+  "id": 206278300,
+  "lat": 48.8201728,
+  "lon": 2.1420634
+},
+{
+  "type": "node",
+  "id": 206278301,
+  "lat": 48.8201871,
+  "lon": 2.1421289
+},
+{
+  "type": "node",
+  "id": 206278302,
+  "lat": 48.8202501,
+  "lon": 2.1422264
+},
+{
+  "type": "node",
+  "id": 206278303,
+  "lat": 48.8202930,
+  "lon": 2.1422494
+},
+{
+  "type": "node",
+  "id": 206278304,
+  "lat": 48.8203632,
+  "lon": 2.1422442
+},
+{
+  "type": "node",
+  "id": 206278305,
+  "lat": 48.8204243,
+  "lon": 2.1421910
+},
+{
+  "type": "node",
+  "id": 206278306,
+  "lat": 48.8204627,
+  "lon": 2.1421014
+},
+{
+  "type": "node",
+  "id": 206278308,
+  "lat": 48.8204705,
+  "lon": 2.1420490
+},
+{
+  "type": "node",
+  "id": 1770503175,
+  "lat": 48.8178672,
+  "lon": 2.1416006
+},
+{
+  "type": "node",
+  "id": 5318256422,
+  "lat": 48.8209930,
+  "lon": 2.1379352
+},
+{
+  "type": "node",
+  "id": 5318256423,
+  "lat": 48.8210231,
+  "lon": 2.1379445
+},
+{
+  "type": "node",
+  "id": 5318256440,
+  "lat": 48.8204470,
+  "lon": 2.1421497
+},
+{
+  "type": "node",
+  "id": 5318256441,
+  "lat": 48.8203958,
+  "lon": 2.1422231
+},
+{
+  "type": "node",
+  "id": 5318256442,
+  "lat": 48.8203283,
+  "lon": 2.1422531
+},
+{
+  "type": "node",
+  "id": 5318256443,
+  "lat": 48.8202137,
+  "lon": 2.1421849
+},
+{
+  "type": "node",
+  "id": 5318256447,
+  "lat": 48.8201060,
+  "lon": 2.1419895
+},
+{
+  "type": "node",
+  "id": 5318256449,
+  "lat": 48.8205255,
+  "lon": 2.1420644
+},
+{
+  "type": "node",
+  "id": 5885199579,
+  "lat": 48.8179843,
+  "lon": 2.1416240
+},
+{
+  "type": "node",
+  "id": 5885199750,
+  "lat": 48.8179641,
+  "lon": 2.1416191
+},
+{
+  "type": "node",
+  "id": 7222719527,
+  "lat": 48.8196647,
+  "lon": 2.1378891
+},
+{
+  "type": "node",
+  "id": 206217262,
+  "lat": 48.8235338,
+  "lon": 2.1396534
+},
+{
+  "type": "node",
+  "id": 206217541,
+  "lat": 48.8234162,
+  "lon": 2.1395995
+},
+{
+  "type": "node",
+  "id": 206217582,
+  "lat": 48.8220920,
+  "lon": 2.1386680
+},
+{
+  "type": "node",
+  "id": 206217606,
+  "lat": 48.8222280,
+  "lon": 2.1387630
+},
+{
+  "type": "node",
+  "id": 206217758,
+  "lat": 48.8218022,
+  "lon": 2.1384787
+},
+{
+  "type": "node",
+  "id": 206218903,
+  "lat": 48.8228707,
+  "lon": 2.1391968
+},
+{
+  "type": "node",
+  "id": 206278316,
+  "lat": 48.8217285,
+  "lon": 2.1422775
+},
+{
+  "type": "node",
+  "id": 206278330,
+  "lat": 48.8218946,
+  "lon": 2.1422991
+},
+{
+  "type": "node",
+  "id": 206293530,
+  "lat": 48.8248520,
+  "lon": 2.1428115
+},
+{
+  "type": "node",
+  "id": 206301461,
+  "lat": 48.8236079,
+  "lon": 2.1397100
+},
+{
+  "type": "node",
+  "id": 206301466,
+  "lat": 48.8242412,
+  "lon": 2.1401603
+},
+{
+  "type": "node",
+  "id": 206301469,
+  "lat": 48.8254525,
+  "lon": 2.1426282
+},
+{
+  "type": "node",
+  "id": 206301481,
+  "lat": 48.8247207,
+  "lon": 2.1411088
+},
+{
+  "type": "node",
+  "id": 206301494,
+  "lat": 48.8237818,
+  "lon": 2.1426237
+},
+{
+  "type": "node",
+  "id": 206316073,
+  "lat": 48.8253652,
+  "lon": 2.1424304
+},
+{
+  "type": "node",
+  "id": 1300572747,
+  "lat": 48.8226131,
+  "lon": 2.1424266
+},
+{
+  "type": "node",
+  "id": 3228449333,
+  "lat": 48.8219469,
+  "lon": 2.1385761
+},
+{
+  "type": "node",
+  "id": 3507321495,
+  "lat": 48.8224461,
+  "lon": 2.1423962
+},
+{
+  "type": "node",
+  "id": 3507321504,
+  "lat": 48.8232802,
+  "lon": 2.1425488
+},
+{
+  "type": "node",
+  "id": 5318256424,
+  "lat": 48.8210782,
+  "lon": 2.1379835
+},
+{
+  "type": "node",
+  "id": 5318256450,
+  "lat": 48.8216637,
+  "lon": 2.1422723
+},
+{
+  "type": "node",
+  "id": 5318256452,
+  "lat": 48.8219604,
+  "lon": 2.1423139
+},
+{
+  "type": "node",
+  "id": 5318256454,
+  "lat": 48.8225089,
+  "lon": 2.1424077
+},
+{
+  "type": "node",
+  "id": 5318256477,
+  "lat": 48.8237333,
+  "lon": 2.1426197
+},
+{
+  "type": "node",
+  "id": 5318256479,
+  "lat": 48.8238282,
+  "lon": 2.1426409
+},
+{
+  "type": "node",
+  "id": 5318256480,
+  "lat": 48.8238976,
+  "lon": 2.1426449
+},
+{
+  "type": "node",
+  "id": 5318256484,
+  "lat": 48.8247614,
+  "lon": 2.1427954
+},
+{
+  "type": "node",
+  "id": 5318256485,
+  "lat": 48.8253024,
+  "lon": 2.1428899
+},
+{
+  "type": "node",
+  "id": 5318256488,
+  "lat": 48.8254299,
+  "lon": 2.1425841
+},
+{
+  "type": "node",
+  "id": 5318336639,
+  "lat": 48.8230121,
+  "lon": 2.1424997
+},
+{
+  "type": "node",
+  "id": 5318336650,
+  "lat": 48.8227892,
+  "lon": 2.1424589
+},
+{
+  "type": "node",
+  "id": 5891748377,
+  "lat": 48.8235929,
+  "lon": 2.1396985
+},
+{
+  "type": "node",
+  "id": 6232699212,
+  "lat": 48.8247581,
+  "lon": 2.1411854
+},
+{
+  "type": "node",
+  "id": 7222745157,
+  "lat": 48.8241808,
+  "lon": 2.1401098
+},
+{
+  "type": "node",
+  "id": 7222747849,
+  "lat": 48.8232877,
+  "lon": 2.1395046
+},
+{
+  "type": "node",
+  "id": 7222777093,
+  "lat": 48.8246634,
+  "lon": 2.1409955
+},
+{
+  "type": "node",
+  "id": 6047526796,
+  "lat": 48.7882190,
+  "lon": 2.1498281
+},
+{
+  "type": "node",
+  "id": 180232904,
+  "lat": 48.7964118,
+  "lon": 2.1543825
+},
+{
+  "type": "node",
+  "id": 199187210,
+  "lat": 48.7973393,
+  "lon": 2.1538083
+},
+{
+  "type": "node",
+  "id": 199187215,
+  "lat": 48.7975690,
+  "lon": 2.1536831
+},
+{
+  "type": "node",
+  "id": 199187221,
+  "lat": 48.7977378,
+  "lon": 2.1536073
+},
+{
+  "type": "node",
+  "id": 199187225,
+  "lat": 48.7978955,
+  "lon": 2.1535523
+},
+{
+  "type": "node",
+  "id": 199187227,
+  "lat": 48.7980757,
+  "lon": 2.1535140
+},
+{
+  "type": "node",
+  "id": 199187234,
+  "lat": 48.7981468,
+  "lon": 2.1535565
+},
+{
+  "type": "node",
+  "id": 199187239,
+  "lat": 48.7982970,
+  "lon": 2.1536999
+},
+{
+  "type": "node",
+  "id": 205231767,
+  "lat": 48.7983762,
+  "lon": 2.1514411
+},
+{
+  "type": "node",
+  "id": 205250381,
+  "lat": 48.7983509,
+  "lon": 2.1503216
+},
+{
+  "type": "node",
+  "id": 244131755,
+  "lat": 48.7983455,
+  "lon": 2.1537185
+},
+{
+  "type": "node",
+  "id": 672476363,
+  "lat": 48.7984129,
+  "lon": 2.1531329
+},
+{
+  "type": "node",
+  "id": 672476365,
+  "lat": 48.7983234,
+  "lon": 2.1531303
+},
+{
+  "type": "node",
+  "id": 672476367,
+  "lat": 48.7984021,
+  "lon": 2.1524545
+},
+{
+  "type": "node",
+  "id": 672476372,
+  "lat": 48.7982677,
+  "lon": 2.1516645
+},
+{
+  "type": "node",
+  "id": 729651002,
+  "lat": 48.7983146,
+  "lon": 2.1529091
+},
+{
+  "type": "node",
+  "id": 730033583,
+  "lat": 48.7980173,
+  "lon": 2.1535260
+},
+{
+  "type": "node",
+  "id": 1045552085,
+  "lat": 48.7969254,
+  "lon": 2.1540502
+},
+{
+  "type": "node",
+  "id": 1336807147,
+  "lat": 48.7983843,
+  "lon": 2.1516954
+},
+{
+  "type": "node",
+  "id": 1336807160,
+  "lat": 48.7971403,
+  "lon": 2.1539258
+},
+{
+  "type": "node",
+  "id": 1336807173,
+  "lat": 48.7983819,
+  "lon": 2.1516594
+},
+{
+  "type": "node",
+  "id": 1411683072,
+  "lat": 48.7982354,
+  "lon": 2.1503385
+},
+{
+  "type": "node",
+  "id": 1411683074,
+  "lat": 48.7982639,
+  "lon": 2.1514592
+},
+{
+  "type": "node",
+  "id": 1414667160,
+  "lat": 48.7969701,
+  "lon": 2.1540232
+},
+{
+  "type": "node",
+  "id": 1426119161,
+  "lat": 48.7983880,
+  "lon": 2.1518136
+},
+{
+  "type": "node",
+  "id": 1426126310,
+  "lat": 48.7974524,
+  "lon": 2.1537434
+},
+{
+  "type": "node",
+  "id": 5186203174,
+  "lat": 48.7982298,
+  "lon": 2.1500534
+},
+{
+  "type": "node",
+  "id": 6009763233,
+  "lat": 48.7965094,
+  "lon": 2.1543208
+},
+{
+  "type": "node",
+  "id": 6270099412,
+  "lat": 48.7982202,
+  "lon": 2.1497164
+},
+{
+  "type": "node",
+  "id": 6270099417,
+  "lat": 48.7982326,
+  "lon": 2.1501971
+},
+{
+  "type": "node",
+  "id": 6270099418,
+  "lat": 48.7982389,
+  "lon": 2.1504763
+},
+{
+  "type": "node",
+  "id": 6270471048,
+  "lat": 48.7982464,
+  "lon": 2.1507707
+},
+{
+  "type": "node",
+  "id": 7074508586,
+  "lat": 48.7984418,
+  "lon": 2.1514267
+},
+{
+  "type": "node",
+  "id": 7530412337,
+  "lat": 48.7984109,
+  "lon": 2.1527302
+},
+{
+  "type": "node",
+  "id": 7530412342,
+  "lat": 48.7982996,
+  "lon": 2.1525384
+},
+{
+  "type": "node",
+  "id": 8248495289,
+  "lat": 48.7983848,
+  "lon": 2.1517130
+},
+{
+  "type": "node",
+  "id": 8248495290,
+  "lat": 48.7983226,
+  "lon": 2.1531101
+},
+{
+  "type": "node",
+  "id": 8248495291,
+  "lat": 48.7983219,
+  "lon": 2.1530919
+},
+{
+  "type": "node",
+  "id": 9048282350,
+  "lat": 48.7972423,
+  "lon": 2.1538656
+},
+{
+  "type": "node",
+  "id": 96512112,
+  "lat": 48.7994059,
+  "lon": 2.1597606
+},
+{
+  "type": "node",
+  "id": 244131754,
+  "lat": 48.7987869,
+  "lon": 2.1588449
+},
+{
+  "type": "node",
+  "id": 1336807165,
+  "lat": 48.7988987,
+  "lon": 2.1590116
+},
+{
+  "type": "node",
+  "id": 1336807192,
+  "lat": 48.7993062,
+  "lon": 2.1596446
+},
+{
+  "type": "node",
+  "id": 204996894,
+  "lat": 48.8043631,
+  "lon": 2.1544218
+},
+{
+  "type": "node",
+  "id": 204996897,
+  "lat": 48.8047392,
+  "lon": 2.1549002
+},
+{
+  "type": "node",
+  "id": 205331334,
+  "lat": 48.8067696,
+  "lon": 2.1521984
+},
+{
+  "type": "node",
+  "id": 205331338,
+  "lat": 48.8067312,
+  "lon": 2.1544931
+},
+{
+  "type": "node",
+  "id": 205331342,
+  "lat": 48.8067081,
+  "lon": 2.1558566
+},
+{
+  "type": "node",
+  "id": 205338470,
+  "lat": 48.8049079,
+  "lon": 2.1552502
+},
+{
+  "type": "node",
+  "id": 205338476,
+  "lat": 48.8050231,
+  "lon": 2.1556827
+},
+{
+  "type": "node",
+  "id": 205338508,
+  "lat": 48.8067128,
+  "lon": 2.1556719
+},
+{
+  "type": "node",
+  "id": 206223797,
+  "lat": 48.8068051,
+  "lon": 2.1516293
+},
+{
+  "type": "node",
+  "id": 338965160,
+  "lat": 48.8078814,
+  "lon": 2.1518083
+},
+{
+  "type": "node",
+  "id": 1371764974,
+  "lat": 48.8067410,
+  "lon": 2.1528084
+},
+{
+  "type": "node",
+  "id": 2086490666,
+  "lat": 48.8067370,
+  "lon": 2.1532586
+},
+{
+  "type": "node",
+  "id": 2472124831,
+  "lat": 48.8075359,
+  "lon": 2.1517425
+},
+{
+  "type": "node",
+  "id": 3753052522,
+  "lat": 48.8067420,
+  "lon": 2.1529597
+},
+{
+  "type": "node",
+  "id": 3753052727,
+  "lat": 48.8068977,
+  "lon": 2.1516469
+},
+{
+  "type": "node",
+  "id": 5318302716,
+  "lat": 48.8050748,
+  "lon": 2.1558328
+},
+{
+  "type": "node",
+  "id": 5318304022,
+  "lat": 48.8048452,
+  "lon": 2.1550879
+},
+{
+  "type": "node",
+  "id": 5318304023,
+  "lat": 48.8048213,
+  "lon": 2.1550463
+},
+{
+  "type": "node",
+  "id": 5318304024,
+  "lat": 48.8048673,
+  "lon": 2.1551295
+},
+{
+  "type": "node",
+  "id": 5318304027,
+  "lat": 48.8044000,
+  "lon": 2.1544737
+},
+{
+  "type": "node",
+  "id": 5318304037,
+  "lat": 48.8045034,
+  "lon": 2.1546105
+},
+{
+  "type": "node",
+  "id": 5318304038,
+  "lat": 48.8045184,
+  "lon": 2.1546561
+},
+{
+  "type": "node",
+  "id": 5318304039,
+  "lat": 48.8043020,
+  "lon": 2.1543141
+},
+{
+  "type": "node",
+  "id": 5886951090,
+  "lat": 48.8067161,
+  "lon": 2.1554637
+},
+{
+  "type": "node",
+  "id": 5886951091,
+  "lat": 48.8067147,
+  "lon": 2.1555512
+},
+{
+  "type": "node",
+  "id": 8960730890,
+  "lat": 48.8067252,
+  "lon": 2.1548797
+},
+{
+  "type": "node",
+  "id": 205338479,
+  "lat": 48.8052618,
+  "lon": 2.1564104
+},
+{
+  "type": "node",
+  "id": 205338482,
+  "lat": 48.8054820,
+  "lon": 2.1564360
+},
+{
+  "type": "node",
+  "id": 1837326953,
+  "lat": 48.8052063,
+  "lon": 2.1562954
+},
+{
+  "type": "node",
+  "id": 173867639,
+  "lat": 48.8105906,
+  "lon": 2.1501919
+},
+{
+  "type": "node",
+  "id": 205601541,
+  "lat": 48.8088425,
+  "lon": 2.1520685
+},
+{
+  "type": "node",
+  "id": 205602558,
+  "lat": 48.8088094,
+  "lon": 2.1524398
+},
+{
+  "type": "node",
+  "id": 205641364,
+  "lat": 48.8115670,
+  "lon": 2.1519130
+},
+{
+  "type": "node",
+  "id": 338961226,
+  "lat": 48.8087210,
+  "lon": 2.1539795
+},
+{
+  "type": "node",
+  "id": 338965151,
+  "lat": 48.8087324,
+  "lon": 2.1537776
+},
+{
+  "type": "node",
+  "id": 338965536,
+  "lat": 48.8086975,
+  "lon": 2.1544112
+},
+{
+  "type": "node",
+  "id": 2184277661,
+  "lat": 48.8108727,
+  "lon": 2.1503283
+},
+{
+  "type": "node",
+  "id": 2184277664,
+  "lat": 48.8109368,
+  "lon": 2.1507329
+},
+{
+  "type": "node",
+  "id": 2184277665,
+  "lat": 48.8112858,
+  "lon": 2.1513581
+},
+{
+  "type": "node",
+  "id": 2472124821,
+  "lat": 48.8079648,
+  "lon": 2.1518254
+},
+{
+  "type": "node",
+  "id": 3110070249,
+  "lat": 48.8115175,
+  "lon": 2.1518947
+},
+{
+  "type": "node",
+  "id": 5318255593,
+  "lat": 48.8086582,
+  "lon": 2.1519899
+},
+{
+  "type": "node",
+  "id": 5318619275,
+  "lat": 48.8087443,
+  "lon": 2.1520087
+},
+{
+  "type": "node",
+  "id": 5318619277,
+  "lat": 48.8087576,
+  "lon": 2.1520114
+},
+{
+  "type": "node",
+  "id": 5318619526,
+  "lat": 48.8110372,
+  "lon": 2.1510420
+},
+{
+  "type": "node",
+  "id": 5318619530,
+  "lat": 48.8112028,
+  "lon": 2.1513319
+},
+{
+  "type": "node",
+  "id": 5318619531,
+  "lat": 48.8112840,
+  "lon": 2.1514855
+},
+{
+  "type": "node",
+  "id": 5318619590,
+  "lat": 48.8103851,
+  "lon": 2.1496946
+},
+{
+  "type": "node",
+  "id": 5318619602,
+  "lat": 48.8105376,
+  "lon": 2.1499501
+},
+{
+  "type": "node",
+  "id": 6703491567,
+  "lat": 48.8109927,
+  "lon": 2.1504241
+},
+{
+  "type": "node",
+  "id": 6703506376,
+  "lat": 48.8113805,
+  "lon": 2.1515216
+},
+{
+  "type": "node",
+  "id": 6705451399,
+  "lat": 48.8111874,
+  "lon": 2.1511818
+},
+{
+  "type": "node",
+  "id": 6705451400,
+  "lat": 48.8111462,
+  "lon": 2.1512369
+},
+{
+  "type": "node",
+  "id": 6705451401,
+  "lat": 48.8113383,
+  "lon": 2.1515807
+},
+{
+  "type": "node",
+  "id": 6705451420,
+  "lat": 48.8103707,
+  "lon": 2.1496678
+},
+{
+  "type": "node",
+  "id": 7272630934,
+  "lat": 48.8108064,
+  "lon": 2.1506416
+}
+
+  ]
+}

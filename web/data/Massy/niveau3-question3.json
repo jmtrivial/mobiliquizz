@@ -1,0 +1,3192 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1383527984,
+  "lat": 48.7237740,
+  "lon": 2.2584735,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2786",
+    "ref:FR:STIF:stop_id": "StopPoint:56:10103",
+    "route_ref": "91-05;91-10;91-06",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1477029792,
+  "lat": 48.7321734,
+  "lon": 2.2925332,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "pole": "no",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1477029851,
+  "lat": 48.7329077,
+  "lon": 2.2966150,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1477029920,
+  "lat": 48.7337275,
+  "lon": 2.2898431,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5DlNinhSabaBJjyAL8MdJA",
+    "name": "Rue des Canadiens",
+    "old_name": "Place de France",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30013",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275369",
+    "route_ref": "319 Opera-Théâtre;119;197",
+    "shelter": "no",
+    "source": "survey 8/2017",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1494067862,
+  "lat": 48.7324730,
+  "lon": 2.2770520,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "note": "pas de nom visible",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1543512424,
+  "lat": 48.7320071,
+  "lon": 2.2843348,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hélène Boucher",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7810",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314760",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1544080625,
+  "lat": 48.7278706,
+  "lon": 2.2829991,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Australie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39414",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314757",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1544080629,
+  "lat": 48.7295467,
+  "lon": 2.2838627,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1544080635,
+  "lat": 48.7297134,
+  "lon": 2.2853533,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Moscou - Rome",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39410",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314758",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1544080642,
+  "lat": 48.7301958,
+  "lon": 2.2846041,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moscou - Rome",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39413",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314759",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1606161332,
+  "lat": 48.7384889,
+  "lon": 2.2981931,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saussaye - Mirabeau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36595",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376123",
+    "route_ref": "197;N21;319",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1606161334,
+  "lat": 48.7363029,
+  "lon": 2.2979762,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Périgord - Languedoc",
+    "note": "sur le poteau le nom est Languedoc, sur l'affiche en dessous, c'est Périgord !",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416563",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2059",
+    "route_ref": "J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1606161336,
+  "lat": 48.7349295,
+  "lon": 2.2945708,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biarritz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8202",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764016",
+    "route_ref": "197;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1606161344,
+  "lat": 48.7339775,
+  "lon": 2.2909166,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30013",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764018",
+    "route_ref": "197;N21",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1617717449,
+  "lat": 48.7336135,
+  "lon": 2.2627840,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Boulevard du 1er Mai",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26614",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041784",
+    "route_ref": "N63;119;196",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1617717458,
+  "lat": 48.7344108,
+  "lon": 2.2569654,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Mandel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26616",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041786",
+    "route_ref": "N63;119;196",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1617717511,
+  "lat": 48.7319963,
+  "lon": 2.2557672,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26617",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041788",
+    "route_ref": "N63;196;119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1617717527,
+  "lat": 48.7303124,
+  "lon": 2.2575109,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Président Salvador Allende",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11515",
+    "route_ref": "N63;119;196;15",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1617717814,
+  "lat": 48.7368756,
+  "lon": 2.2632178,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Zola",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416601",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764114",
+    "route_ref": "N63;196;J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1753729334,
+  "lat": 48.7327237,
+  "lon": 2.2663980,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "wklOiIrDdFu00Naun_JZhw",
+    "name": "Lycée Fustel de Coulanges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7815",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041781",
+    "route_ref": "119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2018-05-26",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1753729339,
+  "lat": 48.7343010,
+  "lon": 2.2698739,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles de Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420469",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041780",
+    "route_ref": "119;39-37 B",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1861531376,
+  "lat": 48.7229155,
+  "lon": 2.2618129,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rue de Paris",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29335",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3757176",
+    "route_ref": "199;319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1862814228,
+  "lat": 48.7282563,
+  "lon": 2.2789284,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28095",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314754",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1862814328,
+  "lat": 48.7281324,
+  "lon": 2.2794540,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7809",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314755",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1925306966,
+  "lat": 48.7370674,
+  "lon": 2.2450773,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "DY5mZfQosXXKlprCdA7IsQ",
+    "name": "Amblainvilliers",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24175",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7593364",
+    "route_ref": "294",
+    "shelter": "no",
+    "survey:date": "2018-05-16"
+  }
+},
+{
+  "type": "node",
+  "id": 2278118673,
+  "lat": 48.7186706,
+  "lon": 2.2979736,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ZAC du Pérou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422945",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6861942",
+    "route_ref": "299",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2278118674,
+  "lat": 48.7187348,
+  "lon": 2.2972750,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ZAC du Pérou",
+    "public_transport": "platform",
+    "ref:FR:STIF": "422946",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041845",
+    "route_ref": "299",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2279573436,
+  "lat": 48.7320488,
+  "lon": 2.2555818,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7817",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041787",
+    "route_ref": "N63;196;119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2288933381,
+  "lat": 48.7169507,
+  "lon": 2.2951236,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Fleurs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22313",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376098",
+    "route_ref": "107;299;399;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2288933410,
+  "lat": 48.7274011,
+  "lon": 2.2748727,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-11-24",
+    "highway": "bus_stop",
+    "name": "8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "33367",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251687",
+    "route_ref": "399;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2288933422,
+  "lat": 48.7276324,
+  "lon": 2.2744716,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "33366",
+    "route_ref": "399;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2314761050,
+  "lat": 48.7298142,
+  "lon": 2.2678503,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Transport Scolaire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650202,
+  "lat": 48.7247919,
+  "lon": 2.2597053,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3206",
+    "ref:FR:STIF:stop_id": "StopPoint:46:10103",
+    "route_ref": "DM12",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650204,
+  "lat": 48.7248906,
+  "lon": 2.2598831,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "3207",
+    "ref:FR:STIF:stop_id": "StopPoint:46:10104",
+    "route_ref": "DM153",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650207,
+  "lat": 48.7239236,
+  "lon": 2.2586585,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11278",
+    "ref:FR:STIF:stop_id": "StopPoint:57:170",
+    "route_ref": "2;23",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "terminal": "2;23",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650209,
+  "lat": 48.7234830,
+  "lon": 2.2581195,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2786",
+    "ref:FR:STIF:stop_id": "StopPoint:56:10103",
+    "route_ref": "91-11",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "terminal": "91.06"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650211,
+  "lat": 48.7249922,
+  "lon": 2.2603423,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-07-08",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22934",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314737",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "terminal": "319",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650214,
+  "lat": 48.7244698,
+  "lon": 2.2592983,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39855",
+    "ref:FR:STIF:stop_id": "StopPoint:46:14912",
+    "route_ref": "DM11A;DM11C;DM11E;DM11G",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "terminal": "DM11C",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650218,
+  "lat": 48.7251145,
+  "lon": 2.2605015,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-06-26",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22902",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3757174",
+    "route_ref": "199;N122",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "terminal": "199"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650219,
+  "lat": 48.7252422,
+  "lon": 2.2606654,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-06-25",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22936",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251679",
+    "route_ref": "399",
+    "shelter": "yes",
+    "source": "RATP",
+    "tactile_paving": "no",
+    "terminal": "399",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325650221,
+  "lat": 48.7240682,
+  "lon": 2.2588493,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11278",
+    "ref:FR:STIF:stop_id": "StopPoint:57:170",
+    "route_ref": "22",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "terminal": "22"
+  }
+},
+{
+  "type": "node",
+  "id": 2325765193,
+  "lat": 48.7275664,
+  "lon": 2.2710924,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Tuilerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12386",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251686",
+    "route_ref": "399;107;91-10",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325765197,
+  "lat": 48.7277387,
+  "lon": 2.2707186,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "e3DS1T6ru0kvPVY6LpNILw",
+    "name": "La Tuilerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12387",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041836",
+    "route_ref": "399;107;91-10",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-08-31",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325844544,
+  "lat": 48.7242244,
+  "lon": 2.2691098,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-06-26",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Galvani Nord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21154",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314778",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325908193,
+  "lat": 48.7255595,
+  "lon": 2.2704282,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "La Tuilerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21155",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314780",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2325911095,
+  "lat": 48.7242147,
+  "lon": 2.2688617,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-06-26",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Galvani Nord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29331",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314747",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2326134294,
+  "lat": 48.7224701,
+  "lon": 2.2711253,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-11-24",
+    "highway": "bus_stop",
+    "name": "Galvani Sud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29336",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314745",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2326134295,
+  "lat": 48.7226045,
+  "lon": 2.2712017,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-11-24",
+    "highway": "bus_stop",
+    "name": "Galvani Sud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39775",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314744",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2326156808,
+  "lat": 48.7201071,
+  "lon": 2.2709455,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-10-11",
+    "highway": "bus_stop",
+    "name": "Cimetière de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29332",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314775",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2326158009,
+  "lat": 48.7199790,
+  "lon": 2.2709718,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-10-11",
+    "highway": "bus_stop",
+    "name": "Cimetière de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21153",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314742",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2328749400,
+  "lat": 48.7311414,
+  "lon": 2.2433684,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "bFzM6rZIb1sVKJCAtteE1A",
+    "name": "Parc de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11520",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041803",
+    "route_ref": "15;119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-09-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2375437448,
+  "lat": 48.7283438,
+  "lon": 2.2741902,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39772",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314751",
+    "route_ref": "199;399;N21;119;319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2437462353,
+  "lat": 48.7272368,
+  "lon": 2.2402439,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de l'Effort Mutuel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28101",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041809",
+    "route_ref": "119",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2447851592,
+  "lat": 48.7292486,
+  "lon": 2.2449596,
+  "tags": {
+    "STIF:zone": "4",
+    "advertising": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Commercial de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28107",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041806",
+    "route_ref": "119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2453838462,
+  "lat": 48.7291774,
+  "lon": 2.2447695,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Commercial de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28098",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041805",
+    "route_ref": "119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2618061617,
+  "lat": 48.7214977,
+  "lon": 2.2724255,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "note": "Aucun nom sur le terrain (ramassage scolaire)",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2660471013,
+  "lat": 48.7281061,
+  "lon": 2.2516265,
+  "tags": {
+    "STIF:zone": "5",
+    "addr:housenumber": "41",
+    "addr:street": "Rue Jean Jaurès",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Les Graviers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416593",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2069",
+    "route_ref": "J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2849280479,
+  "lat": 48.7292888,
+  "lon": 2.2700444,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421064",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251684",
+    "route_ref": "399;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3259984061,
+  "lat": 48.7195081,
+  "lon": 2.2662886,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ampère Sud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29333",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314772",
+    "route_ref": "319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3372920573,
+  "lat": 48.7245832,
+  "lon": 2.2594137,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10179",
+    "ref:FR:STIF:stop_id": "StopPoint:46:14612",
+    "route_ref": "DM11A;DM11E;DM11G",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3372920574,
+  "lat": 48.7247166,
+  "lon": 2.2600409,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:49:53660",
+    "route_ref": "107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "terminal": "107",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3372920575,
+  "lat": 48.7243468,
+  "lon": 2.2595555,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Massy Gare RER - TGV",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2787;33365",
+    "ref:FR:STIF:stop_id": "StopPoint:56:10104;StopPoint:29:420",
+    "route_ref": "91-11;91-10;91-05;91-06;55",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3372920576,
+  "lat": 48.7248418,
+  "lon": 2.2601707,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21827",
+    "ref:FR:STIF:stop_id": "StopPoint:57:173",
+    "route_ref": "14",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521408886,
+  "lat": 48.7344697,
+  "lon": 2.2572747,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Mandel",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26615",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041785",
+    "route_ref": "119;196;N63",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521408887,
+  "lat": 48.7377724,
+  "lon": 2.2676495,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallée de la Bièvre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40388",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764144",
+    "route_ref": "N63;196",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521408889,
+  "lat": 48.7365302,
+  "lon": 2.2626921,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Zola",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416602",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764115",
+    "route_ref": "N63;196;J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521408890,
+  "lat": 48.7337957,
+  "lon": 2.2625453,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Boulevard du 1er Mai",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7816",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041783",
+    "route_ref": "119;196;N63",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521412692,
+  "lat": 48.7288137,
+  "lon": 2.2541366,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Ruelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26618",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041795",
+    "route_ref": "N63;119;196",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521412893,
+  "lat": 48.7301822,
+  "lon": 2.2574598,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Président Allende",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11516",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764107",
+    "route_ref": "15;39-37 B;119;196;N63",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3521412894,
+  "lat": 48.7285182,
+  "lon": 2.2531200,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Ruelles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8193",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041796",
+    "route_ref": "N63;119;196",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3569444127,
+  "lat": 48.7401089,
+  "lon": 2.3015329,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36594",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7170675",
+    "route_ref": "197;319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56868597"
+  }
+},
+{
+  "type": "node",
+  "id": 3610540315,
+  "lat": 48.7289798,
+  "lon": 2.2422685,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Claude Monet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3723477484,
+  "lat": 48.7310335,
+  "lon": 2.2726966,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Mairie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416570",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2052",
+    "route_ref": "J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3733782318,
+  "lat": 48.7228873,
+  "lon": 2.3025757,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Les Frères Voisin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27445",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041870",
+    "route_ref": "299",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3754068898,
+  "lat": 48.7314754,
+  "lon": 2.2746114,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "check_date:shelter": "2021-10-17",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "QArgCSNrlNuFQFWF_YPfmg",
+    "name": "Gambetta - Mairie de Massy",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416567",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2066",
+    "route_ref": "J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-12-17",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4079778802,
+  "lat": 48.7224763,
+  "lon": 2.2874639,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Bonde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415600",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7275352",
+    "route_ref": "107;399;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4319803498,
+  "lat": 48.7292642,
+  "lon": 2.3025420,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ZAC du Moulin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12337",
+    "ref:FR:STIF:stop_id": "StopPoint:62:32381",
+    "route_ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4324079812,
+  "lat": 48.7288799,
+  "lon": 2.2598170,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raymond Aron",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420166",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041791",
+    "route_ref": "15;119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326669599,
+  "lat": 48.7302137,
+  "lon": 2.3035409,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "François Sommer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12170",
+    "ref:FR:STIF:stop_id": "StopPoint:62:30881",
+    "route_ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4330599076,
+  "lat": 48.7264601,
+  "lon": 2.2461972,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Berthelot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421930",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041808",
+    "route_ref": "119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4913688970,
+  "lat": 48.7232898,
+  "lon": 2.2870140,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Bonde",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415599",
+    "route_ref": "399;107;N21",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5016865537,
+  "lat": 48.7167437,
+  "lon": 2.2959418,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Fleurs",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22312",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376097",
+    "route_ref": "107;299;399;N21",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5249483197,
+  "lat": 48.7229183,
+  "lon": 2.2620245,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Paris",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3757205",
+    "route_ref": "199",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5268886021,
+  "lat": 48.7252470,
+  "lon": 2.2603371,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "description": "réservé à la descente ou Noctilien",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22936",
+    "route_ref": "14;107;319;399;N122",
+    "shelter": "yes",
+    "source": "RATP",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5301309192,
+  "lat": 48.7293847,
+  "lon": 2.2760186,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427540",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314753",
+    "route_ref": "119;319;N21",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5301690349,
+  "lat": 48.7357975,
+  "lon": 2.2979713,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Périgord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8205",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376121",
+    "route_ref": "319;197;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5301690350,
+  "lat": 48.7362673,
+  "lon": 2.2979929,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Périgord",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8204",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376122",
+    "route_ref": "319;197;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5318124762,
+  "lat": 48.7166965,
+  "lon": 2.2983615,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Champarts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2969",
+    "ref:FR:STIF:stop_id": "StopPoint:49:50671",
+    "route_ref": "10-20;108;DM151",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5347077059,
+  "lat": 48.7302002,
+  "lon": 2.2410388,
+  "tags": {
+    "STIF:zone": "4",
+    "advertising": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rond-Point du Pileu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "411939",
+    "ref:FR:STIF:stop_id": "StopPoint:80:184",
+    "route_ref": "15;60;119;J"
+  }
+},
+{
+  "type": "node",
+  "id": 5347077072,
+  "lat": 48.7260282,
+  "lon": 2.2574427,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Vilmorin - Massy Palaiseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "20445",
+    "ref:FR:STIF:stop_id": "StopPoint:80:75;StopPoint:80:76",
+    "route_ref": "60",
+    "route_ref:substitution": "RER C",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5387193598,
+  "lat": 48.7344446,
+  "lon": 2.2923790,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place de France",
+    "note": "119 reporté 7 av de Bourgogne jusqu’en 2028",
+    "old_name": "Bourgogne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7813",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041760",
+    "route_ref": "197;319;N21",
+    "shelter": "yes",
+    "source": "survey 01/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5482446338,
+  "lat": 48.7260647,
+  "lon": 2.2573478,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28111;11509",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041793;StopPoint:57:8000",
+    "route_ref": "119;15",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5482446339,
+  "lat": 48.7261062,
+  "lon": 2.2572245,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28090",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3764102",
+    "route_ref": "N63;119;196",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "terminal": "N63",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5552946777,
+  "lat": 48.7358451,
+  "lon": 2.2918501,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "lrXa5jA8qWbcMvugc-AEhA",
+    "name": "Président John Fitzgerald Kennedy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28112",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041759",
+    "route_ref": "119",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870963"
+  }
+},
+{
+  "type": "node",
+  "id": 5583228123,
+  "lat": 48.7378589,
+  "lon": 2.2720891,
+  "tags": {
+    "STIF:zone": "5",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "CHrt-Yg_DExfmfxQCtF6Sw",
+    "name": "Bièvre - La Poterne",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416598",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2050",
+    "route_ref": "J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-11-22",
+    "website": "http://www.paris-saclay.com/vivre-ici/mobilite/navettes-gratuites-418.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5604788790,
+  "lat": 48.7191867,
+  "lon": 2.2663916,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ampère Sud",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39776",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314773",
+    "route_ref": "319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5644021122,
+  "lat": 48.7312568,
+  "lon": 2.2433371,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11519",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041802",
+    "route_ref": "15;119",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5644093521,
+  "lat": 48.7257176,
+  "lon": 2.2702557,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "S26OyS3I1hWSwCDzwakkEQ",
+    "name": "La Tuilerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39773",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314781",
+    "route_ref": "319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2017-08-31",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5680690444,
+  "lat": 48.7300860,
+  "lon": 2.3015110,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bel Air",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23033",
+    "ref:FR:STIF:stop_id": "StopPoint:62:32910",
+    "route_ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 5773575653,
+  "lat": 48.7203231,
+  "lon": 2.2621524,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Barbusse - Baudot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11628",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3757201",
+    "route_ref": "14;199",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5916993241,
+  "lat": 48.7312135,
+  "lon": 2.2719330,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Mairie de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28100",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041778",
+    "route_ref": "119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5948413687,
+  "lat": 48.7257580,
+  "lon": 2.2568577,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Vilmorin - Massy Palaiseau",
+    "public_transport": "platform",
+    "route_ref": "desserte cars;Navette Europ' Essonne",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5953368186,
+  "lat": 48.7349730,
+  "lon": 2.2728670,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bus": "yes",
+    "description": "Navette Gratuite",
+    "highway": "bus_stop",
+    "name": "Massy Verrières RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416571",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2051",
+    "route_ref": "J;J",
+    "route_ref:substitution": "RER C",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "website": "http://www.paris-saclay.com/vivre-ici/mobilite/navettes-gratuites-418.html",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5953368187,
+  "lat": 48.7339817,
+  "lon": 2.2731497,
+  "tags": {
+    "STIF:zone": "5",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy Verrières RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416572",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2067",
+    "route_ref": "J;J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "survey:date": "2019-01-19",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563067,
+  "lat": 48.7270002,
+  "lon": 2.2765735,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de l'Europe - Centre Commercial",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12385",
+    "route_ref": "55;399;91-10;N21;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563068,
+  "lat": 48.7270738,
+  "lon": 2.2772631,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de l'Europe - Centre Commercial",
+    "public_transport": "platform",
+    "ref:FR:STIF": "33368",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7376101",
+    "route_ref": "91-10;N21;107;55;399",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6175648390,
+  "lat": 48.7349970,
+  "lon": 2.2874570,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "7kPAZsMrBlo9jSXe8UBaQw",
+    "name": "Centre Lionel Terray",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12105",
+    "ref:FR:STIF:stop_id": "StopPoint:62:30360",
+    "route_ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6269944194,
+  "lat": 48.7217047,
+  "lon": 2.2661791,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard de Vinci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "414742",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5298002",
+    "route_ref": "319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6303691809,
+  "lat": 48.7217462,
+  "lon": 2.2662452,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léonard de Vinci",
+    "public_transport": "platform",
+    "ref:FR:STIF": "414745",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5298005",
+    "route_ref": "319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6315590212,
+  "lat": 48.7292324,
+  "lon": 2.2697615,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Massy",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421063",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041779",
+    "route_ref": "399;119;107",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325506960,
+  "lat": 48.7284722,
+  "lon": 2.2745395,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "8 Mai 1945",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39774",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314750",
+    "route_ref": "119;199;399;N21;319",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325506962,
+  "lat": 48.7288315,
+  "lon": 2.2599951,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raymond Aron",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420165",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041792",
+    "route_ref": "15;119",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325507888,
+  "lat": 48.7275934,
+  "lon": 2.2355449,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marché du Pileu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28105",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041811",
+    "route_ref": "119",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325507890,
+  "lat": 48.7263890,
+  "lon": 2.2459870,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos Berthelot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421933",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041807",
+    "route_ref": "119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6325507895,
+  "lat": 48.7295940,
+  "lon": 2.2570400,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos de Villaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421926",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041797",
+    "route_ref": "119",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870984"
+  }
+},
+{
+  "type": "node",
+  "id": 6325507905,
+  "lat": 48.7315277,
+  "lon": 2.2838364,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hélène Boucher",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39412",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314761",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6331663628,
+  "lat": 48.7244857,
+  "lon": 2.2620903,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Grand Ouest",
+    "public_transport": "platform",
+    "ref:FR:STIF": "470574",
+    "ref:FR:STIF:stop_id": "StopPoint:46:15043",
+    "route_ref": "DM12;DM153",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6376353950,
+  "lat": 48.7276489,
+  "lon": 2.2823748,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Australie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39409",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314756",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6378814053,
+  "lat": 48.7215310,
+  "lon": 2.2637331,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mail Ampère",
+    "public_transport": "platform",
+    "ref:FR:STIF": "414746",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314768",
+    "route_ref": "319",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6379676078,
+  "lat": 48.7350033,
+  "lon": 2.2874926,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre Lionel Terray",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27749",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5244890",
+    "route_ref": "197",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6439381464,
+  "lat": 48.7287803,
+  "lon": 2.2665465,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Chemin des Femmes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421065",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251681;StopPoint:49:49971",
+    "route_ref": "399;107",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6504372381,
+  "lat": 48.7316564,
+  "lon": 2.2817972,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bailliart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416585",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2063",
+    "route_ref": "J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6504372382,
+  "lat": 48.7315511,
+  "lon": 2.2816308,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bailliart",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416582",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2055",
+    "route_ref": "J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6507102713,
+  "lat": 48.7294337,
+  "lon": 2.2806562,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416575",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2064",
+    "route_ref": "J;J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6507102714,
+  "lat": 48.7295177,
+  "lon": 2.2807963,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Mermoz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416573",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2054",
+    "route_ref": "J;J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6514227202,
+  "lat": 48.7293063,
+  "lon": 2.2759685,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28094",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2053;StopPoint:59:4314752",
+    "route_ref": "J;119;319;N21;N21,J",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6514952847,
+  "lat": 48.7257699,
+  "lon": 2.2568149,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Vilmorin - Massy Palaiseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11510",
+    "ref:FR:STIF:stop_id": "StopPoint:57:8001",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6515218410,
+  "lat": 48.7363361,
+  "lon": 2.2922847,
+  "tags": {
+    "STIF:zone": "4",
+    "alt_name": "Marché de Narbonne",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-Op1hQfD3ZScmqMOeJXI8Q",
+    "name": "Kennedy - Bourgogne",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39612",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2058;StopPoint:59:5244891",
+    "route_ref": "J;197",
+    "shelter": "yes",
+    "source": "survey",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56870377"
+  }
+},
+{
+  "type": "node",
+  "id": 6515218414,
+  "lat": 48.7348589,
+  "lon": 2.2940140,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biarritz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8203",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2060;StopPoint:59:3764015",
+    "route_ref": "319;197;N21;J",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6518709709,
+  "lat": 48.7323919,
+  "lon": 2.2654518,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Fustel de Coulanges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11514",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2048;StopPoint:59:6041782",
+    "route_ref": "119;15;J",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6518709710,
+  "lat": 48.7310763,
+  "lon": 2.2536585,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11518",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6041801;StopPoint:79:2045",
+    "route_ref": "119;15;J",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6518709712,
+  "lat": 48.7312304,
+  "lon": 2.2537051,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée de Vilgénis",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416594",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2070;StopPoint:59:6041800",
+    "route_ref": "119;15;J",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6536908508,
+  "lat": 48.7310880,
+  "lon": 2.2555850,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allende",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19795",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15077",
+    "route_ref": "39-37 B",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6536908516,
+  "lat": 48.7302184,
+  "lon": 2.2410166,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Pileu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420467;19798",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15270;StopPoint:24:15083",
+    "route_ref": "119;39-37 B",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6536908518,
+  "lat": 48.7258249,
+  "lon": 2.2572259,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Vilmorin - Massy Palaiseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420471",
+    "ref:FR:STIF:stop_id": "StopPoint:24:15272",
+    "route_ref": "39-37 B",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6546067848,
+  "lat": 48.7254535,
+  "lon": 2.2608287,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "description": "quai de descente",
+    "highway": "bus_stop",
+    "name": "Gare Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "415495",
+    "ref:FR:STIF:stop_id": "StopPoint:46:14930",
+    "route_ref": "DM12;DM153",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6546216523,
+  "lat": 48.7239755,
+  "lon": 2.2590510,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39854",
+    "ref:FR:STIF:stop_id": "StopPoint:46:14911",
+    "route_ref": "DM11A;DM11C;DM11E;DM11G",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6554208423,
+  "lat": 48.7233366,
+  "lon": 2.2579329,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "check_date:shelter": "2021-09-25",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2787",
+    "ref:FR:STIF:stop_id": "StopPoint:56:10104",
+    "route_ref": "91-03",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6556655663,
+  "lat": 48.7239663,
+  "lon": 2.2590332,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "11279",
+    "ref:FR:STIF:stop_id": "StopPoint:57:171",
+    "route_ref": "2;22;23",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6556662736,
+  "lat": 48.7236120,
+  "lon": 2.2582819,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "fixme": "bus 91.10 a mettre en relation",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "route_ref": "91.10",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6556703142,
+  "lat": 48.7246163,
+  "lon": 2.2599405,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "fixme": "bus 91.10 a mettre en relation",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "route_ref": "91.10;55",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6556705981,
+  "lat": 48.7242674,
+  "lon": 2.2590315,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Massy-Palaiseau RER",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6560785792,
+  "lat": 48.7286203,
+  "lon": 2.2656695,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin des Femmes",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6251682",
+    "route_ref": "399;107",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6582869460,
+  "lat": 48.7300220,
+  "lon": 2.2769190,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre-Ville - Henri Gilbert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416565",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2065",
+    "route_ref": "J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6582869465,
+  "lat": 48.7259576,
+  "lon": 2.2569290,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Routière Vilmorin - Massy Palaiseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416597",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2047",
+    "route_ref": "J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6582869466,
+  "lat": 48.7281274,
+  "lon": 2.2515890,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Les Graviers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416590",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2046",
+    "route_ref": "J",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8361742864,
+  "lat": 48.7328708,
+  "lon": 2.2863035,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Saint-Marc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21157",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4314763",
+    "route_ref": "119;319;N21",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8361742865,
+  "lat": 48.7329329,
+  "lon": 2.2862718,
+  "tags": {
+    "STIF:zone": "5",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Saint-Marc",
+    "old_name": "Les Franciades",
+    "public_transport": "platform",
+    "ref:FR:STIF": "416577",
+    "ref:FR:STIF:stop_id": "StopPoint:79:2056",
+    "route_ref": "J;J",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8362015889,
+  "lat": 48.7341555,
+  "lon": 2.2928797,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "ref": "J",
+    "route_ref": "navette",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8362015890,
+  "lat": 48.7341882,
+  "lon": 2.2928609,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "route_ref": "119",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8514642295,
+  "lat": 48.7340318,
+  "lon": 2.2930914,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "route_ref": "119;119",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8514642297,
+  "lat": 48.7339971,
+  "lon": 2.2931034,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "operator": "Communauté d'Agglomération Paris Saclay",
+    "public_transport": "platform",
+    "ref": "J",
+    "route_ref": "Les navettes de l'agglo",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8596828742,
+  "lat": 48.7297742,
+  "lon": 2.2418661,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "route_ref": "J"
+  }
+},
+{
+  "type": "node",
+  "id": 8612246588,
+  "lat": 48.7322652,
+  "lon": 2.2912175,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Jacques Cartier",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "J",
+    "shelter": "yes",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8612246594,
+  "lat": 48.7323318,
+  "lon": 2.2911928,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "destination": "Vauhallan Abbaye Cimetière",
+    "fixme": "tagg destination",
+    "highway": "bus_stop",
+    "name": "Hôpital Jacques Cartier",
+    "public_transport": "platform",
+    "route_ref": "119",
+    "shelter": "yes",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8612246595,
+  "lat": 48.7321489,
+  "lon": 2.2911230,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Jacques Cartier",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "J",
+    "shelter": "yes",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8612246599,
+  "lat": 48.7320897,
+  "lon": 2.2911536,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "destination": "Gare des Baconnets",
+    "highway": "bus_stop",
+    "name": "Hôpital Jacques Cartier",
+    "public_transport": "platform",
+    "route_ref": "119",
+    "shelter": "yes",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8612246602,
+  "lat": 48.7337368,
+  "lon": 2.2898934,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Canadiens",
+    "pole": "yes",
+    "public_transport": "platform",
+    "route_ref": "J",
+    "shelter": "no",
+    "survey:date": "2021-04-15",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

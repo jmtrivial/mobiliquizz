@@ -1,0 +1,4013 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 411053357,
+  "lat": 47.2425592,
+  "lon": -2.2660924,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort de l'Eve",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 669010826,
+  "lat": 47.2819244,
+  "lon": -2.2383672,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 1678317884,
+  "lat": 47.2580706,
+  "lon": -2.2666994,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "pEHj_jwS_mvprS9sHunaOw",
+    "name": "Océanis",
+    "operator": "STRAN",
+    "public_transport": "platform",
+    "ref": "OCE01",
+    "route_ref": "Hélyce / L13",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1678317888,
+  "lat": 47.2527256,
+  "lon": -2.2596323,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "route_ref": "Hélyce / U1 / U3 / S/D",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1678317909,
+  "lat": 47.2545455,
+  "lon": -2.2669820,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "TX_8-HyT6sSRUg8eFbOXeA",
+    "name": "Lérioux",
+    "public_transport": "platform",
+    "route_ref": "Hélyce / U1",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1678317924,
+  "lat": 47.2660223,
+  "lon": -2.2558300,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Sanitaire",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "CIT02",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1678317963,
+  "lat": 47.2615544,
+  "lon": -2.2619617,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "lIh50-8GailReVWMAKqZMg",
+    "name": "Heinlex",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "HLX02",
+    "route_ref": "Hélyce / L13",
+    "shelter": "yes",
+    "survey:date": "2018-03-10"
+  }
+},
+{
+  "type": "node",
+  "id": 1705865863,
+  "lat": 47.2900304,
+  "lon": -2.2580373,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Commandières",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1705865882,
+  "lat": 47.2898825,
+  "lon": -2.2569459,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Commandières",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1705878267,
+  "lat": 47.2733896,
+  "lon": -2.2183896,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lesseps",
+    "public_transport": "platform",
+    "ref": "LILNav2419"
+  }
+},
+{
+  "type": "node",
+  "id": 1705878274,
+  "lat": 47.2735347,
+  "lon": -2.2183038,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lesseps",
+    "public_transport": "platform",
+    "ref": "LILNav2418"
+  }
+},
+{
+  "type": "node",
+  "id": 1705878292,
+  "lat": 47.2967538,
+  "lon": -2.1956319,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "public_transport": "platform",
+    "ref": "LILNav2376",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705878308,
+  "lat": 47.2966598,
+  "lon": -2.1954327,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "public_transport": "platform",
+    "ref": "LILNav2381"
+  }
+},
+{
+  "type": "node",
+  "id": 1705879408,
+  "lat": 47.2784703,
+  "lon": -2.2401267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin du Pé",
+    "public_transport": "platform",
+    "ref": "LIL11056N",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705879413,
+  "lat": 47.2784626,
+  "lon": -2.2399040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin du Pé",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "LIL11056O",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705879793,
+  "lat": 47.2988307,
+  "lon": -2.2964160,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "public_transport": "platform",
+    "ref": "LILNav882"
+  }
+},
+{
+  "type": "node",
+  "id": 1705880978,
+  "lat": 47.2531686,
+  "lon": -2.2638856,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "trKzXf7lApjRvsp-HW7m3Q",
+    "name": "Polyclinique",
+    "public_transport": "platform",
+    "ref": "LIL23996N",
+    "route_ref": "Hélyce / U1",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705880984,
+  "lat": 47.2532993,
+  "lon": -2.2641176,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "hlfkYKX6ipzSaV0qS2uKkA",
+    "name": "Polyclinique",
+    "public_transport": "platform",
+    "ref": "LIL23996O",
+    "route_ref": "Hélyce / U1",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705881648,
+  "lat": 47.2821745,
+  "lon": -2.2274221,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maupertuis",
+    "public_transport": "platform",
+    "ref": "LILNav2451"
+  }
+},
+{
+  "type": "node",
+  "id": 1705881658,
+  "lat": 47.2821003,
+  "lon": -2.2277656,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maupertuis",
+    "public_transport": "platform",
+    "ref": "LILNav2452"
+  }
+},
+{
+  "type": "node",
+  "id": 1705882907,
+  "lat": 47.2806966,
+  "lon": -2.2119253,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref": "LIL11174N",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705882937,
+  "lat": 47.2807251,
+  "lon": -2.2118053,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref": "LIL11174O",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705884483,
+  "lat": 47.2767939,
+  "lon": -2.2308019,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tranchée",
+    "public_transport": "platform",
+    "ref": "LIL11066N"
+  }
+},
+{
+  "type": "node",
+  "id": 1705884990,
+  "lat": 47.2844658,
+  "lon": -2.2027680,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "b0JKptJ9wmIdYqCfwEzm6g",
+    "name": "Ville Halluard",
+    "public_transport": "platform",
+    "ref": "LILNav2375",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705884994,
+  "lat": 47.2843908,
+  "lon": -2.2026707,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "lCwCiZ7sBky707nyfyA2VQ",
+    "name": "Ville Halluard",
+    "public_transport": "platform",
+    "ref": "LILNav2380",
+    "shelter": "yes",
+    "survey:date": "2018-07-12",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1705885026,
+  "lat": 47.2747439,
+  "lon": -2.2038857,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville Port",
+    "public_transport": "platform",
+    "ref": "LIL25418N"
+  }
+},
+{
+  "type": "node",
+  "id": 1705885028,
+  "lat": 47.2747705,
+  "lon": -2.2040517,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville Port",
+    "public_transport": "platform",
+    "ref": "LIL25418O"
+  }
+},
+{
+  "type": "node",
+  "id": 4907828859,
+  "lat": 44.1992599,
+  "lon": 4.6253816,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4907828860,
+  "lat": 44.1994661,
+  "lon": 4.6256921,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4975846319,
+  "lat": 47.3007859,
+  "lon": -2.1925848,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "i0rZyIkbzDGMQs0oMXAchg",
+    "name": "Croix de Méan",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2017-07-19",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5493366183,
+  "lat": 47.2985883,
+  "lon": -2.1854023,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "jOG4Zniw0o3iWTeqh8XogA",
+    "name": "Méan",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2017-07-19",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5556758922,
+  "lat": 47.2959510,
+  "lon": -2.1909715,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles de Penhoët",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5556758923,
+  "lat": 47.2957050,
+  "lon": -2.1910588,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles de Penhoët",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5556758924,
+  "lat": 47.2957179,
+  "lon": -2.1908659,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles de Penhoët",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558543421,
+  "lat": 47.2921405,
+  "lon": -2.1944478,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penhoët",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558543422,
+  "lat": 47.2922108,
+  "lon": -2.1942486,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Penhoët",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558543423,
+  "lat": 47.2902461,
+  "lon": -2.1936043,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558543424,
+  "lat": 47.2901068,
+  "lon": -2.1952264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "lio-D_IL5gE-q9QsT8w4gg",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-09-14"
+  }
+},
+{
+  "type": "node",
+  "id": 5558664406,
+  "lat": 47.2681491,
+  "lon": -2.2217400,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558664407,
+  "lat": 47.2683256,
+  "lon": -2.2213976,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Louis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797049,
+  "lat": 47.2672715,
+  "lon": -2.2517944,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797050,
+  "lat": 47.2671495,
+  "lon": -2.2517998,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797214,
+  "lat": 47.2702418,
+  "lon": -2.2445873,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Voltaire",
+    "operator": "Stran",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797215,
+  "lat": 47.2702290,
+  "lon": -2.2448368,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797231,
+  "lat": 47.2670257,
+  "lon": -2.2470603,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558797232,
+  "lat": 47.2669366,
+  "lon": -2.2468243,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558799021,
+  "lat": 47.2701289,
+  "lon": -2.2399498,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558799022,
+  "lat": 47.2703346,
+  "lon": -2.2399337,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558802040,
+  "lat": 47.2686219,
+  "lon": -2.2334776,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "7dU6aPhIATiSIoL4kB40Cg",
+    "name": "Plaisance Coubertin",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558802041,
+  "lat": 47.2686511,
+  "lon": -2.2336654,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "wuHK5ht-oIIW6H4-swd6mA",
+    "name": "Plaisance Coubertin",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558804930,
+  "lat": 47.2726367,
+  "lon": -2.2325838,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "-V1oVSKhZXnBGeaTlZLtMw",
+    "name": "Cité Scolaire",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558804931,
+  "lat": 47.2728133,
+  "lon": -2.2323377,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "DC12qowJe0BkWk6HqfkJFQ",
+    "name": "Cité Scolaire",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-07-17",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5558806723,
+  "lat": 47.2750071,
+  "lon": -2.2283769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Paysager",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5558806724,
+  "lat": 47.2750878,
+  "lon": -2.2287979,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Paysager",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5561294055,
+  "lat": 47.2768897,
+  "lon": -2.2305714,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tranchée",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5573391266,
+  "lat": 47.2986499,
+  "lon": -2.1852038,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Méan",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5576728125,
+  "lat": 47.2932025,
+  "lon": -2.2018134,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5576728126,
+  "lat": 47.2928991,
+  "lon": -2.2021176,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5578810075,
+  "lat": 47.2861774,
+  "lon": -2.2196205,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montaigne",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5578810076,
+  "lat": 47.2860182,
+  "lon": -2.2197770,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montaigne",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5581899218,
+  "lat": 47.2704495,
+  "lon": -2.2390391,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Miner",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5581899219,
+  "lat": 47.2706008,
+  "lon": -2.2387352,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Miner",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5939113642,
+  "lat": 47.2823424,
+  "lon": -2.2378635,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 5981045406,
+  "lat": 47.2409999,
+  "lon": -2.2728905,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Courance",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 6163894529,
+  "lat": 47.2876928,
+  "lon": -2.2117575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Matisse",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6163894539,
+  "lat": 47.2875440,
+  "lon": -2.2121306,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Matisse",
+    "network": "STRAn",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6434253190,
+  "lat": 47.2730078,
+  "lon": -2.2034402,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Maroc",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6434253191,
+  "lat": 47.2729061,
+  "lon": -2.2032211,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Maroc",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6490049446,
+  "lat": 47.2899395,
+  "lon": -2.1998479,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Leferme",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6557993885,
+  "lat": 47.2592408,
+  "lon": -2.2812120,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Six Chemins",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6557993985,
+  "lat": 47.2594358,
+  "lon": -2.2813717,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Six Chemins",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6628758718,
+  "lat": 47.2563901,
+  "lon": -2.2645355,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "AFPA",
+    "operator": "STRAN",
+    "public_transport": "platform",
+    "ref": "AFP02",
+    "route_ref": "U2;S/D",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7230004585,
+  "lat": 47.2544945,
+  "lon": -2.2670469,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lérioux",
+    "public_transport": "platform",
+    "route_ref": "Hélyce / U1",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7230004586,
+  "lat": 47.2640539,
+  "lon": -2.2584429,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bouletterie",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "BOU01",
+    "route_ref": "Hélyce / L13",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7230004587,
+  "lat": 47.2640318,
+  "lon": -2.2586292,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bouletterie",
+    "public_transport": "platform",
+    "ref": "BOU02",
+    "route_ref": "Hélyce / L13",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7230004785,
+  "lat": 47.2581071,
+  "lon": -2.2668121,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Océanis",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "OCE02",
+    "route_ref": "Hélyce / U2 / L13 / S/D",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7230004885,
+  "lat": 47.2615908,
+  "lon": -2.2620743,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heinlex",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "HLX01",
+    "route_ref": "Hélyce / L13",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7267099312,
+  "lat": 47.2703391,
+  "lon": -2.2164765,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin des Plantes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7267099313,
+  "lat": 47.2703067,
+  "lon": -2.2162981,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin des Plantes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7270730709,
+  "lat": 47.2498261,
+  "lon": -2.2641539,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gavy",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712349,
+  "lat": 47.2854212,
+  "lon": -2.2120635,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q1",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712350,
+  "lat": 47.2853792,
+  "lon": -2.2117086,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q3",
+    "roundtrip": "yes",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712351,
+  "lat": 47.2853214,
+  "lon": -2.2112895,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q5",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712352,
+  "lat": 47.2854529,
+  "lon": -2.2110093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q6",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712353,
+  "lat": 47.2855075,
+  "lon": -2.2114517,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q4",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712354,
+  "lat": 47.2855527,
+  "lon": -2.2118137,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "Q2",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712355,
+  "lat": 47.2854846,
+  "lon": -2.2117086,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "H2",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660712356,
+  "lat": 47.2854014,
+  "lon": -2.2114786,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "H1",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660775889,
+  "lat": 47.2871979,
+  "lon": -2.2197747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bougainville",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660775891,
+  "lat": 47.2874649,
+  "lon": -2.2209215,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bougainville",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660775962,
+  "lat": 47.2836474,
+  "lon": -2.2243644,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthauderie",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660775963,
+  "lat": 47.2836246,
+  "lon": -2.2241753,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthauderie",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776027,
+  "lat": 47.2797672,
+  "lon": -2.2311794,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île du Pé",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776028,
+  "lat": 47.2797918,
+  "lon": -2.2309796,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île du Pé",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776051,
+  "lat": 47.2752943,
+  "lon": -2.2351913,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laënnec",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776052,
+  "lat": 47.2753853,
+  "lon": -2.2349769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laënnec",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776067,
+  "lat": 47.2732387,
+  "lon": -2.2364592,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776079,
+  "lat": 47.2728622,
+  "lon": -2.2368911,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776109,
+  "lat": 47.2672597,
+  "lon": -2.2337159,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plaisance Berlioz",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776111,
+  "lat": 47.2668637,
+  "lon": -2.2340172,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plaisance Berlioz",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776125,
+  "lat": 47.2629359,
+  "lon": -2.2347279,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pertuischaud",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776126,
+  "lat": 47.2628685,
+  "lon": -2.2345703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pertuischaud",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776133,
+  "lat": 47.2612142,
+  "lon": -2.2349497,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Corvisart",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660776134,
+  "lat": 47.2613631,
+  "lon": -2.2349521,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Corvisart",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829820,
+  "lat": 47.2582505,
+  "lon": -2.2363471,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kerlédé",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829821,
+  "lat": 47.2582394,
+  "lon": -2.2365619,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kerlédé",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829843,
+  "lat": 47.2583172,
+  "lon": -2.2391344,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sternes",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829844,
+  "lat": 47.2582331,
+  "lon": -2.2390583,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sternes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829860,
+  "lat": 47.2584525,
+  "lon": -2.2441803,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avocettes",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660829862,
+  "lat": 47.2584870,
+  "lon": -2.2440007,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avocettes",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660849264,
+  "lat": 47.2589097,
+  "lon": -2.2481389,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Phare",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660849265,
+  "lat": 47.2587452,
+  "lon": -2.2481265,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Phare",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660849271,
+  "lat": 47.2581470,
+  "lon": -2.2522108,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Dunant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660849276,
+  "lat": 47.2580573,
+  "lon": -2.2548356,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Dunant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660889691,
+  "lat": 47.2569295,
+  "lon": -2.2595185,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vecquerie CES",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660889692,
+  "lat": 47.2569415,
+  "lon": -2.2592982,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vecquerie CES",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660889700,
+  "lat": 47.2573367,
+  "lon": -2.2605873,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vecquerie Grenapin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660889715,
+  "lat": 47.2526261,
+  "lon": -2.2595698,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "route_ref": "Hélyce / U1 / U3 / S/D",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7660961375,
+  "lat": 47.2566469,
+  "lon": -2.2572041,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vecquerie - Vinçon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975703,
+  "lat": 47.2581802,
+  "lon": -2.2688165,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aprolis",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975707,
+  "lat": 47.2586741,
+  "lon": -2.2684713,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aprolis",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975734,
+  "lat": 47.2619792,
+  "lon": -2.2678112,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975737,
+  "lat": 47.2622849,
+  "lon": -2.2675784,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975747,
+  "lat": 47.2648506,
+  "lon": -2.2677059,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de l'Apprentissage",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660975750,
+  "lat": 47.2649967,
+  "lon": -2.2676041,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de l'Apprentissage",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660991490,
+  "lat": 47.2647548,
+  "lon": -2.2635432,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre-Marie Juret",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660991492,
+  "lat": 47.2646579,
+  "lon": -2.2634670,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre-Marie Juret",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660991497,
+  "lat": 47.2644767,
+  "lon": -2.2594216,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pré Hembert",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7660991498,
+  "lat": 47.2643560,
+  "lon": -2.2596287,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pré Hembert",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167125,
+  "lat": 47.2715296,
+  "lon": -2.2448074,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire-Landettes",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167126,
+  "lat": 47.2715158,
+  "lon": -2.2450454,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Voltaire-Landettes",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167160,
+  "lat": 47.2750846,
+  "lon": -2.2443984,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dolto",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167161,
+  "lat": 47.2750007,
+  "lon": -2.2442956,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dolto",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167176,
+  "lat": 47.2780760,
+  "lon": -2.2435204,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean de Neyman",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661167177,
+  "lat": 47.2780505,
+  "lon": -2.2434086,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean de Neyman",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661168385,
+  "lat": 47.2789544,
+  "lon": -2.2429080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean de Neyman",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661168386,
+  "lat": 47.2788746,
+  "lon": -2.2426461,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean de Neyman",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760792,
+  "lat": 47.2811949,
+  "lon": -2.2425044,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760793,
+  "lat": 47.2812141,
+  "lon": -2.2426433,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villeneuve",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760814,
+  "lat": 47.2820281,
+  "lon": -2.2396033,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arc en Ciel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760815,
+  "lat": 47.2820750,
+  "lon": -2.2393278,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Arc en Ciel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760846,
+  "lat": 47.2823431,
+  "lon": -2.2350954,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Chénier",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760848,
+  "lat": 47.2828377,
+  "lon": -2.2346227,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Chénier",
+    "network": "SYRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760863,
+  "lat": 47.2830964,
+  "lon": -2.2312808,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maupassant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661760864,
+  "lat": 47.2830856,
+  "lon": -2.2308561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maupassant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661826321,
+  "lat": 47.2845367,
+  "lon": -2.2266885,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vasco de Gama",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661826322,
+  "lat": 47.2844497,
+  "lon": -2.2267817,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vasco de Gama",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661826362,
+  "lat": 47.2863417,
+  "lon": -2.2244980,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Plessis",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661826363,
+  "lat": 47.2866458,
+  "lon": -2.2246171,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Plessis",
+    "network": "SRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859493,
+  "lat": 47.2826895,
+  "lon": -2.2084619,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859494,
+  "lat": 47.2825736,
+  "lon": -2.2083575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859514,
+  "lat": 47.2815528,
+  "lon": -2.2041965,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859515,
+  "lat": 47.2816419,
+  "lon": -2.2040330,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Europe",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859524,
+  "lat": 47.2782425,
+  "lon": -2.2050856,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre Simone Veil",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859525,
+  "lat": 47.2784086,
+  "lon": -2.2049139,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Théâtre Simone Veil",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859546,
+  "lat": 47.2751486,
+  "lon": -2.2058136,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ruban Bleu",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859548,
+  "lat": 47.2746567,
+  "lon": -2.2060699,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ruban Bleu",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859557,
+  "lat": 47.2734596,
+  "lon": -2.2075839,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatzhorloges",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7661859559,
+  "lat": 47.2736051,
+  "lon": -2.2081334,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatzhorloges",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671662382,
+  "lat": 47.2742950,
+  "lon": -2.2139135,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671662384,
+  "lat": 47.2741477,
+  "lon": -2.2133935,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671685082,
+  "lat": 47.2711325,
+  "lon": -2.2224765,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lebrun",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723786,
+  "lat": 47.2707866,
+  "lon": -2.2239909,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lebrun",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723800,
+  "lat": 47.2698999,
+  "lon": -2.2286061,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soucoupe",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723802,
+  "lat": 47.2700312,
+  "lon": -2.2284498,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soucoupe",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723833,
+  "lat": 47.2746434,
+  "lon": -2.2305334,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723836,
+  "lat": 47.2738228,
+  "lon": -2.2317870,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723850,
+  "lat": 47.2720210,
+  "lon": -2.2328692,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723919,
+  "lat": 47.2668903,
+  "lon": -2.2363088,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mozart",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671723923,
+  "lat": 47.2665797,
+  "lon": -2.2370170,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mozart",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671766917,
+  "lat": 47.2651364,
+  "lon": -2.2400253,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Galicheraie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671766920,
+  "lat": 47.2645753,
+  "lon": -2.2400209,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Galicheraie",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671766939,
+  "lat": 47.2636474,
+  "lon": -2.2438047,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Trébale",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671766947,
+  "lat": 47.2637892,
+  "lon": -2.2472870,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Orchidées",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671766959,
+  "lat": 47.2625193,
+  "lon": -2.2515623,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thuaud",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7671927625,
+  "lat": 47.2604033,
+  "lon": -2.2538356,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Edelweiss",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671927655,
+  "lat": 47.2608343,
+  "lon": -2.2568081,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisetiers",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671927657,
+  "lat": 47.2608199,
+  "lon": -2.2564458,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisetiers",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7671929189,
+  "lat": 47.2566292,
+  "lon": -2.2651038,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Côte d'Amour",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017726,
+  "lat": 47.2560281,
+  "lon": -2.2709060,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Siriff",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017727,
+  "lat": 47.2560757,
+  "lon": -2.2705589,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Siriff",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017752,
+  "lat": 47.2537724,
+  "lon": -2.2737326,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bollardière",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017756,
+  "lat": 47.2531179,
+  "lon": -2.2736408,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bollardière",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017767,
+  "lat": 47.2500394,
+  "lon": -2.2747112,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haut Brancieux",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7672017775,
+  "lat": 47.2493092,
+  "lon": -2.2749561,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Haut Brancieux",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044095,
+  "lat": 47.2472959,
+  "lon": -2.2785264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont d'Y",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044097,
+  "lat": 47.2473264,
+  "lon": -2.2784471,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont d'Y",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044101,
+  "lat": 47.2443127,
+  "lon": -2.2784439,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Bousseau",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044103,
+  "lat": 47.2440791,
+  "lon": -2.2785068,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Bousseau",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044107,
+  "lat": 47.2420776,
+  "lon": -2.2784814,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dumont d'Urville",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044109,
+  "lat": 47.2421996,
+  "lon": -2.2784094,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dumont d'Urville",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044115,
+  "lat": 47.2418482,
+  "lon": -2.2803275,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crépelet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044116,
+  "lat": 47.2419694,
+  "lon": -2.2807132,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crépelet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044125,
+  "lat": 47.2423904,
+  "lon": -2.2838451,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Courtil Brécard",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044129,
+  "lat": 47.2424793,
+  "lon": -2.2841637,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Courtil Brécard",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044143,
+  "lat": 47.2421830,
+  "lon": -2.2879320,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Robert",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044149,
+  "lat": 47.2423959,
+  "lon": -2.2887601,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Robert",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7672044154,
+  "lat": 47.2450471,
+  "lon": -2.2932906,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grand Pez",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7677963932,
+  "lat": 47.2613539,
+  "lon": -2.2485892,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dauphiné",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7677963938,
+  "lat": 47.2637729,
+  "lon": -2.2436446,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Trébale",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039209,
+  "lat": 47.2380444,
+  "lon": -2.3026465,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin de la Source",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039216,
+  "lat": 47.2368831,
+  "lon": -2.3003280,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Jaunais",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039219,
+  "lat": 47.2366894,
+  "lon": -2.3000748,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Jaunais",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039237,
+  "lat": 47.2381898,
+  "lon": -2.2893682,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Traict",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039238,
+  "lat": 47.2381118,
+  "lon": -2.2893382,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Traict",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039255,
+  "lat": 47.2404890,
+  "lon": -2.2784941,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jacques Tati",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039256,
+  "lat": 47.2405280,
+  "lon": -2.2783640,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Jacques Tati",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039269,
+  "lat": 47.2409544,
+  "lon": -2.2721817,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Courance",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678039283,
+  "lat": 47.2425643,
+  "lon": -2.2659176,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort de l'Eve",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678061415,
+  "lat": 47.2495633,
+  "lon": -2.2643443,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gavy",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114901,
+  "lat": 47.2590819,
+  "lon": -2.2335737,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alphonse Daudet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114902,
+  "lat": 47.2590296,
+  "lon": -2.2328755,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alphonse Daudet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114924,
+  "lat": 47.2585755,
+  "lon": -2.2282789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Martin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114925,
+  "lat": 47.2585042,
+  "lon": -2.2283396,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villès Martin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114933,
+  "lat": 47.2582540,
+  "lon": -2.2245050,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cormorans",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114936,
+  "lat": 47.2584192,
+  "lon": -2.2242086,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cormorans",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114942,
+  "lat": 47.2611719,
+  "lon": -2.2247223,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Franlkin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114943,
+  "lat": 47.2613088,
+  "lon": -2.2246064,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Franlkin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114948,
+  "lat": 47.2651706,
+  "lon": -2.2249579,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sautron",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678114949,
+  "lat": 47.2651923,
+  "lon": -2.2251212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sautron",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678168897,
+  "lat": 47.2726382,
+  "lon": -2.2114329,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maudes",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7678168898,
+  "lat": 47.2724425,
+  "lon": -2.2113896,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maudes",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7678168913,
+  "lat": 47.2773402,
+  "lon": -2.2173583,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brizeux",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678168914,
+  "lat": 47.2773636,
+  "lon": -2.2172313,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brizeux",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678227555,
+  "lat": 47.2808181,
+  "lon": -2.2162910,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7678227557,
+  "lat": 47.2808763,
+  "lon": -2.2164177,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678227573,
+  "lat": 47.2841516,
+  "lon": -2.2155407,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Perrin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678227574,
+  "lat": 47.2845535,
+  "lon": -2.2152750,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Perrin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678282058,
+  "lat": 47.2891763,
+  "lon": -2.2192278,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raoul Dufy",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678282059,
+  "lat": 47.2891867,
+  "lon": -2.2190956,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Raoul Dufy",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678282067,
+  "lat": 47.2909372,
+  "lon": -2.2192357,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Prézégat",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7678282068,
+  "lat": 47.2910298,
+  "lon": -2.2193198,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Prézégat",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692433776,
+  "lat": 47.2981869,
+  "lon": -2.1832289,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Nazaire, bd des Apprentis",
+    "operator": "Loire-Atlantique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692641376,
+  "lat": 47.2790170,
+  "lon": -2.2157770,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692641384,
+  "lat": 47.2788717,
+  "lon": -2.2152617,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692651391,
+  "lat": 47.2790809,
+  "lon": -2.2150938,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Halles",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7692774738,
+  "lat": 47.2985861,
+  "lon": -2.1930952,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zola Stade",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692774758,
+  "lat": 47.2952803,
+  "lon": -2.1920970,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7692774784,
+  "lat": 47.3006224,
+  "lon": -2.1897509,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Zola Abattoirs",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7702925379,
+  "lat": 47.2779426,
+  "lon": -2.2059130,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Delzieux",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703024309,
+  "lat": 47.2783302,
+  "lon": -2.2089286,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Albert de Mun",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703024338,
+  "lat": 47.2764670,
+  "lon": -2.2103119,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Paix",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7703024339,
+  "lat": 47.2764577,
+  "lon": -2.2102061,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Paix",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7703126382,
+  "lat": 47.2749742,
+  "lon": -2.2193167,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boris Vian",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703143986,
+  "lat": 47.2751718,
+  "lon": -2.2196219,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boris Vian",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144003,
+  "lat": 47.2766556,
+  "lon": -2.2243676,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soleil Levant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144007,
+  "lat": 47.2768328,
+  "lon": -2.2253362,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Soleil Levant",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144019,
+  "lat": 47.2775116,
+  "lon": -2.2359484,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Calmette",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144020,
+  "lat": 47.2773876,
+  "lon": -2.2355464,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Calmette",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144052,
+  "lat": 47.2837177,
+  "lon": -2.2465709,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Houssaie",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703144053,
+  "lat": 47.2836451,
+  "lon": -2.2465724,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Houssaie",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703203365,
+  "lat": 47.2836583,
+  "lon": -2.2561357,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Virées Martin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703203366,
+  "lat": 47.2832270,
+  "lon": -2.2564585,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Virées Martin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233799,
+  "lat": 47.2831189,
+  "lon": -2.2610944,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Immaculée",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233800,
+  "lat": 47.2824615,
+  "lon": -2.2606587,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Immaculée",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233809,
+  "lat": 47.2827022,
+  "lon": -2.2612152,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Immaculée",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233813,
+  "lat": 47.2839990,
+  "lon": -2.2597640,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Simon",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233814,
+  "lat": 47.2840419,
+  "lon": -2.2596077,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jules Simon",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233822,
+  "lat": 47.2861977,
+  "lon": -2.2598358,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bignon Baguet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233824,
+  "lat": 47.2865556,
+  "lon": -2.2597049,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bignon Baguet",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233843,
+  "lat": 47.2895264,
+  "lon": -2.2596789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île Bignon",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233844,
+  "lat": 47.2892430,
+  "lon": -2.2595803,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Île Bignon",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233849,
+  "lat": 47.2911552,
+  "lon": -2.2617265,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Point du Jour",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233851,
+  "lat": 47.2912614,
+  "lon": -2.2618475,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Point du Jour",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233856,
+  "lat": 47.2915964,
+  "lon": -2.2653550,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marsain",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703233858,
+  "lat": 47.2915458,
+  "lon": -2.2659442,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marsain",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545830,
+  "lat": 47.2927151,
+  "lon": -2.2748604,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Passouer",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545832,
+  "lat": 47.2927135,
+  "lon": -2.2756957,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Passouer",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545836,
+  "lat": 47.2937287,
+  "lon": -2.2802405,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grande Prise",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545839,
+  "lat": 47.2939042,
+  "lon": -2.2810881,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grande Prise",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545841,
+  "lat": 47.2950751,
+  "lon": -2.2877857,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Graham Bell",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703545843,
+  "lat": 47.2947070,
+  "lon": -2.2882995,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Graham Bell",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549843,
+  "lat": 47.2928999,
+  "lon": -2.2890911,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Edison",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549847,
+  "lat": 47.2921551,
+  "lon": -2.2895464,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Edison",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549859,
+  "lat": 47.2899381,
+  "lon": -2.2936056,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kastler",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549863,
+  "lat": 47.2894504,
+  "lon": -2.2941520,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kastler",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549867,
+  "lat": 47.2872546,
+  "lon": -2.2983801,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fresnel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703549868,
+  "lat": 47.2872829,
+  "lon": -2.2988822,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fresnel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666115,
+  "lat": 47.2912641,
+  "lon": -2.3019428,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fondeline",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666116,
+  "lat": 47.2909587,
+  "lon": -2.3019746,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fondeline",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666123,
+  "lat": 47.2946190,
+  "lon": -2.2983312,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eiffel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666125,
+  "lat": 47.2943017,
+  "lon": -2.2981831,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eiffel",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666127,
+  "lat": 47.2986248,
+  "lon": -2.2969303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703666129,
+  "lat": 47.2990521,
+  "lon": -2.2971506,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703793724,
+  "lat": 47.2782233,
+  "lon": -2.2092142,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Albert de Mun",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7703793727,
+  "lat": 47.2778142,
+  "lon": -2.2058286,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Delzieux",
+    "network": "STRAN",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7778376387,
+  "lat": 47.2660428,
+  "lon": -2.2556224,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Sanitaire",
+    "network": "STRAN",
+    "public_transport": "platform",
+    "ref": "CIT01"
+  }
+},
+{
+  "type": "node",
+  "id": 8089440895,
+  "lat": 47.2902190,
+  "lon": -2.2295768,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8089440896,
+  "lat": 47.2903722,
+  "lon": -2.2300620,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9085957664,
+  "lat": 47.2790453,
+  "lon": -2.2040726,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parking du Théâtre",
+    "operator": "STRAN",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2012"
+  }
+}
+
+  ]
+}

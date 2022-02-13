@@ -1,0 +1,8508 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 278845625,
+  "lat": 49.2545714,
+  "lon": 4.0403556,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Jamot",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 280024909,
+  "lat": 49.2246477,
+  "lon": 4.0095618,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 (Gare Centre).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 281788377,
+  "lat": 49.2372424,
+  "lon": 4.0043800,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campus Croix Rouge",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 281788486,
+  "lat": 49.2458219,
+  "lon": 4.0180490,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passe Demoiselles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 283281478,
+  "lat": 49.2682911,
+  "lon": 3.9993077,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 301798040,
+  "lat": 49.2598218,
+  "lon": 4.0406178,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Templiers",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 302030948,
+  "lat": 49.2416293,
+  "lon": 4.0378253,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Fléchambeau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 302031169,
+  "lat": 49.2422640,
+  "lon": 4.0370312,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Fléchambeau",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 302385127,
+  "lat": 49.2520005,
+  "lon": 4.0323953,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rockfeller",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 305348832,
+  "lat": 49.2486282,
+  "lon": 4.0219235,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont de Gaulle",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 343375236,
+  "lat": 49.2461410,
+  "lon": 4.0087022,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Scupteurs Jacques",
+    "network": "CITURA",
+    "operator": "TransDev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 343426292,
+  "lat": 49.2289980,
+  "lon": 4.0014097,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dauphiné",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 348832950,
+  "lat": 49.2156604,
+  "lon": 4.0279998,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Richelieu",
+    "note": "Source : https://www.data.gouv.fr/fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 349050691,
+  "lat": 49.2465803,
+  "lon": 4.0181190,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passe Demoiselles ?",
+    "note": "A vérifier",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 351928209,
+  "lat": 49.2486875,
+  "lon": 4.0374236,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "local_ref": "4|5|6|9",
+    "name": "Venise",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 352811113,
+  "lat": 49.2436697,
+  "lon": 4.0431217,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thimothée",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 354541231,
+  "lat": 49.2601693,
+  "lon": 4.0467095,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brouette",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 354602726,
+  "lat": 49.2448264,
+  "lon": 4.0487297,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gouraud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 354988757,
+  "lat": 49.2492121,
+  "lon": 4.0655422,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Meuse",
+    "note": "Arrêt pour ligne 11 (Croix du Sud) et 30 (Moulin de la Housse)",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 357370333,
+  "lat": 49.2624884,
+  "lon": 4.0530997,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chalet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 357462766,
+  "lat": 49.2695656,
+  "lon": 4.0714235,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Witry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 368322607,
+  "lat": 49.2347400,
+  "lon": 4.0074965,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Billard",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317557,
+  "lat": 49.2418929,
+  "lon": 4.0156297,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317562,
+  "lat": 49.2365586,
+  "lon": 4.0259449,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Wilson",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 2 et 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317564,
+  "lat": 49.2356545,
+  "lon": 4.0271078,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Wilson",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 2, 11 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317569,
+  "lat": 49.2422305,
+  "lon": 4.0401741,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "description": "Arrêt Bus Saint-Remi dessert l'esplanade Fléchambault, la rue Chanteraine, quartier Saint-Remi en vue de la basilique Saint-Remi",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "4|11",
+    "name": "Saint-Rémi",
+    "note": "Arrêt Saint-Remi ligne 6 Reims Hopital Debré Orgeval Arrêt Saint-Remi ligne 11 Croix du Sud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317571,
+  "lat": 49.2435388,
+  "lon": 4.0435724,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thimothée",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 456317573,
+  "lat": 49.2459300,
+  "lon": 4.0464201,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Vasnier",
+    "note": "Arrêt ligne 11 (Croix du Sud).",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 459898439,
+  "lat": 49.2278241,
+  "lon": 4.0143010,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Médiathèque Croix Rouge",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 459898462,
+  "lat": 49.2481905,
+  "lon": 4.0215855,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont de Gaulle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 459898467,
+  "lat": 49.2510483,
+  "lon": 4.0282233,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Libergier",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 459898496,
+  "lat": 49.2526375,
+  "lon": 4.0309968,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Théâtre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 469880082,
+  "lat": 49.2385207,
+  "lon": 4.0024864,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bergson",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880086,
+  "lat": 49.2283957,
+  "lon": 4.0368452,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Colomb",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880087,
+  "lat": 49.2284965,
+  "lon": 4.0364722,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Colomb",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880103,
+  "lat": 49.2348297,
+  "lon": 4.0621988,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Parc Expositions",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880109,
+  "lat": 49.2400952,
+  "lon": 4.0212438,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marchandeau",
+    "network": "CITURA",
+    "operator": "TransDev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 469880120,
+  "lat": 49.2570431,
+  "lon": 4.0384337,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Briand",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880123,
+  "lat": 49.2572834,
+  "lon": 4.0475407,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ferry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 469880125,
+  "lat": 49.2592542,
+  "lon": 4.0446387,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jacquart",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 469880126,
+  "lat": 49.2573614,
+  "lon": 4.0448928,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "30 Août 1944",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 469880127,
+  "lat": 49.2098491,
+  "lon": 4.0251741,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Val de Murigny",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880129,
+  "lat": 49.2193160,
+  "lon": 4.0239183,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cervantès",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880131,
+  "lat": 49.2176231,
+  "lon": 4.0286602,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pompidou",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 469880132,
+  "lat": 49.2619362,
+  "lon": 4.0422809,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dorigny",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 494402123,
+  "lat": 49.2574230,
+  "lon": 4.0255274,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Gare Centre",
+    "note": "Arrêt pour ligne 3, 4, 7, 8, 9, 30 et N.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1025130746,
+  "lat": 49.2280757,
+  "lon": 4.0378322,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colomb",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1071288340,
+  "lat": 49.2453925,
+  "lon": 4.0392129,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ruisselet",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1821594189,
+  "lat": 49.2256784,
+  "lon": 4.0173101,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hôpital Debré Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1833557866,
+  "lat": 49.2679071,
+  "lon": 4.0468125,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Bel Air",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2134350706,
+  "lat": 49.2585281,
+  "lon": 4.0248433,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Centre",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 2, 6, 11 et C.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2134357411,
+  "lat": 49.2577105,
+  "lon": 4.0251427,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Gare Centre",
+    "note": "Arrêt pour ligne 3, 4 et 9.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2223395113,
+  "lat": 49.2354855,
+  "lon": 4.0694297,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Ader",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2223395125,
+  "lat": 49.2399718,
+  "lon": 4.0835860,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Croix Blandin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2223395142,
+  "lat": 49.2366476,
+  "lon": 4.0712997,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Z.I. Farman",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2223395145,
+  "lat": 49.2359401,
+  "lon": 4.0666563,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Patoux",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2223395151,
+  "lat": 49.2337526,
+  "lon": 4.0609416,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Sabine",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009172,
+  "lat": 49.2349282,
+  "lon": 4.0552881,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Flamand",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009173,
+  "lat": 49.2355871,
+  "lon": 4.0529745,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bressy",
+    "public_transport": "platform",
+    "route_ref": "6|17",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009174,
+  "lat": 49.2362909,
+  "lon": 4.0506818,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Gonzalle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "CITURA website"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009176,
+  "lat": 49.2336555,
+  "lon": 4.0487114,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Monet",
+    "public_transport": "platform",
+    "route_ref": "6|17",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009177,
+  "lat": 49.2357759,
+  "lon": 4.0475007,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Paris",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009178,
+  "lat": 49.2388388,
+  "lon": 4.0457800,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Giraud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2451009180,
+  "lat": 49.2403397,
+  "lon": 4.0413903,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Ambroise Petit",
+    "network": "CITURA",
+    "note": "Arrêt Ligne 6.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2452709614,
+  "lat": 49.2398262,
+  "lon": 4.0456040,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Droits de l'Homme",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2452709622,
+  "lat": 49.2355290,
+  "lon": 4.0516518,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Foucry",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "CITURA website"
+  }
+},
+{
+  "type": "node",
+  "id": 2458482375,
+  "lat": 49.2453730,
+  "lon": 4.0396205,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ruisselet",
+    "public_transport": "platform",
+    "route_ref": "6|9",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2458482385,
+  "lat": 49.2461436,
+  "lon": 4.0396643,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "4|5|6|9",
+    "name": "Saint-Maurice",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2461452992,
+  "lat": 49.2542973,
+  "lon": 4.0301132,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Opéra-Cathédrale",
+    "note": "Arrêt pour les lignes 4, 5 et C.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2461452993,
+  "lat": 49.2562561,
+  "lon": 4.0285075,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "local_ref": "2|3|4|6|9",
+    "name": "Étape",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2461469151,
+  "lat": 49.2502395,
+  "lon": 4.0359300,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "2|4|5|6|9|16",
+    "name": "Conservatoire",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480656,
+  "lat": 49.2458335,
+  "lon": 4.0585497,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pervenches",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480657,
+  "lat": 49.2463719,
+  "lon": 4.0616168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Fac des Sciences",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480658,
+  "lat": 49.2466120,
+  "lon": 4.0625625,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "11",
+    "name": "Fac des Sciences",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480659,
+  "lat": 49.2483891,
+  "lon": 4.0585447,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Bons Enfants",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480660,
+  "lat": 49.2495489,
+  "lon": 4.0560378,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Alouettes",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480661,
+  "lat": 49.2506195,
+  "lon": 4.0521909,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Yser",
+    "network": "CITURA",
+    "operator": "Tansdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480663,
+  "lat": 49.2511579,
+  "lon": 4.0492451,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Boussinesq",
+    "network": "CITURA",
+    "note": "Arrêt ligne 3",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480664,
+  "lat": 49.2518459,
+  "lon": 4.0453868,
+  "tags": {
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Clémenceau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480665,
+  "lat": 49.2516050,
+  "lon": 4.0424524,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Paix",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2470480666,
+  "lat": 49.2551818,
+  "lon": 4.0304575,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Opéra",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3033454434,
+  "lat": 49.2581882,
+  "lon": 4.0711817,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "La Saboterie",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 3270250961,
+  "lat": 49.2687040,
+  "lon": 4.0328124,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Robespierre",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3356458303,
+  "lat": 49.2478033,
+  "lon": 4.0380522,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Venise",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4223717689,
+  "lat": 49.2657973,
+  "lon": 4.0396242,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lemoine",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4223717690,
+  "lat": 49.2642450,
+  "lon": 4.0394700,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Foujita",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4818078558,
+  "lat": 49.2669696,
+  "lon": 4.0313689,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Benoît",
+    "operator": "CITURA",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4818088471,
+  "lat": 49.2637083,
+  "lon": 4.0287014,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Roosevelt",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4823470236,
+  "lat": 49.2430321,
+  "lon": 4.0439157,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Timothée",
+    "network": "17",
+    "operator": "CITURA",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962461,
+  "lat": 49.2846789,
+  "lon": 4.0038008,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Anglemont",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962462,
+  "lat": 49.2842894,
+  "lon": 4.0045146,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Anglemont",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962463,
+  "lat": 49.2834452,
+  "lon": 4.0060844,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pierre Curie",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962498,
+  "lat": 49.2853667,
+  "lon": 4.0066677,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "La Neuvillette École",
+    "network": "CITURA",
+    "note": "« La Neuvillette École » a remplacer le nom du terminus « Trois Fontaines ».",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962499,
+  "lat": 49.2860849,
+  "lon": 4.0083716,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Deschamps",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962500,
+  "lat": 49.2862201,
+  "lon": 4.0084353,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Deschamps",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962501,
+  "lat": 49.2837890,
+  "lon": 4.0105251,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hugo",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962502,
+  "lat": 49.2832980,
+  "lon": 4.0107711,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hugo",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962507,
+  "lat": 49.2813923,
+  "lon": 4.0124156,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tondeurs",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962508,
+  "lat": 49.2814804,
+  "lon": 4.0125194,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Tondeurs",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962509,
+  "lat": 49.2798168,
+  "lon": 4.0137442,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cimetière de Laon",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962510,
+  "lat": 49.2798913,
+  "lon": 4.0138844,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cimetière de Laon",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962511,
+  "lat": 49.2780276,
+  "lon": 4.0151798,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cité Gauthier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962512,
+  "lat": 49.2775158,
+  "lon": 4.0158800,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cité Gauthier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962513,
+  "lat": 49.2756575,
+  "lon": 4.0175012,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Belges",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962821,
+  "lat": 49.2748429,
+  "lon": 4.0172334,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belges",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962823,
+  "lat": 49.2726818,
+  "lon": 4.0135539,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thierry",
+    "network": "CITURA",
+    "operator": "transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962827,
+  "lat": 49.2704016,
+  "lon": 4.0113173,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Albert 1er",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962828,
+  "lat": 49.2703432,
+  "lon": 4.0114623,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Albert 1er",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962829,
+  "lat": 49.2676748,
+  "lon": 4.0130679,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Arnould",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962831,
+  "lat": 49.2658802,
+  "lon": 4.0129312,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Raphaël",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962832,
+  "lat": 49.2655426,
+  "lon": 4.0126980,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Raphaël",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962839,
+  "lat": 49.2645103,
+  "lon": 4.0110000,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Belgique",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962840,
+  "lat": 49.2643184,
+  "lon": 4.0124923,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Belgique",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962841,
+  "lat": 49.2632648,
+  "lon": 4.0155707,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Géruzez",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962842,
+  "lat": 49.2631111,
+  "lon": 4.0160329,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Géruzez",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962844,
+  "lat": 49.2616899,
+  "lon": 4.0184752,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962848,
+  "lat": 49.2599553,
+  "lon": 4.0199494,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vernouillet",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962849,
+  "lat": 49.2595647,
+  "lon": 4.0201934,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vernouillet",
+    "network": "CITURA",
+    "operator": "Trabsdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962850,
+  "lat": 49.2573595,
+  "lon": 4.0225066,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Roederer",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 3, 4 et 9.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962851,
+  "lat": 49.2574162,
+  "lon": 4.0221606,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Roederer",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 3, 4 et 9.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962852,
+  "lat": 49.2562974,
+  "lon": 4.0285866,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Étape",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962854,
+  "lat": 49.2536162,
+  "lon": 4.0307427,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Opéra",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4836962855,
+  "lat": 49.2537966,
+  "lon": 4.0307109,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Opéra",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5110076761,
+  "lat": 49.2583618,
+  "lon": 4.0417771,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Saint-André",
+    "network": "CITURA",
+    "note": "A vérifier",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5286149513,
+  "lat": 49.2620935,
+  "lon": 4.0185278,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5376253289,
+  "lat": 49.2427348,
+  "lon": 4.0595082,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "I.U.T",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 3, 30 et N.",
+    "operator": "transdev Reims",
+    "public_transport": "platform",
+    "ref": "167",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5376253290,
+  "lat": 49.2427393,
+  "lon": 4.0579734,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "I.U.T",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "167",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5376253291,
+  "lat": 49.2434202,
+  "lon": 4.0577357,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "I.U.T",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "167"
+  }
+},
+{
+  "type": "node",
+  "id": 5376253292,
+  "lat": 49.2420193,
+  "lon": 4.0616393,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Moulin de la Housse",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 3, 30 et N.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "228",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5376271135,
+  "lat": 49.2444488,
+  "lon": 4.0557664,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Crayères",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "96",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5376271136,
+  "lat": 49.2450468,
+  "lon": 4.0557252,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crayères",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "96",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5609571537,
+  "lat": 49.2668934,
+  "lon": 4.0314315,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Benoît",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206954,
+  "lat": 49.2459090,
+  "lon": 4.0179893,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Passe Demoiselles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206955,
+  "lat": 49.2424958,
+  "lon": 4.0146989,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206956,
+  "lat": 49.2424651,
+  "lon": 4.0148056,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206962,
+  "lat": 49.2298192,
+  "lon": 4.0073282,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Arago"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206974,
+  "lat": 49.2520265,
+  "lon": 4.0325212,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rockfeller",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206976,
+  "lat": 49.2511916,
+  "lon": 4.0345944,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "2|4|5|6|9|16",
+    "name": "Conservatoire",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206982,
+  "lat": 49.2404649,
+  "lon": 4.0414544,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Ambroise Petit",
+    "network": "CITURA",
+    "note": "Arrêt Ligne 6.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830206983,
+  "lat": 49.2411670,
+  "lon": 4.0442812,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Cimetière du Sud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207188,
+  "lat": 49.2408042,
+  "lon": 4.0439357,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Cimetière du Sud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207190,
+  "lat": 49.2350977,
+  "lon": 4.0549086,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Flamand",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207192,
+  "lat": 49.2354060,
+  "lon": 4.0694566,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Ader",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207193,
+  "lat": 49.2360145,
+  "lon": 4.0660639,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Patoux",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207200,
+  "lat": 49.2409688,
+  "lon": 4.0758647,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Santos Dumont",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207201,
+  "lat": 49.2403647,
+  "lon": 4.0750899,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Santos-Dumont",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207260,
+  "lat": 49.2422572,
+  "lon": 4.0370665,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Fléchambault",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207275,
+  "lat": 49.2377027,
+  "lon": 4.0033223,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Campus Croix Rouge",
+    "network": "CITURA",
+    "note": "name according to current (2011) tram/bus line plan (see http://www.citura.fr/files/plan_reseau.pdf)",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207280,
+  "lat": 49.2402005,
+  "lon": 4.0103283,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-John Perse",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 (Gare Centre) et N (Moulin de la Housse).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207281,
+  "lat": 49.2402682,
+  "lon": 4.0102473,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-John Perse",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 et N.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207282,
+  "lat": 49.2417513,
+  "lon": 4.0162779,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207283,
+  "lat": 49.2403889,
+  "lon": 4.0203205,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marchandeau",
+    "network": "CITURA",
+    "operator": "Transdev Reils",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207284,
+  "lat": 49.2383792,
+  "lon": 4.0233900,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bonne Femme",
+    "note": "Arrêt ligne 2 et 11.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207485,
+  "lat": 49.2382286,
+  "lon": 4.0233994,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bonne Femme",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207486,
+  "lat": 49.2366630,
+  "lon": 4.0292954,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Buridan",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207488,
+  "lat": 49.2428569,
+  "lon": 4.0403295,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "local_ref": "4|6|11|C1|C2",
+    "name": "Saint-Rémi",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207489,
+  "lat": 49.2437672,
+  "lon": 4.0437665,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thimothée",
+    "network": "CITURA",
+    "operator": "TransdevReims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207490,
+  "lat": 49.2450223,
+  "lon": 4.0443769,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Nicaise",
+    "network": "CITURA",
+    "note": "Arrêt ligne 1 (Gare Centre).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207491,
+  "lat": 49.2450711,
+  "lon": 4.0442482,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Nicaise",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 (Croix du Sud).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207492,
+  "lat": 49.2458385,
+  "lon": 4.0464216,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Vasnier",
+    "note": "Arrêt ligne 11 (Gare Centre).",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207494,
+  "lat": 49.2411032,
+  "lon": 4.0560217,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Champagne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207500,
+  "lat": 49.2458455,
+  "lon": 4.0582728,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pervenches",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207505,
+  "lat": 49.2466972,
+  "lon": 4.0623207,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "11",
+    "name": "Fac des Sciences",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207510,
+  "lat": 49.2473404,
+  "lon": 4.0645941,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Thiolettes",
+    "note": "Arrêt pour ligne 11 (Gare Centre) et 13 (Millesime).",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207511,
+  "lat": 49.2474560,
+  "lon": 4.0644680,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Thiolettes",
+    "note": "Arrêt pour ligne 11 (Croix du Sud) et 30 (Moulin de la Housse)",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207516,
+  "lat": 49.2492353,
+  "lon": 4.0657601,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Meuse",
+    "note": "Arrêt pour ligne 11 (Gare Centre) et 13 (Millesime).",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207521,
+  "lat": 49.2526008,
+  "lon": 4.0625844,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Mun",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207526,
+  "lat": 49.2528300,
+  "lon": 4.0621830,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Mun",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207533,
+  "lat": 49.2659589,
+  "lon": 4.0530847,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Italie",
+    "note": "Arrêt ligne 11;",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207534,
+  "lat": 49.2657594,
+  "lon": 4.0531987,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Italie",
+    "note": "Arrêt ligne 11.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207535,
+  "lat": 49.2682351,
+  "lon": 4.0500322,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bizerte",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207536,
+  "lat": 49.2671856,
+  "lon": 4.0513309,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bizerte",
+    "note": "Arrêt linge 11;",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5830207539,
+  "lat": 49.2684453,
+  "lon": 4.0474903,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Bel Air",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6017695928,
+  "lat": 49.2599879,
+  "lon": 4.0640103,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "C.C. Cernay",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6017707084,
+  "lat": 49.2551262,
+  "lon": 4.0617834,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6017724044,
+  "lat": 49.2523585,
+  "lon": 4.0583508,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Brazzaville",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6017725007,
+  "lat": 49.2523253,
+  "lon": 4.0590038,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brazzaville",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6018159470,
+  "lat": 49.2637595,
+  "lon": 4.0565884,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cimetière de l'Est",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6018159471,
+  "lat": 49.2636156,
+  "lon": 4.0566716,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cimetière de l'Est",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6044136794,
+  "lat": 49.2710042,
+  "lon": 4.0262615,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Luton",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6044140083,
+  "lat": 49.2711949,
+  "lon": 4.0261354,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Luton",
+    "public_transport": "platform",
+    "shelter": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 6044140839,
+  "lat": 49.2702932,
+  "lon": 4.0285510,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Blondel",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6287123864,
+  "lat": 49.2759126,
+  "lon": 4.0209438,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6287123865,
+  "lat": 49.2761156,
+  "lon": 4.0220556,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6287170662,
+  "lat": 49.2762752,
+  "lon": 4.0259734,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jules Laurent",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6287191930,
+  "lat": 49.2887370,
+  "lon": 4.0055328,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "La Neuvillette Mairie",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289728910,
+  "lat": 49.2815332,
+  "lon": 4.0079133,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jacob",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289728911,
+  "lat": 49.2787133,
+  "lon": 4.0099869,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6289728914,
+  "lat": 49.2770843,
+  "lon": 4.0109778,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Trois Fontaines",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289728915,
+  "lat": 49.2756975,
+  "lon": 4.0122137,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Champeaux",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6289728916,
+  "lat": 49.2741976,
+  "lon": 4.0139384,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Avenir",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6773004859,
+  "lat": 49.2594645,
+  "lon": 4.0630131,
+  "tags": {
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "C.C. Cernay",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6804082016,
+  "lat": 49.2519108,
+  "lon": 4.0229583,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vesle",
+    "network": "CITURA",
+    "note": "Arrêt des lignes 7, 8, 30 et N.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6832970860,
+  "lat": 49.2707402,
+  "lon": 4.0004450,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6838721634,
+  "lat": 49.2749332,
+  "lon": 4.0073257,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6838721635,
+  "lat": 49.2750652,
+  "lon": 4.0074314,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6838721645,
+  "lat": 49.2770811,
+  "lon": 4.0053994,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6855177740,
+  "lat": 49.2745681,
+  "lon": 4.0017226,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6855888254,
+  "lat": 49.2745251,
+  "lon": 4.0018476,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6861326544,
+  "lat": 49.2683792,
+  "lon": 3.9991299,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7014239402,
+  "lat": 49.2515586,
+  "lon": 4.0426149,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paix",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7014412399,
+  "lat": 49.2545354,
+  "lon": 4.0405521,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Jamot",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7088309752,
+  "lat": 49.2257572,
+  "lon": 4.1015029,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Léonard",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7088335172,
+  "lat": 49.2260610,
+  "lon": 4.1010910,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Léonard",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7088374880,
+  "lat": 49.2204126,
+  "lon": 4.1120821,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Val Clair",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7088374881,
+  "lat": 49.2189505,
+  "lon": 4.1173169,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Z.I. Pompelle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7088374882,
+  "lat": 49.2206410,
+  "lon": 4.1118159,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Val Clair",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7122190861,
+  "lat": 49.2603864,
+  "lon": 4.0478333,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brouette",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7122201841,
+  "lat": 49.2614128,
+  "lon": 4.0506459,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gobelins",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7122201843,
+  "lat": 49.2612552,
+  "lon": 4.0497313,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gobelins",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7122345408,
+  "lat": 49.2589488,
+  "lon": 4.0435146,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jacquart",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7122376775,
+  "lat": 49.2579257,
+  "lon": 4.0413831,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Saint-André",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7122380801,
+  "lat": 49.2580125,
+  "lon": 4.0415934,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Saint-André",
+    "network": "CITURA",
+    "note": "A vérifier",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7122380802,
+  "lat": 49.2580799,
+  "lon": 4.0413990,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Saint-André",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7122399473,
+  "lat": 49.2625725,
+  "lon": 4.0537480,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chalet",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7124326479,
+  "lat": 49.2261464,
+  "lon": 4.0421149,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Phéniciens",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7124326481,
+  "lat": 49.2269236,
+  "lon": 4.0408467,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Phéniciens",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124563219,
+  "lat": 49.2285437,
+  "lon": 4.0373952,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colomb",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7124576074,
+  "lat": 49.2436551,
+  "lon": 4.0347536,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Tuilerie",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124576075,
+  "lat": 49.2436966,
+  "lon": 4.0346571,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tuilerie",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124599644,
+  "lat": 49.2350875,
+  "lon": 4.0331272,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Harman",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124599645,
+  "lat": 49.2350286,
+  "lon": 4.0332087,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Harman",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124599646,
+  "lat": 49.2350434,
+  "lon": 4.0331829,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Harman",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7124599647,
+  "lat": 49.2350868,
+  "lon": 4.0331697,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Harman",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7124600052,
+  "lat": 49.2325377,
+  "lon": 4.0328531,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre 1er",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124600055,
+  "lat": 49.2327060,
+  "lon": 4.0326925,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre 1er",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124600056,
+  "lat": 49.2326998,
+  "lon": 4.0333040,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre 1er",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124600057,
+  "lat": 49.2330431,
+  "lon": 4.0333885,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Alexandre 1er",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124627486,
+  "lat": 49.2386745,
+  "lon": 4.0314761,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sainte-Anne",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124627487,
+  "lat": 49.2388803,
+  "lon": 4.0315110,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Sainte-Anne",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124627488,
+  "lat": 49.2385520,
+  "lon": 4.0308216,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Anne",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124627489,
+  "lat": 49.2385807,
+  "lon": 4.0307509,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Anne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7124627493,
+  "lat": 49.2389451,
+  "lon": 4.0308316,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Anne",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124635930,
+  "lat": 49.2408843,
+  "lon": 4.0335411,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rollin",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124635931,
+  "lat": 49.2408964,
+  "lon": 4.0337198,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rollin",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124639608,
+  "lat": 49.2446572,
+  "lon": 4.0371185,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Bernard",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124639609,
+  "lat": 49.2445355,
+  "lon": 4.0373465,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Bernard",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124644869,
+  "lat": 49.2451201,
+  "lon": 4.0404469,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6|9",
+    "name": "Saint-Maurice",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124748298,
+  "lat": 49.2545432,
+  "lon": 4.0300943,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Opéra-Cathédrale",
+    "note": "Arrêt pour les lignes 2, 4, 5, 6, 9, 16 et TAD.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124756282,
+  "lat": 49.2622524,
+  "lon": 4.0187592,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124758638,
+  "lat": 49.2594121,
+  "lon": 4.0223667,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Claimarais",
+    "note": "Arrêt pour ligne 4 et 9.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124758639,
+  "lat": 49.2591073,
+  "lon": 4.0222077,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare Claimarais",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4 et 9.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124792082,
+  "lat": 49.2619379,
+  "lon": 4.0143228,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Baussonnet",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124792084,
+  "lat": 49.2618832,
+  "lon": 4.0142234,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Baussonnet",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124801959,
+  "lat": 49.2623410,
+  "lon": 4.0102554,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Danemark",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7124801961,
+  "lat": 49.2622789,
+  "lon": 4.0100073,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Danemark",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124807390,
+  "lat": 49.2627414,
+  "lon": 4.0061593,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pont de Saint-Brice",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124807392,
+  "lat": 49.2631156,
+  "lon": 4.0004136,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pont de Saint-Brice",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7124812294,
+  "lat": 49.2635358,
+  "lon": 3.9958237,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Verrerie",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7167561424,
+  "lat": 49.2680148,
+  "lon": 4.0381888,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cartonnerie",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7167561426,
+  "lat": 49.2679095,
+  "lon": 4.0378298,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cartonnerie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7176745865,
+  "lat": 49.2295473,
+  "lon": 4.0651481,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Voisin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7176745867,
+  "lat": 49.2293329,
+  "lon": 4.0647013,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Voisin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7176745868,
+  "lat": 49.2294223,
+  "lon": 4.0646947,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Voisin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7180966674,
+  "lat": 49.2476062,
+  "lon": 4.0341083,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Venise",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7180973465,
+  "lat": 49.2476517,
+  "lon": 4.0339002,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Venise",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181238859,
+  "lat": 49.2674729,
+  "lon": 4.0663439,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181238861,
+  "lat": 49.2677332,
+  "lon": 4.0673661,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sainte-Thérèse",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181489943,
+  "lat": 49.2650045,
+  "lon": 4.0597013,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Naudin",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181489949,
+  "lat": 49.2656276,
+  "lon": 4.0618148,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Naudin",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181489954,
+  "lat": 49.2645746,
+  "lon": 4.0603061,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Naudin",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181511028,
+  "lat": 49.2684406,
+  "lon": 4.0688945,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Epinettes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7181511030,
+  "lat": 49.2685365,
+  "lon": 4.0701300,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Epinettes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181532518,
+  "lat": 49.2709329,
+  "lon": 4.0704751,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Berthelot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181568144,
+  "lat": 49.2716665,
+  "lon": 4.0740814,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Papin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181615934,
+  "lat": 49.2573131,
+  "lon": 4.0463452,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ferry",
+    "network": "CITURA",
+    "note": "A vérifier",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181772405,
+  "lat": 49.2577725,
+  "lon": 4.0519122,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Strasbourg",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181772406,
+  "lat": 49.2576637,
+  "lon": 4.0515003,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Strasbourg",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181789016,
+  "lat": 49.2571102,
+  "lon": 4.0557050,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Dauphinot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181789019,
+  "lat": 49.2580088,
+  "lon": 4.0552005,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Dauphinot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181825004,
+  "lat": 49.2553958,
+  "lon": 4.0550323,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Barbuse",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181825005,
+  "lat": 49.2552872,
+  "lon": 4.0551102,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Barbuse",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7181849577,
+  "lat": 49.2532081,
+  "lon": 4.0548187,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Verrier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7181849583,
+  "lat": 49.2529245,
+  "lon": 4.0557468,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Verrier",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195571281,
+  "lat": 49.2249869,
+  "lon": 4.0962988,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chemin de Léonard",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195571282,
+  "lat": 49.2251644,
+  "lon": 4.0960992,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chemin de Léonard",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7195635117,
+  "lat": 49.2225318,
+  "lon": 4.1056879,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Senefelder",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195635119,
+  "lat": 49.2226124,
+  "lon": 4.1051126,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Senefelder",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195639365,
+  "lat": 49.2267282,
+  "lon": 4.0858433,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hollande",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7195639367,
+  "lat": 49.2265174,
+  "lon": 4.0859989,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hollande",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195679013,
+  "lat": 49.2294040,
+  "lon": 4.0879493,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Macecliers",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7195679014,
+  "lat": 49.2299284,
+  "lon": 4.0881094,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Macecliers",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195691516,
+  "lat": 49.2318634,
+  "lon": 4.0833397,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Maino",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7195691518,
+  "lat": 49.2311241,
+  "lon": 4.0854999,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Maino",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7214933997,
+  "lat": 49.2314415,
+  "lon": 4.0737538,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Fulton",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7214933999,
+  "lat": 49.2314115,
+  "lon": 4.0740885,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Fulton",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7214952261,
+  "lat": 49.2302316,
+  "lon": 4.0716305,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Vrilly",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7214952263,
+  "lat": 49.2298993,
+  "lon": 4.0710299,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Vrilly",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7214956293,
+  "lat": 49.2325640,
+  "lon": 4.0794909,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Coffignot",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7214956295,
+  "lat": 49.2324064,
+  "lon": 4.0799911,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Coffignot",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7214998783,
+  "lat": 49.2313191,
+  "lon": 4.0621165,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7215023986,
+  "lat": 49.2310840,
+  "lon": 4.0617957,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7215665251,
+  "lat": 49.2110044,
+  "lon": 4.0186602,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Murigny",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7215665252,
+  "lat": 49.2113904,
+  "lon": 4.0186792,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Murigny",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7215731241,
+  "lat": 49.2105611,
+  "lon": 4.0215978,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dostoievski",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7215731248,
+  "lat": 49.2100540,
+  "lon": 4.0220683,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dostoievski",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7215850853,
+  "lat": 49.2097756,
+  "lon": 4.0253768,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Val de Murigny",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7215962376,
+  "lat": 49.2121648,
+  "lon": 4.0279699,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Verdi",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7215962377,
+  "lat": 49.2114225,
+  "lon": 4.0280116,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Verdi",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216140609,
+  "lat": 49.2136861,
+  "lon": 4.0267242,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Méliès",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7216140611,
+  "lat": 49.2136046,
+  "lon": 4.0266120,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Méliès",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7216192465,
+  "lat": 49.2162967,
+  "lon": 4.0285609,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Richelieu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "data.gouv.fr/fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216192468,
+  "lat": 49.2160765,
+  "lon": 4.0276036,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Richelieu",
+    "note": "Source : https://www.data.gouv.fr/fr/datasets/parcours-arrets-et-horaires-theoriques-du-reseau-de-transport-citura-de-la-communaute-urbaine-du-grand-reims-gtfs/",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216239487,
+  "lat": 49.2175382,
+  "lon": 4.0284338,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pompidou",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216363911,
+  "lat": 49.2141747,
+  "lon": 4.0220047,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Kipling",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216363912,
+  "lat": 49.2133755,
+  "lon": 4.0219972,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Kipling",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216398329,
+  "lat": 49.2184956,
+  "lon": 4.0255786,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cervantès",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216406731,
+  "lat": 49.2159497,
+  "lon": 4.0237179,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Nodier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216406734,
+  "lat": 49.2155833,
+  "lon": 4.0229928,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Nodier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216459790,
+  "lat": 49.2161839,
+  "lon": 4.0259998,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Montherlant",
+    "network": "CITURA",
+    "operator": "TransDec",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216459791,
+  "lat": 49.2162817,
+  "lon": 4.0253181,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Montherlant",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216525580,
+  "lat": 49.2240445,
+  "lon": 4.0181930,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Braque",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216525584,
+  "lat": 49.2238059,
+  "lon": 4.0178306,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Braque",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216672116,
+  "lat": 49.2253205,
+  "lon": 4.0213031,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jugan",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216711640,
+  "lat": 49.2251649,
+  "lon": 4.0188099,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Debré",
+    "network": "CITURA",
+    "note": "Arrêt ligne 4",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216711641,
+  "lat": 49.2249578,
+  "lon": 4.0187341,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Debré",
+    "network": "CITURA",
+    "network:wikidata": "Q2974528",
+    "network:wikipedia": "fr:Transports en commun de Reims",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7216711644,
+  "lat": 49.2254515,
+  "lon": 4.0194942,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Koening",
+    "network": "CITURA",
+    "note": "Arrêt ligne 7",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216711646,
+  "lat": 49.2255450,
+  "lon": 4.0202388,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Koening",
+    "network": "CITURA",
+    "network:wikidata": "Q2974528",
+    "network:wikipedia": "fr:Transports en commun de Reims",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216711647,
+  "lat": 49.2262469,
+  "lon": 4.0197304,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Koening",
+    "network": "CITURA",
+    "network:wikidata": "Q2974528",
+    "network:wikipedia": "fr:Transports en commun de Reims",
+    "note": "Arrêt ligne 4.",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216789115,
+  "lat": 49.2265134,
+  "lon": 4.0237944,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Godinot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216789116,
+  "lat": 49.2265930,
+  "lon": 4.0236231,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Godinot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216812868,
+  "lat": 49.2300638,
+  "lon": 4.0146459,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chaise au Plafond",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216812869,
+  "lat": 49.2299037,
+  "lon": 4.0150748,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Chaise au Plafond",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216821823,
+  "lat": 49.2292022,
+  "lon": 4.0222241,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cercle",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216821824,
+  "lat": 49.2289949,
+  "lon": 4.0219802,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cercle",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7216822386,
+  "lat": 49.2319770,
+  "lon": 4.0189472,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Maison Blanche",
+    "network": "CITURA",
+    "note": "Arrêt ligne 7 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216822387,
+  "lat": 49.2313600,
+  "lon": 4.0189874,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Maison Blanche",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4.",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216822392,
+  "lat": 49.2317941,
+  "lon": 4.0192260,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Maison Blanche",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7216822395,
+  "lat": 49.2315389,
+  "lon": 4.0182698,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Maison Blanche",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217000999,
+  "lat": 49.2296273,
+  "lon": 4.0214155,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Urgence",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7217001001,
+  "lat": 49.2292100,
+  "lon": 4.0213943,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Urgence",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7217017905,
+  "lat": 49.2321053,
+  "lon": 4.0225269,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Machet",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7217017907,
+  "lat": 49.2320682,
+  "lon": 4.0219544,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Machet",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217158117,
+  "lat": 49.2198496,
+  "lon": 4.0274650,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Rabelais",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217158119,
+  "lat": 49.2200354,
+  "lon": 4.0278737,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Rabelais",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217227764,
+  "lat": 49.2200711,
+  "lon": 4.0298237,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217227766,
+  "lat": 49.2203753,
+  "lon": 4.0309746,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Vauban",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217239052,
+  "lat": 49.2238140,
+  "lon": 4.0278793,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée",
+    "network": "CITYRA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217239054,
+  "lat": 49.2237605,
+  "lon": 4.0277238,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée",
+    "network": "CITYRA",
+    "operator": "TransDev",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7217248380,
+  "lat": 49.2214691,
+  "lon": 4.0284445,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Mendes France",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7217248384,
+  "lat": 49.2213662,
+  "lon": 4.0284608,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Mendes France",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7217291861,
+  "lat": 49.2247276,
+  "lon": 4.0307008,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Luthuli",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7217291862,
+  "lat": 49.2245616,
+  "lon": 4.0307036,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Luthuli",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7218107727,
+  "lat": 49.2255582,
+  "lon": 4.0298726,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Michelet",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218107728,
+  "lat": 49.2253696,
+  "lon": 4.0298910,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218156981,
+  "lat": 49.2251076,
+  "lon": 4.0327393,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ponce de Léon",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218156982,
+  "lat": 49.2251679,
+  "lon": 4.0330562,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Ponce de Léon",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218185087,
+  "lat": 49.2269178,
+  "lon": 4.0326938,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Amundsen",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218185093,
+  "lat": 49.2268055,
+  "lon": 4.0324844,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Amundsen",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7218199770,
+  "lat": 49.2266147,
+  "lon": 4.0366101,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Argonautes",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7218199772,
+  "lat": 49.2268345,
+  "lon": 4.0345018,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Argonautes",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7218566035,
+  "lat": 49.2250263,
+  "lon": 4.0373216,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "D'Urville",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7218566036,
+  "lat": 49.2250869,
+  "lon": 4.0371010,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "D'Urville",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218566054,
+  "lat": 49.2236442,
+  "lon": 4.0388454,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hodin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7218566055,
+  "lat": 49.2235987,
+  "lon": 4.0387256,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Hodin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7222179682,
+  "lat": 49.2655871,
+  "lon": 4.0448671,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7222179683,
+  "lat": 49.2657230,
+  "lon": 4.0450501,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7222179684,
+  "lat": 49.2667171,
+  "lon": 4.0457139,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "note": "Ligne 14",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7222195493,
+  "lat": 49.2666025,
+  "lon": 4.0456201,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Sébastopol",
+    "note": "Ligne 11",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223091661,
+  "lat": 49.2847001,
+  "lon": 4.0274884,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Neufchâtel",
+    "network": "CITURA",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223101924,
+  "lat": 49.2878106,
+  "lon": 4.0239806,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Orgeval",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223143252,
+  "lat": 49.2845875,
+  "lon": 4.0325287,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cellier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223143253,
+  "lat": 49.2842365,
+  "lon": 4.0324915,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cellier",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223205841,
+  "lat": 49.2786701,
+  "lon": 4.0321589,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cité du Dépôt",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223205842,
+  "lat": 49.2783929,
+  "lon": 4.0321246,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Cité du Dépôt",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223209272,
+  "lat": 49.2820817,
+  "lon": 4.0330134,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Moreau",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223209273,
+  "lat": 49.2828509,
+  "lon": 4.0329804,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Moreau",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223368197,
+  "lat": 49.2752158,
+  "lon": 4.0329829,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Brimontel",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223368200,
+  "lat": 49.2755871,
+  "lon": 4.0330146,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Brimontel",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223393888,
+  "lat": 49.2759129,
+  "lon": 4.0304850,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Deux Cités",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223393889,
+  "lat": 49.2757839,
+  "lon": 4.0305594,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Deux Cités",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223404905,
+  "lat": 49.2763521,
+  "lon": 4.0261486,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jules Laurent",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223412637,
+  "lat": 49.2755966,
+  "lon": 4.0267743,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jules Laurent",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223412638,
+  "lat": 49.2754015,
+  "lon": 4.0269033,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jules Laurent",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223426231,
+  "lat": 49.2748197,
+  "lon": 4.0175688,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belges",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223426239,
+  "lat": 49.2751823,
+  "lon": 4.0176367,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Belges",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7223478071,
+  "lat": 49.2738519,
+  "lon": 4.0144831,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Avenir",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223524153,
+  "lat": 49.2786492,
+  "lon": 4.0101555,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223525933,
+  "lat": 49.2756299,
+  "lon": 4.0125012,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Champeaux",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223532928,
+  "lat": 49.2770757,
+  "lon": 4.0111420,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trois Fontaines",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223570879,
+  "lat": 49.2850630,
+  "lon": 4.0065151,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "La Neuvillette École",
+    "network": "CITURA",
+    "note": "« La Neuvillette École » a remplacer le nom du terminus « Trois Fontaines ».",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7223577157,
+  "lat": 49.2837380,
+  "lon": 4.0062378,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pierre Curie",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7227527527,
+  "lat": 49.2371007,
+  "lon": 4.0711500,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Z.I. Farman",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7227893914,
+  "lat": 49.2400211,
+  "lon": 4.0854098,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Croix Blandin",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7231136042,
+  "lat": 49.2468555,
+  "lon": 4.0612681,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Fac des Sciences",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7234621640,
+  "lat": 49.2416679,
+  "lon": 4.0134609,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7234621641,
+  "lat": 49.2423014,
+  "lon": 4.0135115,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Franchet d'Esperey",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7234871017,
+  "lat": 49.2338316,
+  "lon": 4.0606134,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Sabine",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7234892229,
+  "lat": 49.2349780,
+  "lon": 4.0625560,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "local_ref": "6",
+    "name": "Parc Expositions",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7242683549,
+  "lat": 49.2485762,
+  "lon": 4.0120606,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont d'Epernay",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7242683552,
+  "lat": 49.2487140,
+  "lon": 4.0135685,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Pont d'Epernay",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7242683561,
+  "lat": 49.2489406,
+  "lon": 4.0145639,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Peller",
+    "network": "CITURA",
+    "operator": "TransDev Riems",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7242683571,
+  "lat": 49.2489897,
+  "lon": 4.0156296,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Peller",
+    "network": "CITURA",
+    "operator": "TransDev Riems",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7242723838,
+  "lat": 49.2461194,
+  "lon": 4.0084719,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Scupteurs Jacques",
+    "network": "CITURA",
+    "operator": "TransDev Reims",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7242770468,
+  "lat": 49.2471284,
+  "lon": 4.0123680,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Pont d'Epernay",
+    "network": "CITURA",
+    "operator": "TransDev Riems",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7242770469,
+  "lat": 49.2473998,
+  "lon": 4.0120072,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Guesde",
+    "network": "CITURA",
+    "operator": "TransDev Riems",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7242770473,
+  "lat": 49.2473247,
+  "lon": 4.0119779,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Guesde",
+    "network": "CITURA",
+    "operator": "TransDev Riems",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7247225546,
+  "lat": 49.2435584,
+  "lon": 4.0268939,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bocquaine",
+    "network": "CITURA",
+    "operator": "TransDev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247225547,
+  "lat": 49.2439119,
+  "lon": 4.0270743,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bocquaine",
+    "network": "CITURA",
+    "operator": "TransDev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247326785,
+  "lat": 49.2425550,
+  "lon": 4.0249287,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Courlancy",
+    "network": "CITURA",
+    "operator": "TransDev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247326790,
+  "lat": 49.2425970,
+  "lon": 4.0254590,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Courlancy",
+    "network": "CITURA",
+    "operator": "TransDev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247473303,
+  "lat": 49.2398804,
+  "lon": 4.0212660,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Marchandeau",
+    "network": "CITURA",
+    "operator": "TransDev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7247473329,
+  "lat": 49.2403607,
+  "lon": 4.0201393,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marchandeau",
+    "network": "CITURA",
+    "operator": "Transdev Reils",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7251359870,
+  "lat": 49.2446933,
+  "lon": 4.0046178,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clément",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7251706198,
+  "lat": 49.2430138,
+  "lon": 4.0000886,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Diderot",
+    "network": "CITURA",
+    "operator": "Transdev Reiims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7252363462,
+  "lat": 49.2393932,
+  "lon": 3.9991986,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Flaubert",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7253008159,
+  "lat": 49.2383102,
+  "lon": 4.0023862,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bergson",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7253008160,
+  "lat": 49.2383020,
+  "lon": 4.0024113,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bergson",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7253069867,
+  "lat": 49.2398925,
+  "lon": 4.0028119,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Royer",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7253136182,
+  "lat": 49.2411780,
+  "lon": 4.0018576,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Sand",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7253136183,
+  "lat": 49.2409504,
+  "lon": 3.9995216,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Sand",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7255592003,
+  "lat": 49.2609283,
+  "lon": 4.0191241,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7255692821,
+  "lat": 49.2610458,
+  "lon": 4.0189028,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7259066009,
+  "lat": 49.2250587,
+  "lon": 4.0185039,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Debré",
+    "network": "CITURA",
+    "network:wikidata": "Q2974528",
+    "network:wikipedia": "fr:Transports en commun de Reims",
+    "note": "Arrêt ligne 12",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7260618724,
+  "lat": 49.2268718,
+  "lon": 4.0026486,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tourangeaux",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7260618725,
+  "lat": 49.2268342,
+  "lon": 4.0029228,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tourangeaux",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7260665719,
+  "lat": 49.2310510,
+  "lon": 4.0036318,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7260665724,
+  "lat": 49.2309422,
+  "lon": 4.0033666,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7260673187,
+  "lat": 49.2287336,
+  "lon": 4.0017905,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dauphiné",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7260673824,
+  "lat": 49.2315890,
+  "lon": 4.0055780,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mauriac",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7260673825,
+  "lat": 49.2314958,
+  "lon": 4.0060847,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mauriac",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7260683380,
+  "lat": 49.2343806,
+  "lon": 4.0072448,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7260683381,
+  "lat": 49.2342756,
+  "lon": 4.0070481,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7260683382,
+  "lat": 49.2342719,
+  "lon": 4.0071469,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7260683383,
+  "lat": 49.2343861,
+  "lon": 4.0071693,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "CITURA",
+    "operator": "Transdev reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7261753713,
+  "lat": 49.2369011,
+  "lon": 4.0046957,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Campus Croix Rouge",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7262939712,
+  "lat": 49.2356164,
+  "lon": 4.0529904,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Bressy",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7263141514,
+  "lat": 49.2336475,
+  "lon": 4.0486329,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Monet",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7263206396,
+  "lat": 49.2388325,
+  "lon": 4.0457140,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "6|17",
+    "name": "Giraud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7263310150,
+  "lat": 49.2430427,
+  "lon": 4.0439529,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Timothée",
+    "network": "17",
+    "operator": "CITURA",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7263310163,
+  "lat": 49.2436807,
+  "lon": 4.0432559,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thimothée",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7264017658,
+  "lat": 49.2264953,
+  "lon": 4.0905873,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Val de Vesle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7264017659,
+  "lat": 49.2265727,
+  "lon": 4.0905850,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Val de Vesle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7264017660,
+  "lat": 49.2266343,
+  "lon": 4.0894148,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Val de Vesle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7264032741,
+  "lat": 49.2220151,
+  "lon": 4.1073178,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pompelle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7264032742,
+  "lat": 49.2218049,
+  "lon": 4.1077288,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pompelle",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7265906998,
+  "lat": 49.2602746,
+  "lon": 4.0626817,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "C.C. Cernay",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7265976453,
+  "lat": 49.2565815,
+  "lon": 4.0620778,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Blériot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7265976463,
+  "lat": 49.2565169,
+  "lon": 4.0621368,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Blériot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266087444,
+  "lat": 49.2549019,
+  "lon": 4.0615399,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Europe",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "node",
+  "id": 7266218942,
+  "lat": 49.2558330,
+  "lon": 4.0348280,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Royale",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266218954,
+  "lat": 49.2559649,
+  "lon": 4.0355340,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Royale",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266234343,
+  "lat": 49.2578785,
+  "lon": 4.0386899,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lundy",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7266234354,
+  "lat": 49.2568407,
+  "lon": 4.0375456,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Briand",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266253442,
+  "lat": 49.2548831,
+  "lon": 4.0323613,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Carnot",
+    "network": "CITURA",
+    "note": "Arrêt pour les lignes 1, 3 , 8, 30 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266253452,
+  "lat": 49.2548744,
+  "lon": 4.0325126,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Carnot",
+    "network": "CITURA",
+    "note": "Arrêt pour les lignes 1, 3 , 8, 30 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266402853,
+  "lat": 49.2549688,
+  "lon": 4.0295192,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Opéra-Cathédrale",
+    "note": "Arrêt pour les lignes 2, 6 et 9",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7266477524,
+  "lat": 49.2512280,
+  "lon": 4.0273908,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libergier",
+    "note": "Arrêt pour les lignes 1, 3 , 8, 30 et 40.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266477526,
+  "lat": 49.2512524,
+  "lon": 4.0271022,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libergier",
+    "note": "Arrêt pour les lignes 1, 3 , 8, 30 et 40.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266488918,
+  "lat": 49.2520906,
+  "lon": 4.0229281,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vesle",
+    "note": "Arrêt des lignes 7, 8, 30 et N.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7266488919,
+  "lat": 49.2513787,
+  "lon": 4.0235404,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vesle",
+    "note": "Arrêt de la ligne 1.",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7266488925,
+  "lat": 49.2519043,
+  "lon": 4.0253119,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vesle",
+    "network": "CITURA",
+    "note": "Arrêt de la ligne 1.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266557031,
+  "lat": 49.2504890,
+  "lon": 4.0201593,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Comédie",
+    "note": "Arrêt pour lignes 1, 7, 30 et N.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7266557033,
+  "lat": 49.2499284,
+  "lon": 4.0191951,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Comédie",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre;mise à jour : 2008"
+  }
+},
+{
+  "type": "node",
+  "id": 7266557034,
+  "lat": 49.2504576,
+  "lon": 4.0207291,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Comédie",
+    "note": "Arrêt pour lignes 1, 7, 30 et N.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271299195,
+  "lat": 49.2466875,
+  "lon": 4.0322776,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Folle Peine",
+    "network": "CITURA",
+    "note": "Arrêt ligne 2 et 16.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7271340259,
+  "lat": 49.2356702,
+  "lon": 4.0255370,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Wilson",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271430379,
+  "lat": 49.2343358,
+  "lon": 4.0289820,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "D'Orves",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446027,
+  "lat": 49.2334627,
+  "lon": 4.0310319,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Salaire",
+    "note": "Arrêt pour ligne 2 et 40.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446039,
+  "lat": 49.2332665,
+  "lon": 4.0312487,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Salaire",
+    "note": "Arrêt pour ligne 2 et 40.",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446686,
+  "lat": 49.2352482,
+  "lon": 4.0277852,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "D'Orves",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446687,
+  "lat": 49.2352130,
+  "lon": 4.0277994,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "D'Orves",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4 et 40.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446699,
+  "lat": 49.2345609,
+  "lon": 4.0281620,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "D'Orves",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271446700,
+  "lat": 49.2345775,
+  "lon": 4.0281163,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "D'Orves",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 4.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7271543315,
+  "lat": 49.2579466,
+  "lon": 4.0265287,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Gare Centre",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 8 et 10.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7271543317,
+  "lat": 49.2581006,
+  "lon": 4.0268498,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Gare Centre",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne N.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272242932,
+  "lat": 49.2505325,
+  "lon": 4.0523666,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Yser",
+    "network": "CITURA",
+    "operator": "Tansdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272256831,
+  "lat": 49.2511604,
+  "lon": 4.0487035,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Boussinesq",
+    "public_transport": "platform",
+    "route_ref": "Arrêt ligne 3",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272310302,
+  "lat": 49.2517206,
+  "lon": 4.0454266,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Clemenceau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272381897,
+  "lat": 49.2482471,
+  "lon": 4.0586856,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Bons Enfants",
+    "public_transport": "platform",
+    "route_ref": "3",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272394635,
+  "lat": 49.2491367,
+  "lon": 4.0568335,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "local_ref": "3",
+    "name": "Alouettes",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272810916,
+  "lat": 49.2464367,
+  "lon": 4.0124202,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pargny",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272810918,
+  "lat": 49.2457959,
+  "lon": 4.0123330,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Pargny",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272837386,
+  "lat": 49.2545813,
+  "lon": 4.0225850,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Manège",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 7, 8, 30 et N",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272837389,
+  "lat": 49.2544988,
+  "lon": 4.0223837,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Manège",
+    "note": "Arrêt pour ligne 7, 8, 30 et N",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7272844769,
+  "lat": 49.2379940,
+  "lon": 4.0138180,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dunkerque",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272844772,
+  "lat": 49.2379949,
+  "lon": 4.0139760,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dunkerque",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272865828,
+  "lat": 49.2360533,
+  "lon": 4.0154645,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272865839,
+  "lat": 49.2359491,
+  "lon": 4.0155648,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Avignon",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272902845,
+  "lat": 49.2334750,
+  "lon": 4.0179403,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Souvenir",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272902847,
+  "lat": 49.2336763,
+  "lon": 4.0171771,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Souvenir",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7272928066,
+  "lat": 49.2278379,
+  "lon": 4.0144379,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Médiathèque Croix Rouge",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7274044613,
+  "lat": 49.2238079,
+  "lon": 4.0242135,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Apollinaire",
+    "network": "CITURA",
+    "note": "Arrêt ligne 7 (Origine et Destination).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "ref": "APOL",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7274123361,
+  "lat": 49.2808647,
+  "lon": 4.0272247,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Rethel",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274123363,
+  "lat": 49.2801952,
+  "lon": 4.0270552,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Rethel",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274265067,
+  "lat": 49.2738454,
+  "lon": 4.0266292,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7274265073,
+  "lat": 49.2735988,
+  "lon": 4.0266838,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Liberté",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7274303572,
+  "lat": 49.2782115,
+  "lon": 4.0268935,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Thiérot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274303574,
+  "lat": 49.2788073,
+  "lon": 4.0270664,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Thiérot",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274381831,
+  "lat": 49.2700251,
+  "lon": 4.0294574,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Blondel",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274431490,
+  "lat": 49.2686939,
+  "lon": 4.0328610,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robespierre",
+    "public_transport": "stop_position",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7274431495,
+  "lat": 49.2688095,
+  "lon": 4.0330203,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Robespierre",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274508021,
+  "lat": 49.2634858,
+  "lon": 4.0285461,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Roosevelt",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274536260,
+  "lat": 49.2617590,
+  "lon": 4.0254622,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mignot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274547343,
+  "lat": 49.2613646,
+  "lon": 4.0243083,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Mignot",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7274616539,
+  "lat": 49.2366500,
+  "lon": 4.0292437,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Buridan",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7279465596,
+  "lat": 49.2613718,
+  "lon": 4.0310071,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Boulingrin",
+    "note": "Arrêt ligne 11 et C.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279465602,
+  "lat": 49.2619692,
+  "lon": 4.0299087,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Boulingrin",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7279482585,
+  "lat": 49.2643347,
+  "lon": 4.0345894,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Justice",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279489458,
+  "lat": 49.2628122,
+  "lon": 4.0353344,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Justice",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7279508647,
+  "lat": 49.2657950,
+  "lon": 4.0398842,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lemoine",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 11.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279625238,
+  "lat": 49.2676978,
+  "lon": 4.0446449,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gosset",
+    "note": "Arrêt ligne 8 et N.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279625241,
+  "lat": 49.2683422,
+  "lon": 4.0445627,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gosset",
+    "network": "CITURA",
+    "note": "Arrêt ligne 8 et N.",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279642260,
+  "lat": 49.2666309,
+  "lon": 4.0429114,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ternaux",
+    "note": "Arrêt ligne 11.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279642261,
+  "lat": 49.2666816,
+  "lon": 4.0428085,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ternaux",
+    "note": "Arrêt ligne 11.",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279814830,
+  "lat": 49.2407941,
+  "lon": 4.0547029,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Parc",
+    "network": "CITURA",
+    "note": "Arrêt pour ligne 11 (Gare Centre).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279814834,
+  "lat": 49.2414588,
+  "lon": 4.0562668,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Parc",
+    "note": "Arrêt pour ligne 11 (Croix du Sud).",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7279879291,
+  "lat": 49.2447128,
+  "lon": 4.0487382,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gouraud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7280028029,
+  "lat": 49.2249549,
+  "lon": 4.0084039,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "network": "CITURA",
+    "note": "Arrêt ligne 11 (Croix du Sud).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7280040717,
+  "lat": 49.2233269,
+  "lon": 4.0141310,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Croix du Sud",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7281025802,
+  "lat": 49.2597931,
+  "lon": 4.0404873,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Templiers",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7281027435,
+  "lat": 49.2618238,
+  "lon": 4.0420462,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dorigny",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7281027442,
+  "lat": 49.2633197,
+  "lon": 4.0435101,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Knoeri",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7281027910,
+  "lat": 49.2644494,
+  "lon": 4.0443732,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Knoeri",
+    "network": "CITURA",
+    "operator": "TransDev",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7281893616,
+  "lat": 49.2705375,
+  "lon": 4.0436998,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Maryse Bastié",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7281893622,
+  "lat": 49.2704832,
+  "lon": 4.0438470,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Maryse Bastié",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7281933189,
+  "lat": 49.2719880,
+  "lon": 4.0417000,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Dock Remois",
+    "network": "CITURA",
+    "note": "Arrêt ligne 8 (Champ Paveau) et N ( Moulin de la Housse).",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7284729040,
+  "lat": 49.2724280,
+  "lon": 4.0134028,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Saint-Thierry",
+    "network": "CITURA",
+    "operator": "transdev Reims",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7284791972,
+  "lat": 49.2673702,
+  "lon": 4.0129411,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Arnould",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7284868383,
+  "lat": 49.2644764,
+  "lon": 4.0110017,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Belgique",
+    "network": "CITURA",
+    "operator": "Transdev Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8522081983,
+  "lat": 49.2360466,
+  "lon": 4.0906943,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8691256283,
+  "lat": 49.2638189,
+  "lon": 4.0308122,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Arrêt République",
+    "network": "Ligne 4 : Orgeval - Hôpital Rober Debré",
+    "operator": "Citura",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9433473061,
+  "lat": 49.2572129,
+  "lon": 4.0458441,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "30 Août 1944",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9442600814,
+  "lat": 49.2814202,
+  "lon": 4.0079056,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Jacob",
+    "network": "CITURA",
+    "operator": "Transdev",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9444707395,
+  "lat": 49.2365675,
+  "lon": 3.9971285,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Guyard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9444707396,
+  "lat": 49.2358740,
+  "lon": 3.9977749,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Guyard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9451222041,
+  "lat": 49.2220986,
+  "lon": 4.0224901,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Clos de de Murigny Reims",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9451222044,
+  "lat": 49.2220338,
+  "lon": 4.0204462,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vernier Reims",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 27464254,
+  "nodes": [
+    301556851,
+    9278258559,
+    930721858,
+    301558905,
+    929814815,
+    301558906,
+    297486923
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "residential",
+    "maxspeed": "30",
+    "oneway": "yes",
+    "oneway:bicycle": "no",
+    "source:maxspeed": "passage à 30km/h sur la commune de Colombes le 1/12/2021",
+    "source:oneway:bicycle": "passage à 30km/h sur la commune plus DSC généralisé",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 294764467,
+  "nodes": [
+    8107756627,
+    105743797,
+    8107756624
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue de Stalingrad",
+    "oneway": "yes",
+    "ref": "D 909",
+    "source": "Microsoft Bing orbital imagery",
+    "source:ref": "IGN Route 500"
+  }
+},
+{
+  "type": "way",
+  "id": 307467060,
+  "nodes": [
+    3126265219,
+    3126280037,
+    1616972682
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Pont de Charlebourg",
+    "oneway": "yes",
+    "ref": "D 992",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 307467062,
+  "nodes": [
+    3126265211,
+    1616972678,
+    7927641697,
+    3126265219
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Pont de Charlebourg",
+    "oneway": "yes",
+    "ref": "D 992",
+    "sidewalk": "separate",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 310006105,
+  "nodes": [
+    5345090905,
+    3153616335,
+    3385305157
+  ],
+  "tags": {
+    "busway": "lane",
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "service",
+    "lanes": "1",
+    "oneway": "yes",
+    "oneway:bicycle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 331456161,
+  "nodes": [
+    3385305157,
+    3153616338,
+    5926449058,
+    3153616325
+  ],
+  "tags": {
+    "busway": "lane",
+    "cycleway:left": "opposite_lane",
+    "cycleway:right": "lane",
+    "highway": "service",
+    "lanes": "1",
+    "oneway": "yes",
+    "oneway:bicycle": "no"
+  }
+},
+{
+  "type": "way",
+  "id": 464376513,
+  "nodes": [
+    1616972682,
+    6441047538,
+    1616972683,
+    6441047539
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Boulevard Charles de Gaulle",
+    "oneway": "yes",
+    "ref": "D 992",
+    "sidewalk": "separate",
+    "source": "Microsoft Bing orbital imagery",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 550640249,
+  "nodes": [
+    5318354744,
+    5318354745,
+    5318354743,
+    5318354742,
+    5318354741,
+    5318354740,
+    5318354739
+  ],
+  "tags": {
+    "cycleway:left": "track",
+    "cycleway:left:oneway": "-1",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "residential",
+    "maxspeed": "30",
+    "name": "Boulevard Charles de Gaulle",
+    "oneway": "yes",
+    "source:maxspeed": "passage à 30km/h sur la commune de Colombes le 1/12/2021",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 687182252,
+  "nodes": [
+    5318354725,
+    8392197510,
+    2389313741,
+    7927641696,
+    3112658880,
+    16819132
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Boulevard Charles de Gaulle",
+    "oneway": "yes",
+    "ref": "D 992",
+    "sidewalk": "separate",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 849911776,
+  "nodes": [
+    802008633,
+    5318354725
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Boulevard Charles de Gaulle",
+    "oneway": "yes",
+    "ref": "D 992",
+    "sidewalk": "separate",
+    "source": "Bing",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 870291614,
+  "nodes": [
+    8107756624,
+    7267119186,
+    1669307705
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Avenue de Stalingrad",
+    "oneway": "yes",
+    "ref": "D 909",
+    "source": "Microsoft Bing orbital imagery",
+    "source:ref": "IGN Route 500"
+  }
+},
+{
+  "type": "area",
+  "id": 3600091738,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Colombes",
+    "name:fr": "Colombes",
+    "name:ja": "コロンブ",
+    "population": "86534",
+    "population:date": "2019",
+    "postal_code": "92700",
+    "ref:INSEE": "92025",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q174002",
+    "wikipedia": "fr:Colombes"
+  }
+},
+{
+  "type": "node",
+  "id": 5318354739,
+  "lat": 48.9119205,
+  "lon": 2.2322449
+},
+{
+  "type": "node",
+  "id": 5318354740,
+  "lat": 48.9119236,
+  "lon": 2.2321692
+},
+{
+  "type": "node",
+  "id": 5318354741,
+  "lat": 48.9119474,
+  "lon": 2.2321102
+},
+{
+  "type": "node",
+  "id": 5318354742,
+  "lat": 48.9122722,
+  "lon": 2.2316631
+},
+{
+  "type": "node",
+  "id": 16819132,
+  "lat": 48.9089397,
+  "lon": 2.2366093
+},
+{
+  "type": "node",
+  "id": 802008633,
+  "lat": 48.9096354,
+  "lon": 2.2354581
+},
+{
+  "type": "node",
+  "id": 1616972678,
+  "lat": 48.9087388,
+  "lon": 2.2372360
+},
+{
+  "type": "node",
+  "id": 1616972682,
+  "lat": 48.9089678,
+  "lon": 2.2368696
+},
+{
+  "type": "node",
+  "id": 1616972683,
+  "lat": 48.9091322,
+  "lon": 2.2365670
+},
+{
+  "type": "node",
+  "id": 2389313741,
+  "lat": 48.9091348,
+  "lon": 2.2362059
+},
+{
+  "type": "node",
+  "id": 3112658880,
+  "lat": 48.9090316,
+  "lon": 2.2363938
+},
+{
+  "type": "node",
+  "id": 3126265211,
+  "lat": 48.9087064,
+  "lon": 2.2372776
+},
+{
+  "type": "node",
+  "id": 3126265219,
+  "lat": 48.9089104,
+  "lon": 2.2369914
+},
+{
+  "type": "node",
+  "id": 3126280037,
+  "lat": 48.9089248,
+  "lon": 2.2369675
+},
+{
+  "type": "node",
+  "id": 5318354725,
+  "lat": 48.9093505,
+  "lon": 2.2358837
+},
+{
+  "type": "node",
+  "id": 6441047538,
+  "lat": 48.9090194,
+  "lon": 2.2367777
+},
+{
+  "type": "node",
+  "id": 6441047539,
+  "lat": 48.9091566,
+  "lon": 2.2365214
+},
+{
+  "type": "node",
+  "id": 7927641696,
+  "lat": 48.9090522,
+  "lon": 2.2363564
+},
+{
+  "type": "node",
+  "id": 7927641697,
+  "lat": 48.9088762,
+  "lon": 2.2370401
+},
+{
+  "type": "node",
+  "id": 8392197510,
+  "lat": 48.9092206,
+  "lon": 2.2360777
+},
+{
+  "type": "node",
+  "id": 5318354743,
+  "lat": 48.9129663,
+  "lon": 2.2306806
+},
+{
+  "type": "node",
+  "id": 5318354744,
+  "lat": 48.9130661,
+  "lon": 2.2306487
+},
+{
+  "type": "node",
+  "id": 5318354745,
+  "lat": 48.9130095,
+  "lon": 2.2306457
+},
+{
+  "type": "node",
+  "id": 3153616325,
+  "lat": 48.9281247,
+  "lon": 2.2468076
+},
+{
+  "type": "node",
+  "id": 3153616335,
+  "lat": 48.9275627,
+  "lon": 2.2471443
+},
+{
+  "type": "node",
+  "id": 3153616338,
+  "lat": 48.9280366,
+  "lon": 2.2470226
+},
+{
+  "type": "node",
+  "id": 3385305157,
+  "lat": 48.9278609,
+  "lon": 2.2470691
+},
+{
+  "type": "node",
+  "id": 5345090905,
+  "lat": 48.9275257,
+  "lon": 2.2471410
+},
+{
+  "type": "node",
+  "id": 5926449058,
+  "lat": 48.9280851,
+  "lon": 2.2469290
+},
+{
+  "type": "node",
+  "id": 297486923,
+  "lat": 48.9160767,
+  "lon": 2.2590440
+},
+{
+  "type": "node",
+  "id": 301556851,
+  "lat": 48.9145310,
+  "lon": 2.2590389
+},
+{
+  "type": "node",
+  "id": 301558905,
+  "lat": 48.9151724,
+  "lon": 2.2588861
+},
+{
+  "type": "node",
+  "id": 301558906,
+  "lat": 48.9157349,
+  "lon": 2.2589278
+},
+{
+  "type": "node",
+  "id": 929814815,
+  "lat": 48.9154851,
+  "lon": 2.2588891
+},
+{
+  "type": "node",
+  "id": 930721858,
+  "lat": 48.9148408,
+  "lon": 2.2589510
+},
+{
+  "type": "node",
+  "id": 9278258559,
+  "lat": 48.9145815,
+  "lon": 2.2590246
+},
+{
+  "type": "node",
+  "id": 105743797,
+  "lat": 48.9369922,
+  "lon": 2.2587571
+},
+{
+  "type": "node",
+  "id": 1669307705,
+  "lat": 48.9359069,
+  "lon": 2.2604779
+},
+{
+  "type": "node",
+  "id": 7267119186,
+  "lat": 48.9359498,
+  "lon": 2.2604098
+},
+{
+  "type": "node",
+  "id": 8107756624,
+  "lat": 48.9360187,
+  "lon": 2.2603005
+},
+{
+  "type": "node",
+  "id": 8107756627,
+  "lat": 48.9370680,
+  "lon": 2.2586431
+}
+
+  ]
+}

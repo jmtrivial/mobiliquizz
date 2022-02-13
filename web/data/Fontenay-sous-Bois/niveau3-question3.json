@@ -1,0 +1,2458 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 586466949,
+  "lat": 48.8518842,
+  "lon": 2.4865378,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Général de Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37768",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685895",
+    "route_ref": "116;124;N71",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 586467005,
+  "lat": 48.8515378,
+  "lon": 2.4872189,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du Général de Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37767",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 586469559,
+  "lat": 48.8486111,
+  "lon": 2.4880229,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Bois Cadet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37765",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685892",
+    "route_ref": "116;124;N71",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 586469560,
+  "lat": 48.8491650,
+  "lon": 2.4868082,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Bois Cadet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37766",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685893",
+    "route_ref": "116;124;N71",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 598501185,
+  "lat": 48.8533704,
+  "lon": 2.4875396,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "472486",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685897",
+    "route_ref": "124 Vincennes;N142 Tournan",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614163084,
+  "lat": 48.8523323,
+  "lon": 2.4896889,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER - Louison Bobet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22593",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6401791",
+    "route_ref": "N34;116;La Navette;N142",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614232855,
+  "lat": 48.8473148,
+  "lon": 2.4856494,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26425",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685890",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614232856,
+  "lat": 48.8474525,
+  "lon": 2.4860369,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hoche",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26426",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685891",
+    "route_ref": "124",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614233229,
+  "lat": 48.8488990,
+  "lon": 2.4818594,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26417",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685889",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 614233278,
+  "lat": 48.8487860,
+  "lon": 2.4819185,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26420",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685888",
+    "route_ref": "124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621422776,
+  "lat": 48.8536176,
+  "lon": 2.4881308,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val-de-Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22664",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690365",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621422934,
+  "lat": 48.8531377,
+  "lon": 2.4871599,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val-de-Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30017",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6401790",
+    "route_ref": "116",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621422939,
+  "lat": 48.8532263,
+  "lon": 2.4872994,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37672",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688518",
+    "route_ref": "301",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621423001,
+  "lat": 48.8535160,
+  "lon": 2.4877784,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "21175",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685707",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621423665,
+  "lat": 48.8539174,
+  "lon": 2.4884185,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val-de-Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22662;22663",
+    "route_ref": "122",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 621424324,
+  "lat": 48.8536058,
+  "lon": 2.4877824,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19893",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1209165264,
+  "lat": 48.8425883,
+  "lon": 2.4716242,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Joinville",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26428",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685882",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes",
+    "wikidata": "Q56857170"
+  }
+},
+{
+  "type": "node",
+  "id": 1240476813,
+  "lat": 48.8531204,
+  "lon": 2.4582164,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Laurent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27383",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685693",
+    "route_ref": "118",
+    "shelter": "no",
+    "source": "survey 11-2017",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1240476815,
+  "lat": 48.8524868,
+  "lon": 2.4635687,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27382",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685695",
+    "route_ref": "118",
+    "shelter": "no",
+    "source": "survey 11-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1240476856,
+  "lat": 48.8527102,
+  "lon": 2.4672441,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Tessier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37606",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685697",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 11-2017",
+    "source:position": "BDOrtho IGN",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1240476885,
+  "lat": 48.8510875,
+  "lon": 2.4623395,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1437495650,
+  "lat": 48.8509148,
+  "lon": 2.4593456,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Roublot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37088",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690335",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56857183"
+  }
+},
+{
+  "type": "node",
+  "id": 1493822257,
+  "lat": 48.8496609,
+  "lon": 2.4770365,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville de Fontenay-sous-Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27395",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685898",
+    "route_ref": "124",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56857182"
+  }
+},
+{
+  "type": "node",
+  "id": 1502358057,
+  "lat": 48.8524823,
+  "lon": 2.4809032,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37607",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685702",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 10-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1502358065,
+  "lat": 48.8526166,
+  "lon": 2.4808346,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27388",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685703",
+    "route_ref": "118",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502358075,
+  "lat": 48.8532538,
+  "lon": 2.4763330,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37605",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685701",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 11-2017",
+    "source:position": "BDOrtho IGN",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1502358079,
+  "lat": 48.8533066,
+  "lon": 2.4756818,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27384",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685700",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 10-2017",
+    "source:position": "BDOrtho IGN",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386707,
+  "lat": 48.8528870,
+  "lon": 2.4742040,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "bing 2005"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386736,
+  "lat": 48.8533345,
+  "lon": 2.4819765,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14689",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688522",
+    "route_ref": "122;301",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386786,
+  "lat": 48.8542708,
+  "lon": 2.4788811,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "bing 2005"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386808,
+  "lat": 48.8546953,
+  "lon": 2.4819864,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "source": "bing 2005"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386838,
+  "lat": 48.8555004,
+  "lon": 2.4812084,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia - Collège Jean Macé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22678",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690360",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "source": "bing 2005",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386854,
+  "lat": 48.8557657,
+  "lon": 2.4818294,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12391",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688525",
+    "route_ref": "122;301;N34;118",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502386857,
+  "lat": 48.8557796,
+  "lon": 2.4819977,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37602",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688524",
+    "route_ref": "122;301;118;N34",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502716342,
+  "lat": 48.8574183,
+  "lon": 2.4856753,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Zay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27914",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690361",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 1502748272,
+  "lat": 48.8543027,
+  "lon": 2.4945070,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Auroux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36504",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690369",
+    "route_ref": "La Navette",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502765422,
+  "lat": 48.8582229,
+  "lon": 2.4792208,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1502765427,
+  "lat": 48.8583019,
+  "lon": 2.4755715,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Descartes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27059",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688528",
+    "route_ref": "301",
+    "shelter": "yes",
+    "source": "survey 2018-12",
+    "source:position": "BD Ortho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502765455,
+  "lat": 48.8584063,
+  "lon": 2.4808142,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Fontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37603",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688526",
+    "route_ref": "122;301;N34;118",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502765513,
+  "lat": 48.8590410,
+  "lon": 2.4802610,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Moulin - Cimetière de Vincennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22677",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690354",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "wikidata": "Q56859760"
+  }
+},
+{
+  "type": "node",
+  "id": 1502765519,
+  "lat": 48.8599706,
+  "lon": 2.4808234,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Vincennes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26416",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231575",
+    "route_ref": "122;N34;118",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502771712,
+  "lat": 48.8571008,
+  "lon": 2.4710646,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Zola",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37054",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688530",
+    "route_ref": "La Navette;301",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502778805,
+  "lat": 48.8525234,
+  "lon": 2.4719047,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Michelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37503",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690346",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1502778814,
+  "lat": 48.8537226,
+  "lon": 2.4703758,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27381",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685698",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 10-2017",
+    "source:position": "BDOrtho IGN",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1503092901,
+  "lat": 48.8509323,
+  "lon": 2.4534331,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Parapluies",
+    "network": "Medi@bus",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1503092960,
+  "lat": 48.8528447,
+  "lon": 2.4502283,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Le Tiec",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18788",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690438",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source": "bing 2005",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1503093066,
+  "lat": 48.8559476,
+  "lon": 2.4582645,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24055",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685928",
+    "route_ref": "127",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1503116333,
+  "lat": 48.8526953,
+  "lon": 2.4486812,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Parapluies",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26419",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685871",
+    "route_ref": "124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1504562069,
+  "lat": 48.8477502,
+  "lon": 2.4885227,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Louis Armand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30082",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6401787",
+    "route_ref": "116;N71",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1551974880,
+  "lat": 48.8501233,
+  "lon": 2.4567713,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Rigollots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27390",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685691",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 10-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273159,
+  "lat": 48.8461252,
+  "lon": 2.4727539,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ancienne Mairie de Fontenay-sous-Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18785",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685883",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273164,
+  "lat": 48.8455775,
+  "lon": 2.4512621,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charmes - Pépinière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29947",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3686059",
+    "route_ref": "210",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273165,
+  "lat": 48.8457610,
+  "lon": 2.4512006,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charmes - Pépinière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29946",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4028768",
+    "route_ref": "210",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273181,
+  "lat": 48.8527885,
+  "lon": 2.4484075,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Parapluies",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26423",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685872",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273182,
+  "lat": 48.8531168,
+  "lon": 2.4487209,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Parapluies",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26575",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690466",
+    "route_ref": "127",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273184,
+  "lat": 48.8494510,
+  "lon": 2.4569808,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Rigollots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37085",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690333",
+    "route_ref": "124;La Navette",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273187,
+  "lat": 48.8499962,
+  "lon": 2.4556453,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Rigollots",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27386",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690463",
+    "route_ref": "124;NAVETTE",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273188,
+  "lat": 48.8465449,
+  "lon": 2.4764669,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison du Citoyen",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27910",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690431",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56741780"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273190,
+  "lat": 48.8461438,
+  "lon": 2.4743684,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Molière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27912",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690432",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273191,
+  "lat": 48.8487992,
+  "lon": 2.4611195,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Dulac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26422",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685877",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273192,
+  "lat": 48.8489751,
+  "lon": 2.4618879,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Dulac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26421",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685878",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273195,
+  "lat": 48.8480859,
+  "lon": 2.4664165,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Îlot Barbe",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26427",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685899",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576273197,
+  "lat": 48.8474079,
+  "lon": 2.4650883,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Roux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26424",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685879",
+    "route_ref": "124;124",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes",
+    "wikidata": "Q56857169"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745165,
+  "lat": 48.8525117,
+  "lon": 2.4568147,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Laurent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27380",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685692",
+    "route_ref": "118",
+    "shelter": "no",
+    "source": "survey 10-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745178,
+  "lat": 48.8526884,
+  "lon": 2.4676732,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Tessier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27389",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685696",
+    "route_ref": "118",
+    "shelter": "no",
+    "source": "survey 10-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745194,
+  "lat": 48.8523753,
+  "lon": 2.4618340,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27387",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685694",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 10-2017",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745298,
+  "lat": 48.8552612,
+  "lon": 2.4580648,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Édouard Maury",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25251",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690337",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56858078"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745321,
+  "lat": 48.8565427,
+  "lon": 2.4667113,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Renan",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24049",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685931",
+    "route_ref": "127",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745348,
+  "lat": 48.8571614,
+  "lon": 2.4673171,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ernest Renan",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27823",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688534",
+    "route_ref": "301",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745385,
+  "lat": 48.8534242,
+  "lon": 2.4642540,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Eugène Héricourt",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25249",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690338",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745406,
+  "lat": 48.8535230,
+  "lon": 2.4570840,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta - André Laurent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22676",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690336",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745413,
+  "lat": 48.8536017,
+  "lon": 2.4525960,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Beaumonts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24057",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685926",
+    "route_ref": "127",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745456,
+  "lat": 48.8539359,
+  "lon": 2.4532640,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Beaumonts",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26576",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685927",
+    "route_ref": "127",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1576745537,
+  "lat": 48.8561083,
+  "lon": 2.4617251,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Védrines",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24056",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685930",
+    "route_ref": "127",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes",
+    "wikidata": "Q56857209"
+  }
+},
+{
+  "type": "node",
+  "id": 2348128628,
+  "lat": 48.8552101,
+  "lon": 2.4868019,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27641",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690417",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 2348128633,
+  "lat": 48.8553018,
+  "lon": 2.4866478,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27642",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690364",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 2348128634,
+  "lat": 48.8553395,
+  "lon": 2.4854891,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27642",
+    "route_ref": "118;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2349503049,
+  "lat": 48.8554425,
+  "lon": 2.4811217,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia - Collège Jean Macé",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27913",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690359",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2349503074,
+  "lat": 48.8538779,
+  "lon": 2.4705229,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37055",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685699",
+    "route_ref": "118",
+    "shelter": "yes",
+    "source": "survey 11-2017",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2835822241,
+  "lat": 48.8582240,
+  "lon": 2.4760942,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Descartes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27058",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688529",
+    "route_ref": "301",
+    "shelter": "yes",
+    "source": "survey 2018-11",
+    "source:position": "BD Ortho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4571830444,
+  "lat": 48.8566472,
+  "lon": 2.4711653,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Émile Zola",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12389",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688531",
+    "route_ref": "La Navette;301",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4970344415,
+  "lat": 48.8493709,
+  "lon": 2.4731838,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "18786",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685886",
+    "route_ref": "124",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5212915684,
+  "lat": 48.8552060,
+  "lon": 2.4857929,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pablo Picasso",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26873",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231650",
+    "route_ref": "122;118;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5212915686,
+  "lat": 48.8578973,
+  "lon": 2.4814243,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Fontaine",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12392",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688527",
+    "route_ref": "122;301;N34;118",
+    "shelter": "yes",
+    "source": "survey 2018-12",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5218700655,
+  "lat": 48.8543253,
+  "lon": 2.4944160,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Auroux",
+    "public_transport": "platform",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5218742139,
+  "lat": 48.8526076,
+  "lon": 2.4895402,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER - Louison Bobet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36292",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690368",
+    "route_ref": "N34;116;NAVETTE",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5263300840,
+  "lat": 48.8477404,
+  "lon": 2.4889202,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Louis Armand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27142",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6401854",
+    "route_ref": "116;N71",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563804,
+  "lat": 48.8461523,
+  "lon": 2.4578633,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean-Jacques Rousseau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27903",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690489",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563805,
+  "lat": 48.8459239,
+  "lon": 2.4701245,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Couderchet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37087",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690486",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563806,
+  "lat": 48.8567745,
+  "lon": 2.4773688,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé - Martin Luther King",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27908",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690475",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563807,
+  "lat": 48.8457253,
+  "lon": 2.4606501,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mallier - Gaucher",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27915",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690461",
+    "route_ref": "La Navette",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563808,
+  "lat": 48.8589148,
+  "lon": 2.4922489,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bois Galon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36505",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690440",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563809,
+  "lat": 48.8482813,
+  "lon": 2.4780584,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Fontenay-sous-Bois",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27907",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690430",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563811,
+  "lat": 48.8567008,
+  "lon": 2.4768298,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé - Martin Luther King",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27916",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690411",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563812,
+  "lat": 48.8569980,
+  "lon": 2.4743758,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aimée Matterraz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36508",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690409",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563813,
+  "lat": 48.8495354,
+  "lon": 2.4749478,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville de Fontenay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27909",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690400",
+    "route_ref": "La Navette",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563814,
+  "lat": 48.8474599,
+  "lon": 2.4721034,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Église Saint-Germain",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25252",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690397",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "wheelchair": "limited",
+    "wikidata": "Q56741666"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563815,
+  "lat": 48.8487881,
+  "lon": 2.4680185,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Bassée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25250",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690396",
+    "route_ref": "La Navette",
+    "wikidata": "Q56741650"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563816,
+  "lat": 48.8522748,
+  "lon": 2.4499499,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Parapluies",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37502",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690329",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563817,
+  "lat": 48.8512980,
+  "lon": 2.4740057,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Germain",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27904",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690375",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wikidata": "Q56741712"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563818,
+  "lat": 48.8569650,
+  "lon": 2.4916443,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "De Lattre de Tassigny",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36506",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690374",
+    "route_ref": "La Navette",
+    "wikidata": "Q56858049"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563820,
+  "lat": 48.8574853,
+  "lon": 2.4854444,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Zay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27905",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690362",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563821,
+  "lat": 48.8569686,
+  "lon": 2.4745389,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aimée Matterraz",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40420",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690356",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563822,
+  "lat": 48.8590705,
+  "lon": 2.4738760,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27911",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690353",
+    "route_ref": "La Navette",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563823,
+  "lat": 48.8544839,
+  "lon": 2.4708774,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37056",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690349",
+    "route_ref": "La Navette"
+  }
+},
+{
+  "type": "node",
+  "id": 5979563824,
+  "lat": 48.8522087,
+  "lon": 2.4722392,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Michelet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27906",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690347",
+    "route_ref": "La Navette",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593720,
+  "lat": 48.8517762,
+  "lon": 2.4514344,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hector Malot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37501",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690464",
+    "route_ref": "124;La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593722,
+  "lat": 48.8473866,
+  "lon": 2.4746773,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Parc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27396",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690342",
+    "route_ref": "124;NAVETTE",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593723,
+  "lat": 48.8518387,
+  "lon": 2.4509581,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hector Malot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37500",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690331",
+    "route_ref": "124;La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593724,
+  "lat": 48.8439321,
+  "lon": 2.4649836,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontenay-sous-Bois RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28748",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690435",
+    "route_ref": "124;NAVETTE",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593725,
+  "lat": 48.8483570,
+  "lon": 2.4781461,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville de Fontenay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37086",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690343",
+    "route_ref": "124;NAVETTE",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593726,
+  "lat": 48.8532646,
+  "lon": 2.4871916,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "description:fr": "quai de descente",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37673",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685896",
+    "route_ref": "124;301",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593727,
+  "lat": 48.8438064,
+  "lon": 2.4650613,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontenay-sous-Bois RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28747",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4028771",
+    "route_ref": "124;210",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593729,
+  "lat": 48.8523600,
+  "lon": 2.4848090,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général de Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36493",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688521",
+    "route_ref": "118;301",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593730,
+  "lat": 48.8527430,
+  "lon": 2.4855477,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Général de Gaulle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "14690",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688520",
+    "route_ref": "118;122;301",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6102410066,
+  "lat": 48.8539654,
+  "lon": 2.4701864,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "12390",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688533",
+    "route_ref": "La Navette;301",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6105353549,
+  "lat": 48.8534240,
+  "lon": 2.4817306,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Garcia",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36986",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688523",
+    "route_ref": "301",
+    "shelter": "no",
+    "source": "survey 2018-12",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6149302777,
+  "lat": 48.8541922,
+  "lon": 2.4702595,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40039",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3688532",
+    "route_ref": "301",
+    "shelter": "yes",
+    "source": "survey 2018-12",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6187746809,
+  "lat": 48.8526140,
+  "lon": 2.4895720,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louison Bobet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427736",
+    "ref:FR:STIF:stop_id": "StopPoint:44:2787",
+    "route_ref": "702"
+  }
+},
+{
+  "type": "node",
+  "id": 6187746810,
+  "lat": 48.8567087,
+  "lon": 2.4918047,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ZA Péripole",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427735",
+    "ref:FR:STIF:stop_id": "StopPoint:44:3367",
+    "route_ref": "702",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6187746816,
+  "lat": 48.8565703,
+  "lon": 2.4922412,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "ZA Péripole",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427733",
+    "ref:FR:STIF:stop_id": "StopPoint:44:5330",
+    "route_ref": "702",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6187746817,
+  "lat": 48.8523308,
+  "lon": 2.4896598,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Louison Bobet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "427737",
+    "ref:FR:STIF:stop_id": "StopPoint:44:32211",
+    "route_ref": "702"
+  }
+},
+{
+  "type": "node",
+  "id": 6247745444,
+  "lat": 48.8555651,
+  "lon": 2.4569106,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danton",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26577",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3685929",
+    "route_ref": "127",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6264317974,
+  "lat": 48.8439044,
+  "lon": 2.4628651,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontenay-sous-Bois RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29948",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4028772",
+    "route_ref": "210",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6361986362,
+  "lat": 48.8588873,
+  "lon": 2.4732670,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27917",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690352",
+    "route_ref": "La Navette",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6361986365,
+  "lat": 48.8506070,
+  "lon": 2.4755894,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Médiathèque Aragon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27902",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690345",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56858045"
+  }
+},
+{
+  "type": "node",
+  "id": 6365315969,
+  "lat": 48.8462293,
+  "lon": 2.4672398,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boschot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "461818",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7344785",
+    "route_ref": "124",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6374803795,
+  "lat": 48.8535381,
+  "lon": 2.4876457,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val-de-Fontenay RER",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6487265899,
+  "lat": 48.8509480,
+  "lon": 2.4624970,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25248",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690339",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6487275765,
+  "lat": 48.8537667,
+  "lon": 2.4879341,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Val de Fontenay RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22665",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3690366",
+    "route_ref": "La Navette",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7475339842,
+  "lat": 48.8433139,
+  "lon": 2.4642849,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Fontenay-sous-Bois RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29948",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4028772",
+    "route_ref": "210",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,813 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 26660882,
+  "nodes": [
+    292480529,
+    2283021781,
+    292421953,
+    1627899237,
+    1624518483,
+    292421955,
+    1624518485,
+    1624518480,
+    7843196255,
+    292421907
+  ],
+  "tags": {
+    "cycleway:left": "shared_lane",
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Boulevard de l'Yerres",
+    "source": "Route500",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26674901,
+  "nodes": [
+    292551881,
+    5411902999,
+    292551880
+  ],
+  "tags": {
+    "cycleway:left": "shared_lane",
+    "cycleway:right": "lane",
+    "description": "bande cyclable en montant et trajectoire axiale en descente",
+    "highway": "unclassified",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue du Lac",
+    "sidewalk": "right",
+    "smoothness": "good",
+    "source": "cadastre-dgi-fr source : Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2020 + BDOrtho OGN",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 31957335,
+  "nodes": [
+    357941419,
+    5249384550,
+    2128199372,
+    5249384549,
+    292760483
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue Pierre Bérégovoy",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 32531237,
+  "nodes": [
+    292760325,
+    357941419
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue Pierre Bérégovoy",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 32531238,
+  "nodes": [
+    357941423,
+    2128199368,
+    371667636,
+    2128199366,
+    292760336
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "unclassified",
+    "lanes": "1",
+    "name": "Avenue du Bois de la Garenne",
+    "oneway": "yes",
+    "source": "Route500",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32722982,
+  "nodes": [
+    292760336,
+    368214272,
+    368214271,
+    357941429
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable d'un côté et TMC axiale de l'autre",
+    "highway": "unclassified",
+    "lanes": "2",
+    "name": "Avenue du Bois de la Garenne",
+    "oneway": "yes",
+    "source": "Route500",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 32723288,
+  "nodes": [
+    357941432,
+    368220603,
+    357941449
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Avenue de la Garenne",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 32723289,
+  "nodes": [
+    357941449,
+    368220669,
+    357941440
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "lanes": "2",
+    "name": "Avenue de la Garenne",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 202882512,
+  "nodes": [
+    292422161,
+    2128199537,
+    1731635994,
+    2128199531,
+    2128199528,
+    292422543,
+    7843453650,
+    292422358
+  ],
+  "tags": {
+    "cycleway:left": "shared_lane",
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "3",
+    "name": "Boulevard du Maréchal Leclerc",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2013",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 242812403,
+  "nodes": [
+    292421589,
+    2502663734,
+    5685400930,
+    2502663762,
+    2502663769,
+    2502663774
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable de chaque côté",
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Boulevard des Champs-Élysées",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 242812404,
+  "nodes": [
+    2502663774,
+    2502663770,
+    1140042791,
+    1029461029,
+    292480693,
+    2286604349,
+    292421589
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable de chaque côté",
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Boulevard des Champs-Élysées",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 246192109,
+  "nodes": [
+    300993927,
+    355851637,
+    2621692800,
+    1297049940,
+    2621692791,
+    269841188,
+    269841189,
+    2621692775,
+    269840619
+  ],
+  "tags": {
+    "cycleway:left": "shared_lane",
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "3",
+    "name": "Avenue de l'Orme à Martin",
+    "source": "Route500",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 246198701,
+  "nodes": [
+    292760483,
+    5249384548,
+    610917391,
+    357941423
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Rond-Point de la Garenne"
+  }
+},
+{
+  "type": "way",
+  "id": 246198702,
+  "nodes": [
+    357941429,
+    610917394,
+    357941432
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "lanes": "2",
+    "name": "Rond-Point de la Garenne"
+  }
+},
+{
+  "type": "way",
+  "id": 246198703,
+  "nodes": [
+    357941440,
+    365850549,
+    610917402,
+    292760325
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable pour aller à droite",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Rond-Point de la Garenne"
+  }
+},
+{
+  "type": "way",
+  "id": 264098834,
+  "nodes": [
+    2697693988,
+    2502914887
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "fixme": "Divided highway/oneway - only paint (ligne blanche)",
+    "highway": "secondary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Avenue du Général Patton",
+    "oneway": "yes",
+    "ref": "D 93",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 419173489,
+  "nodes": [
+    1023749837,
+    1023757577,
+    1023757578,
+    292422357,
+    2128199542,
+    595359553,
+    292422161
+  ],
+  "tags": {
+    "cycleway:left": "shared_lane",
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "3",
+    "lit": "yes",
+    "name": "Boulevard du Maréchal Leclerc",
+    "source": "Route500",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3608851788,
+  "tags": {
+    "admin_level": "8",
+    "admin_type:FR": "commune nouvelle",
+    "boundary": "administrative",
+    "name": "Évry-Courcouronnes",
+    "population": "66851",
+    "population:date": "2019",
+    "postal_code": "91000;91080",
+    "ref:INSEE": "91228",
+    "source:population": "INSEE 2022",
+    "start_date": "2019-01-01",
+    "type": "boundary",
+    "wikidata": "Q57782245",
+    "wikipedia": "fr:Évry-Courcouronnes"
+  }
+},
+{
+  "type": "node",
+  "id": 292760325,
+  "lat": 48.6213172,
+  "lon": 2.4035248
+},
+{
+  "type": "node",
+  "id": 292760336,
+  "lat": 48.6203600,
+  "lon": 2.4026142
+},
+{
+  "type": "node",
+  "id": 292760483,
+  "lat": 48.6212624,
+  "lon": 2.4031693
+},
+{
+  "type": "node",
+  "id": 357941419,
+  "lat": 48.6218392,
+  "lon": 2.4031403
+},
+{
+  "type": "node",
+  "id": 357941423,
+  "lat": 48.6210374,
+  "lon": 2.4030783
+},
+{
+  "type": "node",
+  "id": 357941429,
+  "lat": 48.6208559,
+  "lon": 2.4033896
+},
+{
+  "type": "node",
+  "id": 357941432,
+  "lat": 48.6209064,
+  "lon": 2.4036284
+},
+{
+  "type": "node",
+  "id": 357941440,
+  "lat": 48.6211404,
+  "lon": 2.4037559
+},
+{
+  "type": "node",
+  "id": 357941449,
+  "lat": 48.6208733,
+  "lon": 2.4044565
+},
+{
+  "type": "node",
+  "id": 365850549,
+  "lat": 48.6212233,
+  "lon": 2.4037026
+},
+{
+  "type": "node",
+  "id": 368214271,
+  "lat": 48.6207226,
+  "lon": 2.4031138
+},
+{
+  "type": "node",
+  "id": 368214272,
+  "lat": 48.6205901,
+  "lon": 2.4028775
+},
+{
+  "type": "node",
+  "id": 368220603,
+  "lat": 48.6209199,
+  "lon": 2.4039103
+},
+{
+  "type": "node",
+  "id": 368220669,
+  "lat": 48.6210391,
+  "lon": 2.4039962
+},
+{
+  "type": "node",
+  "id": 371667636,
+  "lat": 48.6208483,
+  "lon": 2.4029552
+},
+{
+  "type": "node",
+  "id": 610917391,
+  "lat": 48.6211348,
+  "lon": 2.4030802
+},
+{
+  "type": "node",
+  "id": 610917394,
+  "lat": 48.6208664,
+  "lon": 2.4035139
+},
+{
+  "type": "node",
+  "id": 610917402,
+  "lat": 48.6212836,
+  "lon": 2.4036132
+},
+{
+  "type": "node",
+  "id": 2128199366,
+  "lat": 48.6206258,
+  "lon": 2.4028140
+},
+{
+  "type": "node",
+  "id": 2128199368,
+  "lat": 48.6209525,
+  "lon": 2.4030113
+},
+{
+  "type": "node",
+  "id": 2128199372,
+  "lat": 48.6214179,
+  "lon": 2.4031615
+},
+{
+  "type": "node",
+  "id": 5249384548,
+  "lat": 48.6212203,
+  "lon": 2.4031292
+},
+{
+  "type": "node",
+  "id": 5249384549,
+  "lat": 48.6213063,
+  "lon": 2.4031761
+},
+{
+  "type": "node",
+  "id": 5249384550,
+  "lat": 48.6215909,
+  "lon": 2.4031761
+},
+{
+  "type": "node",
+  "id": 269840619,
+  "lat": 48.6297982,
+  "lon": 2.4109790
+},
+{
+  "type": "node",
+  "id": 269841189,
+  "lat": 48.6301291,
+  "lon": 2.4114597
+},
+{
+  "type": "node",
+  "id": 2621692775,
+  "lat": 48.6299718,
+  "lon": 2.4112317
+},
+{
+  "type": "node",
+  "id": 292421953,
+  "lat": 48.6167627,
+  "lon": 2.4313805
+},
+{
+  "type": "node",
+  "id": 292480529,
+  "lat": 48.6170223,
+  "lon": 2.4310688
+},
+{
+  "type": "node",
+  "id": 2283021781,
+  "lat": 48.6169329,
+  "lon": 2.4311761
+},
+{
+  "type": "node",
+  "id": 292421907,
+  "lat": 48.6143732,
+  "lon": 2.4339232
+},
+{
+  "type": "node",
+  "id": 292421955,
+  "lat": 48.6156739,
+  "lon": 2.4325269
+},
+{
+  "type": "node",
+  "id": 1624518480,
+  "lat": 48.6149360,
+  "lon": 2.4333177
+},
+{
+  "type": "node",
+  "id": 1624518483,
+  "lat": 48.6160672,
+  "lon": 2.4321150
+},
+{
+  "type": "node",
+  "id": 1624518485,
+  "lat": 48.6153059,
+  "lon": 2.4329283
+},
+{
+  "type": "node",
+  "id": 1627899237,
+  "lat": 48.6163779,
+  "lon": 2.4317850
+},
+{
+  "type": "node",
+  "id": 7843196255,
+  "lat": 48.6144716,
+  "lon": 2.4338111
+},
+{
+  "type": "node",
+  "id": 292551880,
+  "lat": 48.6214040,
+  "lon": 2.4243858
+},
+{
+  "type": "node",
+  "id": 269841188,
+  "lat": 48.6303399,
+  "lon": 2.4118487
+},
+{
+  "type": "node",
+  "id": 300993927,
+  "lat": 48.6306604,
+  "lon": 2.4126834
+},
+{
+  "type": "node",
+  "id": 355851637,
+  "lat": 48.6306102,
+  "lon": 2.4125340
+},
+{
+  "type": "node",
+  "id": 1297049940,
+  "lat": 48.6304923,
+  "lon": 2.4121960
+},
+{
+  "type": "node",
+  "id": 2621692791,
+  "lat": 48.6304203,
+  "lon": 2.4120238
+},
+{
+  "type": "node",
+  "id": 2621692800,
+  "lat": 48.6305549,
+  "lon": 2.4123663
+},
+{
+  "type": "node",
+  "id": 292551881,
+  "lat": 48.6218858,
+  "lon": 2.4252143
+},
+{
+  "type": "node",
+  "id": 5411902999,
+  "lat": 48.6218227,
+  "lon": 2.4251222
+},
+{
+  "type": "node",
+  "id": 292421589,
+  "lat": 48.6407445,
+  "lon": 2.4285826
+},
+{
+  "type": "node",
+  "id": 292480693,
+  "lat": 48.6409432,
+  "lon": 2.4287080
+},
+{
+  "type": "node",
+  "id": 1029461029,
+  "lat": 48.6411113,
+  "lon": 2.4288480
+},
+{
+  "type": "node",
+  "id": 1140042791,
+  "lat": 48.6412683,
+  "lon": 2.4289667
+},
+{
+  "type": "node",
+  "id": 2286604349,
+  "lat": 48.6408854,
+  "lon": 2.4286605
+},
+{
+  "type": "node",
+  "id": 2502663734,
+  "lat": 48.6408516,
+  "lon": 2.4287550
+},
+{
+  "type": "node",
+  "id": 2502663762,
+  "lat": 48.6412546,
+  "lon": 2.4290526
+},
+{
+  "type": "node",
+  "id": 2502663769,
+  "lat": 48.6415705,
+  "lon": 2.4292406
+},
+{
+  "type": "node",
+  "id": 2502663770,
+  "lat": 48.6415796,
+  "lon": 2.4291759
+},
+{
+  "type": "node",
+  "id": 2502663774,
+  "lat": 48.6419062,
+  "lon": 2.4294124
+},
+{
+  "type": "node",
+  "id": 5685400930,
+  "lat": 48.6411482,
+  "lon": 2.4289741
+},
+{
+  "type": "node",
+  "id": 292422543,
+  "lat": 48.6299589,
+  "lon": 2.4435681
+},
+{
+  "type": "node",
+  "id": 2128199528,
+  "lat": 48.6306092,
+  "lon": 2.4426500
+},
+{
+  "type": "node",
+  "id": 2128199531,
+  "lat": 48.6309264,
+  "lon": 2.4421903
+},
+{
+  "type": "node",
+  "id": 7843453650,
+  "lat": 48.6298275,
+  "lon": 2.4437523
+},
+{
+  "type": "node",
+  "id": 292422358,
+  "lat": 48.6291834,
+  "lon": 2.4446555
+},
+{
+  "type": "node",
+  "id": 292422161,
+  "lat": 48.6314713,
+  "lon": 2.4412328
+},
+{
+  "type": "node",
+  "id": 292422357,
+  "lat": 48.6317554,
+  "lon": 2.4404950
+},
+{
+  "type": "node",
+  "id": 595359553,
+  "lat": 48.6315530,
+  "lon": 2.4410573
+},
+{
+  "type": "node",
+  "id": 1023749837,
+  "lat": 48.6320069,
+  "lon": 2.4393789
+},
+{
+  "type": "node",
+  "id": 1023757577,
+  "lat": 48.6318936,
+  "lon": 2.4399867
+},
+{
+  "type": "node",
+  "id": 1023757578,
+  "lat": 48.6318343,
+  "lon": 2.4402268
+},
+{
+  "type": "node",
+  "id": 1731635994,
+  "lat": 48.6312618,
+  "lon": 2.4416585
+},
+{
+  "type": "node",
+  "id": 2128199537,
+  "lat": 48.6313866,
+  "lon": 2.4414016
+},
+{
+  "type": "node",
+  "id": 2128199542,
+  "lat": 48.6316114,
+  "lon": 2.4409364
+},
+{
+  "type": "node",
+  "id": 2502914887,
+  "lat": 48.6351907,
+  "lon": 2.4552811
+},
+{
+  "type": "node",
+  "id": 2697693988,
+  "lat": 48.6353460,
+  "lon": 2.4555162
+}
+
+  ]
+}

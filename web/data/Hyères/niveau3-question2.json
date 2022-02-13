@@ -1,0 +1,3703 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 25688662,
+  "nodes": [
+    1156864732,
+    280076616,
+    9394440785,
+    288426346
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.4",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Route de l'Almanarre",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26326473,
+  "nodes": [
+    7820692306,
+    250040323,
+    250040333
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Boulevard de la Marine",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 42",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26326531,
+  "nodes": [
+    250031251,
+    3377780570,
+    9357967113,
+    8756604321,
+    8756597315,
+    8756597316,
+    285149655
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed:type": "FR:rural",
+    "name": "Route de Nice",
+    "oneway": "yes",
+    "ref": "D 559A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 26782715,
+  "nodes": [
+    6339395491,
+    293772564,
+    1157345452,
+    293772565,
+    249501706
+  ],
+  "tags": {
+    "cycleway:left:width": "1.1",
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.1",
+    "highway": "secondary",
+    "name": "Route de Toulon",
+    "old_ref": "N 98",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 98",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 27275626,
+  "nodes": [
+    249501706,
+    249501716,
+    8176541097,
+    8176541098,
+    249501717,
+    8176541096,
+    8176541095,
+    249501718,
+    249501719,
+    8176541093,
+    8176541094,
+    249501721,
+    8176541092,
+    8176541091,
+    249501724,
+    8176541090,
+    249501734,
+    249501736,
+    8176541089,
+    8176541088,
+    249501740,
+    6339395490
+  ],
+  "tags": {
+    "cycleway:left:width": "1.1",
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.1",
+    "highway": "secondary",
+    "name": "Route de Toulon",
+    "old_ref": "N 98",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 98",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 37991640,
+  "nodes": [
+    249501831,
+    9376243782,
+    599288127,
+    7996943471
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 40333097,
+  "nodes": [
+    299172302,
+    9381331670,
+    5981799264,
+    5981799266,
+    5981799267,
+    285418114
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "maxspeed": "50",
+    "name": "Avenue Alphonse Denis",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 100072995,
+  "nodes": [
+    288426343,
+    1156865061,
+    1156864732
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.3",
+    "highway": "primary",
+    "name": "Route de l'Almanarre",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 100088602,
+  "nodes": [
+    285149655,
+    8756604317,
+    9357967114,
+    8756604318,
+    8756604319,
+    8756604320,
+    1157037105,
+    3377780568,
+    285147717
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "primary",
+    "lanes": "1",
+    "maxspeed:type": "FR:rural",
+    "name": "Route de Nice",
+    "oneway": "yes",
+    "ref": "D 559A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 100088604,
+  "nodes": [
+    1157037251,
+    9216001807,
+    9216001804,
+    9216001808
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 115481735,
+  "nodes": [
+    343565095,
+    7770672565,
+    9378807344,
+    249615176
+  ],
+  "tags": {
+    "cycleway:left": "opposite_lane",
+    "cycleway:left:width": "1.2",
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "unclassified",
+    "name": "Avenue Edith Cavell",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref:FR:FANTOIR": "830690760F",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 154840012,
+  "nodes": [
+    6304393083,
+    9376243752,
+    6304393077,
+    8174056341,
+    1673104009,
+    6304393081,
+    6304394091,
+    6304393078,
+    2061535676
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Avenue du Maréchal Leclerc",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 195735375,
+  "nodes": [
+    6240977286,
+    2061535525,
+    6256716009,
+    6304394086
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 196870339,
+  "nodes": [
+    2071647004,
+    8804433325,
+    8804433324,
+    2071646890
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 196870355,
+  "nodes": [
+    2071647000,
+    2316224026,
+    2071646791,
+    2316224027
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 203573501,
+  "nodes": [
+    489450651,
+    2071646848,
+    8804433323,
+    2071646839
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Chemin du Moulin Premier",
+    "oneway": "yes",
+    "ref": "D 559A",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288627,
+  "nodes": [
+    2316224030,
+    2071647004
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288629,
+  "nodes": [
+    2071646766,
+    8404128756,
+    3076399330,
+    489450651
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Chemin du Moulin Premier",
+    "oneway": "yes",
+    "ref": "D 559A",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288630,
+  "nodes": [
+    2071646854,
+    2071646813
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lanes": "1",
+    "name": "Chemin du Plan du Pont",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288631,
+  "nodes": [
+    2071646813,
+    8804433326,
+    2071647001
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "unclassified",
+    "lanes": "1",
+    "name": "Chemin du Plan du Pont",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288632,
+  "nodes": [
+    489450265,
+    8804433337,
+    285430945,
+    8804433338,
+    2071646809,
+    8804433339,
+    8547936826,
+    2316224028,
+    8804433340,
+    8804433341,
+    2316224027
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Route de Nice",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 303288633,
+  "nodes": [
+    2071647000,
+    8804433342,
+    3076399331,
+    8804433333,
+    3076400533,
+    8804433334,
+    3076400534,
+    8804433336,
+    489450265
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "80",
+    "name": "Route de Nice",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559A",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 319590579,
+  "nodes": [
+    7897189725,
+    3260177318,
+    3260177327,
+    3260177326,
+    7897189736,
+    3260177325,
+    3260177324,
+    7897189733,
+    7897189735,
+    3260177317,
+    3260177316,
+    3260177315,
+    7897189748
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Rond-Point Louis Picoche",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 538063600,
+  "nodes": [
+    5208907080,
+    5208907083,
+    8440831464,
+    5208907096,
+    5208907097,
+    8440831469,
+    5208907098,
+    5208907084,
+    5208907085,
+    8440831444,
+    5208907086,
+    8440831456,
+    5208907090
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point Louis Ravier",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 668764232,
+  "nodes": [
+    285430925,
+    9371244798,
+    6262683171,
+    285399133
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 668764249,
+  "nodes": [
+    6262683181,
+    6262685894,
+    6262685895,
+    6262685896,
+    6262685897,
+    6262685889,
+    6262683182,
+    6262685890,
+    6262685891,
+    6262685892,
+    6262683183
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point de Koekelberg",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 668764254,
+  "nodes": [
+    6262683183,
+    6262685898,
+    6262685899,
+    6262685900,
+    6262683184,
+    6262685885,
+    6262685886,
+    6262685887,
+    6262685888,
+    6262685893,
+    6262683181
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point de Koekelberg",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 668764257,
+  "nodes": [
+    486093556,
+    6262683169,
+    6262683157,
+    486093557,
+    6262683158,
+    6262683159,
+    285430925
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 668764265,
+  "nodes": [
+    285430925,
+    6262683163,
+    6262683164,
+    486093553
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 673206965,
+  "nodes": [
+    2061535546,
+    9376243750,
+    6304394085,
+    9376243751,
+    6304393080,
+    8174056336,
+    8002569479
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Avenue du Maréchal Leclerc",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 686904572,
+  "nodes": [
+    285149677,
+    6438897259,
+    6438897263,
+    6438897258,
+    1848120699
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "service",
+    "oneway": "yes",
+    "service": "parking_aisle",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 839688462,
+  "nodes": [
+    7796778047,
+    7490717491,
+    7835528633,
+    7835528642,
+    2085690043,
+    7835528648,
+    7835528657,
+    7796778046,
+    1304744423
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.3",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Route de l'Almanarre",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 846456466,
+  "nodes": [
+    3260177312,
+    3260177332,
+    3260177333,
+    3260177334,
+    7897189723,
+    7897189761,
+    7897189724,
+    7897189725
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.5",
+    "highway": "tertiary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Chemin du Palyvestre",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 857773459,
+  "nodes": [
+    488584757,
+    249501827,
+    1673103999
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "name": "Avenue du Maréchal Leclerc",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 859371124,
+  "nodes": [
+    488584757,
+    7996943466,
+    7996943467,
+    7996943473,
+    7996943468
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 859371125,
+  "nodes": [
+    2061535546,
+    2061535553,
+    6256716011,
+    2061535676
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 859371128,
+  "nodes": [
+    2061535676,
+    2061535544,
+    1527453238,
+    6256716012,
+    6256716013,
+    6256716014,
+    6256716015,
+    8911813934,
+    8911813933,
+    6304394087,
+    6256716017
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 859371129,
+  "nodes": [
+    6256716017,
+    2061535951,
+    6240977286
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 859371130,
+  "nodes": [
+    488584754,
+    1158326000,
+    599288126,
+    9376243783,
+    249501831
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 859371131,
+  "nodes": [
+    249719174,
+    9376243780,
+    9376243779,
+    599288125,
+    9376243773
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 860597248,
+  "nodes": [
+    2071646854,
+    2071646777,
+    2071647001
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 864069237,
+  "nodes": [
+    2071647001,
+    2316224029,
+    2071647014,
+    2316224030
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 864069238,
+  "nodes": [
+    2316224030,
+    2071646761,
+    2316224033,
+    2071646890
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 864069239,
+  "nodes": [
+    486093553,
+    6262683165,
+    6262683166,
+    6262683177,
+    6262683160
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 864597408,
+  "nodes": [
+    7801480157,
+    1304750881
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.5",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "70",
+    "name": "Route de l'Almanarre",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 867771222,
+  "nodes": [
+    8791374764,
+    486819628,
+    486819641,
+    7906897679,
+    486819629
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.5",
+    "highway": "residential",
+    "lanes": "2",
+    "lit": "yes",
+    "name": "Avenue du Soleil Levant",
+    "oneway": "no",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "sidewalk": "both",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 878661584,
+  "nodes": [
+    8002569479,
+    6304393083
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "lanes": "1",
+    "name": "Avenue du Maréchal Leclerc",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 884150336,
+  "nodes": [
+    1681246486,
+    6695781844,
+    6695781843,
+    2392043384,
+    8222529791
+  ],
+  "tags": {
+    "cycleway:left": "no",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "advisory",
+    "highway": "secondary",
+    "name": "Route des Marais",
+    "ref": "D 42",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 889474517,
+  "nodes": [
+    6304394086,
+    6256716010,
+    2061535780,
+    2061535685,
+    6304394090
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 889474518,
+  "nodes": [
+    6304394090,
+    6304394093,
+    2061535546
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 890801288,
+  "nodes": [
+    288431774,
+    1156947567,
+    9277837896,
+    8279261072,
+    1156947519,
+    8279261083,
+    1156947553,
+    7820692307
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Boulevard de la Marine",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 42",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 890801289,
+  "nodes": [
+    250040333,
+    8279261084
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Boulevard de la Marine",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 42",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 890801298,
+  "nodes": [
+    8279261084,
+    9277837895,
+    1156947478,
+    288431774
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Boulevard de la Marine",
+    "oneway": "yes",
+    "oneway:bicycle": "yes",
+    "ref": "D 42",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 904949915,
+  "nodes": [
+    2071646766,
+    2316224032,
+    2071646882,
+    2071646839
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 905325747,
+  "nodes": [
+    2071646890,
+    9216001745,
+    2071646766
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 916124042,
+  "nodes": [
+    3260177329,
+    3260177328,
+    3260177323,
+    3260177322,
+    3260177321,
+    7897189730
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Rond-Point Louis Picoche",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 918120234,
+  "nodes": [
+    7897189748,
+    3260177314,
+    7897189743,
+    3260177330,
+    3260177329
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Rond-Point Louis Picoche",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 918120235,
+  "nodes": [
+    7897189730,
+    3260177320,
+    7897189722,
+    3260177319,
+    7897189725
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "name": "Rond-Point Louis Picoche",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 919630574,
+  "nodes": [
+    6262683162,
+    9373137954,
+    486093555
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 919630575,
+  "nodes": [
+    2071646839,
+    2071646826,
+    2316224031,
+    2071647000
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 921954439,
+  "nodes": [
+    2316224027,
+    3076399332,
+    2071646854
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lanes": "1",
+    "maxspeed": "50",
+    "name": "Rond-Point du 54e Régiment d'Artillerie",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 921954440,
+  "nodes": [
+    486093555,
+    6262683167,
+    6262683168,
+    486093556
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 945887583,
+  "nodes": [
+    6262683160,
+    6262683161,
+    285399136,
+    6262683162
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point du 21 Août 1944",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 949622340,
+  "nodes": [
+    1304614242,
+    285430926
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "sidewalk": "both",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2015",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 950391848,
+  "nodes": [
+    1304750881,
+    7801480159
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.5",
+    "highway": "primary",
+    "lanes": "2",
+    "name": "Route de l'Almanarre",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 950391849,
+  "nodes": [
+    8798233674,
+    7835528634,
+    7796778047
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.4",
+    "highway": "primary",
+    "maxspeed": "50",
+    "name": "Route de l'Almanarre",
+    "oneway": "yes",
+    "ref": "D 559",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 998106922,
+  "nodes": [
+    5208907090,
+    8440831474,
+    5208907092,
+    5208907093,
+    8440831480,
+    250147930,
+    5208907094,
+    8440831432,
+    5208907087,
+    5208907088,
+    5208907089,
+    8440831439,
+    5208907080
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "lane_markings": "no",
+    "name": "Rond-Point Louis Ravier",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1015884267,
+  "nodes": [
+    489448916,
+    9370417659,
+    9370417660,
+    2071692534,
+    285430939,
+    285430938,
+    2071692478
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "1",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref:FR:FANTOIR": "830692284M",
+    "source": "<différent>",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1015884269,
+  "nodes": [
+    285430943,
+    9370417668,
+    285430940,
+    9370417666,
+    9370417667,
+    489448916
+  ],
+  "tags": {
+    "cycleway:left": "lane",
+    "cycleway:left:width": "1.2",
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.2",
+    "highway": "secondary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Avenue de Rottweill",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "ref:FR:FANTOIR": "830692284M",
+    "source": "<différent>",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1016559043,
+  "nodes": [
+    9376243739,
+    9376243738,
+    9376243737,
+    8002571385
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Rue Yann Piat",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1016559044,
+  "nodes": [
+    9376243740,
+    9376243741,
+    5982754207,
+    9376243739
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lanes": "1",
+    "name": "Rue Yann Piat",
+    "oneway": "yes",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 1016559051,
+  "nodes": [
+    9376243773,
+    1158326006,
+    7996943465,
+    6566213644,
+    488584757
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 1016559054,
+  "nodes": [
+    7996943471,
+    488584760,
+    249719174
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 1016559057,
+  "nodes": [
+    7996943468,
+    9376243786,
+    488584754
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1",
+    "highway": "tertiary",
+    "junction": "roundabout",
+    "name": "Avenue du Maréchal Leclerc",
+    "operator": "Métropole Toulon Provence Méditerranée"
+  }
+},
+{
+  "type": "way",
+  "id": 1017093851,
+  "nodes": [
+    1304800946,
+    1304800949,
+    9381337295,
+    1304800962,
+    6899005301,
+    3260177335
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "cycleway:right:width": "1.5",
+    "highway": "tertiary",
+    "lanes": "2",
+    "lit": "yes",
+    "maxspeed": "50",
+    "name": "Chemin du Palyvestre",
+    "operator": "Métropole Toulon Provence Méditerranée",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "area",
+  "id": 3600380060,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Hyères",
+    "name:oc": "Ièra",
+    "population": "54821",
+    "population:date": "2019",
+    "postal_code": "83400",
+    "ref:INSEE": "83069",
+    "source:name:oc": "ieo-bdtopoc",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q192574",
+    "wikipedia": "fr:Hyères"
+  }
+},
+{
+  "type": "node",
+  "id": 1681246486,
+  "lat": 43.0799739,
+  "lon": 6.1276512
+},
+{
+  "type": "node",
+  "id": 6695781844,
+  "lat": 43.0799927,
+  "lon": 6.1280161
+},
+{
+  "type": "node",
+  "id": 280076616,
+  "lat": 43.0803737,
+  "lon": 6.1269994
+},
+{
+  "type": "node",
+  "id": 288426343,
+  "lat": 43.0801959,
+  "lon": 6.1271116
+},
+{
+  "type": "node",
+  "id": 288426346,
+  "lat": 43.0803047,
+  "lon": 6.1268679
+},
+{
+  "type": "node",
+  "id": 1156864732,
+  "lat": 43.0804974,
+  "lon": 6.1272010
+},
+{
+  "type": "node",
+  "id": 1156865061,
+  "lat": 43.0803039,
+  "lon": 6.1271334
+},
+{
+  "type": "node",
+  "id": 9394440785,
+  "lat": 43.0803352,
+  "lon": 6.1269345
+},
+{
+  "type": "node",
+  "id": 1304744423,
+  "lat": 43.0825530,
+  "lon": 6.1284254
+},
+{
+  "type": "node",
+  "id": 2085690043,
+  "lat": 43.0823024,
+  "lon": 6.1283129
+},
+{
+  "type": "node",
+  "id": 2392043384,
+  "lat": 43.0806849,
+  "lon": 6.1330886
+},
+{
+  "type": "node",
+  "id": 6695781843,
+  "lat": 43.0801570,
+  "lon": 6.1292293
+},
+{
+  "type": "node",
+  "id": 7490717491,
+  "lat": 43.0815046,
+  "lon": 6.1279316
+},
+{
+  "type": "node",
+  "id": 7796778046,
+  "lat": 43.0824591,
+  "lon": 6.1283860
+},
+{
+  "type": "node",
+  "id": 7796778047,
+  "lat": 43.0813233,
+  "lon": 6.1278293
+},
+{
+  "type": "node",
+  "id": 7835528633,
+  "lat": 43.0815963,
+  "lon": 6.1279810
+},
+{
+  "type": "node",
+  "id": 7835528634,
+  "lat": 43.0815156,
+  "lon": 6.1278938
+},
+{
+  "type": "node",
+  "id": 7835528642,
+  "lat": 43.0822163,
+  "lon": 6.1282723
+},
+{
+  "type": "node",
+  "id": 7835528648,
+  "lat": 43.0823116,
+  "lon": 6.1283172
+},
+{
+  "type": "node",
+  "id": 7835528657,
+  "lat": 43.0823919,
+  "lon": 6.1283551
+},
+{
+  "type": "node",
+  "id": 8222529791,
+  "lat": 43.0807599,
+  "lon": 6.1336463
+},
+{
+  "type": "node",
+  "id": 8798233674,
+  "lat": 43.0820959,
+  "lon": 6.1281505
+},
+{
+  "type": "node",
+  "id": 1304750881,
+  "lat": 43.0920172,
+  "lon": 6.1298091
+},
+{
+  "type": "node",
+  "id": 7801480157,
+  "lat": 43.0918427,
+  "lon": 6.1297425
+},
+{
+  "type": "node",
+  "id": 7801480159,
+  "lat": 43.0921909,
+  "lon": 6.1298965
+},
+{
+  "type": "node",
+  "id": 250147930,
+  "lat": 43.1115558,
+  "lon": 6.1227922
+},
+{
+  "type": "node",
+  "id": 5208907080,
+  "lat": 43.1117019,
+  "lon": 6.1227768
+},
+{
+  "type": "node",
+  "id": 5208907083,
+  "lat": 43.1117083,
+  "lon": 6.1227582
+},
+{
+  "type": "node",
+  "id": 5208907084,
+  "lat": 43.1116452,
+  "lon": 6.1225975
+},
+{
+  "type": "node",
+  "id": 5208907085,
+  "lat": 43.1116203,
+  "lon": 6.1225945
+},
+{
+  "type": "node",
+  "id": 5208907086,
+  "lat": 43.1115735,
+  "lon": 6.1226168
+},
+{
+  "type": "node",
+  "id": 5208907087,
+  "lat": 43.1116125,
+  "lon": 6.1228364
+},
+{
+  "type": "node",
+  "id": 5208907088,
+  "lat": 43.1116388,
+  "lon": 6.1228362
+},
+{
+  "type": "node",
+  "id": 5208907089,
+  "lat": 43.1116639,
+  "lon": 6.1228254
+},
+{
+  "type": "node",
+  "id": 5208907090,
+  "lat": 43.1115474,
+  "lon": 6.1226568
+},
+{
+  "type": "node",
+  "id": 5208907092,
+  "lat": 43.1115362,
+  "lon": 6.1227197
+},
+{
+  "type": "node",
+  "id": 5208907093,
+  "lat": 43.1115401,
+  "lon": 6.1227519
+},
+{
+  "type": "node",
+  "id": 5208907094,
+  "lat": 43.1115718,
+  "lon": 6.1228133
+},
+{
+  "type": "node",
+  "id": 5208907096,
+  "lat": 43.1117113,
+  "lon": 6.1226871
+},
+{
+  "type": "node",
+  "id": 5208907097,
+  "lat": 43.1117014,
+  "lon": 6.1226538
+},
+{
+  "type": "node",
+  "id": 5208907098,
+  "lat": 43.1116663,
+  "lon": 6.1226082
+},
+{
+  "type": "node",
+  "id": 8440831432,
+  "lat": 43.1115911,
+  "lon": 6.1228284
+},
+{
+  "type": "node",
+  "id": 8440831439,
+  "lat": 43.1116856,
+  "lon": 6.1228050
+},
+{
+  "type": "node",
+  "id": 8440831444,
+  "lat": 43.1115957,
+  "lon": 6.1226011
+},
+{
+  "type": "node",
+  "id": 8440831456,
+  "lat": 43.1115554,
+  "lon": 6.1226404
+},
+{
+  "type": "node",
+  "id": 8440831464,
+  "lat": 43.1117137,
+  "lon": 6.1227229
+},
+{
+  "type": "node",
+  "id": 8440831469,
+  "lat": 43.1116848,
+  "lon": 6.1226259
+},
+{
+  "type": "node",
+  "id": 8440831474,
+  "lat": 43.1115387,
+  "lon": 6.1226872
+},
+{
+  "type": "node",
+  "id": 8440831480,
+  "lat": 43.1115502,
+  "lon": 6.1227815
+},
+{
+  "type": "node",
+  "id": 249615176,
+  "lat": 43.1125793,
+  "lon": 6.1277882
+},
+{
+  "type": "node",
+  "id": 9378807344,
+  "lat": 43.1126843,
+  "lon": 6.1278699
+},
+{
+  "type": "node",
+  "id": 250040323,
+  "lat": 43.0863276,
+  "lon": 6.1565500
+},
+{
+  "type": "node",
+  "id": 250040333,
+  "lat": 43.0860917,
+  "lon": 6.1559886
+},
+{
+  "type": "node",
+  "id": 288431774,
+  "lat": 43.0858089,
+  "lon": 6.1551522
+},
+{
+  "type": "node",
+  "id": 1156947478,
+  "lat": 43.0859581,
+  "lon": 6.1556426
+},
+{
+  "type": "node",
+  "id": 1156947519,
+  "lat": 43.0860224,
+  "lon": 6.1560986
+},
+{
+  "type": "node",
+  "id": 1156947553,
+  "lat": 43.0860987,
+  "lon": 6.1563325
+},
+{
+  "type": "node",
+  "id": 1156947567,
+  "lat": 43.0859194,
+  "lon": 6.1556670
+},
+{
+  "type": "node",
+  "id": 7820692306,
+  "lat": 43.0863690,
+  "lon": 6.1566428
+},
+{
+  "type": "node",
+  "id": 7820692307,
+  "lat": 43.0863073,
+  "lon": 6.1567127
+},
+{
+  "type": "node",
+  "id": 8279261072,
+  "lat": 43.0859826,
+  "lon": 6.1559596
+},
+{
+  "type": "node",
+  "id": 8279261083,
+  "lat": 43.0860428,
+  "lon": 6.1561751
+},
+{
+  "type": "node",
+  "id": 8279261084,
+  "lat": 43.0860766,
+  "lon": 6.1559480
+},
+{
+  "type": "node",
+  "id": 9277837895,
+  "lat": 43.0860005,
+  "lon": 6.1557481
+},
+{
+  "type": "node",
+  "id": 9277837896,
+  "lat": 43.0859406,
+  "lon": 6.1557845
+},
+{
+  "type": "node",
+  "id": 1304800946,
+  "lat": 43.1035891,
+  "lon": 6.1405840
+},
+{
+  "type": "node",
+  "id": 1304800949,
+  "lat": 43.1039727,
+  "lon": 6.1407986
+},
+{
+  "type": "node",
+  "id": 1304800962,
+  "lat": 43.1043272,
+  "lon": 6.1409628
+},
+{
+  "type": "node",
+  "id": 3260177312,
+  "lat": 43.1059189,
+  "lon": 6.1421899
+},
+{
+  "type": "node",
+  "id": 3260177318,
+  "lat": 43.1061674,
+  "lon": 6.1424260
+},
+{
+  "type": "node",
+  "id": 3260177319,
+  "lat": 43.1061498,
+  "lon": 6.1423742
+},
+{
+  "type": "node",
+  "id": 3260177320,
+  "lat": 43.1061516,
+  "lon": 6.1422565
+},
+{
+  "type": "node",
+  "id": 3260177321,
+  "lat": 43.1061730,
+  "lon": 6.1422018
+},
+{
+  "type": "node",
+  "id": 3260177322,
+  "lat": 43.1062059,
+  "lon": 6.1421592
+},
+{
+  "type": "node",
+  "id": 3260177323,
+  "lat": 43.1062470,
+  "lon": 6.1421331
+},
+{
+  "type": "node",
+  "id": 3260177324,
+  "lat": 43.1063131,
+  "lon": 6.1425090
+},
+{
+  "type": "node",
+  "id": 3260177325,
+  "lat": 43.1062714,
+  "lon": 6.1425119
+},
+{
+  "type": "node",
+  "id": 3260177326,
+  "lat": 43.1062310,
+  "lon": 6.1424980
+},
+{
+  "type": "node",
+  "id": 3260177327,
+  "lat": 43.1061953,
+  "lon": 6.1424685
+},
+{
+  "type": "node",
+  "id": 3260177328,
+  "lat": 43.1062920,
+  "lon": 6.1421261
+},
+{
+  "type": "node",
+  "id": 3260177332,
+  "lat": 43.1059951,
+  "lon": 6.1422853
+},
+{
+  "type": "node",
+  "id": 3260177333,
+  "lat": 43.1060283,
+  "lon": 6.1423230
+},
+{
+  "type": "node",
+  "id": 3260177334,
+  "lat": 43.1060646,
+  "lon": 6.1423603
+},
+{
+  "type": "node",
+  "id": 3260177335,
+  "lat": 43.1047071,
+  "lon": 6.1410948
+},
+{
+  "type": "node",
+  "id": 6899005301,
+  "lat": 43.1045633,
+  "lon": 6.1410563
+},
+{
+  "type": "node",
+  "id": 7897189722,
+  "lat": 43.1061440,
+  "lon": 6.1423176
+},
+{
+  "type": "node",
+  "id": 7897189723,
+  "lat": 43.1060903,
+  "lon": 6.1423778
+},
+{
+  "type": "node",
+  "id": 7897189724,
+  "lat": 43.1061155,
+  "lon": 6.1423827
+},
+{
+  "type": "node",
+  "id": 7897189725,
+  "lat": 43.1061561,
+  "lon": 6.1423927
+},
+{
+  "type": "node",
+  "id": 7897189730,
+  "lat": 43.1061638,
+  "lon": 6.1422252
+},
+{
+  "type": "node",
+  "id": 7897189736,
+  "lat": 43.1062355,
+  "lon": 6.1424996
+},
+{
+  "type": "node",
+  "id": 7897189761,
+  "lat": 43.1061029,
+  "lon": 6.1423803
+},
+{
+  "type": "node",
+  "id": 9381337295,
+  "lat": 43.1042381,
+  "lon": 6.1409214
+},
+{
+  "type": "node",
+  "id": 3260177314,
+  "lat": 43.1064228,
+  "lon": 6.1422751
+},
+{
+  "type": "node",
+  "id": 3260177315,
+  "lat": 43.1064258,
+  "lon": 6.1423379
+},
+{
+  "type": "node",
+  "id": 3260177316,
+  "lat": 43.1064141,
+  "lon": 6.1423987
+},
+{
+  "type": "node",
+  "id": 3260177317,
+  "lat": 43.1063887,
+  "lon": 6.1424511
+},
+{
+  "type": "node",
+  "id": 3260177329,
+  "lat": 43.1063363,
+  "lon": 6.1421389
+},
+{
+  "type": "node",
+  "id": 3260177330,
+  "lat": 43.1063753,
+  "lon": 6.1421703
+},
+{
+  "type": "node",
+  "id": 7897189733,
+  "lat": 43.1063523,
+  "lon": 6.1424896
+},
+{
+  "type": "node",
+  "id": 7897189735,
+  "lat": 43.1063772,
+  "lon": 6.1424633
+},
+{
+  "type": "node",
+  "id": 7897189743,
+  "lat": 43.1064051,
+  "lon": 6.1422170
+},
+{
+  "type": "node",
+  "id": 7897189748,
+  "lat": 43.1064248,
+  "lon": 6.1423165
+},
+{
+  "type": "node",
+  "id": 249501717,
+  "lat": 43.1259402,
+  "lon": 6.0896063
+},
+{
+  "type": "node",
+  "id": 249501718,
+  "lat": 43.1258380,
+  "lon": 6.0898625
+},
+{
+  "type": "node",
+  "id": 249501719,
+  "lat": 43.1256427,
+  "lon": 6.0902035
+},
+{
+  "type": "node",
+  "id": 249501721,
+  "lat": 43.1255709,
+  "lon": 6.0904231
+},
+{
+  "type": "node",
+  "id": 249501724,
+  "lat": 43.1255393,
+  "lon": 6.0906812
+},
+{
+  "type": "node",
+  "id": 249501734,
+  "lat": 43.1255596,
+  "lon": 6.0908772
+},
+{
+  "type": "node",
+  "id": 249501736,
+  "lat": 43.1255825,
+  "lon": 6.0909578
+},
+{
+  "type": "node",
+  "id": 249501740,
+  "lat": 43.1256963,
+  "lon": 6.0911803
+},
+{
+  "type": "node",
+  "id": 6339395490,
+  "lat": 43.1257517,
+  "lon": 6.0912902
+},
+{
+  "type": "node",
+  "id": 8176541088,
+  "lat": 43.1256380,
+  "lon": 6.0910822
+},
+{
+  "type": "node",
+  "id": 8176541089,
+  "lat": 43.1256068,
+  "lon": 6.0910257
+},
+{
+  "type": "node",
+  "id": 8176541090,
+  "lat": 43.1255433,
+  "lon": 6.0907886
+},
+{
+  "type": "node",
+  "id": 8176541091,
+  "lat": 43.1255451,
+  "lon": 6.0905931
+},
+{
+  "type": "node",
+  "id": 8176541092,
+  "lat": 43.1255563,
+  "lon": 6.0905095
+},
+{
+  "type": "node",
+  "id": 8176541093,
+  "lat": 43.1256030,
+  "lon": 6.0902902
+},
+{
+  "type": "node",
+  "id": 8176541094,
+  "lat": 43.1255835,
+  "lon": 6.0903566
+},
+{
+  "type": "node",
+  "id": 8176541095,
+  "lat": 43.1258809,
+  "lon": 6.0897814
+},
+{
+  "type": "node",
+  "id": 8176541096,
+  "lat": 43.1259133,
+  "lon": 6.0896995
+},
+{
+  "type": "node",
+  "id": 249501706,
+  "lat": 43.1260661,
+  "lon": 6.0884151
+},
+{
+  "type": "node",
+  "id": 249501716,
+  "lat": 43.1260380,
+  "lon": 6.0890243
+},
+{
+  "type": "node",
+  "id": 293772564,
+  "lat": 43.1260452,
+  "lon": 6.0910808
+},
+{
+  "type": "node",
+  "id": 293772565,
+  "lat": 43.1260712,
+  "lon": 6.0890092
+},
+{
+  "type": "node",
+  "id": 1157345452,
+  "lat": 43.1260521,
+  "lon": 6.0907792
+},
+{
+  "type": "node",
+  "id": 6339395491,
+  "lat": 43.1260445,
+  "lon": 6.0911277
+},
+{
+  "type": "node",
+  "id": 8176541097,
+  "lat": 43.1260091,
+  "lon": 6.0892465
+},
+{
+  "type": "node",
+  "id": 8176541098,
+  "lat": 43.1259856,
+  "lon": 6.0893944
+},
+{
+  "type": "node",
+  "id": 5982754207,
+  "lat": 43.1192945,
+  "lon": 6.1165245
+},
+{
+  "type": "node",
+  "id": 8002571385,
+  "lat": 43.1192158,
+  "lon": 6.1164183
+},
+{
+  "type": "node",
+  "id": 9376243737,
+  "lat": 43.1192517,
+  "lon": 6.1164591
+},
+{
+  "type": "node",
+  "id": 9376243738,
+  "lat": 43.1192982,
+  "lon": 6.1165000
+},
+{
+  "type": "node",
+  "id": 9376243739,
+  "lat": 43.1193354,
+  "lon": 6.1165141
+},
+{
+  "type": "node",
+  "id": 9376243740,
+  "lat": 43.1191836,
+  "lon": 6.1165438
+},
+{
+  "type": "node",
+  "id": 9376243741,
+  "lat": 43.1192312,
+  "lon": 6.1165354
+},
+{
+  "type": "node",
+  "id": 249501827,
+  "lat": 43.1199471,
+  "lon": 6.1141841
+},
+{
+  "type": "node",
+  "id": 249501831,
+  "lat": 43.1197300,
+  "lon": 6.1141411
+},
+{
+  "type": "node",
+  "id": 249719174,
+  "lat": 43.1197432,
+  "lon": 6.1143448
+},
+{
+  "type": "node",
+  "id": 488584754,
+  "lat": 43.1198327,
+  "lon": 6.1140973
+},
+{
+  "type": "node",
+  "id": 488584757,
+  "lat": 43.1199090,
+  "lon": 6.1142601
+},
+{
+  "type": "node",
+  "id": 488584760,
+  "lat": 43.1197320,
+  "lon": 6.1143305
+},
+{
+  "type": "node",
+  "id": 599288125,
+  "lat": 43.1198189,
+  "lon": 6.1143747
+},
+{
+  "type": "node",
+  "id": 599288126,
+  "lat": 43.1197768,
+  "lon": 6.1140994
+},
+{
+  "type": "node",
+  "id": 599288127,
+  "lat": 43.1197044,
+  "lon": 6.1142390
+},
+{
+  "type": "node",
+  "id": 1158326000,
+  "lat": 43.1198047,
+  "lon": 6.1140930
+},
+{
+  "type": "node",
+  "id": 1158326006,
+  "lat": 43.1198676,
+  "lon": 6.1143491
+},
+{
+  "type": "node",
+  "id": 1527453238,
+  "lat": 43.1213418,
+  "lon": 6.1105710
+},
+{
+  "type": "node",
+  "id": 1673103999,
+  "lat": 43.1199863,
+  "lon": 6.1140681
+},
+{
+  "type": "node",
+  "id": 1673104009,
+  "lat": 43.1215223,
+  "lon": 6.1103849
+},
+{
+  "type": "node",
+  "id": 2061535525,
+  "lat": 43.1213390,
+  "lon": 6.1108656
+},
+{
+  "type": "node",
+  "id": 2061535544,
+  "lat": 43.1213726,
+  "lon": 6.1105776
+},
+{
+  "type": "node",
+  "id": 2061535546,
+  "lat": 43.1214478,
+  "lon": 6.1107061
+},
+{
+  "type": "node",
+  "id": 2061535553,
+  "lat": 43.1214404,
+  "lon": 6.1106635
+},
+{
+  "type": "node",
+  "id": 2061535676,
+  "lat": 43.1214007,
+  "lon": 6.1105961
+},
+{
+  "type": "node",
+  "id": 2061535685,
+  "lat": 43.1214346,
+  "lon": 6.1107900
+},
+{
+  "type": "node",
+  "id": 2061535780,
+  "lat": 43.1214208,
+  "lon": 6.1108165
+},
+{
+  "type": "node",
+  "id": 2061535951,
+  "lat": 43.1212830,
+  "lon": 6.1108426
+},
+{
+  "type": "node",
+  "id": 6240977286,
+  "lat": 43.1213170,
+  "lon": 6.1108620
+},
+{
+  "type": "node",
+  "id": 6256716009,
+  "lat": 43.1213611,
+  "lon": 6.1108629
+},
+{
+  "type": "node",
+  "id": 6256716010,
+  "lat": 43.1214031,
+  "lon": 6.1108382
+},
+{
+  "type": "node",
+  "id": 6256716011,
+  "lat": 43.1214243,
+  "lon": 6.1106257
+},
+{
+  "type": "node",
+  "id": 6256716012,
+  "lat": 43.1213109,
+  "lon": 6.1105767
+},
+{
+  "type": "node",
+  "id": 6256716013,
+  "lat": 43.1212826,
+  "lon": 6.1105943
+},
+{
+  "type": "node",
+  "id": 6256716014,
+  "lat": 43.1212590,
+  "lon": 6.1106223
+},
+{
+  "type": "node",
+  "id": 6256716015,
+  "lat": 43.1212424,
+  "lon": 6.1106583
+},
+{
+  "type": "node",
+  "id": 6256716017,
+  "lat": 43.1212557,
+  "lon": 6.1108087
+},
+{
+  "type": "node",
+  "id": 6304393077,
+  "lat": 43.1216013,
+  "lon": 6.1100905
+},
+{
+  "type": "node",
+  "id": 6304393078,
+  "lat": 43.1214464,
+  "lon": 6.1105455
+},
+{
+  "type": "node",
+  "id": 6304393080,
+  "lat": 43.1215816,
+  "lon": 6.1104256
+},
+{
+  "type": "node",
+  "id": 6304393081,
+  "lat": 43.1214948,
+  "lon": 6.1104671
+},
+{
+  "type": "node",
+  "id": 6304393083,
+  "lat": 43.1216552,
+  "lon": 6.1099729
+},
+{
+  "type": "node",
+  "id": 6304394085,
+  "lat": 43.1214949,
+  "lon": 6.1106481
+},
+{
+  "type": "node",
+  "id": 6304394086,
+  "lat": 43.1213824,
+  "lon": 6.1108540
+},
+{
+  "type": "node",
+  "id": 6304394087,
+  "lat": 43.1212425,
+  "lon": 6.1107785
+},
+{
+  "type": "node",
+  "id": 6304394090,
+  "lat": 43.1214437,
+  "lon": 6.1107600
+},
+{
+  "type": "node",
+  "id": 6304394091,
+  "lat": 43.1214679,
+  "lon": 6.1105201
+},
+{
+  "type": "node",
+  "id": 6304394093,
+  "lat": 43.1214476,
+  "lon": 6.1107333
+},
+{
+  "type": "node",
+  "id": 6566213644,
+  "lat": 43.1199005,
+  "lon": 6.1142956
+},
+{
+  "type": "node",
+  "id": 7996943465,
+  "lat": 43.1198865,
+  "lon": 6.1143252
+},
+{
+  "type": "node",
+  "id": 7996943466,
+  "lat": 43.1199103,
+  "lon": 6.1142214
+},
+{
+  "type": "node",
+  "id": 7996943467,
+  "lat": 43.1199038,
+  "lon": 6.1141837
+},
+{
+  "type": "node",
+  "id": 7996943468,
+  "lat": 43.1198703,
+  "lon": 6.1141222
+},
+{
+  "type": "node",
+  "id": 7996943471,
+  "lat": 43.1197129,
+  "lon": 6.1142906
+},
+{
+  "type": "node",
+  "id": 7996943473,
+  "lat": 43.1198902,
+  "lon": 6.1141498
+},
+{
+  "type": "node",
+  "id": 8002569479,
+  "lat": 43.1216474,
+  "lon": 6.1101824
+},
+{
+  "type": "node",
+  "id": 8174056336,
+  "lat": 43.1216377,
+  "lon": 6.1102279
+},
+{
+  "type": "node",
+  "id": 8174056341,
+  "lat": 43.1215725,
+  "lon": 6.1101976
+},
+{
+  "type": "node",
+  "id": 8911813933,
+  "lat": 43.1212342,
+  "lon": 6.1107398
+},
+{
+  "type": "node",
+  "id": 8911813934,
+  "lat": 43.1212340,
+  "lon": 6.1106994
+},
+{
+  "type": "node",
+  "id": 9376243750,
+  "lat": 43.1214723,
+  "lon": 6.1106803
+},
+{
+  "type": "node",
+  "id": 9376243751,
+  "lat": 43.1215208,
+  "lon": 6.1105952
+},
+{
+  "type": "node",
+  "id": 9376243752,
+  "lat": 43.1216277,
+  "lon": 6.1100322
+},
+{
+  "type": "node",
+  "id": 9376243773,
+  "lat": 43.1198450,
+  "lon": 6.1143659
+},
+{
+  "type": "node",
+  "id": 9376243779,
+  "lat": 43.1197921,
+  "lon": 6.1143740
+},
+{
+  "type": "node",
+  "id": 9376243780,
+  "lat": 43.1197662,
+  "lon": 6.1143638
+},
+{
+  "type": "node",
+  "id": 9376243782,
+  "lat": 43.1197104,
+  "lon": 6.1141867
+},
+{
+  "type": "node",
+  "id": 9376243783,
+  "lat": 43.1197513,
+  "lon": 6.1141158
+},
+{
+  "type": "node",
+  "id": 9376243786,
+  "lat": 43.1198525,
+  "lon": 6.1141071
+},
+{
+  "type": "node",
+  "id": 343565095,
+  "lat": 43.1132981,
+  "lon": 6.1284752
+},
+{
+  "type": "node",
+  "id": 7770672565,
+  "lat": 43.1131614,
+  "lon": 6.1283379
+},
+{
+  "type": "node",
+  "id": 285418114,
+  "lat": 43.1207469,
+  "lon": 6.1311835
+},
+{
+  "type": "node",
+  "id": 299172302,
+  "lat": 43.1208188,
+  "lon": 6.1325830
+},
+{
+  "type": "node",
+  "id": 5981799264,
+  "lat": 43.1208001,
+  "lon": 6.1322490
+},
+{
+  "type": "node",
+  "id": 5981799266,
+  "lat": 43.1207846,
+  "lon": 6.1319695
+},
+{
+  "type": "node",
+  "id": 5981799267,
+  "lat": 43.1207549,
+  "lon": 6.1313072
+},
+{
+  "type": "node",
+  "id": 9381331670,
+  "lat": 43.1208090,
+  "lon": 6.1324083
+},
+{
+  "type": "node",
+  "id": 486819628,
+  "lat": 43.1178811,
+  "lon": 6.1404499
+},
+{
+  "type": "node",
+  "id": 8791374764,
+  "lat": 43.1179884,
+  "lon": 6.1399238
+},
+{
+  "type": "node",
+  "id": 486819629,
+  "lat": 43.1174174,
+  "lon": 6.1418936
+},
+{
+  "type": "node",
+  "id": 486819641,
+  "lat": 43.1177313,
+  "lon": 6.1409146
+},
+{
+  "type": "node",
+  "id": 7906897679,
+  "lat": 43.1174226,
+  "lon": 6.1418376
+},
+{
+  "type": "node",
+  "id": 6262683181,
+  "lat": 43.1237264,
+  "lon": 6.1466762
+},
+{
+  "type": "node",
+  "id": 6262683182,
+  "lat": 43.1236731,
+  "lon": 6.1468704
+},
+{
+  "type": "node",
+  "id": 6262683183,
+  "lat": 43.1237911,
+  "lon": 6.1469296
+},
+{
+  "type": "node",
+  "id": 6262683184,
+  "lat": 43.1238557,
+  "lon": 6.1467819
+},
+{
+  "type": "node",
+  "id": 6262685885,
+  "lat": 43.1238449,
+  "lon": 6.1467379
+},
+{
+  "type": "node",
+  "id": 6262685886,
+  "lat": 43.1238262,
+  "lon": 6.1467044
+},
+{
+  "type": "node",
+  "id": 6262685887,
+  "lat": 43.1238008,
+  "lon": 6.1466804
+},
+{
+  "type": "node",
+  "id": 6262685888,
+  "lat": 43.1237712,
+  "lon": 6.1466684
+},
+{
+  "type": "node",
+  "id": 6262685889,
+  "lat": 43.1236613,
+  "lon": 6.1468269
+},
+{
+  "type": "node",
+  "id": 6262685890,
+  "lat": 43.1236950,
+  "lon": 6.1469059
+},
+{
+  "type": "node",
+  "id": 6262685891,
+  "lat": 43.1237246,
+  "lon": 6.1469291
+},
+{
+  "type": "node",
+  "id": 6262685892,
+  "lat": 43.1237577,
+  "lon": 6.1469373
+},
+{
+  "type": "node",
+  "id": 6262685893,
+  "lat": 43.1237403,
+  "lon": 6.1466694
+},
+{
+  "type": "node",
+  "id": 6262685894,
+  "lat": 43.1237112,
+  "lon": 6.1466835
+},
+{
+  "type": "node",
+  "id": 6262685895,
+  "lat": 43.1236868,
+  "lon": 6.1467093
+},
+{
+  "type": "node",
+  "id": 6262685896,
+  "lat": 43.1236693,
+  "lon": 6.1467441
+},
+{
+  "type": "node",
+  "id": 6262685897,
+  "lat": 43.1236605,
+  "lon": 6.1467847
+},
+{
+  "type": "node",
+  "id": 6262685898,
+  "lat": 43.1238207,
+  "lon": 6.1469068
+},
+{
+  "type": "node",
+  "id": 6262685899,
+  "lat": 43.1238428,
+  "lon": 6.1468717
+},
+{
+  "type": "node",
+  "id": 6262685900,
+  "lat": 43.1238550,
+  "lon": 6.1468284
+},
+{
+  "type": "node",
+  "id": 285399133,
+  "lat": 43.1245177,
+  "lon": 6.1493053
+},
+{
+  "type": "node",
+  "id": 285399136,
+  "lat": 43.1247511,
+  "lon": 6.1504336
+},
+{
+  "type": "node",
+  "id": 285430925,
+  "lat": 43.1248145,
+  "lon": 6.1501314
+},
+{
+  "type": "node",
+  "id": 285430926,
+  "lat": 43.1252529,
+  "lon": 6.1508221
+},
+{
+  "type": "node",
+  "id": 486093553,
+  "lat": 43.1247071,
+  "lon": 6.1502054
+},
+{
+  "type": "node",
+  "id": 486093555,
+  "lat": 43.1248289,
+  "lon": 6.1504494
+},
+{
+  "type": "node",
+  "id": 486093556,
+  "lat": 43.1249169,
+  "lon": 6.1503441
+},
+{
+  "type": "node",
+  "id": 486093557,
+  "lat": 43.1248998,
+  "lon": 6.1501941
+},
+{
+  "type": "node",
+  "id": 1304614242,
+  "lat": 43.1255569,
+  "lon": 6.1510170
+},
+{
+  "type": "node",
+  "id": 6262683157,
+  "lat": 43.1249175,
+  "lon": 6.1502395
+},
+{
+  "type": "node",
+  "id": 6262683158,
+  "lat": 43.1248726,
+  "lon": 6.1501586
+},
+{
+  "type": "node",
+  "id": 6262683159,
+  "lat": 43.1248386,
+  "lon": 6.1501367
+},
+{
+  "type": "node",
+  "id": 6262683160,
+  "lat": 43.1246981,
+  "lon": 6.1503540
+},
+{
+  "type": "node",
+  "id": 6262683161,
+  "lat": 43.1247196,
+  "lon": 6.1504000
+},
+{
+  "type": "node",
+  "id": 6262683162,
+  "lat": 43.1247890,
+  "lon": 6.1504507
+},
+{
+  "type": "node",
+  "id": 6262683163,
+  "lat": 43.1247645,
+  "lon": 6.1501410
+},
+{
+  "type": "node",
+  "id": 6262683164,
+  "lat": 43.1247320,
+  "lon": 6.1501668
+},
+{
+  "type": "node",
+  "id": 6262683165,
+  "lat": 43.1246923,
+  "lon": 6.1502527
+},
+{
+  "type": "node",
+  "id": 6262683166,
+  "lat": 43.1246892,
+  "lon": 6.1503040
+},
+{
+  "type": "node",
+  "id": 6262683167,
+  "lat": 43.1248662,
+  "lon": 6.1504300
+},
+{
+  "type": "node",
+  "id": 6262683168,
+  "lat": 43.1248965,
+  "lon": 6.1503946
+},
+{
+  "type": "node",
+  "id": 6262683169,
+  "lat": 43.1249238,
+  "lon": 6.1502935
+},
+{
+  "type": "node",
+  "id": 6262683171,
+  "lat": 43.1247300,
+  "lon": 6.1499570
+},
+{
+  "type": "node",
+  "id": 6262683177,
+  "lat": 43.1246920,
+  "lon": 6.1503200
+},
+{
+  "type": "node",
+  "id": 9371244798,
+  "lat": 43.1247764,
+  "lon": 6.1500773
+},
+{
+  "type": "node",
+  "id": 9373137954,
+  "lat": 43.1248090,
+  "lon": 6.1504521
+},
+{
+  "type": "node",
+  "id": 285430938,
+  "lat": 43.1277985,
+  "lon": 6.1532350
+},
+{
+  "type": "node",
+  "id": 285430939,
+  "lat": 43.1279366,
+  "lon": 6.1533448
+},
+{
+  "type": "node",
+  "id": 489448916,
+  "lat": 43.1282198,
+  "lon": 6.1537723
+},
+{
+  "type": "node",
+  "id": 2071692478,
+  "lat": 43.1276939,
+  "lon": 6.1531965
+},
+{
+  "type": "node",
+  "id": 2071692534,
+  "lat": 43.1280457,
+  "lon": 6.1534630
+},
+{
+  "type": "node",
+  "id": 9370417659,
+  "lat": 43.1281934,
+  "lon": 6.1536922
+},
+{
+  "type": "node",
+  "id": 9370417660,
+  "lat": 43.1281494,
+  "lon": 6.1536010
+},
+{
+  "type": "node",
+  "id": 285430940,
+  "lat": 43.1286469,
+  "lon": 6.1544928
+},
+{
+  "type": "node",
+  "id": 285430943,
+  "lat": 43.1287696,
+  "lon": 6.1547708
+},
+{
+  "type": "node",
+  "id": 285430945,
+  "lat": 43.1291409,
+  "lon": 6.1562727
+},
+{
+  "type": "node",
+  "id": 489450265,
+  "lat": 43.1291312,
+  "lon": 6.1566990
+},
+{
+  "type": "node",
+  "id": 489450651,
+  "lat": 43.1282540,
+  "lon": 6.1551319
+},
+{
+  "type": "node",
+  "id": 2071646761,
+  "lat": 43.1289122,
+  "lon": 6.1552473
+},
+{
+  "type": "node",
+  "id": 2071646766,
+  "lat": 43.1287820,
+  "lon": 6.1552805
+},
+{
+  "type": "node",
+  "id": 2071646777,
+  "lat": 43.1289970,
+  "lon": 6.1554983
+},
+{
+  "type": "node",
+  "id": 2071646791,
+  "lat": 43.1288657,
+  "lon": 6.1556158
+},
+{
+  "type": "node",
+  "id": 2071646809,
+  "lat": 43.1290919,
+  "lon": 6.1560824
+},
+{
+  "type": "node",
+  "id": 2071646813,
+  "lat": 43.1290872,
+  "lon": 6.1555850
+},
+{
+  "type": "node",
+  "id": 2071646826,
+  "lat": 43.1287436,
+  "lon": 6.1555047
+},
+{
+  "type": "node",
+  "id": 2071646839,
+  "lat": 43.1287332,
+  "lon": 6.1554578
+},
+{
+  "type": "node",
+  "id": 2071646848,
+  "lat": 43.1286069,
+  "lon": 6.1553553
+},
+{
+  "type": "node",
+  "id": 2071646854,
+  "lat": 43.1289751,
+  "lon": 6.1555482
+},
+{
+  "type": "node",
+  "id": 2071646882,
+  "lat": 43.1287337,
+  "lon": 6.1553920
+},
+{
+  "type": "node",
+  "id": 2071646890,
+  "lat": 43.1288258,
+  "lon": 6.1552475
+},
+{
+  "type": "node",
+  "id": 2071647000,
+  "lat": 43.1287885,
+  "lon": 6.1555800
+},
+{
+  "type": "node",
+  "id": 2071647001,
+  "lat": 43.1290068,
+  "lon": 6.1554417
+},
+{
+  "type": "node",
+  "id": 2071647004,
+  "lat": 43.1288586,
+  "lon": 6.1550456
+},
+{
+  "type": "node",
+  "id": 2071647014,
+  "lat": 43.1289833,
+  "lon": 6.1553205
+},
+{
+  "type": "node",
+  "id": 2316224026,
+  "lat": 43.1288251,
+  "lon": 6.1556059
+},
+{
+  "type": "node",
+  "id": 2316224027,
+  "lat": 43.1289066,
+  "lon": 6.1556088
+},
+{
+  "type": "node",
+  "id": 2316224028,
+  "lat": 43.1289130,
+  "lon": 6.1557494
+},
+{
+  "type": "node",
+  "id": 2316224029,
+  "lat": 43.1290026,
+  "lon": 6.1553784
+},
+{
+  "type": "node",
+  "id": 2316224030,
+  "lat": 43.1289511,
+  "lon": 6.1552747
+},
+{
+  "type": "node",
+  "id": 2316224031,
+  "lat": 43.1287624,
+  "lon": 6.1555464
+},
+{
+  "type": "node",
+  "id": 2316224032,
+  "lat": 43.1287507,
+  "lon": 6.1553304
+},
+{
+  "type": "node",
+  "id": 2316224033,
+  "lat": 43.1288690,
+  "lon": 6.1552379
+},
+{
+  "type": "node",
+  "id": 3076399330,
+  "lat": 43.1286652,
+  "lon": 6.1552950
+},
+{
+  "type": "node",
+  "id": 3076399331,
+  "lat": 43.1288575,
+  "lon": 6.1557828
+},
+{
+  "type": "node",
+  "id": 3076399332,
+  "lat": 43.1289442,
+  "lon": 6.1555856
+},
+{
+  "type": "node",
+  "id": 3076400533,
+  "lat": 43.1290291,
+  "lon": 6.1560866
+},
+{
+  "type": "node",
+  "id": 3076400534,
+  "lat": 43.1290891,
+  "lon": 6.1562995
+},
+{
+  "type": "node",
+  "id": 8404128756,
+  "lat": 43.1287236,
+  "lon": 6.1552980
+},
+{
+  "type": "node",
+  "id": 8547936826,
+  "lat": 43.1289753,
+  "lon": 6.1558654
+},
+{
+  "type": "node",
+  "id": 8804433323,
+  "lat": 43.1286906,
+  "lon": 6.1554107
+},
+{
+  "type": "node",
+  "id": 8804433324,
+  "lat": 43.1288426,
+  "lon": 6.1551973
+},
+{
+  "type": "node",
+  "id": 8804433325,
+  "lat": 43.1288521,
+  "lon": 6.1551305
+},
+{
+  "type": "node",
+  "id": 8804433326,
+  "lat": 43.1290245,
+  "lon": 6.1554871
+},
+{
+  "type": "node",
+  "id": 8804433333,
+  "lat": 43.1289648,
+  "lon": 6.1559745
+},
+{
+  "type": "node",
+  "id": 8804433334,
+  "lat": 43.1290691,
+  "lon": 6.1561928
+},
+{
+  "type": "node",
+  "id": 8804433336,
+  "lat": 43.1291068,
+  "lon": 6.1564291
+},
+{
+  "type": "node",
+  "id": 8804433337,
+  "lat": 43.1291488,
+  "lon": 6.1564104
+},
+{
+  "type": "node",
+  "id": 8804433338,
+  "lat": 43.1291220,
+  "lon": 6.1561770
+},
+{
+  "type": "node",
+  "id": 8804433339,
+  "lat": 43.1290471,
+  "lon": 6.1559759
+},
+{
+  "type": "node",
+  "id": 8804433340,
+  "lat": 43.1289014,
+  "lon": 6.1557044
+},
+{
+  "type": "node",
+  "id": 8804433341,
+  "lat": 43.1289024,
+  "lon": 6.1556477
+},
+{
+  "type": "node",
+  "id": 8804433342,
+  "lat": 43.1288175,
+  "lon": 6.1556922
+},
+{
+  "type": "node",
+  "id": 9216001745,
+  "lat": 43.1288037,
+  "lon": 6.1552600
+},
+{
+  "type": "node",
+  "id": 9370417666,
+  "lat": 43.1285585,
+  "lon": 6.1543232
+},
+{
+  "type": "node",
+  "id": 9370417667,
+  "lat": 43.1284313,
+  "lon": 6.1540986
+},
+{
+  "type": "node",
+  "id": 9370417668,
+  "lat": 43.1287171,
+  "lon": 6.1546357
+},
+{
+  "type": "node",
+  "id": 1157037251,
+  "lat": 43.1305828,
+  "lon": 6.1655441
+},
+{
+  "type": "node",
+  "id": 1848120699,
+  "lat": 43.1308637,
+  "lon": 6.1666128
+},
+{
+  "type": "node",
+  "id": 6438897258,
+  "lat": 43.1308591,
+  "lon": 6.1666842
+},
+{
+  "type": "node",
+  "id": 6438897263,
+  "lat": 43.1308082,
+  "lon": 6.1667848
+},
+{
+  "type": "node",
+  "id": 9216001804,
+  "lat": 43.1302102,
+  "lon": 6.1641951
+},
+{
+  "type": "node",
+  "id": 9216001807,
+  "lat": 43.1304552,
+  "lon": 6.1650881
+},
+{
+  "type": "node",
+  "id": 9216001808,
+  "lat": 43.1300830,
+  "lon": 6.1638115
+},
+{
+  "type": "node",
+  "id": 285149677,
+  "lat": 43.1305180,
+  "lon": 6.1672077
+},
+{
+  "type": "node",
+  "id": 6438897259,
+  "lat": 43.1306134,
+  "lon": 6.1671764
+},
+{
+  "type": "node",
+  "id": 250031251,
+  "lat": 43.1270733,
+  "lon": 6.1905862
+},
+{
+  "type": "node",
+  "id": 285147717,
+  "lat": 43.1269169,
+  "lon": 6.1903660
+},
+{
+  "type": "node",
+  "id": 285149655,
+  "lat": 43.1272850,
+  "lon": 6.1894701
+},
+{
+  "type": "node",
+  "id": 1157037105,
+  "lat": 43.1270367,
+  "lon": 6.1902911
+},
+{
+  "type": "node",
+  "id": 3377780568,
+  "lat": 43.1269767,
+  "lon": 6.1903412
+},
+{
+  "type": "node",
+  "id": 3377780570,
+  "lat": 43.1271146,
+  "lon": 6.1903889
+},
+{
+  "type": "node",
+  "id": 8756597315,
+  "lat": 43.1272078,
+  "lon": 6.1899871
+},
+{
+  "type": "node",
+  "id": 8756597316,
+  "lat": 43.1272498,
+  "lon": 6.1897302
+},
+{
+  "type": "node",
+  "id": 8756604317,
+  "lat": 43.1272184,
+  "lon": 6.1897199
+},
+{
+  "type": "node",
+  "id": 8756604318,
+  "lat": 43.1271580,
+  "lon": 6.1899655
+},
+{
+  "type": "node",
+  "id": 8756604319,
+  "lat": 43.1271086,
+  "lon": 6.1901415
+},
+{
+  "type": "node",
+  "id": 8756604320,
+  "lat": 43.1270694,
+  "lon": 6.1902359
+},
+{
+  "type": "node",
+  "id": 8756604321,
+  "lat": 43.1271623,
+  "lon": 6.1901927
+},
+{
+  "type": "node",
+  "id": 9357967113,
+  "lat": 43.1271234,
+  "lon": 6.1903527
+},
+{
+  "type": "node",
+  "id": 9357967114,
+  "lat": 43.1271993,
+  "lon": 6.1897910
+}
+
+  ]
+}

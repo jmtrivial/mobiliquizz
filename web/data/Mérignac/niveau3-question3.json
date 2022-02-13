@@ -1,0 +1,5291 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 556811724,
+  "lat": 44.8607498,
+  "lon": -0.6426121,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grand Louis",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11885",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 603692139,
+  "lat": 44.8469411,
+  "lon": -0.6379472,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade du Jard",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 689469690,
+  "lat": 44.8290583,
+  "lon": -0.6635618,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "line": "1_30_34_48",
+    "name": "Chemin Long",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11898",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 748817821,
+  "lat": 44.8417615,
+  "lon": -0.6598132,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "name:TBM": "Jean Macé",
+    "name:TransGironde": "Mérignac - Rue J. Macé",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11889",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 761704942,
+  "lat": 44.8347135,
+  "lon": -0.6363787,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colette",
+    "network": "TBM",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11899",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 761704953,
+  "lat": 44.8348999,
+  "lon": -0.6361749,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Colette",
+    "network": "TBM",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11899",
+    "route_ref": "11",
+    "shelter": "no",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 761724888,
+  "lat": 44.8359099,
+  "lon": -0.6404382,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Chardons Bleus",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 761724899,
+  "lat": 44.8356042,
+  "lon": -0.6396429,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "TI6pUnSSAIY7rUwdV3Fcpw",
+    "name": "Chardons Bleus",
+    "network": "TBM",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2019-01-20"
+  }
+},
+{
+  "type": "node",
+  "id": 761724924,
+  "lat": 44.8363713,
+  "lon": -0.6420580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Foncastel",
+    "network": "TBM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 761797617,
+  "lat": 44.8281314,
+  "lon": -0.6718997,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "line": "30",
+    "name": "Château Rouquey",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11895",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 761797622,
+  "lat": 44.8280090,
+  "lon": -0.6696819,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "line": "30",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 761797624,
+  "lat": 44.8283926,
+  "lon": -0.6670082,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "image": "http://storage4.openstreetcam.org/files/photo/2017/6/6/lth/449357_22f8a_5936aaa47ba1b.jpg",
+    "line": "30",
+    "name": "École Arnaud Lafon",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2017-06-06"
+  }
+},
+{
+  "type": "node",
+  "id": 761797626,
+  "lat": 44.8284535,
+  "lon": -0.6674373,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "line": "30",
+    "mapillary": "cWSVEnmFF_IfVntp2YgS2Q",
+    "name": "École Arnaud Lafon",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2018-11-02"
+  }
+},
+{
+  "type": "node",
+  "id": 761797632,
+  "lat": 44.8291616,
+  "lon": -0.6636809,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "line": "1_30_34_48",
+    "name": "Chemin Long",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11898",
+    "shelter": "no",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 761797640,
+  "lat": 44.8314824,
+  "lon": -0.6560588,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Soleil",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1165126460,
+  "lat": 44.8463264,
+  "lon": -0.6778792,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Le Galus",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,48,82,88",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1165126489,
+  "lat": 44.8460984,
+  "lon": -0.6779896,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Le Galus",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,48,82,88",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1191187556,
+  "lat": 44.8460246,
+  "lon": -0.6557196,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Mérignac",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1191187559,
+  "lat": 44.8461900,
+  "lon": -0.6557893,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Mérignac",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006788,
+  "lat": 44.8290585,
+  "lon": -0.6481187,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 11 Novembre",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006836,
+  "lat": 44.8279425,
+  "lon": -0.6456395,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Les Eyquems",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006873,
+  "lat": 44.8285046,
+  "lon": -0.6485893,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place du 11 Novembre",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006924,
+  "lat": 44.8350179,
+  "lon": -0.6472934,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycées de Mérignac",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006940,
+  "lat": 44.8302205,
+  "lon": -0.6480272,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Résidence Beausite",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006959,
+  "lat": 44.8487537,
+  "lon": -0.6438097,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de la Prairie",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1253006980,
+  "lat": 44.8263685,
+  "lon": -0.6378694,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "y9_tyRnLygY_18y_NCA3pQ",
+    "name": "Aristide Briand",
+    "network": "TBM",
+    "operator": "Keolis",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2019-02-16"
+  }
+},
+{
+  "type": "node",
+  "id": 1298802507,
+  "lat": 44.8382811,
+  "lon": -0.6115899,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lognac",
+    "public_transport": "platform",
+    "route_ref": "1,41,42",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298802516,
+  "lat": 44.8382161,
+  "lon": -0.6151961,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place Mondésir",
+    "public_transport": "platform",
+    "route_ref": "1,41,42",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298802528,
+  "lat": 44.8384923,
+  "lon": -0.6175269,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mondésir Poste",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832113,
+  "lat": 44.8394059,
+  "lon": -0.6301802,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bourranville",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832116,
+  "lat": 44.8352024,
+  "lon": -0.6710213,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832119,
+  "lat": 44.8355191,
+  "lon": -0.6807429,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martyrs de la Libération",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832128,
+  "lat": 44.8411399,
+  "lon": -0.6512106,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joliot Curie",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832130,
+  "lat": 44.8312478,
+  "lon": -0.6653522,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vigneau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832132,
+  "lat": 44.8409563,
+  "lon": -0.6535695,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "René Coty",
+    "note": "banc \"debout\"",
+    "public_transport": "platform",
+    "route_ref": "1,11,42,82,88",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832135,
+  "lat": 44.8393642,
+  "lon": -0.6331957,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Président Wilson",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832146,
+  "lat": 44.8412076,
+  "lon": -0.6440500,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rostand",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832147,
+  "lat": 44.8357699,
+  "lon": -0.6821065,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martyrs de la Libération",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832148,
+  "lat": 44.8393034,
+  "lon": -0.6360522,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marx Dormoy",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832149,
+  "lat": 44.8417375,
+  "lon": -0.6480831,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Mérignac Centre (Médiathèque)",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832157,
+  "lat": 44.8370290,
+  "lon": -0.6485215,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Daguin",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "10654",
+    "shelter": "no",
+    "source": "Conseil général de la Gironde - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832161,
+  "lat": 44.8352615,
+  "lon": -0.6708012,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kennedy",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832164,
+  "lat": 44.8405628,
+  "lon": -0.6406135,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Mendès France",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832165,
+  "lat": 44.8397952,
+  "lon": -0.6386479,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mendès France",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832166,
+  "lat": 44.8316773,
+  "lon": -0.6938478,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Météo France",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832173,
+  "lat": 44.8412605,
+  "lon": -0.6524685,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joliot Curie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832176,
+  "lat": 44.8333792,
+  "lon": -0.6960967,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassin",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1298832179,
+  "lat": 44.8410008,
+  "lon": -0.6426455,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rostand",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1618180845,
+  "lat": 44.8260756,
+  "lon": -0.6255252,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fontaine d'Arlac",
+    "network": "23 54",
+    "operator": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1618180848,
+  "lat": 44.8416045,
+  "lon": -0.6466196,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Centre",
+    "operator": "CITRAM",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "20053",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123770,
+  "lat": 44.8497997,
+  "lon": -0.6565563,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frères Robinson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123771,
+  "lat": 44.8498710,
+  "lon": -0.6564976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frères Robinson",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123772,
+  "lat": 44.8504761,
+  "lon": -0.6554789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frères Robinson",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bordeaux Métropole. Mise à jour : 2020-10-29"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123773,
+  "lat": 44.8508320,
+  "lon": -0.6587519,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123774,
+  "lat": 44.8508365,
+  "lon": -0.6585089,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123775,
+  "lat": 44.8542622,
+  "lon": -0.6561645,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Centre des Impôts",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123777,
+  "lat": 44.8539015,
+  "lon": -0.6507382,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bosquets",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1979123778,
+  "lat": 44.8540520,
+  "lon": -0.6521693,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bosquets",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2215113608,
+  "lat": 44.8371222,
+  "lon": -0.6459076,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croustet",
+    "network": "TBM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2215113609,
+  "lat": 44.8372239,
+  "lon": -0.6462261,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croustet",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2406084457,
+  "lat": 44.8283403,
+  "lon": -0.6919520,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Navette Aéroport",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2657733756,
+  "lat": 44.8311902,
+  "lon": -0.6562822,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Soleil",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2734720876,
+  "lat": 44.8185798,
+  "lon": -0.6489678,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Cruchon",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Bordeaux Métropole 2020-12"
+  }
+},
+{
+  "type": "node",
+  "id": 2734735018,
+  "lat": 44.8133281,
+  "lon": -0.6678287,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de la Salle",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734735031,
+  "lat": 44.8135220,
+  "lon": -0.6655616,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boncour",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854486,
+  "lat": 44.8515052,
+  "lon": -0.6345272,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "G. Fauré",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854494,
+  "lat": 44.8542563,
+  "lon": -0.6443703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Blanc",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854498,
+  "lat": 44.8544180,
+  "lon": -0.6444661,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Blanc",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854502,
+  "lat": 44.8525240,
+  "lon": -0.6416892,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854506,
+  "lat": 44.8526122,
+  "lon": -0.6420930,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Léon Blum",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854518,
+  "lat": 44.8520449,
+  "lon": -0.6379629,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trianon",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2734854522,
+  "lat": 44.8522862,
+  "lon": -0.6388427,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trianon",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735004471,
+  "lat": 44.8279959,
+  "lon": -0.6138461,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "François Mitterrand",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735004480,
+  "lat": 44.8280770,
+  "lon": -0.6137113,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "François Mitterrand",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735006664,
+  "lat": 44.8327594,
+  "lon": -0.6135202,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cours d'Ornano",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11, 42",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007309,
+  "lat": 44.8343118,
+  "lon": -0.6221185,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brossolette",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007312,
+  "lat": 44.8372868,
+  "lon": -0.6193644,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "0F85FJxrAt57f-rfVnBW2w",
+    "name": "La Glacière",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2018-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007313,
+  "lat": 44.8335864,
+  "lon": -0.6176951,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Grappe d'Or",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11, 42",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007314,
+  "lat": 44.8337576,
+  "lon": -0.6171679,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Grappe d'Or",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007316,
+  "lat": 44.8307916,
+  "lon": -0.6173634,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Gallieni",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007317,
+  "lat": 44.8307472,
+  "lon": -0.6202520,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurian",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2735007318,
+  "lat": 44.8373439,
+  "lon": -0.6197274,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Glacière",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11896",
+    "source": "Conseil général de la Gironde - 12/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023136,
+  "lat": 44.8359952,
+  "lon": -0.6239993,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023137,
+  "lat": 44.8316955,
+  "lon": -0.6253077,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Bir Hakeim",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023138,
+  "lat": 44.8337664,
+  "lon": -0.6276164,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Churchill",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023139,
+  "lat": 44.8352704,
+  "lon": -0.6327406,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Labatut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023140,
+  "lat": 44.8353940,
+  "lon": -0.6328843,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Labatut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023141,
+  "lat": 44.8349792,
+  "lon": -0.6254975,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Pont",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023142,
+  "lat": 44.8364744,
+  "lon": -0.6502126,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Daguin [Terminus]",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023143,
+  "lat": 44.8413122,
+  "lon": -0.6502012,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac - Centre",
+    "public_transport": "platform",
+    "route_ref": "42",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023144,
+  "lat": 44.8327270,
+  "lon": -0.6451438,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac - Les Quatre Chemins",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11897",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023145,
+  "lat": 44.8412610,
+  "lon": -0.6524433,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac - Rue F. Joliot Curie",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11887",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023146,
+  "lat": 44.8402276,
+  "lon": -0.6479475,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Centre",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023147,
+  "lat": 44.8414181,
+  "lon": -0.6559016,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nungesser et Coli",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023148,
+  "lat": 44.8415357,
+  "lon": -0.6558052,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nungesser et Coli",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023149,
+  "lat": 44.8295679,
+  "lon": -0.6403996,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Mendès France",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023150,
+  "lat": 44.8296415,
+  "lon": -0.6402490,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pierre Mendès France",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023151,
+  "lat": 44.8321890,
+  "lon": -0.6481822,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735023152,
+  "lat": 44.8332573,
+  "lon": -0.6492224,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028693,
+  "lat": 44.8437613,
+  "lon": -0.6456105,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Truc",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028694,
+  "lat": 44.8439176,
+  "lon": -0.6453298,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "h4En2RmOdQOWRfTlIW57Lg",
+    "name": "Avenue du Truc",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2018-11-04"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028695,
+  "lat": 44.8445586,
+  "lon": -0.6459029,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Truc",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028696,
+  "lat": 44.8484440,
+  "lon": -0.6408251,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bertheau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028697,
+  "lat": 44.8488093,
+  "lon": -0.6410349,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bertheau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028698,
+  "lat": 44.8435020,
+  "lon": -0.6536542,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dorgelès",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028699,
+  "lat": 44.8436168,
+  "lon": -0.6535315,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dorgelès",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028700,
+  "lat": 44.8418299,
+  "lon": -0.6310872,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Caudéran",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028701,
+  "lat": 44.8425730,
+  "lon": -0.6314658,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Caudéran",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028702,
+  "lat": 44.8458137,
+  "lon": -0.6480045,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Cocteau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028703,
+  "lat": 44.8459753,
+  "lon": -0.6482353,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Cocteau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028704,
+  "lat": 44.8495001,
+  "lon": -0.6379122,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jeunesse",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028705,
+  "lat": 44.8502056,
+  "lon": -0.6378187,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jeunesse",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028706,
+  "lat": 44.8450308,
+  "lon": -0.6332645,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028707,
+  "lat": 44.8454376,
+  "lon": -0.6333931,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028708,
+  "lat": 44.8461697,
+  "lon": -0.6328568,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028709,
+  "lat": 44.8463416,
+  "lon": -0.6332168,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montesquieu",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028710,
+  "lat": 44.8462213,
+  "lon": -0.6390765,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade du Jard",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028711,
+  "lat": 44.8464080,
+  "lon": -0.6391844,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade du Jard",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028712,
+  "lat": 44.8432667,
+  "lon": -0.6505035,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tassigny",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028713,
+  "lat": 44.8445708,
+  "lon": -0.6498587,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tassigny",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028714,
+  "lat": 44.8458778,
+  "lon": -0.6494912,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Truc",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735028715,
+  "lat": 44.8466936,
+  "lon": -0.6488167,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Truc",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034535,
+  "lat": 44.8569193,
+  "lon": -0.6570710,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moussard",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034550,
+  "lat": 44.8570470,
+  "lon": -0.6572118,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moussard",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034641,
+  "lat": 44.8562037,
+  "lon": -0.6421487,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034654,
+  "lat": 44.8562961,
+  "lon": -0.6422571,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034673,
+  "lat": 44.8561230,
+  "lon": -0.6446060,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "TBM",
+    "old_name": "La Forêt",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034685,
+  "lat": 44.8562482,
+  "lon": -0.6447306,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "TBM",
+    "old_name": "La Forêt",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034692,
+  "lat": 44.8568059,
+  "lon": -0.6437752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034693,
+  "lat": 44.8571181,
+  "lon": -0.6435351,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034702,
+  "lat": 44.8563195,
+  "lon": -0.6384846,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martin",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034706,
+  "lat": 44.8563506,
+  "lon": -0.6392418,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Martin",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034711,
+  "lat": 44.8563406,
+  "lon": -0.6427445,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Barbusse Terminus",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 09/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034725,
+  "lat": 44.8563242,
+  "lon": -0.6515093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Strélitzias",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034730,
+  "lat": 44.8564631,
+  "lon": -0.6517825,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Strélitzias",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034735,
+  "lat": 44.8561290,
+  "lon": -0.6476444,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Truffaut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735034740,
+  "lat": 44.8562349,
+  "lon": -0.6481847,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Truffaut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122066,
+  "lat": 44.8541993,
+  "lon": -0.6563108,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Centre des Impôts",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122073,
+  "lat": 44.8555946,
+  "lon": -0.6548805,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Magudas",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122079,
+  "lat": 44.8556093,
+  "lon": -0.6547117,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue de Magudas",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122086,
+  "lat": 44.8484351,
+  "lon": -0.6617419,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Chut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122094,
+  "lat": 44.8488200,
+  "lon": -0.6633212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue du Chut",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122107,
+  "lat": 44.8265952,
+  "lon": -0.6519587,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bazin",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122114,
+  "lat": 44.8266947,
+  "lon": -0.6523688,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bazin",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122120,
+  "lat": 44.8515868,
+  "lon": -0.6448023,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capeyron",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "20397",
+    "route_ref": "701;702;33;35;71",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122129,
+  "lat": 44.8527419,
+  "lon": -0.6463383,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capeyron",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122136,
+  "lat": 44.8530078,
+  "lon": -0.6469485,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capeyron",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122143,
+  "lat": 44.8426744,
+  "lon": -0.6693155,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "AWROgSwwi14-vQ-TmMX-Gw",
+    "name": "Castelneau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2018-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122150,
+  "lat": 44.8547564,
+  "lon": -0.6569489,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vercors",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122156,
+  "lat": 44.8246255,
+  "lon": -0.6630073,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique des Cèdres",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122164,
+  "lat": 44.8254596,
+  "lon": -0.6633054,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique des Cèdres",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122171,
+  "lat": 44.8505482,
+  "lon": -0.6464275,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Capeyron",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122178,
+  "lat": 44.8506933,
+  "lon": -0.6463826,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Capeyron",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122185,
+  "lat": 44.8620028,
+  "lon": -0.6446735,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coubertin",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "21164",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014;Conseil général de la Gironde - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122203,
+  "lat": 44.8266694,
+  "lon": -0.6608303,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Demosthène",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122208,
+  "lat": 44.8267389,
+  "lon": -0.6611273,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Demosthène",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122237,
+  "lat": 44.8475303,
+  "lon": -0.6588015,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tassigny",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122240,
+  "lat": 44.8419050,
+  "lon": -0.6629005,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Goillot",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122247,
+  "lat": 44.8419740,
+  "lon": -0.6635338,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Goillot",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122255,
+  "lat": 44.8416461,
+  "lon": -0.6657215,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gouraud",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122266,
+  "lat": 44.8417346,
+  "lon": -0.6657492,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gouraud",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122316,
+  "lat": 44.8625393,
+  "lon": -0.6488742,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Forêt",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122374,
+  "lat": 44.8490356,
+  "lon": -0.6649266,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Renardeaux",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122384,
+  "lat": 44.8491115,
+  "lon": -0.6658415,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Renardeaux",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122395,
+  "lat": 44.8355482,
+  "lon": -0.6674576,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Logey",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122404,
+  "lat": 44.8368942,
+  "lon": -0.6673966,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage3.openstreetcam.org/files/photo/2017/5/15/lth/186495_6abdf_5919ae36b7122.jpg",
+    "name": "Logey",
+    "network": "TBM",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2017-05-15"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122464,
+  "lat": 44.8302445,
+  "lon": -0.6591196,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac - Centre Commercial",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11905",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122475,
+  "lat": 44.8302814,
+  "lon": -0.6625838,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vigneau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122482,
+  "lat": 44.8426326,
+  "lon": -0.6692635,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "AWROgSwwi14-vQ-TmMX-Gw",
+    "name": "Mérignac - Rue Général de Castelnau",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11891",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 03/2013",
+    "survey:date": "2018-07-07"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122492,
+  "lat": 44.8519823,
+  "lon": -0.6430803,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Capeyron [Terminus]",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122515,
+  "lat": 44.8327053,
+  "lon": -0.6558053,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Soleil",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122524,
+  "lat": 44.8327055,
+  "lon": -0.6629835,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Peyandreau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122532,
+  "lat": 44.8332963,
+  "lon": -0.6648535,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Peyandreau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122539,
+  "lat": 44.8413947,
+  "lon": -0.6694001,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "dog": "no",
+    "highway": "bus_stop",
+    "name": "Perrin",
+    "name:TBM": "Perrin",
+    "name:TransGironde": "Mérignac - Av. J. Perrin",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11890",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122557,
+  "lat": 44.8498807,
+  "lon": -0.6440533,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plein Ciel",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122564,
+  "lat": 44.8267792,
+  "lon": -0.6582719,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pradas",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122571,
+  "lat": 44.8268298,
+  "lon": -0.6587580,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pradas",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122617,
+  "lat": 44.8478045,
+  "lon": -0.6511737,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Olympiades",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735122625,
+  "lat": 44.8481937,
+  "lon": -0.6515257,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Olympiades",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735151798,
+  "lat": 44.8195119,
+  "lon": -0.6659537,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clarines",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735151806,
+  "lat": 44.8200550,
+  "lon": -0.6658087,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "image": "http://storage4.openstreetcam.org/files/photo/2017/6/26/lth/473897_1d2bb_5950db0cc7483.jpg",
+    "name": "Clarines",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2017-06-26"
+  }
+},
+{
+  "type": "node",
+  "id": 2735151813,
+  "lat": 44.8212900,
+  "lon": -0.6658061,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine de Lucatet",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735151822,
+  "lat": 44.8214768,
+  "lon": -0.6655602,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine de Lucatet",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2735963574,
+  "lat": 44.8216079,
+  "lon": -0.6201170,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "zgWQ_a4_SoIDtKcodNiuaA",
+    "name": "Michelet",
+    "network": "TBM",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "survey:date": "2019-02-16"
+  }
+},
+{
+  "type": "node",
+  "id": 2735963582,
+  "lat": 44.8262289,
+  "lon": -0.6193873,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Peychotte",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735963591,
+  "lat": 44.8264425,
+  "lon": -0.6189442,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Peychotte",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2735963611,
+  "lat": 44.8236292,
+  "lon": -0.6196291,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de Paris",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2885137981,
+  "lat": 44.8245238,
+  "lon": -0.6282299,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2885137982,
+  "lat": 44.8242666,
+  "lon": -0.6284423,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2895724856,
+  "lat": 44.8219943,
+  "lon": -0.6243454,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Passage à Niveau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2921593947,
+  "lat": 44.8212250,
+  "lon": -0.6251829,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallon",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2921593948,
+  "lat": 44.8209744,
+  "lon": -0.6250966,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vallon",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2921593949,
+  "lat": 44.8231079,
+  "lon": -0.6245071,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Bernadette",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2921593950,
+  "lat": 44.8230153,
+  "lon": -0.6243895,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Bernadette",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 2921593951,
+  "lat": 44.8242760,
+  "lon": -0.6244609,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2929149884,
+  "lat": 44.8249432,
+  "lon": -0.6235233,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3104120318,
+  "lat": 44.8515180,
+  "lon": -0.6450109,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Capeyron",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "20397",
+    "route_ref": "701;702;33;35;71",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 3199768441,
+  "lat": 44.8414853,
+  "lon": -0.6469788,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Centre (Tram A)",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3207786998,
+  "lat": 44.8415913,
+  "lon": -0.6625548,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3329242026,
+  "lat": 44.8559553,
+  "lon": -0.6590473,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Pins [arrêt de Descente]",
+    "public_transport": "platform",
+    "ref": "7403",
+    "source": "Bordeaux Métropole. Mise à jour : 2020-10-29"
+  }
+},
+{
+  "type": "node",
+  "id": 3329242029,
+  "lat": 44.8565080,
+  "lon": -0.6594552,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pins",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649504,
+  "lat": 44.8253618,
+  "lon": -0.6372381,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649505,
+  "lat": 44.8179283,
+  "lon": -0.6285987,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Gambetta",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649506,
+  "lat": 44.8179515,
+  "lon": -0.6291491,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Gambetta",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649507,
+  "lat": 44.8184443,
+  "lon": -0.6293719,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Gambetta",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649508,
+  "lat": 44.8185768,
+  "lon": -0.6291801,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avenue Gambetta",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649510,
+  "lat": 44.8159190,
+  "lon": -0.6339702,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brémontier",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649511,
+  "lat": 44.8162042,
+  "lon": -0.6340786,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brémontier",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649512,
+  "lat": 44.8185787,
+  "lon": -0.6253854,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campana",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649513,
+  "lat": 44.8189252,
+  "lon": -0.6252807,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Campana",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649514,
+  "lat": 44.8242979,
+  "lon": -0.6501709,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin Bon Air",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649515,
+  "lat": 44.8242175,
+  "lon": -0.6503001,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin Bon Air",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649516,
+  "lat": 44.8217688,
+  "lon": -0.6290453,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Joffre",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649517,
+  "lat": 44.8218693,
+  "lon": -0.6291505,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maréchal Joffre",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649518,
+  "lat": 44.8178085,
+  "lon": -0.6318739,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montaigne",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3627649519,
+  "lat": 44.8178686,
+  "lon": -0.6325778,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montaigne",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008706,
+  "lat": 44.8150986,
+  "lon": -0.6800386,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Intercommunal",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008707,
+  "lat": 44.8176020,
+  "lon": -0.6817737,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique du Sport",
+    "network": "TBM",
+    "old_name": "M.A.S Barail",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008708,
+  "lat": 44.8176456,
+  "lon": -0.6819671,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique du Sport",
+    "network": "TBM",
+    "old_name": "M.A.S Barail",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008723,
+  "lat": 44.8118751,
+  "lon": -0.6641512,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Fontaine",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008759,
+  "lat": 44.8164596,
+  "lon": -0.6865821,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plaisance",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678008760,
+  "lat": 44.8167302,
+  "lon": -0.6857786,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plaisance",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011195,
+  "lat": 44.8406932,
+  "lon": -0.6847779,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auriol",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011196,
+  "lat": 44.8407186,
+  "lon": -0.6849300,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Auriol",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011197,
+  "lat": 44.8537179,
+  "lon": -0.6549975,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Avenue Château d'Eau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011198,
+  "lat": 44.8536689,
+  "lon": -0.6551949,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Avenue Château d'Eau",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011199,
+  "lat": 44.8315136,
+  "lon": -0.7014446,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroport",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011200,
+  "lat": 44.8303913,
+  "lon": -0.7010488,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroport",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011202,
+  "lat": 44.8450404,
+  "lon": -0.6847137,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Beaudésert",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,48,82,88",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011203,
+  "lat": 44.8286317,
+  "lon": -0.6896432,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bellonte",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011204,
+  "lat": 44.8156019,
+  "lon": -0.7010658,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beutre Antenne Sociale",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011205,
+  "lat": 44.8164106,
+  "lon": -0.7007759,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beutre Antenne Sociale",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011206,
+  "lat": 44.8208294,
+  "lon": -0.6945560,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cazanove",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011207,
+  "lat": 44.8210440,
+  "lon": -0.6937775,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cazanove",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011208,
+  "lat": 44.8153984,
+  "lon": -0.6916456,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos des Bruyères",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011209,
+  "lat": 44.8154190,
+  "lon": -0.6908944,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clos des Bruyères",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011211,
+  "lat": 44.8466426,
+  "lon": -0.6909580,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dassault",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,48,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011212,
+  "lat": 44.8467870,
+  "lon": -0.6911263,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dassault",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,48,82,88",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011215,
+  "lat": 44.8365144,
+  "lon": -0.6870992,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diesel",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011216,
+  "lat": 44.8370955,
+  "lon": -0.6868796,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diesel",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011217,
+  "lat": 44.8304888,
+  "lon": -0.6854513,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine de Pelus",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011218,
+  "lat": 44.8304963,
+  "lon": -0.6850284,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine de Pelus",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011219,
+  "lat": 44.8536983,
+  "lon": -0.6622241,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fragonard",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011220,
+  "lat": 44.8540935,
+  "lon": -0.6619652,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fragonard",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011221,
+  "lat": 44.8512295,
+  "lon": -0.6554703,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Frères Robinson",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011222,
+  "lat": 44.8268686,
+  "lon": -0.6784817,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Fontaine",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011223,
+  "lat": 44.8269836,
+  "lon": -0.6786575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Fontaine",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678011224,
+  "lat": 44.8220549,
+  "lon": -0.6914534,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Grave",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11900",
+    "route_ref": "601",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016725,
+  "lat": 44.8220528,
+  "lon": -0.6917598,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Grave",
+    "network": "TBM;TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11900",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016726,
+  "lat": 44.8506112,
+  "lon": -0.6615029,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016727,
+  "lat": 44.8507966,
+  "lon": -0.6612520,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016732,
+  "lat": 44.8248323,
+  "lon": -0.6843912,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucassot",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016733,
+  "lat": 44.8249631,
+  "lon": -0.6836537,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucassot",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016734,
+  "lat": 44.8438831,
+  "lon": -0.6798129,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Marronniers",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016735,
+  "lat": 44.8439467,
+  "lon": -0.6797861,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Marronniers",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016736,
+  "lat": 44.8446959,
+  "lon": -0.6815730,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marronniers",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016737,
+  "lat": 44.8447758,
+  "lon": -0.6812074,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marronniers",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016738,
+  "lat": 44.8180933,
+  "lon": -0.7005080,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oscar Auriac",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016739,
+  "lat": 44.8186233,
+  "lon": -0.6996596,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oscar Auriac",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11901",
+    "source": "Conseil général de la Gironde - 03/2013"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016740,
+  "lat": 44.8186638,
+  "lon": -0.6995752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Oscar Auriac",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016741,
+  "lat": 44.8454714,
+  "lon": -0.6593654,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ouley",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016742,
+  "lat": 44.8458689,
+  "lon": -0.6590407,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ouley",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016743,
+  "lat": 44.8141246,
+  "lon": -0.7001029,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagneau",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016744,
+  "lat": 44.8141488,
+  "lon": -0.7003504,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagneau",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016745,
+  "lat": 44.8149332,
+  "lon": -0.6956085,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Procession",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016746,
+  "lat": 44.8150429,
+  "lon": -0.6945210,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Procession",
+    "network": "TBM",
+    "public_transport": "stop_position",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016747,
+  "lat": 44.8312850,
+  "lon": -0.6806631,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pythagore",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016748,
+  "lat": 44.8314066,
+  "lon": -0.6807509,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pythagore",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016749,
+  "lat": 44.8409335,
+  "lon": -0.6537737,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "René Coty",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "1,11,82,88",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016750,
+  "lat": 44.8295758,
+  "lon": -0.6868942,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016751,
+  "lat": 44.8296569,
+  "lon": -0.6869480,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016752,
+  "lat": 44.8201786,
+  "lon": -0.6957485,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tournesol",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 3678016753,
+  "lat": 44.8198500,
+  "lon": -0.6966853,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tournesol",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 4376240292,
+  "lat": 44.8357468,
+  "lon": -0.6858982,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Acacias",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4376240293,
+  "lat": 44.8365218,
+  "lon": -0.6871674,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diesel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4376240294,
+  "lat": 44.8370675,
+  "lon": -0.6868239,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Diesel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4376240297,
+  "lat": 44.8350824,
+  "lon": -0.6898772,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lindbergh",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4376240298,
+  "lat": 44.8351089,
+  "lon": -0.6901845,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lindbergh",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4493483981,
+  "lat": 44.8348877,
+  "lon": -0.6476244,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycées de Mérignac",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4498628714,
+  "lat": 44.8371607,
+  "lon": -0.6489767,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Daguin",
+    "network": "TransGironde",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "10654",
+    "route_ref": "1, 11, 42, 82, 88",
+    "shelter": "yes",
+    "source": "Conseil général de la Gironde - 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4561934457,
+  "lat": 44.8385126,
+  "lon": -0.6214744,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mac Carthy",
+    "note": "banc \"debout\"",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4561947936,
+  "lat": 44.8386254,
+  "lon": -0.6244518,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monrabeau",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4561950966,
+  "lat": 44.8392933,
+  "lon": -0.6301755,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bourranville",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4561966478,
+  "lat": 44.8392697,
+  "lon": -0.6332410,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Président Wilson",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4561975611,
+  "lat": 44.8394231,
+  "lon": -0.6357688,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marx Dormoy",
+    "public_transport": "platform",
+    "route_ref": "1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4564818839,
+  "lat": 44.8418281,
+  "lon": -0.6481951,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Mérignac Centre (Médiathèque)",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4618919175,
+  "lat": 44.8485655,
+  "lon": -0.7010879,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thales",
+    "network": "TBM",
+    "public_transport": "platform",
+    "route_ref": "11,82,88",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4649002880,
+  "lat": 44.8406228,
+  "lon": -0.6670480,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pichey",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4690104454,
+  "lat": 44.8419325,
+  "lon": -0.6598445,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Macé",
+    "network": "TBM",
+    "public_transport": "platform",
+    "ref:FR:TransGironde": "11889",
+    "route_ref": "11,82,88",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4708884193,
+  "lat": 44.8360755,
+  "lon": -0.6417904,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "3VyOJxG1Fdq5Bvsx2hsXPA",
+    "name": "Foncastel",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2019-01-20"
+  }
+},
+{
+  "type": "node",
+  "id": 4723226225,
+  "lat": 44.8436017,
+  "lon": -0.7373916,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hestigeac",
+    "network": "TBM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4723226270,
+  "lat": 44.8480745,
+  "lon": -0.7072491,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rocquevielle",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4738780163,
+  "lat": 44.8479359,
+  "lon": -0.7071087,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rocquevielle",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4738780167,
+  "lat": 44.8434279,
+  "lon": -0.7375458,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hestigeac",
+    "network": "TBM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4807705189,
+  "lat": 44.8573412,
+  "lon": -0.6591509,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pins (avenue Magudas)",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4852207150,
+  "lat": 45.6894767,
+  "lon": -0.0892387,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mérignac - Bourras",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4852207151,
+  "lat": 45.6896166,
+  "lon": -0.0892489,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Mérignac - Bourras",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5031016791,
+  "lat": 44.8143544,
+  "lon": -0.6350485,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Burck",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5031025481,
+  "lat": 44.8278647,
+  "lon": -0.6455500,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Les Eyquems",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5031028337,
+  "lat": 44.8300790,
+  "lon": -0.6481377,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Résidence Beausite",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5031037138,
+  "lat": 44.8480770,
+  "lon": -0.6438415,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Allée de la Prairie",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5031039427,
+  "lat": 44.8492735,
+  "lon": -0.6440302,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Plein Ciel",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 5031048524,
+  "lat": 44.8610917,
+  "lon": -0.6416655,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Grand Louis",
+    "network": "TBM",
+    "operator": "Keolis",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 03/2014"
+  }
+},
+{
+  "type": "node",
+  "id": 5661237785,
+  "lat": 44.8583343,
+  "lon": -0.6681564,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Haillan Rostand",
+    "public_transport": "platform",
+    "ref": "EC982R",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5864009309,
+  "lat": 44.8130017,
+  "lon": -0.6647622,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boncour",
+    "public_transport": "platform",
+    "ref": "TBM",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5864009316,
+  "lat": 44.8178866,
+  "lon": -0.6659299,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kaolack",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5864009317,
+  "lat": 44.8180002,
+  "lon": -0.6657758,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kaolack",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6285572589,
+  "lat": 44.8500986,
+  "lon": -0.6934122,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroparc",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6285572590,
+  "lat": 44.8489225,
+  "lon": -0.7001177,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thales",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6286616785,
+  "lat": 44.8499506,
+  "lon": -0.6932113,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroparc",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6372051121,
+  "lat": 44.8188202,
+  "lon": -0.6489072,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Stade Cruchon",
+    "public_transport": "platform",
+    "source": "Bordeaux Métropole 2020-12"
+  }
+},
+{
+  "type": "node",
+  "id": 6457561986,
+  "lat": 44.8456775,
+  "lon": -0.7262644,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6457561987,
+  "lat": 44.8455691,
+  "lon": -0.7261746,
+  "tags": {
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6561126837,
+  "lat": 44.8466418,
+  "lon": -0.6496006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bédat",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6561126838,
+  "lat": 44.8465909,
+  "lon": -0.6496931,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bédat",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6561126839,
+  "lat": 44.8514478,
+  "lon": -0.6606054,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6561126840,
+  "lat": 44.8513596,
+  "lon": -0.6606230,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin",
+    "network": "TBM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6787463387,
+  "lat": 44.8511086,
+  "lon": -0.6928215,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroparc",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6857854974,
+  "lat": 44.8408571,
+  "lon": -0.6669352,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pichey",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6864107085,
+  "lat": 44.8551147,
+  "lon": -0.6758362,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gestform",
+    "public_transport": "platform",
+    "survey:date": "2019-10-09"
+  }
+},
+{
+  "type": "node",
+  "id": 6969766168,
+  "lat": 44.8489214,
+  "lon": -0.6832022,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6969766169,
+  "lat": 44.8489244,
+  "lon": -0.6834843,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7192072787,
+  "lat": 44.8566315,
+  "lon": -0.6685786,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laplace",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7192072788,
+  "lat": 44.8566287,
+  "lon": -0.6684143,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Laplace",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7209486740,
+  "lat": 44.8538544,
+  "lon": -0.6695045,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Eiffel",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7209486741,
+  "lat": 44.8539388,
+  "lon": -0.6693704,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gustave Eiffel",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7209486743,
+  "lat": 44.8533430,
+  "lon": -0.6709268,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Volta",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7209486744,
+  "lat": 44.8532133,
+  "lon": -0.6706747,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Volta",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7209486746,
+  "lat": 44.8536061,
+  "lon": -0.6754887,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérignac Phare",
+    "network": "TBM",
+    "operator": "Keolis Bordeaux Métropole",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7341007771,
+  "lat": 44.8580497,
+  "lon": -0.6780784,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Morandière (avenue de Magudas)",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341047764,
+  "lat": 44.8507563,
+  "lon": -0.6929129,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aéroparc",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7341047925,
+  "lat": 44.8378820,
+  "lon": -0.6939681,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Becquerel",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341047926,
+  "lat": 44.8377969,
+  "lon": -0.6941481,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Becquerel",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341047980,
+  "lat": 44.8297461,
+  "lon": -0.6880370,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341047997,
+  "lat": 44.8290003,
+  "lon": -0.6873367,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Roland Garros",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341048016,
+  "lat": 44.8246454,
+  "lon": -0.6862217,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucassot",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341048017,
+  "lat": 44.8238900,
+  "lon": -0.6855730,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lucassot",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341048029,
+  "lat": 44.8171626,
+  "lon": -0.6808045,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique du Sport",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7341048030,
+  "lat": 44.8170760,
+  "lon": -0.6809595,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique du Sport",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7887320792,
+  "lat": 44.8470471,
+  "lon": -0.6381648,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade du Jard",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7887320793,
+  "lat": 44.8468341,
+  "lon": -0.6377468,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade du Jard",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8023301098,
+  "lat": 44.8259986,
+  "lon": -0.6698665,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8023301099,
+  "lat": 44.8260444,
+  "lon": -0.6694825,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8023301130,
+  "lat": 44.8266699,
+  "lon": -0.6662874,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8063083393,
+  "lat": 44.8553317,
+  "lon": -0.6586158,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Les Pins",
+    "public_transport": "platform",
+    "ref": "7272",
+    "shelter": "yes",
+    "source": "Bordeaux Métropole. Mise à jour : 2020-10-29"
+  }
+},
+{
+  "type": "node",
+  "id": 8063408037,
+  "lat": 44.8468223,
+  "lon": -0.6669541,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pablo Casals",
+    "public_transport": "platform",
+    "ref": "7286",
+    "source": "Bordeaux Métropole. Mise à jour : 2020-10-29"
+  }
+},
+{
+  "type": "node",
+  "id": 8063408038,
+  "lat": 44.8468841,
+  "lon": -0.6668334,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pablo Casals",
+    "public_transport": "platform",
+    "ref": "7285",
+    "source": "Bordeaux Métropole. Mise à jour : 2020-10-29"
+  }
+},
+{
+  "type": "node",
+  "id": 8199128262,
+  "lat": 44.8478982,
+  "lon": -0.6592025,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tassigny",
+    "network": "TBM",
+    "public_transport": "platform",
+    "source": "Bordeaux Métropole 2020-12"
+  }
+},
+{
+  "type": "node",
+  "id": 8328088719,
+  "lat": 44.8181961,
+  "lon": -0.6995484,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8328237578,
+  "lat": 44.8494796,
+  "lon": -0.6788634,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8952191915,
+  "lat": 44.8351063,
+  "lon": -0.6871967,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Acacias",
+    "network": "TBM",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9274081868,
+  "lat": 44.8558189,
+  "lon": -0.6570768,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vercors",
+    "public_transport": "platform",
+    "source": "Communauté Urbaine de Bordeaux - 01/2015"
+  }
+},
+{
+  "type": "node",
+  "id": 9291044931,
+  "lat": 44.8476177,
+  "lon": -0.6923499,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Dassault",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9295470857,
+  "lat": 44.8477912,
+  "lon": -0.6919831,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Dassault",
+    "passenger_information_display": "yes",
+    "pole": "yes",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9320796049,
+  "lat": 44.8577673,
+  "lon": -0.6672706,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Haillan Rostand",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

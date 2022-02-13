@@ -33,7 +33,9 @@ zfile.write(r.content)
 filename_communes = "donnees_communes.csv"
 filename_metadonnees = "metadonnees_communes.csv"
 
-
+# TODO: ce mode de construction n'est pas parfait, il faudrait sans
+# doute passer par les codes INSEE pour éviter les doublons... Mais le fichier
+# population de l'INSEE ne contient pas ce code (pourquoi... grand mistère)
 
 data = []
 with tempfile.TemporaryDirectory() as tmpdirname:
@@ -63,9 +65,10 @@ def fusion_arrondissements(data, nom):
 
 data = fusion_arrondissements(data, "Paris")
 data = fusion_arrondissements(data, "Marseille")
+data = fusion_arrondissements(data, "Lyon")
 
 
-def ajouter_somme_cumulee(input_data):
+def remplacer_somme_cumulee(input_data):
     cumul = list(accumulate([d[1] for d in input_data]))
     input_data = [[d[0], c] for d, c in zip(input_data, cumul)]
     return input_data
@@ -90,26 +93,47 @@ print("filtrage des données niveau 1")
 # filtrage des communes suivant leur taille (on ne garde que les plus grosses)
 data_level1 = sorted(data, key=operator.itemgetter(1), reverse=True)[:10]
 
+# équiprobabilité (cumulée)
+data_level1 = [ [d[0], i + 1] for i, d in enumerate(data_level1)]
+
 # sauver dans le dossier data
 sauver_villes(data_level1, "niveau1")
 
+
+
 ### Génération des fichiers pour le niveau 2
-
-# Paramètre du script: taille des communes à garder
-min_population = 50000
-
 print("filtrage des données niveau 2")
 # filtrage des communes suivant leur taille (on ne garde que les plus grosses)
-data_level2 = [ d for d in data if d[1] >= min_population ]
+data_level2 = sorted(data, key=operator.itemgetter(1), reverse=True)[:50]
 
 # on applique un log pour réduire l'influence des grandes villes dans le tirage au sort
 data_level2 = [ [d[0], d[1] ** (8/10)] for d in data_level2]
 
 # ajout de la somme cummulée
-data_level2 = ajouter_somme_cumulee(data_level2)
+data_level2 = remplacer_somme_cumulee(data_level2)
 
 # sauver dans le dossier data
 sauver_villes(data_level2, "niveau2")
+
+
+
+### Génération des fichiers pour le niveau 3
+
+# Paramètre du script: taille des communes à garder
+min_population = 50000
+
+print("filtrage des données niveau 3")
+# filtrage des communes suivant leur taille (on ne garde que les plus grosses)
+data_level3 = [ d for d in data if d[1] >= min_population ]
+
+# on applique un log pour réduire l'influence des grandes villes dans le tirage au sort
+data_level3 = [ [d[0], d[1] ** (8/10)] for d in data_level3]
+
+# ajout de la somme cummulée
+data_level3 = remplacer_somme_cumulee(data_level3)
+
+# sauver dans le dossier data
+sauver_villes(data_level3, "niveau3")
 
 
 

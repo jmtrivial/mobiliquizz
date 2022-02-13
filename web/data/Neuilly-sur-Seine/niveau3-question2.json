@@ -1,0 +1,493 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 20609289,
+  "nodes": [
+    221232581,
+    4409638761,
+    2901761019,
+    221232584,
+    471854603,
+    471828019
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Rue Louis-Philippe",
+    "oneway": "yes",
+    "surface": "asphalt",
+    "zone:maxspeed": "FR:30"
+  }
+},
+{
+  "type": "way",
+  "id": 44960883,
+  "nodes": [
+    27336469,
+    27336515,
+    8521961069,
+    4297196206
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "lanes": "4",
+    "lit": "yes",
+    "maxspeed": "30",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 83821150,
+  "nodes": [
+    221237389,
+    4318030031,
+    9134838015,
+    318378369
+  ],
+  "tags": {
+    "cycleway": "lane",
+    "cycleway:left": "lane",
+    "cycleway:left:lane": "exclusive",
+    "cycleway:right": "lane",
+    "cycleway:right:lane": "exclusive",
+    "highway": "residential",
+    "name": "Avenue du Roule",
+    "sidewalk": "both",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 263936627,
+  "nodes": [
+    471514528,
+    945410695,
+    27333376
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "lit": "yes",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 284700488,
+  "nodes": [
+    417234820,
+    2011728626,
+    417234821,
+    2011728631,
+    1327343977,
+    417235600,
+    221249856,
+    417235608,
+    417235879,
+    18691499
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "lit": "yes",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 286494106,
+  "nodes": [
+    18691499,
+    27333378,
+    2010636786,
+    2884199450
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "maxspeed": "50",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes",
+    "source:maxspeed": "sign",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 286498535,
+  "nodes": [
+    21663169,
+    27336489,
+    27336469
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 648501761,
+  "nodes": [
+    6088294921,
+    5678423709,
+    6088273668,
+    221237372,
+    2284939933,
+    221235640
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Avenue Achille Peretti",
+    "old_name": "Avenue du Roule",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 648506607,
+  "nodes": [
+    6088335074,
+    6088335070,
+    8171355748,
+    487152551
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "residential",
+    "name": "Avenue du Roule",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 801414201,
+  "nodes": [
+    221230842,
+    1332199323,
+    21663169
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "residential",
+    "name": "Avenue Charles de Gaulle",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "area",
+  "id": 3600085802,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Neuilly-sur-Seine",
+    "name:el": "Νεϊγί-συρ-Σεν",
+    "name:fr": "Neuilly-sur-Seine",
+    "name:ja": "ヌイイ＝シュル＝セーヌ",
+    "name:ru": "Нёйи-сюр-Сен",
+    "population": "59599",
+    "population:date": "2019",
+    "postal_code": "92200",
+    "ref:INSEE": "92051",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "wikidata": "Q48958",
+    "wikipedia": "fr:Neuilly-sur-Seine"
+  }
+},
+{
+  "type": "node",
+  "id": 21663169,
+  "lat": 48.8789338,
+  "lon": 2.2780091
+},
+{
+  "type": "node",
+  "id": 27336469,
+  "lat": 48.8788387,
+  "lon": 2.2783893
+},
+{
+  "type": "node",
+  "id": 27336489,
+  "lat": 48.8788910,
+  "lon": 2.2782009
+},
+{
+  "type": "node",
+  "id": 27336515,
+  "lat": 48.8785624,
+  "lon": 2.2792542
+},
+{
+  "type": "node",
+  "id": 221230842,
+  "lat": 48.8797777,
+  "lon": 2.2752852
+},
+{
+  "type": "node",
+  "id": 1332199323,
+  "lat": 48.8794987,
+  "lon": 2.2761496
+},
+{
+  "type": "node",
+  "id": 4297196206,
+  "lat": 48.8784503,
+  "lon": 2.2796072
+},
+{
+  "type": "node",
+  "id": 8521961069,
+  "lat": 48.8784601,
+  "lon": 2.2795767
+},
+{
+  "type": "node",
+  "id": 18691499,
+  "lat": 48.8849591,
+  "lon": 2.2606331
+},
+{
+  "type": "node",
+  "id": 27333376,
+  "lat": 48.8859781,
+  "lon": 2.2574577
+},
+{
+  "type": "node",
+  "id": 27333378,
+  "lat": 48.8850594,
+  "lon": 2.2603236
+},
+{
+  "type": "node",
+  "id": 417235879,
+  "lat": 48.8848536,
+  "lon": 2.2609478
+},
+{
+  "type": "node",
+  "id": 471514528,
+  "lat": 48.8857686,
+  "lon": 2.2580948
+},
+{
+  "type": "node",
+  "id": 945410695,
+  "lat": 48.8859434,
+  "lon": 2.2575484
+},
+{
+  "type": "node",
+  "id": 2010636786,
+  "lat": 48.8853678,
+  "lon": 2.2593374
+},
+{
+  "type": "node",
+  "id": 2884199450,
+  "lat": 48.8854276,
+  "lon": 2.2591624
+},
+{
+  "type": "node",
+  "id": 221249856,
+  "lat": 48.8844244,
+  "lon": 2.2623024
+},
+{
+  "type": "node",
+  "id": 417234820,
+  "lat": 48.8837090,
+  "lon": 2.2645755
+},
+{
+  "type": "node",
+  "id": 417234821,
+  "lat": 48.8840101,
+  "lon": 2.2635934
+},
+{
+  "type": "node",
+  "id": 417235600,
+  "lat": 48.8843869,
+  "lon": 2.2624209
+},
+{
+  "type": "node",
+  "id": 417235608,
+  "lat": 48.8844599,
+  "lon": 2.2621808
+},
+{
+  "type": "node",
+  "id": 1327343977,
+  "lat": 48.8843797,
+  "lon": 2.2624509
+},
+{
+  "type": "node",
+  "id": 2011728626,
+  "lat": 48.8837187,
+  "lon": 2.2645447
+},
+{
+  "type": "node",
+  "id": 2011728631,
+  "lat": 48.8843296,
+  "lon": 2.2626091
+},
+{
+  "type": "node",
+  "id": 221232581,
+  "lat": 48.8836266,
+  "lon": 2.2725312
+},
+{
+  "type": "node",
+  "id": 221232584,
+  "lat": 48.8815527,
+  "lon": 2.2713937
+},
+{
+  "type": "node",
+  "id": 221235640,
+  "lat": 48.8844389,
+  "lon": 2.2690262
+},
+{
+  "type": "node",
+  "id": 221237372,
+  "lat": 48.8845604,
+  "lon": 2.2684867
+},
+{
+  "type": "node",
+  "id": 471828019,
+  "lat": 48.8814032,
+  "lon": 2.2712829
+},
+{
+  "type": "node",
+  "id": 471854603,
+  "lat": 48.8815008,
+  "lon": 2.2713574
+},
+{
+  "type": "node",
+  "id": 2284939933,
+  "lat": 48.8844621,
+  "lon": 2.2689233
+},
+{
+  "type": "node",
+  "id": 2901761019,
+  "lat": 48.8816190,
+  "lon": 2.2714298
+},
+{
+  "type": "node",
+  "id": 4409638761,
+  "lat": 48.8835116,
+  "lon": 2.2724635
+},
+{
+  "type": "node",
+  "id": 5678423709,
+  "lat": 48.8845969,
+  "lon": 2.2683246
+},
+{
+  "type": "node",
+  "id": 6088273668,
+  "lat": 48.8845859,
+  "lon": 2.2683734
+},
+{
+  "type": "node",
+  "id": 6088294921,
+  "lat": 48.8846632,
+  "lon": 2.2680429
+},
+{
+  "type": "node",
+  "id": 221237389,
+  "lat": 48.8818719,
+  "lon": 2.2801746
+},
+{
+  "type": "node",
+  "id": 487152551,
+  "lat": 48.8819002,
+  "lon": 2.2800719
+},
+{
+  "type": "node",
+  "id": 4318030031,
+  "lat": 48.8818439,
+  "lon": 2.2802807
+},
+{
+  "type": "node",
+  "id": 6088335070,
+  "lat": 48.8820691,
+  "lon": 2.2793372
+},
+{
+  "type": "node",
+  "id": 6088335074,
+  "lat": 48.8820922,
+  "lon": 2.2792371
+},
+{
+  "type": "node",
+  "id": 8171355748,
+  "lat": 48.8820528,
+  "lon": 2.2794082
+},
+{
+  "type": "node",
+  "id": 9134838015,
+  "lat": 48.8817737,
+  "lon": 2.2805938
+},
+{
+  "type": "node",
+  "id": 318378369,
+  "lat": 48.8817556,
+  "lon": 2.2806743
+}
+
+  ]
+}

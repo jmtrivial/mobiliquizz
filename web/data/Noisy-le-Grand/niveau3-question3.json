@@ -1,0 +1,2245 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 287733533,
+  "lat": 48.8398279,
+  "lon": 2.5502997,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36223",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614264",
+    "route_ref": "206;207;306;310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 297706023,
+  "lat": 48.8408282,
+  "lon": 2.5519158,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36234",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614644",
+    "route_ref": "303;207;206;120",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 297711100,
+  "lat": 48.8492723,
+  "lon": 2.5643659,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pointe de Gournay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36290",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614512",
+    "route_ref": "320;220;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 297711136,
+  "lat": 48.8494745,
+  "lon": 2.5648984,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pointe de Gournay",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28492",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614513",
+    "route_ref": "220;320;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 497160932,
+  "lat": 48.8418148,
+  "lon": 2.5425512,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Théâtre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36318",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614252",
+    "route_ref": "120;bus 120",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 497160955,
+  "lat": 48.8421792,
+  "lon": 2.5432866,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Théâtre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36316",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614251",
+    "route_ref": "120;bus 120",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1016134764,
+  "lat": 48.8422287,
+  "lon": 2.5780746,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy - Champs RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "461838",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614553",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1029845359,
+  "lat": 48.8348966,
+  "lon": 2.5484360,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin à Vent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36231",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614481",
+    "route_ref": "310",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1030058405,
+  "lat": 48.8406594,
+  "lon": 2.5511751,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "note": "Départ vers Saint-Maur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39428",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614462",
+    "route_ref": "306",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1030058426,
+  "lat": 48.8406789,
+  "lon": 2.5519100,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36394",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5150290",
+    "route_ref": "207",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1030058477,
+  "lat": 48.8406859,
+  "lon": 2.5525940,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "description": "Départ vers Bobigny",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36252",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614643",
+    "route_ref": "303",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1030058581,
+  "lat": 48.8406806,
+  "lon": 2.5521648,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36235",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614261",
+    "route_ref": "206;206",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1030058710,
+  "lat": 48.8408006,
+  "lon": 2.5530955,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36233;471089",
+    "route_ref": "320;320b;N130",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1065964667,
+  "lat": 48.8297144,
+  "lon": 2.5637918,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Place du Combat",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36244",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614472",
+    "route_ref": "120;310",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1065964694,
+  "lat": 48.8303613,
+  "lon": 2.5585851,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité des Hêtres",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36230",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614475",
+    "route_ref": "120;310",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326212,
+  "lat": 48.8333220,
+  "lon": 2.5784290,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Ballon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36473",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614532",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326217,
+  "lat": 48.8369978,
+  "lon": 2.5727873,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Closeau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36480",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614527",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326219,
+  "lat": 48.8370946,
+  "lon": 2.5766144,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte aux Cailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36453",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614529",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326228,
+  "lat": 48.8331752,
+  "lon": 2.5790184,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Ballon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28889",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614531",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326235,
+  "lat": 48.8393819,
+  "lon": 2.5731054,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte Verte",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28888",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614526",
+    "route_ref": "320",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326237,
+  "lat": 48.8372525,
+  "lon": 2.5762618,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte aux Cailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36454",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614530",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310326241,
+  "lat": 48.8371224,
+  "lon": 2.5725867,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Closeau",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36476",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614528",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1346587926,
+  "lat": 48.8393875,
+  "lon": 2.5728649,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte Verte",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36466",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614525",
+    "route_ref": "320",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1519372824,
+  "lat": 48.8452420,
+  "lon": 2.5493001,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36226",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614646",
+    "route_ref": "310;303;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1519376008,
+  "lat": 48.8457891,
+  "lon": 2.5720024,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Cormiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36461",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614517",
+    "route_ref": "320;320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1519376009,
+  "lat": 48.8432861,
+  "lon": 2.5727453,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Châteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36251",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614523",
+    "route_ref": "320",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1519376013,
+  "lat": 48.8456656,
+  "lon": 2.5718872,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Cormiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36456",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614516",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1519376025,
+  "lat": 48.8438978,
+  "lon": 2.5743737,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Châteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36250",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614522",
+    "route_ref": "320",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382780,
+  "lat": 48.8256290,
+  "lon": 2.5850628,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Collège des Yvris",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30148",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614536",
+    "route_ref": "312;320",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382871,
+  "lat": 48.8362399,
+  "lon": 2.5858267,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Espace Descartes",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26878",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6741300",
+    "route_ref": "312;213",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382887,
+  "lat": 48.8374088,
+  "lon": 2.5788414,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte aux Cailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25623",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6741310",
+    "route_ref": "312",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382920,
+  "lat": 48.8373929,
+  "lon": 2.5793722,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Butte aux Cailles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25625",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6741311",
+    "route_ref": "312",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382973,
+  "lat": 48.8314161,
+  "lon": 2.5753943,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montgolfière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426462",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6741313",
+    "route_ref": "312",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608382983,
+  "lat": 48.8312329,
+  "lon": 2.5746474,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Montgolfière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426463",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6741312",
+    "route_ref": "312",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608383050,
+  "lat": 48.8313917,
+  "lon": 2.5815945,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Aérostiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36478",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614534",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1608383058,
+  "lat": 48.8314543,
+  "lon": 2.5814589,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Aérostiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36458",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614533",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1619202720,
+  "lat": 48.8342701,
+  "lon": 2.5657822,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Chapelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36477",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614546",
+    "route_ref": "320;320",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1641525729,
+  "lat": 48.8467864,
+  "lon": 2.5397194,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28493",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208523",
+    "route_ref": "220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1762103958,
+  "lat": 48.8337786,
+  "lon": 2.5660977,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Chapelle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36479",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614545",
+    "route_ref": "320;320",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1856863659,
+  "lat": 48.8389134,
+  "lon": 2.5391663,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Privé de Marne-la-Vallée",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36315",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614249",
+    "route_ref": "120",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1857848545,
+  "lat": 48.8422248,
+  "lon": 2.5680626,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Haute Maison",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36245",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614496",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857856451,
+  "lat": 48.8455614,
+  "lon": 2.5632211,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rouget de Lisle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25887",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614495",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857936369,
+  "lat": 48.8315038,
+  "lon": 2.5667515,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36475",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614544",
+    "route_ref": "320",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857936370,
+  "lat": 48.8321622,
+  "lon": 2.5666434,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Gabriel Péri",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36459",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614543",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857941999,
+  "lat": 48.8298538,
+  "lon": 2.5674166,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Richardets - Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36474",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614541",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857942000,
+  "lat": 48.8298953,
+  "lon": 2.5672998,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Richardets - Centre",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36462",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614542",
+    "route_ref": "320",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1857949929,
+  "lat": 48.8321235,
+  "lon": 2.5564491,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Fort",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36239",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614476",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1857949931,
+  "lat": 48.8319824,
+  "lon": 2.5568568,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Fort",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36224",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614477",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1859375047,
+  "lat": 48.8488834,
+  "lon": 2.5574270,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carrefour de Malnoue",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9386",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614493",
+    "route_ref": "120, 220, 320;310;220;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1859375061,
+  "lat": 48.8489345,
+  "lon": 2.5587362,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carrefour de Malnoue",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25863",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614510",
+    "route_ref": "320;220, 320;220;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864183391,
+  "lat": 48.8406696,
+  "lon": 2.5515505,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "note": "Départ vers Nogent",
+    "note:fr": "quai de descente",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36234",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614644",
+    "route_ref": "120",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1864183392,
+  "lat": 48.8407967,
+  "lon": 2.5525911,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36238",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614485",
+    "route_ref": "310;N34",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1938402418,
+  "lat": 48.8480213,
+  "lon": 2.5375368,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25937",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208524",
+    "route_ref": "220",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1938402483,
+  "lat": 48.8505339,
+  "lon": 2.5354523,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "René Navier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "2386",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614653",
+    "route_ref": "303;N34",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1938402490,
+  "lat": 48.8506421,
+  "lon": 2.5350538,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "René Navier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26512",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614654",
+    "route_ref": "303;N34",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1939417481,
+  "lat": 48.8473937,
+  "lon": 2.5397992,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36288",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231663",
+    "route_ref": "N34",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2092302697,
+  "lat": 48.8529729,
+  "lon": 2.5734348,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Prevoyants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37657",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208534",
+    "route_ref": "220;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2092302698,
+  "lat": 48.8532196,
+  "lon": 2.5738422,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Prevoyants",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37658",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208533",
+    "route_ref": "220;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2092302718,
+  "lat": 48.8467657,
+  "lon": 2.5321621,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28494",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208521",
+    "route_ref": "220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2092302723,
+  "lat": 48.8454645,
+  "lon": 2.5284505,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marx Dormoy - Carnot",
+    "network": "RATP",
+    "network:wikidata": "Q474674",
+    "network:wikipedia": "fr:Réseau de bus RATP",
+    "operator:wikidata": "Q643290",
+    "operator:wikipedia": "fr:Régie autonome des transports parisiens",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8249",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3616879",
+    "route_ref": "220;520",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2092302724,
+  "lat": 48.8462605,
+  "lon": 2.5339153,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2094833924,
+  "lat": 48.8482367,
+  "lon": 2.5402593,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref": "303"
+  }
+},
+{
+  "type": "node",
+  "id": 2095624069,
+  "lat": 48.8492422,
+  "lon": 2.5518737,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22614",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614649",
+    "route_ref": "303;220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2294302467,
+  "lat": 48.8449316,
+  "lon": 2.5773414,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Roseaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36460",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614520",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2295866517,
+  "lat": 48.8314854,
+  "lon": 2.5841136,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Aérostiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25648",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3639720",
+    "route_ref": "212",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2295867110,
+  "lat": 48.8314535,
+  "lon": 2.5843503,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Aérostiers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "10075",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3639721",
+    "route_ref": "212",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2623442122,
+  "lat": 48.8424723,
+  "lon": 2.5776008,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy - Champs RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39429",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4745079",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2623442138,
+  "lat": 48.8427901,
+  "lon": 2.5674213,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Haute Maison",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36243",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614497",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2624531813,
+  "lat": 48.8389048,
+  "lon": 2.5606591,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étienne Dolet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36471",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614548",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2624531828,
+  "lat": 48.8388183,
+  "lon": 2.5611929,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étienne Dolet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36463",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614547",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2629908516,
+  "lat": 48.8461505,
+  "lon": 2.5523177,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Espace Michel Simon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25885",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614647",
+    "route_ref": "310;303;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2812946097,
+  "lat": 48.8403435,
+  "lon": 2.5581352,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Basch",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28890",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614550",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2812946309,
+  "lat": 48.8406117,
+  "lon": 2.5585966,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Basch",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36470",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614549",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2812957416,
+  "lat": 48.8446525,
+  "lon": 2.5491203,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25886",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614645",
+    "route_ref": "310;303;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813124418,
+  "lat": 48.8445060,
+  "lon": 2.5767819,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Roseaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36468",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614521",
+    "route_ref": "320;320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813124419,
+  "lat": 48.8475660,
+  "lon": 2.5759530,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Bâtons",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36464",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614519",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813124423,
+  "lat": 48.8476302,
+  "lon": 2.5703688,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Pranard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36465",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614514",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813124440,
+  "lat": 48.8479532,
+  "lon": 2.5703500,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charles Pranard",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36467",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614515",
+    "route_ref": "320;320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813124442,
+  "lat": 48.8474995,
+  "lon": 2.5766776,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Bâtons",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36457",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614518",
+    "route_ref": "320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2813632030,
+  "lat": 48.8462807,
+  "lon": 2.5526251,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Espace Michel Simon",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36242",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614648",
+    "route_ref": "310;303;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3671630991,
+  "lat": 48.8471695,
+  "lon": 2.5407035,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36288",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614652",
+    "route_ref": "303",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3671630993,
+  "lat": 48.8466735,
+  "lon": 2.5405050,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "route_ref": "Noctilien N 34",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4230488015,
+  "lat": 48.8407900,
+  "lon": 2.5523285,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36472",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231557",
+    "route_ref": "320;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4230488019,
+  "lat": 48.8407986,
+  "lon": 2.5528514,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy-le-Grand - Mont d'Est RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36247;471987",
+    "route_ref": "310;N130",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4323014584,
+  "lat": 48.8266085,
+  "lon": 2.5739512,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27297",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614539",
+    "route_ref": "310;312",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5485207362,
+  "lat": 48.8262371,
+  "lon": 2.5746728,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36232",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614540",
+    "route_ref": "310;312",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566379,
+  "lat": 48.8257781,
+  "lon": 2.5846801,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Collège des Yvris",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25624",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614535",
+    "route_ref": "312;320",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566380,
+  "lat": 48.8489439,
+  "lon": 2.5533467,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36225",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231554",
+    "route_ref": "310;320;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566381,
+  "lat": 48.8235160,
+  "lon": 2.5802205,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Les Yvris - Noisy-le-Grand RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "472829",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566382,
+  "lat": 48.8235645,
+  "lon": 2.5799721,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "yes",
+    "highway": "bus_stop",
+    "name": "Les Yvris - Noisy-le-Grand RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "23158",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568532,
+  "lat": 48.8469156,
+  "lon": 2.5322876,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25936",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682638",
+    "route_ref": "220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568533,
+  "lat": 48.8454245,
+  "lon": 2.5285767,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marx Dormoy - Carnot",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35858",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3682635",
+    "route_ref": "220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568534,
+  "lat": 48.8484131,
+  "lon": 2.5423041,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chemin de la Baronnerie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25938",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208600",
+    "route_ref": "220",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56868527"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568535,
+  "lat": 48.8494428,
+  "lon": 2.5469714,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Église de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28491",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614639",
+    "route_ref": "220;303",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56857690"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568551,
+  "lat": 48.8388187,
+  "lon": 2.5486954,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36236",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614263",
+    "route_ref": "206;207;306;310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568552,
+  "lat": 48.8398147,
+  "lon": 2.5502984,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36223",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614482",
+    "route_ref": "206;207;306;310",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979568553,
+  "lat": 48.8354417,
+  "lon": 2.5475107,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Moulin à Vent",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36228",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614480",
+    "route_ref": "206;207;306;310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223960,
+  "lat": 48.8295385,
+  "lon": 2.5640054,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Place du Combat",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36241",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614473",
+    "route_ref": "310;120",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223971,
+  "lat": 48.8423938,
+  "lon": 2.5725216,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Châteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36240",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614499",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223972,
+  "lat": 48.8424547,
+  "lon": 2.5780260,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Noisy - Champs RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36229",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614500",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223973,
+  "lat": 48.8422953,
+  "lon": 2.5725210,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Hauts Châteaux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36246",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614498",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223975,
+  "lat": 48.8454252,
+  "lon": 2.5632773,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rouget de Lisle",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36248",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614494",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223976,
+  "lat": 48.8484538,
+  "lon": 2.5587353,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carrefour de Malnoue",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36222",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614492",
+    "route_ref": "310",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223977,
+  "lat": 48.8487560,
+  "lon": 2.5554360,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Noisy-le-Grand",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25864",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614490",
+    "route_ref": "310;220;320;N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6270223983,
+  "lat": 48.8304690,
+  "lon": 2.5587490,
+  "tags": {
+    "STIF:zone": "4",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité des Hêtres",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36249",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614474",
+    "route_ref": "310;120",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6290970238,
+  "lat": 48.8475797,
+  "lon": 2.5521662,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie de Noisy-le-Grand - Jean Vaquier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25861",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614634",
+    "route_ref": "303",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56857154"
+  }
+},
+{
+  "type": "node",
+  "id": 6290970239,
+  "lat": 48.8474716,
+  "lon": 2.5482357,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35857",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4208525",
+    "route_ref": "303",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes",
+    "wikidata": "Q56857714"
+  }
+},
+{
+  "type": "node",
+  "id": 6290970256,
+  "lat": 48.8482530,
+  "lon": 2.5399910,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "413261",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614651",
+    "route_ref": "303",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6374582330,
+  "lat": 48.8400038,
+  "lon": 2.5411153,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée International",
+    "public_transport": "platform",
+    "ref:FR:STIF": "460394",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7305109",
+    "route_ref": "120",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6374582333,
+  "lat": 48.8399083,
+  "lon": 2.5413507,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée International",
+    "public_transport": "platform",
+    "ref:FR:STIF": "460456",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7305108",
+    "route_ref": "120",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6386864115,
+  "lat": 48.8482910,
+  "lon": 2.5388200,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Neuilly",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36291",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5231558",
+    "route_ref": "N34",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6993579984,
+  "lat": 48.8291942,
+  "lon": 2.5687006,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Les Richardets - Centre",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6993597985,
+  "lat": 48.8291120,
+  "lon": 2.5688240,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Richardets - Centre",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6993597986,
+  "lat": 48.8294925,
+  "lon": 2.5735004,
+  "tags": {
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Chapelle",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6993597987,
+  "lat": 48.8294192,
+  "lon": 2.5736023,
+  "tags": {
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Chapelle",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8506528292,
+  "lat": 48.8299125,
+  "lon": 2.5808860,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Les Graviers",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8506528293,
+  "lat": 48.8299914,
+  "lon": 2.5808569,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Les Graviers",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8506528294,
+  "lat": 48.8238048,
+  "lon": 2.5822345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Yvris - Noisy-le-Grand RER",
+    "public_transport": "platform",
+    "ref:FR:STIF": "478447",
+    "shelter": "no",
+    "temporary": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9464599747,
+  "lat": 48.8418193,
+  "lon": 2.5678952,
+  "tags": {
+    "STIF:zone": "4",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "La Haute Maison",
+    "network": "RATP",
+    "network:wikidata": "Q474674",
+    "network:wikipedia": "fr:Réseau de bus RATP",
+    "operator": "RATP",
+    "operator:wikidata": "Q643290",
+    "operator:wikipedia": "fr:Régie autonome des transports parisiens",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4614496",
+    "route_ref": "310",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+}
+
+  ]
+}

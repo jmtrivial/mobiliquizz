@@ -1,0 +1,2097 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1310649549,
+  "lat": 48.9109923,
+  "lon": 2.3660178,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Montjoie - Germaine Tillion",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22856",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761286",
+    "route_ref": "139;239",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649560,
+  "lat": 48.9126464,
+  "lon": 2.3662783,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Saint-Gobain",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22857",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908824",
+    "route_ref": "139;512;239",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649566,
+  "lat": 48.9107466,
+  "lon": 2.3729672,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "France-Asie",
+    "old_name": "Centre Bus (Aubervilliers)",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24467",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7946242",
+    "route_ref": "45;139",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes",
+    "wikidata": "Q56870733"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649569,
+  "lat": 48.9081016,
+  "lon": 2.3784613,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo - Félix Faure",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35156",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355353",
+    "route_ref": "139",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649571,
+  "lat": 48.9062242,
+  "lon": 2.3803951,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Félix Faure - Rue des Écoles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24468",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355351",
+    "route_ref": "139",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649574,
+  "lat": 48.9076215,
+  "lon": 2.3761244,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quai Lucien Lefranc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36989",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7991832",
+    "route_ref": "139;45",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56870944"
+  }
+},
+{
+  "type": "node",
+  "id": 1310649581,
+  "lat": 48.9081039,
+  "lon": 2.3786243,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Victor Hugo - Félix Faure",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22855",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355352",
+    "route_ref": "139",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1454103338,
+  "lat": 48.9236716,
+  "lon": 2.3692279,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bergeries Franc-Moisin",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40789",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009077",
+    "route_ref": "170",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1455100841,
+  "lat": 48.9214991,
+  "lon": 2.3762080,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Pont du Chemin de Fer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26494",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009062",
+    "shelter": "no",
+    "source": "survey 03/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1455100851,
+  "lat": 48.9196910,
+  "lon": 2.3780183,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heurtault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26495",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009061",
+    "route_ref": "170",
+    "shelter": "yes",
+    "source": "survey 03/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1455100854,
+  "lat": 48.9192690,
+  "lon": 2.3780271,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heurtault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26496",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009079",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1455100867,
+  "lat": 48.9230447,
+  "lon": 2.3696218,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bergeries - Francs Moisins",
+    "public_transport": "platform",
+    "ref:FR:STIF": "25209",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3741094",
+    "route_ref": "302",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1792387394,
+  "lat": 48.9221494,
+  "lon": 2.3689093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1792441804,
+  "lat": 48.9219907,
+  "lon": 2.3734499,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1792441806,
+  "lat": 48.9220323,
+  "lon": 2.3741322,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1888477407,
+  "lat": 48.9160054,
+  "lon": 2.3987376,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9552",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758981",
+    "route_ref": "250;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1888479927,
+  "lat": 48.9149449,
+  "lon": 2.4032671,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "description:route_ref": "173 Porte de Clichy RER;250 Gonesse ZI;250;173",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers - Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22517",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758983",
+    "route_ref": "173;250",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2197108384,
+  "lat": 48.9062290,
+  "lon": 2.3946410,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Condorcet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26660",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4658257",
+    "route_ref": "152;N42",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2366226017,
+  "lat": 48.9143407,
+  "lon": 2.3817174,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7964",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972555",
+    "route_ref": "150",
+    "source": "survey 03/2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2366226018,
+  "lat": 48.9145277,
+  "lon": 2.3815470,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "19935",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009059",
+    "route_ref": "170",
+    "source": "survey 03/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 2482488020,
+  "lat": 48.9141069,
+  "lon": 2.4043533,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "description:route_ref": "250 Gonesse ZI",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "426187;426188",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6673025;StopPoint:59:6673026",
+    "route_ref": "250"
+  }
+},
+{
+  "type": "node",
+  "id": 2676877722,
+  "lat": 48.9144160,
+  "lon": 2.4040476,
+  "tags": {
+    "STIF:zone": "3",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "477201",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2676877743,
+  "lat": 48.9143965,
+  "lon": 2.4048725,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "description:route_ref": "330 Raymond Queneau;330 Anatole France",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22565",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5944484",
+    "route_ref": "330"
+  }
+},
+{
+  "type": "node",
+  "id": 2676877814,
+  "lat": 48.9148187,
+  "lon": 2.4032256,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "description:route_ref": "173 Fort d'Aubervilliers;250 Fort d'Aubervilliers;250;173",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers - Danielle Casanova",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30179",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758982",
+    "route_ref": "173;250",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2676877819,
+  "lat": 48.9143874,
+  "lon": 2.4034892,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22511",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4658165",
+    "route_ref": "152;N42",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2676877820,
+  "lat": 48.9144097,
+  "lon": 2.4052185,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "route_ref": "173 Porte de Clichy"
+  }
+},
+{
+  "type": "node",
+  "id": 2782986236,
+  "lat": 48.9161606,
+  "lon": 2.4054535,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hélène Cochennec",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30169",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035790",
+    "route_ref": "152;173;N42",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2783392603,
+  "lat": 48.9042050,
+  "lon": 2.3916159,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29299",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682480",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2829333552,
+  "lat": 48.9027816,
+  "lon": 2.3715702,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc du Millénaire",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35139",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761449",
+    "route_ref": "35",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2829333553,
+  "lat": 48.9028887,
+  "lon": 2.3685531,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Magasins Généraux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24491",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761278",
+    "route_ref": "239",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2829333559,
+  "lat": 48.9031877,
+  "lon": 2.3660278,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Net Squ@re",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24492",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761279",
+    "route_ref": "239",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2830343510,
+  "lat": 48.9153765,
+  "lon": 2.4003587,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30178",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758980",
+    "route_ref": "250;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3309108052,
+  "lat": 48.9153581,
+  "lon": 2.3707602,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Canal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27422",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908819",
+    "route_ref": "512;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3309110949,
+  "lat": 48.9152671,
+  "lon": 2.3746717,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heurtault",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3736634292,
+  "lat": 48.9115759,
+  "lon": 2.4119051,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Division Leclerc - Stendhal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28496",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5944531",
+    "route_ref": "330;248",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193617,
+  "lat": 48.9064223,
+  "lon": 2.3898518,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital la Roseraie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29293",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682482",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193618,
+  "lat": 48.9091052,
+  "lon": 2.3907067,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29295",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682484",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193619,
+  "lat": 48.9116137,
+  "lon": 2.3913946,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Roses",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37304",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682486",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56870505"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193620,
+  "lat": 48.9147256,
+  "lon": 2.3921687,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de Retraite",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29294",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682487",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193621,
+  "lat": 48.9148282,
+  "lon": 2.3919433,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de Retraite",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29297",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985481",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193623,
+  "lat": 48.9165404,
+  "lon": 2.3926504,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37303",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985478",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193624,
+  "lat": 48.9168358,
+  "lon": 2.3930542,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37306",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6682489",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193626,
+  "lat": 48.9190702,
+  "lon": 2.3936713,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28295",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6673031",
+    "route_ref": "250;249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760193627,
+  "lat": 48.9180535,
+  "lon": 2.3939607,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30177",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758978",
+    "route_ref": "250;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3760220078,
+  "lat": 48.9209625,
+  "lon": 2.3925292,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Chemin du Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37302",
+    "ref:FR:STIF:stop_id": "StopPoint:59:6673033",
+    "route_ref": "250;249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3894163599,
+  "lat": 48.9030119,
+  "lon": 2.3660342,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Net Squ@re",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24499",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761280",
+    "route_ref": "239",
+    "shelter": "yes",
+    "source": "survey 2018-12",
+    "source:position": "BD Ortho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3894200306,
+  "lat": 48.9026186,
+  "lon": 2.3693487,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Magasins Généraux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24490",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761314",
+    "route_ref": "239",
+    "shelter": "yes",
+    "source": "survey 2018-12",
+    "source:position": "BD Ortho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3894252532,
+  "lat": 48.9046930,
+  "lon": 2.3660033,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Modes et Médias",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24493",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761281",
+    "route_ref": "239",
+    "shelter": "no",
+    "source": "survey 2018-12",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3894252533,
+  "lat": 48.9059938,
+  "lon": 2.3660304,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gardinoux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24464",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761282",
+    "route_ref": "239",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4318159330,
+  "lat": 48.9071322,
+  "lon": 2.3668403,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Front Populaire - Gardinoux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24617",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908821",
+    "route_ref": "139;512",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4318159331,
+  "lat": 48.9066720,
+  "lon": 2.3669771,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Front Populaire - Gardinoux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24618",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355360",
+    "route_ref": "139",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4319869069,
+  "lat": 48.9129464,
+  "lon": 2.3885365,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Nouvelle France",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29298",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985484",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no",
+    "wikidata": "Q56869573"
+  }
+},
+{
+  "type": "node",
+  "id": 4321993427,
+  "lat": 48.9166645,
+  "lon": 2.3798976,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schaeffer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26497",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009080",
+    "shelter": "yes",
+    "source": "survey 03/2018"
+  }
+},
+{
+  "type": "node",
+  "id": 4323182949,
+  "lat": 48.9067539,
+  "lon": 2.3728737,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Haie-Coq",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36990",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7991778",
+    "route_ref": "45",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4325218404,
+  "lat": 48.9153110,
+  "lon": 2.3862946,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Lucien Brun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37445",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758974",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4325218405,
+  "lat": 48.9155998,
+  "lon": 2.3862197,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Square Lucien Brun",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34192",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758975",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4326089261,
+  "lat": 48.9189277,
+  "lon": 2.3824147,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Crevecœur",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36564",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972583",
+    "route_ref": "150;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4326573783,
+  "lat": 48.9140502,
+  "lon": 2.3887531,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Cités",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27424",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758973",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4326763920,
+  "lat": 48.9110707,
+  "lon": 2.3999573,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rechossière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26661",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5944486",
+    "route_ref": "152;330;N42",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4332183644,
+  "lat": 48.9187527,
+  "lon": 2.3870372,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hémet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34193",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758977",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4561696101,
+  "lat": 48.9176975,
+  "lon": 2.4071209,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Édouard Vaillant - Jean Jaurès",
+    "public_transport": "platform",
+    "ref:FR:STIF": "30168",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035789",
+    "route_ref": "152;173;N42",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5041879613,
+  "lat": 48.9092208,
+  "lon": 2.3879922,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Bert",
+    "public_transport": "platform",
+    "ref:FR:STIF": "29296",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985487",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5041879620,
+  "lat": 48.9065333,
+  "lon": 2.3893413,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital la Roseraie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39590",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972549",
+    "route_ref": "150;170",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5488012830,
+  "lat": 48.9215210,
+  "lon": 2.3749993,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue du Chemin de Fer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "28292",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009078",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5492147831,
+  "lat": 48.9111026,
+  "lon": 2.3846616,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Karman",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36330",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761412",
+    "route_ref": "150",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5492147834,
+  "lat": 48.9143274,
+  "lon": 2.3815661,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36298;36256",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972556",
+    "route_ref": "150;170",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5498287032,
+  "lat": 48.9039719,
+  "lon": 2.3915795,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36993;36991",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972548",
+    "route_ref": "150",
+    "shelter": "yes",
+    "source": "survey",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5498287034,
+  "lat": 48.9053964,
+  "lon": 2.3901917,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital la Roseraie",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37301",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985490",
+    "route_ref": "150;249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5498287036,
+  "lat": 48.9082318,
+  "lon": 2.3874544,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Cités",
+    "public_transport": "platform",
+    "ref:FR:STIF": "39591",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972552",
+    "route_ref": "150",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5502413131,
+  "lat": 48.9038508,
+  "lon": 2.3916964,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36993",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985494",
+    "route_ref": "170;249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5512381144,
+  "lat": 48.9045572,
+  "lon": 2.3912571,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22508",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009055",
+    "route_ref": "150;170",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:position": "BDOrtho IGN 2018"
+  }
+},
+{
+  "type": "node",
+  "id": 5517242200,
+  "lat": 48.9144743,
+  "lon": 2.3814207,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36299",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758971",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5517242202,
+  "lat": 48.9103864,
+  "lon": 2.3856077,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "André Karman",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36992",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972553",
+    "route_ref": "150",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5517242203,
+  "lat": 48.9082851,
+  "lon": 2.3876408,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue des Cités",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7963",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972551",
+    "route_ref": "150",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5517972852,
+  "lat": 48.9167094,
+  "lon": 2.3800474,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schaeffer",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26493",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4009060",
+    "route_ref": "173",
+    "shelter": "yes",
+    "source": "survey 03/2018",
+    "source:position": "BDOrtho IGN 2018",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5535539027,
+  "lat": 48.9152552,
+  "lon": 2.3703942,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Canal",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9550",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908820",
+    "route_ref": "512;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5679324522,
+  "lat": 48.9117571,
+  "lon": 2.4009749,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rechossière",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36697",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5944487",
+    "route_ref": "152;330;N42",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5679324523,
+  "lat": 48.9089354,
+  "lon": 2.3975709,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Parisien",
+    "public_transport": "platform",
+    "ref:FR:STIF": "26659",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5944488",
+    "route_ref": "152;330;N42",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5924111037,
+  "lat": 48.9143988,
+  "lon": 2.4040243,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:70:19162",
+    "route_ref": "609",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5924111038,
+  "lat": 48.9143991,
+  "lon": 2.4034990,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers - Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF:stop_id": "StopPoint:70:12510",
+    "route_ref": "609",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566350,
+  "lat": 48.9046702,
+  "lon": 2.3737616,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Haie Coq",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22344",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761420",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566351,
+  "lat": 48.9040194,
+  "lon": 2.3725562,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Haie Coq",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8454",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761419",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566352,
+  "lat": 48.9110177,
+  "lon": 2.3793447,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villebois - Mareuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40834",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761414",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979566353,
+  "lat": 48.9110738,
+  "lon": 2.3791990,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Villebois - Mareuil",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40025",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761413",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979569936,
+  "lat": 48.9039820,
+  "lon": 2.3918180,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins - République",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22508",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3972547",
+    "route_ref": "150;170",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5979593693,
+  "lat": 48.9065537,
+  "lon": 2.3759257,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gardinoux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22842",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355395",
+    "route_ref": "139;35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6247954080,
+  "lat": 48.9034614,
+  "lon": 2.3832031,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Karman - Félix Faure",
+    "public_transport": "platform",
+    "ref:FR:STIF": "24470",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355349",
+    "route_ref": "139",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6247954515,
+  "lat": 48.9083147,
+  "lon": 2.3689609,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "18 Rue du Pilier",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40780",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355357",
+    "route_ref": "139",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6247954519,
+  "lat": 48.9066758,
+  "lon": 2.3800775,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Félix Faure - Rue des Écoles",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35157",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355350",
+    "route_ref": "139",
+    "shelter": "no",
+    "source:wheelchair": "STIF 2018-07",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6247954520,
+  "lat": 48.9035568,
+  "lon": 2.3832683,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Karman - Félix Faure",
+    "public_transport": "platform",
+    "ref:FR:STIF": "35158",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355348",
+    "route_ref": "139",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6251081951,
+  "lat": 48.9142300,
+  "lon": 2.4040460,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "7853",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5150444",
+    "route_ref": "134;234",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6254233427,
+  "lat": 48.9151580,
+  "lon": 2.3762348,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heurtault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "36580",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908818",
+    "route_ref": "512;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6254233430,
+  "lat": 48.9155713,
+  "lon": 2.3769310,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Heurtault",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9551",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908817",
+    "route_ref": "512;173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6254233431,
+  "lat": 48.9156590,
+  "lon": 2.3807849,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27421",
+    "ref:FR:STIF:stop_id": "StopPoint:59:3908815",
+    "route_ref": "512",
+    "source:wheelchair": "STIF 2018-07",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6258895552,
+  "lat": 48.9023312,
+  "lon": 2.3903647,
+  "tags": {
+    "STIF:zone": "2",
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Magenta",
+    "public_transport": "platform",
+    "ref:FR:RATP": "11337253",
+    "ref:FR:STIF": "36691",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4658259",
+    "route_ref": "150;152;N42",
+    "shelter": "yes",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6259889029,
+  "lat": 48.9211970,
+  "lon": 2.3918884,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Chemin du Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "8258",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985474",
+    "route_ref": "250;249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6272936825,
+  "lat": 48.9136898,
+  "lon": 2.4072329,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maison de Quartier - Courtillières",
+    "public_transport": "platform",
+    "ref:FR:STIF": "420016",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5605602",
+    "route_ref": "330;248",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6274265174,
+  "lat": 48.9041085,
+  "lon": 2.3923141,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quatre Chemins-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9383",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4658258",
+    "route_ref": "152;N42",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6283310471,
+  "lat": 48.9094969,
+  "lon": 2.3786041,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Félix Faure - Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34159",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761416",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6283310482,
+  "lat": 48.9067381,
+  "lon": 2.3757246,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gardinoux",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22843",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761417",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6283310483,
+  "lat": 48.9093376,
+  "lon": 2.3782823,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Félix Faure - Victor Hugo",
+    "public_transport": "platform",
+    "ref:FR:STIF": "34158",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761415",
+    "route_ref": "35;N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6283310484,
+  "lat": 48.9132870,
+  "lon": 2.3825150,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40835;40836",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5761410;StopPoint:59:5761411",
+    "route_ref": "35",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6297091445,
+  "lat": 48.9137543,
+  "lon": 2.3807711,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "40837",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035701",
+    "route_ref": "N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6297091449,
+  "lat": 48.9156272,
+  "lon": 2.3813810,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22353",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4035700",
+    "route_ref": "N43",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6301072918,
+  "lat": 48.9042696,
+  "lon": 2.3753992,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "fixme": "position approximative.",
+    "highway": "bus_stop",
+    "name": "Jardin des Berges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "464017",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7946240",
+    "route_ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 6301074990,
+  "lat": 48.9041140,
+  "lon": 2.3742526,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jardin des Berges",
+    "public_transport": "platform",
+    "ref:FR:STIF": "464010",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7946244",
+    "route_ref": "45"
+  }
+},
+{
+  "type": "node",
+  "id": 6361816761,
+  "lat": 48.9147710,
+  "lon": 2.3819840,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie d'Aubervilliers",
+    "public_transport": "platform",
+    "ref:FR:STIF": "9548",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758972",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6361816764,
+  "lat": 48.9186194,
+  "lon": 2.3926480,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "22516",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758979",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6361816770,
+  "lat": 48.9190528,
+  "lon": 2.3874793,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hémet",
+    "public_transport": "platform",
+    "ref:FR:STIF": "27423",
+    "ref:FR:STIF:stop_id": "StopPoint:59:4758976",
+    "route_ref": "173",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6372544639,
+  "lat": 48.9141556,
+  "lon": 2.4042074,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort d'Aubervilliers-Métro",
+    "public_transport": "platform",
+    "ref:FR:STIF": "421047;421046",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5605601;StopPoint:59:5605600",
+    "route_ref": "248",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6372729180,
+  "lat": 48.9191366,
+  "lon": 2.3934104,
+  "tags": {
+    "STIF:zone": "3",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danielle Casanova - Pont Blanc",
+    "public_transport": "platform",
+    "ref:FR:STIF": "37305",
+    "ref:FR:STIF:stop_id": "StopPoint:59:7985475",
+    "route_ref": "249",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6481149196,
+  "lat": 48.9064353,
+  "lon": 2.3726580,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue de la Haie-Coq",
+    "public_transport": "platform",
+    "ref:FR:STIF": "473785",
+    "ref:FR:STIF:stop_id": "StopPoint:59:5355394",
+    "route_ref": "139",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7816998250,
+  "lat": 48.9151196,
+  "lon": 2.3712876,
+  "tags": {
+    "STIF:zone": "2",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Canal",
+    "public_transport": "platform",
+    "route_ref": "512",
+    "source:wheelchair": "STIF 2019-01",
+    "wheelchair": "yes"
+  }
+}
+
+  ]
+}

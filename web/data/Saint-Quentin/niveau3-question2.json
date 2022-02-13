@@ -1,0 +1,540 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 38003024,
+  "nodes": [
+    446337827,
+    4192328307,
+    705405215,
+    446337828,
+    446337834,
+    1652628747,
+    9300515571,
+    3718616097,
+    446337835
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Boulevard Gambetta",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 95416510,
+  "nodes": [
+    1110668634,
+    1106397185,
+    1106397007,
+    1106397148
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "oneway": "yes",
+    "source": "GPS track"
+  }
+},
+{
+  "type": "way",
+  "id": 95416517,
+  "nodes": [
+    1106397182,
+    1106396999,
+    1292264051,
+    1110668634
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "oneway": "yes",
+    "source": "GPS track"
+  }
+},
+{
+  "type": "way",
+  "id": 132363248,
+  "nodes": [
+    1456143453,
+    3721581443,
+    447290037
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Boulevard Richelieu",
+    "old_ref": "D 8",
+    "oneway": "no",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 152444080,
+  "nodes": [
+    446337823,
+    5910259806,
+    2948072123,
+    705405218
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Boulevard Gambetta",
+    "source": "Bing Sat",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 368000312,
+  "nodes": [
+    705405218,
+    3718642401,
+    1412615175,
+    446337827
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Boulevard Gambetta",
+    "source": "Bing Sat",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 368000313,
+  "nodes": [
+    446337835,
+    1314369166,
+    446337837,
+    4149522940,
+    9091643067,
+    446337839,
+    1106425996,
+    1535791329,
+    446337840,
+    4149533095,
+    1106425990,
+    9091639286,
+    446337842,
+    1535791346,
+    1535791349,
+    1081438874,
+    446337843,
+    6383049626,
+    9424997806,
+    5911091007,
+    446337846
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Boulevard Gambetta",
+    "oneway": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 845361046,
+  "nodes": [
+    7887004628,
+    3653099673,
+    1110668685
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "tertiary",
+    "oneway": "yes",
+    "ref": "D 675",
+    "source": "GPS track"
+  }
+},
+{
+  "type": "way",
+  "id": 944027700,
+  "nodes": [
+    452646753,
+    1784546858
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Boulevard Roosevelt",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 944027701,
+  "nodes": [
+    1784546854,
+    8740412016,
+    452646753
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "lanes": "1",
+    "name": "Boulevard Roosevelt",
+    "oneway": "yes",
+    "source": "Bing Sat"
+  }
+},
+{
+  "type": "area",
+  "id": 3600153656,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "capital": "7",
+    "label:FR:history": "VAH",
+    "name": "Saint-Quentin",
+    "name:fr": "Saint-Quentin",
+    "name:ja": "サン＝カンタン",
+    "name:la": "Augusta Viromanduorum",
+    "population": "53570",
+    "population:date": "2019",
+    "postal_code": "02100",
+    "ref:FR:SIREN": "210206660",
+    "ref:INSEE": "02691",
+    "source:population": "INSEE 2022",
+    "type": "boundary",
+    "website": "https://www.saint-quentin.fr/",
+    "wikidata": "Q182744",
+    "wikipedia": "fr:Saint-Quentin"
+  }
+},
+{
+  "type": "node",
+  "id": 446337823,
+  "lat": 49.8461231,
+  "lon": 3.2954989
+},
+{
+  "type": "node",
+  "id": 446337827,
+  "lat": 49.8477424,
+  "lon": 3.2956881
+},
+{
+  "type": "node",
+  "id": 446337828,
+  "lat": 49.8482698,
+  "lon": 3.2957776
+},
+{
+  "type": "node",
+  "id": 446337834,
+  "lat": 49.8486705,
+  "lon": 3.2958113
+},
+{
+  "type": "node",
+  "id": 446337835,
+  "lat": 49.8498848,
+  "lon": 3.2953936
+},
+{
+  "type": "node",
+  "id": 705405215,
+  "lat": 49.8481690,
+  "lon": 3.2957570
+},
+{
+  "type": "node",
+  "id": 705405218,
+  "lat": 49.8469062,
+  "lon": 3.2955925
+},
+{
+  "type": "node",
+  "id": 1412615175,
+  "lat": 49.8476266,
+  "lon": 3.2956771
+},
+{
+  "type": "node",
+  "id": 1652628747,
+  "lat": 49.8488077,
+  "lon": 3.2957779
+},
+{
+  "type": "node",
+  "id": 2948072123,
+  "lat": 49.8464727,
+  "lon": 3.2955293
+},
+{
+  "type": "node",
+  "id": 3718616097,
+  "lat": 49.8498070,
+  "lon": 3.2954254
+},
+{
+  "type": "node",
+  "id": 3718642401,
+  "lat": 49.8470141,
+  "lon": 3.2955960
+},
+{
+  "type": "node",
+  "id": 4192328307,
+  "lat": 49.8481257,
+  "lon": 3.2957521
+},
+{
+  "type": "node",
+  "id": 5910259806,
+  "lat": 49.8462502,
+  "lon": 3.2955311
+},
+{
+  "type": "node",
+  "id": 9300515571,
+  "lat": 49.8495634,
+  "lon": 3.2955113
+},
+{
+  "type": "node",
+  "id": 447290037,
+  "lat": 49.8516154,
+  "lon": 3.2847712
+},
+{
+  "type": "node",
+  "id": 452646753,
+  "lat": 49.8526601,
+  "lon": 3.2872336
+},
+{
+  "type": "node",
+  "id": 1456143453,
+  "lat": 49.8513907,
+  "lon": 3.2843634
+},
+{
+  "type": "node",
+  "id": 1784546854,
+  "lat": 49.8525868,
+  "lon": 3.2868885
+},
+{
+  "type": "node",
+  "id": 1784546858,
+  "lat": 49.8527035,
+  "lon": 3.2875326
+},
+{
+  "type": "node",
+  "id": 3721581443,
+  "lat": 49.8515684,
+  "lon": 3.2846836
+},
+{
+  "type": "node",
+  "id": 8740412016,
+  "lat": 49.8526298,
+  "lon": 3.2871383
+},
+{
+  "type": "node",
+  "id": 446337837,
+  "lat": 49.8503761,
+  "lon": 3.2952258
+},
+{
+  "type": "node",
+  "id": 446337839,
+  "lat": 49.8508505,
+  "lon": 3.2946605
+},
+{
+  "type": "node",
+  "id": 446337840,
+  "lat": 49.8512786,
+  "lon": 3.2939850
+},
+{
+  "type": "node",
+  "id": 446337842,
+  "lat": 49.8520395,
+  "lon": 3.2927653
+},
+{
+  "type": "node",
+  "id": 446337843,
+  "lat": 49.8525950,
+  "lon": 3.2918989
+},
+{
+  "type": "node",
+  "id": 446337846,
+  "lat": 49.8531743,
+  "lon": 3.2909688
+},
+{
+  "type": "node",
+  "id": 1081438874,
+  "lat": 49.8525458,
+  "lon": 3.2919756
+},
+{
+  "type": "node",
+  "id": 1106425990,
+  "lat": 49.8517715,
+  "lon": 3.2931864
+},
+{
+  "type": "node",
+  "id": 1106425996,
+  "lat": 49.8508934,
+  "lon": 3.2945889
+},
+{
+  "type": "node",
+  "id": 1314369166,
+  "lat": 49.8499965,
+  "lon": 3.2953578
+},
+{
+  "type": "node",
+  "id": 1535791329,
+  "lat": 49.8512186,
+  "lon": 3.2940781
+},
+{
+  "type": "node",
+  "id": 1535791346,
+  "lat": 49.8520637,
+  "lon": 3.2927276
+},
+{
+  "type": "node",
+  "id": 1535791349,
+  "lat": 49.8521901,
+  "lon": 3.2925288
+},
+{
+  "type": "node",
+  "id": 4149522940,
+  "lat": 49.8504331,
+  "lon": 3.2951915
+},
+{
+  "type": "node",
+  "id": 4149533095,
+  "lat": 49.8513213,
+  "lon": 3.2939244
+},
+{
+  "type": "node",
+  "id": 5911091007,
+  "lat": 49.8530295,
+  "lon": 3.2912156
+},
+{
+  "type": "node",
+  "id": 6383049626,
+  "lat": 49.8526536,
+  "lon": 3.2918068
+},
+{
+  "type": "node",
+  "id": 9091639286,
+  "lat": 49.8519921,
+  "lon": 3.2928377
+},
+{
+  "type": "node",
+  "id": 9091643067,
+  "lat": 49.8506183,
+  "lon": 3.2950183
+},
+{
+  "type": "node",
+  "id": 9424997806,
+  "lat": 49.8530035,
+  "lon": 3.2912565
+},
+{
+  "type": "node",
+  "id": 1106396999,
+  "lat": 49.8576718,
+  "lon": 3.3108330
+},
+{
+  "type": "node",
+  "id": 1106397007,
+  "lat": 49.8577685,
+  "lon": 3.3108499
+},
+{
+  "type": "node",
+  "id": 1106397148,
+  "lat": 49.8578063,
+  "lon": 3.3107041
+},
+{
+  "type": "node",
+  "id": 1106397182,
+  "lat": 49.8576336,
+  "lon": 3.3106932
+},
+{
+  "type": "node",
+  "id": 1106397185,
+  "lat": 49.8577373,
+  "lon": 3.3109868
+},
+{
+  "type": "node",
+  "id": 1110668634,
+  "lat": 49.8577165,
+  "lon": 3.3110849
+},
+{
+  "type": "node",
+  "id": 1110668685,
+  "lat": 49.8571553,
+  "lon": 3.3105778
+},
+{
+  "type": "node",
+  "id": 1292264051,
+  "lat": 49.8576879,
+  "lon": 3.3109203
+},
+{
+  "type": "node",
+  "id": 3653099673,
+  "lat": 49.8569349,
+  "lon": 3.3105966
+},
+{
+  "type": "node",
+  "id": 7887004628,
+  "lat": 49.8567536,
+  "lon": 3.3106078
+}
+
+  ]
+}

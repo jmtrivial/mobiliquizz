@@ -1,0 +1,2860 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 151226500,
+  "lat": 45.5856849,
+  "lon": 5.9233372,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hermitage",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 240367597,
+  "lat": 45.5648352,
+  "lon": 5.9195726,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boigne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 243552861,
+  "lat": 45.5952968,
+  "lon": 5.9204888,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Louis Armand",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 429398478,
+  "lat": 45.5665715,
+  "lon": 5.9350696,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Garatte",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 440818166,
+  "lat": 45.5661623,
+  "lon": 5.9387164,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Buisson Rond",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 466209182,
+  "lat": 45.5980234,
+  "lon": 5.9186904,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 466216309,
+  "lat": 45.5996509,
+  "lon": 5.9158923,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dardel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 466233568,
+  "lat": 45.5934969,
+  "lon": 5.9181232,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bertillet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 466244809,
+  "lat": 45.5906506,
+  "lon": 5.9179924,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Macônnais",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 469887379,
+  "lat": 45.5794128,
+  "lon": 5.9215336,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pellerin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 469889275,
+  "lat": 45.5764653,
+  "lon": 5.9198610,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Rotonde",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 469890881,
+  "lat": 45.5728845,
+  "lon": 5.9208963,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Charmilles",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 471585630,
+  "lat": 45.5826117,
+  "lon": 5.8867241,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix de Bissy",
+    "network": "Synchro Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 474644114,
+  "lat": 45.5671716,
+  "lon": 5.9287195,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carmes",
+    "note": "Lignes 3, 4, 26",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 658641760,
+  "lat": 45.5674623,
+  "lon": 5.9291876,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carmes",
+    "note": "aussi Ligne 4",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 850746948,
+  "lat": 45.5697094,
+  "lon": 5.9338781,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pôle Emploi",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1522755826,
+  "lat": 45.5921501,
+  "lon": 5.9025028,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambéry Chamnord",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1522755852,
+  "lat": 45.5923641,
+  "lon": 5.9024571,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambéry Chamnord",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1522861496,
+  "lat": 45.5663169,
+  "lon": 5.9306810,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "MJC",
+    "network": "Synchro Bus",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1530397208,
+  "lat": 45.5675522,
+  "lon": 5.9187389,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1538731477,
+  "lat": 45.5729973,
+  "lon": 5.9320538,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Tunnel",
+    "operator": "Synchro-Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1674429016,
+  "lat": 45.5836174,
+  "lon": 5.9012755,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Le Phare-Parc Expo",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750122515,
+  "lat": 45.5670299,
+  "lon": 5.9183262,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Halles",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "stop_position",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1777825974,
+  "lat": 45.5595937,
+  "lon": 5.9217875,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Stalingrad",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1777825988,
+  "lat": 45.5610926,
+  "lon": 5.9191178,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Valérieux",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2136015556,
+  "lat": 45.5809993,
+  "lon": 5.9215358,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Ombre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2136019755,
+  "lat": 45.5809019,
+  "lon": 5.9222043,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chantemerle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2136019756,
+  "lat": 45.5836728,
+  "lon": 5.9191604,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruyères",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2292339253,
+  "lat": 45.5635350,
+  "lon": 5.9028461,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bosco",
+    "operator": "STAC",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2320095118,
+  "lat": 45.5803575,
+  "lon": 5.9090272,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Verger",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2393108679,
+  "lat": 45.5753974,
+  "lon": 5.9161458,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Police",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2393108681,
+  "lat": 45.5787718,
+  "lon": 5.9135786,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boisse",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2398425583,
+  "lat": 45.5555882,
+  "lon": 5.9219065,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bellevue"
+  }
+},
+{
+  "type": "node",
+  "id": 2398452527,
+  "lat": 45.5636194,
+  "lon": 5.9192238,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2398452528,
+  "lat": 45.5599481,
+  "lon": 5.9191970,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baudelaire",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2398452529,
+  "lat": 45.5638747,
+  "lon": 5.9192793,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Préfecture",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2398452530,
+  "lat": 45.5602561,
+  "lon": 5.9170664,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2398452533,
+  "lat": 45.5621303,
+  "lon": 5.9187946,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2398503039,
+  "lat": 45.5579249,
+  "lon": 5.9221464,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pradel",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2409935347,
+  "lat": 45.5844315,
+  "lon": 5.9201311,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Trolles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2410825057,
+  "lat": 45.5696570,
+  "lon": 5.9250399,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Clos Savoiroux",
+    "operator": "Synchro-Bus",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2411306381,
+  "lat": 45.5894749,
+  "lon": 5.9190995,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cévennes",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2411312570,
+  "lat": 45.5876777,
+  "lon": 5.9218646,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Provence",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2420681657,
+  "lat": 45.5654667,
+  "lon": 5.9163334,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Château des Ducs",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2420681658,
+  "lat": 45.5654085,
+  "lon": 5.9166688,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Château des Ducs",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2421323964,
+  "lat": 45.5974008,
+  "lon": 5.9162584,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rops",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2421323972,
+  "lat": 45.6063381,
+  "lon": 5.9115210,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Morraz",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2421323979,
+  "lat": 45.5972826,
+  "lon": 5.9164167,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rops",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2421323982,
+  "lat": 45.6032859,
+  "lon": 5.9131095,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bouchets",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2421554425,
+  "lat": 45.5782850,
+  "lon": 5.9173149,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beauvoir",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2421554426,
+  "lat": 45.5777723,
+  "lon": 5.9174042,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beauvoir",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2422565284,
+  "lat": 45.5642834,
+  "lon": 5.9108100,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Centre hospitalier",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2422617996,
+  "lat": 45.5746921,
+  "lon": 5.8885884,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Petite Forêt",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2422618000,
+  "lat": 45.5773506,
+  "lon": 5.8874994,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bisseraine",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2422618001,
+  "lat": 45.5839812,
+  "lon": 5.8790665,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rocher Blanc"
+  }
+},
+{
+  "type": "node",
+  "id": 2422618003,
+  "lat": 45.5849498,
+  "lon": 5.8811909,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Laitière"
+  }
+},
+{
+  "type": "node",
+  "id": 2422618004,
+  "lat": 45.5833054,
+  "lon": 5.8795011,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Chamoux"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589203,
+  "lat": 45.5742934,
+  "lon": 5.9105822,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École du Stade",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589208,
+  "lat": 45.5904184,
+  "lon": 5.8892020,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Douanes",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589223,
+  "lat": 45.5760800,
+  "lon": 5.9059066,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589224,
+  "lat": 45.5787964,
+  "lon": 5.9042026,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Fontanettes",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589226,
+  "lat": 45.5876659,
+  "lon": 5.9000621,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Borson",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589228,
+  "lat": 45.5725511,
+  "lon": 5.9115365,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Nautique",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589240,
+  "lat": 45.5889954,
+  "lon": 5.8971948,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Service des Eaux",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589251,
+  "lat": 45.5906347,
+  "lon": 5.8935588,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Esclangon"
+  }
+},
+{
+  "type": "node",
+  "id": 2423589260,
+  "lat": 45.5811043,
+  "lon": 5.9030335,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Follaz",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2424767768,
+  "lat": 45.5743531,
+  "lon": 5.9229410,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lemenc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2425416305,
+  "lat": 45.5746514,
+  "lon": 5.9021267,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Level",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2425416308,
+  "lat": 45.5767171,
+  "lon": 5.8984003,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie Bissy",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2425416331,
+  "lat": 45.5793714,
+  "lon": 5.8934972,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stade Mager"
+  }
+},
+{
+  "type": "node",
+  "id": 2425416346,
+  "lat": 45.5864855,
+  "lon": 5.8841514,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Girod",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2425416349,
+  "lat": 45.5735191,
+  "lon": 5.9060062,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hyères",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2426554667,
+  "lat": 45.5689641,
+  "lon": 5.9305865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joppet",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362376,
+  "lat": 45.6001799,
+  "lon": 5.9075317,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Goléron"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362383,
+  "lat": 45.5952838,
+  "lon": 5.9044359,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Paul Vachez",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362386,
+  "lat": 45.5896223,
+  "lon": 5.9047779,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Adoma",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362391,
+  "lat": 45.5780912,
+  "lon": 5.9097150,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coubertin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362398,
+  "lat": 45.6014260,
+  "lon": 5.9174638,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Champ",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362409,
+  "lat": 45.5682285,
+  "lon": 5.9137115,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sécurité Sociale",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362415,
+  "lat": 45.5866483,
+  "lon": 5.9073876,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balme",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362421,
+  "lat": 45.6010299,
+  "lon": 5.9110239,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Putigny",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362427,
+  "lat": 45.5967943,
+  "lon": 5.9061127,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Combe Verte",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362436,
+  "lat": 45.5809636,
+  "lon": 5.9090337,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Verger",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362449,
+  "lat": 45.5712162,
+  "lon": 5.9110924,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CAF",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362455,
+  "lat": 45.5778078,
+  "lon": 5.9103237,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Coubertin",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2429362460,
+  "lat": 45.5997625,
+  "lon": 5.9081227,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Goléron"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059811,
+  "lat": 45.6104811,
+  "lon": 5.8895222,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belle Eau",
+    "operator": "STAC",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059812,
+  "lat": 45.6066559,
+  "lon": 5.8917218,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagnon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059813,
+  "lat": 45.5941598,
+  "lon": 5.9007805,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Relais Landiers",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059814,
+  "lat": 45.5983988,
+  "lon": 5.8953425,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambéry Métropole",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059815,
+  "lat": 45.5965124,
+  "lon": 5.8978304,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landiers Sud",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059817,
+  "lat": 45.6043070,
+  "lon": 5.8922888,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2432059818,
+  "lat": 45.6116781,
+  "lon": 5.8885588,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landiers Nord",
+    "operator": "STAC",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2449407487,
+  "lat": 45.5977582,
+  "lon": 5.9204502,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Sartre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2449407758,
+  "lat": 45.5982591,
+  "lon": 5.9145200,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pré de l’Âne",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2449409778,
+  "lat": 45.5855813,
+  "lon": 5.9221105,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piochet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2449409783,
+  "lat": 45.5852144,
+  "lon": 5.9220524,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Piochet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168002,
+  "lat": 45.5895868,
+  "lon": 5.9046978,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Adoma",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168003,
+  "lat": 45.5865099,
+  "lon": 5.9073523,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Balme",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168005,
+  "lat": 45.6103922,
+  "lon": 5.8894505,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Belle Eau",
+    "operator": "STAC",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168007,
+  "lat": 45.5783588,
+  "lon": 5.9137234,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boisse",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168008,
+  "lat": 45.5978164,
+  "lon": 5.8959457,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chambéry Métropole",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168009,
+  "lat": 45.5818292,
+  "lon": 5.9112024,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168014,
+  "lat": 45.6115050,
+  "lon": 5.8885735,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landiers Nord",
+    "operator": "STAC",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168015,
+  "lat": 45.5969675,
+  "lon": 5.8974787,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Landiers Sud",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168016,
+  "lat": 45.6038650,
+  "lon": 5.8926976,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168018,
+  "lat": 45.6064622,
+  "lon": 5.8917679,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pagnon",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587168019,
+  "lat": 45.5945165,
+  "lon": 5.9006115,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc Relais Landiers",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2587254681,
+  "lat": 45.5933336,
+  "lon": 5.9180964,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bertillet",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587254685,
+  "lat": 45.6034989,
+  "lon": 5.9131899,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bouchets"
+  }
+},
+{
+  "type": "node",
+  "id": 2587254696,
+  "lat": 45.5743693,
+  "lon": 5.9228652,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lemenc",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587254700,
+  "lat": 45.6063507,
+  "lon": 5.9115745,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Morraz",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2587254708,
+  "lat": 45.5878304,
+  "lon": 5.9219189,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Provence",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054709,
+  "lat": 45.5732385,
+  "lon": 5.9146389,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054710,
+  "lat": 45.5863878,
+  "lon": 5.8840441,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Girod",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054712,
+  "lat": 45.5663079,
+  "lon": 5.9306818,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "MJC",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054713,
+  "lat": 45.5764271,
+  "lon": 5.8986759,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mairie Bissy",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054715,
+  "lat": 45.5804077,
+  "lon": 5.8914480,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bissières",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054716,
+  "lat": 45.5792400,
+  "lon": 5.8934975,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Stade Mager"
+  }
+},
+{
+  "type": "node",
+  "id": 2620054717,
+  "lat": 45.5726479,
+  "lon": 5.9114166,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Nautique",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2627587181,
+  "lat": 45.5924452,
+  "lon": 5.9191148,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Côte Rousse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2660143059,
+  "lat": 45.5697871,
+  "lon": 5.9167503,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "6"
+  }
+},
+{
+  "type": "node",
+  "id": 2662954084,
+  "lat": 45.5989292,
+  "lon": 5.9151310,
+  "tags": {
+    "amenity": "marketplace",
+    "highway": "bus_stop",
+    "name": "Marché"
+  }
+},
+{
+  "type": "node",
+  "id": 2663219921,
+  "lat": 45.5690644,
+  "lon": 5.9310329,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joppet",
+    "public_transport": "stop_position",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2694657816,
+  "lat": 45.5960243,
+  "lon": 5.9157280,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Aoste",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2694657818,
+  "lat": 45.5911106,
+  "lon": 5.9164622,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Horizon",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2694657823,
+  "lat": 45.5938773,
+  "lon": 5.9164469,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rébérioux",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2694658187,
+  "lat": 45.5889563,
+  "lon": 5.9166504,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Creux du Loup",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2938844753,
+  "lat": 45.5601265,
+  "lon": 5.9169941,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Balzac",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2943499801,
+  "lat": 45.5799098,
+  "lon": 5.9250258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Domaine des Monts",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2947255511,
+  "lat": 45.5746263,
+  "lon": 5.9025905,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Level",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 2983165821,
+  "lat": 45.5971540,
+  "lon": 5.9059844,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Combe Verte",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3139931578,
+  "lat": 45.5938118,
+  "lon": 5.9063112,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mendès-France",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3139931584,
+  "lat": 45.5939431,
+  "lon": 5.9067189,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mendès-France",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3139933179,
+  "lat": 45.5927007,
+  "lon": 5.9189740,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Côte-Rousse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3139933180,
+  "lat": 45.5923459,
+  "lon": 5.9188613,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Côte-Rousse",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3157722514,
+  "lat": 45.5581934,
+  "lon": 5.9220819,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pradel",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3206931807,
+  "lat": 45.5839265,
+  "lon": 5.9010368,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Le Phare-Parc Expo",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3249105715,
+  "lat": 45.5600095,
+  "lon": 5.9189758,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baudelaire",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3349674209,
+  "lat": 45.5730219,
+  "lon": 5.9071038,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hyères",
+    "operator": "Stac",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3454187233,
+  "lat": 45.5808474,
+  "lon": 5.9221264,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Chantemerle",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3476121811,
+  "lat": 45.5907208,
+  "lon": 5.8929279,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Esclangon"
+  }
+},
+{
+  "type": "node",
+  "id": 3491752558,
+  "lat": 45.5811739,
+  "lon": 5.9032212,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Follaz",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3496959657,
+  "lat": 45.5947189,
+  "lon": 5.9046292,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Paul Vachez",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3561177377,
+  "lat": 45.5990037,
+  "lon": 5.9156050,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dardel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3866792126,
+  "lat": 45.5699009,
+  "lon": 5.9165114,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "7"
+  }
+},
+{
+  "type": "node",
+  "id": 3866792141,
+  "lat": 45.5707851,
+  "lon": 5.9208146,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cassine - Gare",
+    "network": "Synchro Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 3874890820,
+  "lat": 45.5838301,
+  "lon": 5.9189759,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruyères",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3905655822,
+  "lat": 45.5821168,
+  "lon": 5.8871499,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croix de Bissy",
+    "network": "Synchro Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 4018244357,
+  "lat": 45.5790274,
+  "lon": 5.9042883,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Fontanettes",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374491959,
+  "lat": 45.5682220,
+  "lon": 5.9222386,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Ducs",
+    "network": "Synchro Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374491960,
+  "lat": 45.5755968,
+  "lon": 5.9088784,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Chevaliers Tireurs",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374491961,
+  "lat": 45.5762928,
+  "lon": 5.9051167,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cimetière Chambéry",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374743704,
+  "lat": 45.5890541,
+  "lon": 5.8972029,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Service des Eaux",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4374743705,
+  "lat": 45.5875088,
+  "lon": 5.9001258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Borson",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4374743706,
+  "lat": 45.5903704,
+  "lon": 5.8892783,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Douanes",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry"
+  }
+},
+{
+  "type": "node",
+  "id": 4376127366,
+  "lat": 45.5754854,
+  "lon": 5.9088410,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Chevaliers Tireurs",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4376127367,
+  "lat": 45.5745129,
+  "lon": 5.9103993,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "École du Stade",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4376127368,
+  "lat": 45.5734789,
+  "lon": 5.9164359,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gambetta",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4395940277,
+  "lat": 45.5640837,
+  "lon": 5.9242474,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curial",
+    "network": "Synchro Bus",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4463731565,
+  "lat": 45.5678456,
+  "lon": 5.9223845,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Ducs",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4485271047,
+  "lat": 45.5664807,
+  "lon": 5.9255684,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Italie",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4485271048,
+  "lat": 45.5666804,
+  "lon": 5.9255068,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Italie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4493894089,
+  "lat": 45.5633959,
+  "lon": 5.9309683,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bocage",
+    "name:en": "Bocage",
+    "name:fr": "Bocage",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4535495885,
+  "lat": 45.5700856,
+  "lon": 5.9214111,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Reclus",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4559006843,
+  "lat": 45.6012966,
+  "lon": 5.9141224,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gendarmerie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4559006847,
+  "lat": 45.6013360,
+  "lon": 5.9143316,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gendarmerie",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4559009188,
+  "lat": 45.5988640,
+  "lon": 5.9154160,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dardel",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4565425054,
+  "lat": 45.5633932,
+  "lon": 5.9306937,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bocage",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4633550630,
+  "lat": 45.5702298,
+  "lon": 5.9198255,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare",
+    "network": "Synchro Bus",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 4633553682,
+  "lat": 45.5698338,
+  "lon": 5.9168102,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "5"
+  }
+},
+{
+  "type": "node",
+  "id": 4633553683,
+  "lat": 45.5698573,
+  "lon": 5.9169095,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "4"
+  }
+},
+{
+  "type": "node",
+  "id": 4633553685,
+  "lat": 45.5698826,
+  "lon": 5.9170060,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "3"
+  }
+},
+{
+  "type": "node",
+  "id": 4633553687,
+  "lat": 45.5699145,
+  "lon": 5.9171281,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 4633553789,
+  "lat": 45.5699530,
+  "lon": 5.9172246,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare routière de Chambéry",
+    "public_transport": "stop_position",
+    "ref": "1",
+    "route_ref": "6060; Flixbus 729, 739, 1709, 1725, 1726, 1739, 1789, N706, N729, N1156; Ouibus"
+  }
+},
+{
+  "type": "node",
+  "id": 4793303237,
+  "lat": 45.5643458,
+  "lon": 5.9149364,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Biset",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4793303238,
+  "lat": 45.5642097,
+  "lon": 5.9147692,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôpital Biset",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4797304975,
+  "lat": 45.5628341,
+  "lon": 5.9051934,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4797304976,
+  "lat": 45.5627158,
+  "lon": 5.9050526,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4797304977,
+  "lat": 45.5634666,
+  "lon": 5.9058437,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Buet",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4797304978,
+  "lat": 45.5635408,
+  "lon": 5.9066510,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Buet",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4797308336,
+  "lat": 45.5815508,
+  "lon": 5.9113092,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4797308337,
+  "lat": 45.5754607,
+  "lon": 5.9159867,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Police",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 4797308339,
+  "lat": 45.5603724,
+  "lon": 5.9056868,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biollay",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4797308340,
+  "lat": 45.5602090,
+  "lon": 5.9059014,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Biollay",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4804630876,
+  "lat": 45.5640385,
+  "lon": 5.9243211,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curial",
+    "network": "Synchro Bus",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810357661,
+  "lat": 45.5663000,
+  "lon": 5.9346577,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monge",
+    "network": "Synchro Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810357662,
+  "lat": 45.5661981,
+  "lon": 5.9347368,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Monge",
+    "network": "Synchro Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810573778,
+  "lat": 45.5624125,
+  "lon": 5.9304717,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rousseau",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810573779,
+  "lat": 45.5610369,
+  "lon": 5.9308419,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rousseau",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4810573780,
+  "lat": 45.5589365,
+  "lon": 5.9310924,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Charmettes",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4811759262,
+  "lat": 45.5893805,
+  "lon": 5.9191837,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cévennes",
+    "network": "Synchro Bus",
+    "network:wikidata": "Q3480394",
+    "network:wikipedia": "fr:Transports en commun de Chambéry",
+    "operator": "Keolis Chambéry",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4811759264,
+  "lat": 45.6008494,
+  "lon": 5.9096894,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Putigny",
+    "network": "Synchro Bus",
+    "operator": "Keolis Chambéry"
+  }
+},
+{
+  "type": "node",
+  "id": 5586854660,
+  "lat": 45.5686020,
+  "lon": 5.9269386,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Collège st-françois",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5586854661,
+  "lat": 45.5686770,
+  "lon": 5.9263325,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Collège st-françois",
+    "network": "Synchro Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5652543184,
+  "lat": 45.5822879,
+  "lon": 5.9291765,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cappella",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7052469145,
+  "lat": 45.5667266,
+  "lon": 5.9356519,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Garatte",
+    "operator": "Synchro-bus",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7125090047,
+  "lat": 45.5720382,
+  "lon": 5.9293362,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mérande",
+    "operator": "Synchro-Bus",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7125090048,
+  "lat": 45.5720760,
+  "lon": 5.9292893,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mérande",
+    "operator": "Synchro-Bus",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7125090053,
+  "lat": 45.5698548,
+  "lon": 5.9253806,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Clos Savoiroux",
+    "operator": "Synchro-Bus",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7125150447,
+  "lat": 45.5730215,
+  "lon": 5.9325911,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tunnel",
+    "operator": "Synchro-Bus",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 7366797524,
+  "lat": 45.5555355,
+  "lon": 5.9217905,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bellevue"
+  }
+},
+{
+  "type": "node",
+  "id": 9429480535,
+  "lat": 45.5583355,
+  "lon": 5.9025101,
+  "tags": {
+    "highway": "bus_stop",
+    "note": "\"Arrêt provisoire\"",
+    "passenger_information_display": "yes"
+  }
+}
+
+  ]
+}

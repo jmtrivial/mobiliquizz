@@ -1,0 +1,123 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 27266507,
+  "nodes": [
+    299283382,
+    9203353572,
+    299283405
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "bridge": "yes",
+    "foot": "yes",
+    "highway": "cycleway",
+    "layer": "1",
+    "surface": "concrete",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "way",
+  "id": 27266509,
+  "nodes": [
+    299283405,
+    492500082
+  ],
+  "tags": {
+    "bicycle": "designated",
+    "foot": "yes",
+    "highway": "cycleway",
+    "surface": "paved"
+  }
+},
+{
+  "type": "way",
+  "id": 834821425,
+  "nodes": [
+    7792706441,
+    7792706442,
+    299283275
+  ],
+  "tags": {
+    "foot": "yes",
+    "highway": "cycleway"
+  }
+},
+{
+  "type": "area",
+  "id": 3600239133,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Les Abymes",
+    "name:el": "Λεζ Αμπίμ",
+    "name:fr": "Les Abymes",
+    "name:gcf": "Zabim",
+    "population": "53514",
+    "population:date": "2019",
+    "postal_code": "97139;97142",
+    "ref:FR:SIREN": "219711017",
+    "ref:INSEE": "97101",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2008",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "La Poste - 12/2014",
+    "type": "boundary",
+    "wikidata": "Q13636",
+    "wikipedia": "fr:Les Abymes"
+  }
+},
+{
+  "type": "node",
+  "id": 299283275,
+  "lat": 16.2520595,
+  "lon": -61.5465752
+},
+{
+  "type": "node",
+  "id": 299283382,
+  "lat": 16.2533902,
+  "lon": -61.5496961
+},
+{
+  "type": "node",
+  "id": 299283405,
+  "lat": 16.2529682,
+  "lon": -61.5486954
+},
+{
+  "type": "node",
+  "id": 492500082,
+  "lat": 16.2528846,
+  "lon": -61.5484841
+},
+{
+  "type": "node",
+  "id": 7792706441,
+  "lat": 16.2519599,
+  "lon": -61.5463981
+},
+{
+  "type": "node",
+  "id": 7792706442,
+  "lat": 16.2520089,
+  "lon": -61.5464411
+},
+{
+  "type": "node",
+  "id": 9203353572,
+  "lat": 16.2531686,
+  "lon": -61.5491705
+}
+
+  ]
+}

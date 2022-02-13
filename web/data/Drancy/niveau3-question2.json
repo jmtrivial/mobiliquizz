@@ -1,0 +1,399 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57 93a4d346",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:29:38Z",
+    "timestamp_areas_base": "2022-02-13T06:31:57Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "way",
+  "id": 23842947,
+  "nodes": [
+    6220677801,
+    5157867233,
+    258366716,
+    6158446961,
+    258366707,
+    1268382680,
+    7038204659,
+    5157867234,
+    258366712,
+    7038204661,
+    258366715,
+    7038204660,
+    5157422961,
+    5157867242,
+    256321867
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "coronapistes",
+    "highway": "primary",
+    "lanes": "2",
+    "maxspeed": "50",
+    "name": "Rue de Stalingrad",
+    "oneway": "yes",
+    "ref": "D 186",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 30103667,
+  "nodes": [
+    256321879,
+    7038204668
+  ],
+  "tags": {
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Rue de Stalingrad",
+    "ref": "N 186",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 185173560,
+  "nodes": [
+    254435369,
+    4217900806,
+    1957400524,
+    1957400478,
+    1957400539,
+    1957400530,
+    6789935965,
+    1957400527,
+    1957400501,
+    1957400480,
+    6789935955,
+    1957400537,
+    1957400497,
+    2937837377,
+    4605577079,
+    2418010218,
+    4605577078,
+    2503515907,
+    4605577075,
+    4603809829,
+    4605577193
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "highway": "secondary",
+    "name": "Rue Charles de Gaulle",
+    "oneway": "yes",
+    "surface": "asphalt"
+  }
+},
+{
+  "type": "way",
+  "id": 234903467,
+  "nodes": [
+    2430276442,
+    5157422991,
+    256321879
+  ],
+  "tags": {
+    "alt_name": "Avenue de Stalingrad",
+    "bridge": "yes",
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "layer": "1",
+    "maxspeed": "50",
+    "name": "Rue de Stalingrad",
+    "oneway": "yes",
+    "source:maxspeed": "FR:urban"
+  }
+},
+{
+  "type": "way",
+  "id": 338547087,
+  "nodes": [
+    331617038,
+    2430276442
+  ],
+  "tags": {
+    "cycleway:right": "lane",
+    "description:covid19": "bande cyclable temporaire",
+    "highway": "primary",
+    "name": "Avenue de Stalingrad",
+    "oneway": "yes"
+  }
+},
+{
+  "type": "area",
+  "id": 3600158481,
+  "tags": {
+    "admin_level": "8",
+    "boundary": "administrative",
+    "name": "Drancy",
+    "name:el": "Ντρανσί",
+    "population": "72376",
+    "population:date": "2019",
+    "postal_code": "93700",
+    "ref:INSEE": "93029",
+    "source:population": "INSEE 2022",
+    "source:postal_code": "source of postcode is from osm nodes",
+    "type": "boundary",
+    "wikidata": "Q201348",
+    "wikipedia": "fr:Drancy"
+  }
+},
+{
+  "type": "node",
+  "id": 256321879,
+  "lat": 48.9150089,
+  "lon": 2.4294823
+},
+{
+  "type": "node",
+  "id": 331617038,
+  "lat": 48.9149504,
+  "lon": 2.4299285
+},
+{
+  "type": "node",
+  "id": 2430276442,
+  "lat": 48.9149847,
+  "lon": 2.4297883
+},
+{
+  "type": "node",
+  "id": 5157422991,
+  "lat": 48.9149977,
+  "lon": 2.4296011
+},
+{
+  "type": "node",
+  "id": 7038204668,
+  "lat": 48.9150769,
+  "lon": 2.4291827
+},
+{
+  "type": "node",
+  "id": 256321867,
+  "lat": 48.9146968,
+  "lon": 2.4317659
+},
+{
+  "type": "node",
+  "id": 258366707,
+  "lat": 48.9143119,
+  "lon": 2.4329410
+},
+{
+  "type": "node",
+  "id": 258366712,
+  "lat": 48.9144634,
+  "lon": 2.4324333
+},
+{
+  "type": "node",
+  "id": 258366715,
+  "lat": 48.9145498,
+  "lon": 2.4320902
+},
+{
+  "type": "node",
+  "id": 258366716,
+  "lat": 48.9141837,
+  "lon": 2.4333507
+},
+{
+  "type": "node",
+  "id": 1268382680,
+  "lat": 48.9143798,
+  "lon": 2.4327657
+},
+{
+  "type": "node",
+  "id": 5157422961,
+  "lat": 48.9146396,
+  "lon": 2.4318381
+},
+{
+  "type": "node",
+  "id": 5157867233,
+  "lat": 48.9137458,
+  "lon": 2.4344967
+},
+{
+  "type": "node",
+  "id": 5157867234,
+  "lat": 48.9144526,
+  "lon": 2.4325310
+},
+{
+  "type": "node",
+  "id": 5157867242,
+  "lat": 48.9146648,
+  "lon": 2.4318013
+},
+{
+  "type": "node",
+  "id": 6158446961,
+  "lat": 48.9142474,
+  "lon": 2.4331314
+},
+{
+  "type": "node",
+  "id": 6220677801,
+  "lat": 48.9134541,
+  "lon": 2.4351847
+},
+{
+  "type": "node",
+  "id": 7038204659,
+  "lat": 48.9144294,
+  "lon": 2.4326214
+},
+{
+  "type": "node",
+  "id": 7038204660,
+  "lat": 48.9145950,
+  "lon": 2.4319455
+},
+{
+  "type": "node",
+  "id": 7038204661,
+  "lat": 48.9144950,
+  "lon": 2.4322640
+},
+{
+  "type": "node",
+  "id": 254435369,
+  "lat": 48.9234442,
+  "lon": 2.4457552
+},
+{
+  "type": "node",
+  "id": 1957400478,
+  "lat": 48.9233023,
+  "lon": 2.4457560
+},
+{
+  "type": "node",
+  "id": 1957400480,
+  "lat": 48.9226309,
+  "lon": 2.4458362
+},
+{
+  "type": "node",
+  "id": 1957400497,
+  "lat": 48.9223408,
+  "lon": 2.4457676
+},
+{
+  "type": "node",
+  "id": 1957400501,
+  "lat": 48.9227457,
+  "lon": 2.4458500
+},
+{
+  "type": "node",
+  "id": 1957400524,
+  "lat": 48.9233170,
+  "lon": 2.4457507
+},
+{
+  "type": "node",
+  "id": 1957400527,
+  "lat": 48.9227974,
+  "lon": 2.4458488
+},
+{
+  "type": "node",
+  "id": 1957400530,
+  "lat": 48.9230486,
+  "lon": 2.4458305
+},
+{
+  "type": "node",
+  "id": 1957400537,
+  "lat": 48.9224807,
+  "lon": 2.4458057
+},
+{
+  "type": "node",
+  "id": 1957400539,
+  "lat": 48.9231013,
+  "lon": 2.4458280
+},
+{
+  "type": "node",
+  "id": 2418010218,
+  "lat": 48.9220433,
+  "lon": 2.4456865
+},
+{
+  "type": "node",
+  "id": 2503515907,
+  "lat": 48.9219866,
+  "lon": 2.4456815
+},
+{
+  "type": "node",
+  "id": 2937837377,
+  "lat": 48.9221874,
+  "lon": 2.4457306
+},
+{
+  "type": "node",
+  "id": 4217900806,
+  "lat": 48.9233717,
+  "lon": 2.4457453
+},
+{
+  "type": "node",
+  "id": 4603809829,
+  "lat": 48.9219548,
+  "lon": 2.4457179
+},
+{
+  "type": "node",
+  "id": 4605577075,
+  "lat": 48.9219679,
+  "lon": 2.4456992
+},
+{
+  "type": "node",
+  "id": 4605577078,
+  "lat": 48.9220261,
+  "lon": 2.4456845
+},
+{
+  "type": "node",
+  "id": 4605577079,
+  "lat": 48.9221173,
+  "lon": 2.4457033
+},
+{
+  "type": "node",
+  "id": 4605577193,
+  "lat": 48.9219469,
+  "lon": 2.4457269
+},
+{
+  "type": "node",
+  "id": 6789935955,
+  "lat": 48.9225255,
+  "lon": 2.4458148
+},
+{
+  "type": "node",
+  "id": 6789935965,
+  "lat": 48.9228945,
+  "lon": 2.4458417
+}
+
+  ]
+}

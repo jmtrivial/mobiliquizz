@@ -1,0 +1,5407 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 30320016,
+  "lat": 47.6567467,
+  "lon": -2.7448864,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Gildas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangil1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 30320018,
+  "lat": 47.6555781,
+  "lon": -2.7415765,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Delestraint",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandel5",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 30320020,
+  "lat": 47.6553155,
+  "lon": -2.7396863,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Delestraint",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandel4",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 606812226,
+  "lat": 47.6552236,
+  "lon": -2.7407398,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Delestraint",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandel1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1322819701,
+  "lat": 47.6757181,
+  "lon": -2.7703951,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanexu1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1322820109,
+  "lat": 47.6773835,
+  "lon": -2.7677508,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Montherlant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmon1",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1589769873,
+  "lat": 47.6516693,
+  "lon": -2.7886981,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Chambre de Métiers",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmet2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1589803156,
+  "lat": 47.6587515,
+  "lon": -2.7934036,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Cendrars",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandra1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1589803160,
+  "lat": 47.6559082,
+  "lon": -2.7910712,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Keranguen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanran1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1589803161,
+  "lat": 47.6562797,
+  "lon": -2.7912767,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Keranguen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanran3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1590003907,
+  "lat": 47.6542556,
+  "lon": -2.7863115,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Desbordes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbor2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1590003908,
+  "lat": 47.6543930,
+  "lon": -2.7854850,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Desbordes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbor1",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1595370797,
+  "lat": 47.6447367,
+  "lon": -2.7784795,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaniut2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241577,
+  "lat": 47.6473975,
+  "lon": -2.7826426,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bernus",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannus1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241588,
+  "lat": 47.6476092,
+  "lon": -2.7822762,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bernus",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannus2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241594,
+  "lat": 47.6465646,
+  "lon": -2.7836631,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Normandie",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandie2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241612,
+  "lat": 47.6466594,
+  "lon": -2.7840616,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Normandie",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandie1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241617,
+  "lat": 47.6502654,
+  "lon": -2.7852671,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rimbaud",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrim2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1609241625,
+  "lat": 47.6505180,
+  "lon": -2.7850537,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rimbaud",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrim1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600905,
+  "lat": 47.6651096,
+  "lon": -2.7800111,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Goélands",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangoe1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600913,
+  "lat": 47.6651467,
+  "lon": -2.7796621,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Goélands",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangoe2",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600930,
+  "lat": 47.6633406,
+  "lon": -2.7811920,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Kervilette",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlet2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600944,
+  "lat": 47.6610672,
+  "lon": -2.7809384,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Prat Lann",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrat2",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600950,
+  "lat": 47.6639559,
+  "lon": -2.7769448,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Riou",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrio1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670600954,
+  "lat": 47.6644774,
+  "lon": -2.7767036,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Riou",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrio2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670699022,
+  "lat": 47.6594894,
+  "lon": -2.7775366,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Bris",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanris2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670699029,
+  "lat": 47.6623345,
+  "lon": -2.7787465,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Sainte-Anne",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanann1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1670699033,
+  "lat": 47.6626851,
+  "lon": -2.7789960,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Sainte-Anne",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanann2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1674809351,
+  "lat": 47.6508935,
+  "lon": -2.7909793,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Campen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpen1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1674809356,
+  "lat": 47.6508417,
+  "lon": -2.7914984,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Campen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpen2",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1688367156,
+  "lat": 47.6456917,
+  "lon": -2.7705222,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Lesage",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanles2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1688480996,
+  "lat": 47.6469984,
+  "lon": -2.7784857,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Armorique",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanarm2",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1688480997,
+  "lat": 47.6470759,
+  "lon": -2.7786425,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Armorique",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanarm1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1688480999,
+  "lat": 47.6488389,
+  "lon": -2.7715983,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cuxhaven",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancux3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1688481015,
+  "lat": 47.6442228,
+  "lon": -2.7782457,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "IUT",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaniut1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1688481020,
+  "lat": 47.6491150,
+  "lon": -2.7761103,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Plein Ciel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanple2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1688481204,
+  "lat": 47.6489428,
+  "lon": -2.7774186,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Plein Ciel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanple1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1689199138,
+  "lat": 47.6401222,
+  "lon": -2.7763681,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cliscouët",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancli2",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1689199139,
+  "lat": 47.6400106,
+  "lon": -2.7765123,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cliscouët",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancli1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1689199141,
+  "lat": 47.6414878,
+  "lon": -2.7763734,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Suffren",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansuf1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1689199142,
+  "lat": 47.6415598,
+  "lon": -2.7761323,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Suffren",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansuf2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1700173685,
+  "lat": 47.6634237,
+  "lon": -2.7814019,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Kervilette",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlet1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1700173692,
+  "lat": 47.6607963,
+  "lon": -2.7810830,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Prat Lann",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrat1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1700211948,
+  "lat": 47.6651805,
+  "lon": -2.7820109,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Renaudot",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanren2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1700495003,
+  "lat": 47.6672764,
+  "lon": -2.7843085,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Laroiseau",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlar1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080113,
+  "lat": 47.6368908,
+  "lon": -2.7714143,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Mimosas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmim2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080116,
+  "lat": 47.6371448,
+  "lon": -2.7707481,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Mimosas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmim1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080122,
+  "lat": 47.6391178,
+  "lon": -2.7682911,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Le Racker",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrac3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080129,
+  "lat": 47.6388030,
+  "lon": -2.7680860,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Le Racker",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrac2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080134,
+  "lat": 47.6399097,
+  "lon": -2.7692074,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Avel Dro",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanave1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750080135,
+  "lat": 47.6400959,
+  "lon": -2.7696178,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Avel Dro",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanave3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750095933,
+  "lat": 47.6353800,
+  "lon": -2.7741471,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Square Morbihan",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmor2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750095935,
+  "lat": 47.6354688,
+  "lon": -2.7737445,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Square Morbihan",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmor1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750095954,
+  "lat": 47.6367351,
+  "lon": -2.7747961,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Surville",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansur1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750095957,
+  "lat": 47.6369082,
+  "lon": -2.7746840,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Surville",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansur2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1750104848,
+  "lat": 47.6396709,
+  "lon": -2.7699052,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Avel Dro",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanave2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980809,
+  "lat": 47.6650662,
+  "lon": -2.7515345,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansnc4",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980816,
+  "lat": 47.6661844,
+  "lon": -2.7564022,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bourdonnaye",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbou2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980819,
+  "lat": 47.6662860,
+  "lon": -2.7479076,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hôpital Chubert",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhop1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980822,
+  "lat": 47.6665900,
+  "lon": -2.7566904,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bourdonnaye",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbou1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980826,
+  "lat": 47.6679489,
+  "lon": -2.7567768,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Brizeux",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbri2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980828,
+  "lat": 47.6682302,
+  "lon": -2.7569533,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Brizeux",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbri1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980831,
+  "lat": 47.6685767,
+  "lon": -2.7450552,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "De la Gorce",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangor1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1768980833,
+  "lat": 47.6682977,
+  "lon": -2.7452843,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "De la Gorce",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangor2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1790430116,
+  "lat": 47.6635873,
+  "lon": -2.7383399,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanver2",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1790430123,
+  "lat": 47.6637807,
+  "lon": -2.7380038,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanver1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1790430208,
+  "lat": 47.6650338,
+  "lon": -2.7385045,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Grador",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandor1",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 1790430228,
+  "lat": 47.6653475,
+  "lon": -2.7389196,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Grador",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandor2",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2001612872,
+  "lat": 47.6504151,
+  "lon": -2.7769344,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Lallement",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlal2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2030360599,
+  "lat": 47.6590346,
+  "lon": -2.7590950,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Brix",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanleb1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2076890394,
+  "lat": 47.6589697,
+  "lon": -2.7588614,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Brix",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanleb2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2077654880,
+  "lat": 47.6657901,
+  "lon": -2.7701278,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pont d'Argent",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpom2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2077654882,
+  "lat": 47.6670292,
+  "lon": -2.7732500,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Monsabert",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanber2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2109439452,
+  "lat": 47.6591288,
+  "lon": -2.7694476,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "École Normale",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannor1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2168591094,
+  "lat": 47.6685354,
+  "lon": -2.7315806,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Plaisance",
+    "name:br": "Plaisance",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpla1",
+    "shelter": "no",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2168591098,
+  "lat": 47.6637265,
+  "lon": -2.7556234,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pont SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpon1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2376382667,
+  "lat": 47.6538629,
+  "lon": -2.7587520,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Port",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpor3",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886462,
+  "lat": 47.6438863,
+  "lon": -2.7488671,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Marcellin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmar1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886463,
+  "lat": 47.6439716,
+  "lon": -2.7493681,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Marcellin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmar2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886464,
+  "lat": 47.6440859,
+  "lon": -2.7445061,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantoh1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886465,
+  "lat": 47.6444550,
+  "lon": -2.7441332,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantoh2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886466,
+  "lat": 47.6463418,
+  "lon": -2.7435193,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanuni1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886468,
+  "lat": 47.6468582,
+  "lon": -2.7437703,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Université",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanuni2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886469,
+  "lat": 47.6471214,
+  "lon": -2.7536450,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Calmont",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancal2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886559,
+  "lat": 47.6531019,
+  "lon": -2.7575453,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Rive Gauche",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanriv2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2509886572,
+  "lat": 47.6587011,
+  "lon": -2.7610493,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hôtel de Ville",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhot2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2628133660,
+  "lat": 47.6496813,
+  "lon": -2.7765222,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Plein Ciel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanple3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2628133661,
+  "lat": 47.6492358,
+  "lon": -2.7747599,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerarden",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanden1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2628134370,
+  "lat": 47.6491174,
+  "lon": -2.7734755,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerarden",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanden2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2707267790,
+  "lat": 47.6750717,
+  "lon": -2.7155600,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Tréalvé",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2818261912,
+  "lat": 47.6573597,
+  "lon": -2.7374307,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "ele": "7",
+    "highway": "bus_stop",
+    "name": "Beaupré",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbea2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2818261913,
+  "lat": 47.6589923,
+  "lon": -2.7322869,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlio2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3068459467,
+  "lat": 47.6671106,
+  "lon": -2.7744495,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Monsabert",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanber1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3111505819,
+  "lat": 47.6585476,
+  "lon": -2.7638343,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlib1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3111508095,
+  "lat": 47.6591754,
+  "lon": -2.7644380,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Libération",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlib2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3112830193,
+  "lat": 47.6492255,
+  "lon": -2.7440227,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Groupe Scolaire",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangro1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3112865066,
+  "lat": 47.6600180,
+  "lon": -2.7889227,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Fourchêne 1",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfou1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3112865067,
+  "lat": 47.6602098,
+  "lon": -2.7894677,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Fourchêne 1",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfou2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3123167204,
+  "lat": 47.6383281,
+  "lon": -2.7512144,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Arcal",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanarc2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3123167205,
+  "lat": 47.6386640,
+  "lon": -2.7510682,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Arcal",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanarc1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981729,
+  "lat": 47.6470363,
+  "lon": -2.7538059,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Calmont",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancal1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981730,
+  "lat": 47.6484845,
+  "lon": -2.7546436,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Jaurès",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanjau1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981731,
+  "lat": 47.6488592,
+  "lon": -2.7547153,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Jaurès",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanjau2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981732,
+  "lat": 47.6348882,
+  "lon": -2.7474711,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerfontaine",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfon2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981733,
+  "lat": 47.6349959,
+  "lon": -2.7473687,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerfontaine",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfon1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3174981734,
+  "lat": 47.6443967,
+  "lon": -2.7529369,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Becquerel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbec2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3181108501,
+  "lat": 47.6541067,
+  "lon": -2.7586835,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Port",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpor4",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3181296943,
+  "lat": 47.6527802,
+  "lon": -2.7575736,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Rive Gauche",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanriv1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245984,
+  "lat": 47.6439842,
+  "lon": -2.7527505,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Becquerel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbec1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245985,
+  "lat": 47.6497010,
+  "lon": -2.7443511,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Groupe Scolaire",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangro2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245986,
+  "lat": 47.6527598,
+  "lon": -2.7415183,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Petit Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpet1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245987,
+  "lat": 47.6535597,
+  "lon": -2.7411215,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Petit Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpet2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245988,
+  "lat": 47.6435957,
+  "lon": -2.7502614,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "PIBS 2",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanagg2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3188245989,
+  "lat": 47.6436054,
+  "lon": -2.7506919,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "PIBS 2",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanagg1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3245942930,
+  "lat": 47.6662603,
+  "lon": -2.7483224,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hôpital Chubert",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhop2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246101471,
+  "lat": 47.6608760,
+  "lon": -2.7574920,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hugo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhug1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246101472,
+  "lat": 47.6610584,
+  "lon": -2.7572372,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hugo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhug2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246101473,
+  "lat": 47.6633151,
+  "lon": -2.7560380,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "level": "0",
+    "name": "Pont SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpon3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246684132,
+  "lat": 47.6559791,
+  "lon": -2.7599293,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrep4",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246684134,
+  "lat": 47.6559807,
+  "lon": -2.7598315,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrep2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246684143,
+  "lat": 47.6559885,
+  "lon": -2.7595084,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrep6",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3246684145,
+  "lat": 47.6560061,
+  "lon": -2.7596027,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "République",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrep8",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3251044326,
+  "lat": 47.6429462,
+  "lon": -2.7515127,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "PIBS 2",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanagg3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3269251324,
+  "lat": 47.6570019,
+  "lon": -2.7501471,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Département",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanepa1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3269251325,
+  "lat": 47.6570784,
+  "lon": -2.7502497,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Département",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanepa2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3280613761,
+  "lat": 47.6581417,
+  "lon": -2.7486893,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bir Hakeim",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbir1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3280613762,
+  "lat": 47.6585602,
+  "lon": -2.7490172,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bir Hakeim",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbir2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3281989537,
+  "lat": 47.6570673,
+  "lon": -2.7452445,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Gildas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangil2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3309955726,
+  "lat": 47.6541741,
+  "lon": -2.7364319,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Lande",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlan2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3354625455,
+  "lat": 47.6604588,
+  "lon": -2.7442789,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Caserne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3354626975,
+  "lat": 47.6620403,
+  "lon": -2.7403822,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "35e R.I.",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3366483385,
+  "lat": 47.6632698,
+  "lon": -2.7357682,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Giraud",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangir2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3366483386,
+  "lat": 47.6632857,
+  "lon": -2.7362230,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Giraud",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangir1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3366483387,
+  "lat": 47.6635764,
+  "lon": -2.7314557,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hécheno",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhec2"
+  }
+},
+{
+  "type": "node",
+  "id": 3366483388,
+  "lat": 47.6636809,
+  "lon": -2.7318343,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Hécheno",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanhec1",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3376856700,
+  "lat": 47.6605315,
+  "lon": -2.7218914,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bohalgo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanboh2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3376856701,
+  "lat": 47.6607211,
+  "lon": -2.7219926,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bohalgo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanboh1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3376856702,
+  "lat": 47.6616115,
+  "lon": -2.7252518,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kersec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansec1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3376856703,
+  "lat": 47.6617368,
+  "lon": -2.7263754,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kersec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansec2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3635238882,
+  "lat": 47.6444839,
+  "lon": -2.7654492,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Brise",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3635238883,
+  "lat": 47.6446092,
+  "lon": -2.7653423,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Brise",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3657912982,
+  "lat": 47.6464431,
+  "lon": -2.7623078,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Valéry",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanval1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3801356404,
+  "lat": 47.6532942,
+  "lon": -2.7592905,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Port",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpor2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3801356405,
+  "lat": 47.6529754,
+  "lon": -2.7593554,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Port",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpor1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3801379238,
+  "lat": 47.6587717,
+  "lon": -2.7553824,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Le Mené",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanene1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3801379239,
+  "lat": 47.6560698,
+  "lon": -2.7550881,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Porte Poterne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3819460597,
+  "lat": 47.6630711,
+  "lon": -2.7634989,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Capitaine Jude",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancap1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3819460598,
+  "lat": 47.6631690,
+  "lon": -2.7635117,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Capitaine Jude",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancap2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3819465654,
+  "lat": 47.6651071,
+  "lon": -2.7700614,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pont d'Argent",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpom1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122377,
+  "lat": 47.6649341,
+  "lon": -2.7819874,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Renaudot",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanren1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122378,
+  "lat": 47.6673453,
+  "lon": -2.7838740,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Laroiseau",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlar2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122379,
+  "lat": 47.6694059,
+  "lon": -2.7810185,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Maillard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmai1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122380,
+  "lat": 47.6696340,
+  "lon": -2.7811292,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Maillard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmai2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122381,
+  "lat": 47.6711204,
+  "lon": -2.7840444,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bell",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbel1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122382,
+  "lat": 47.6714834,
+  "lon": -2.7849000,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bell",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbel2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122385,
+  "lat": 47.6697465,
+  "lon": -2.7928579,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Boucicaut",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancau2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122386,
+  "lat": 47.6698650,
+  "lon": -2.7924492,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Boucicaut",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancau1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122387,
+  "lat": 47.6669395,
+  "lon": -2.7916748,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Parissot",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansso1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820122388,
+  "lat": 47.6670839,
+  "lon": -2.7917988,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Parissot",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansso2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820130328,
+  "lat": 47.6596568,
+  "lon": -2.7620363,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Palais des Arts",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpal1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243767,
+  "lat": 47.6549388,
+  "lon": -2.7535782,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Garenne",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanare1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243768,
+  "lat": 47.6551964,
+  "lon": -2.7532856,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Garenne",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanare2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243769,
+  "lat": 47.6531781,
+  "lon": -2.7403963,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Petit Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpet3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243784,
+  "lat": 47.6552866,
+  "lon": -2.7203153,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Duplaix",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandup2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243785,
+  "lat": 47.6554634,
+  "lon": -2.7200184,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Duplaix",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandup1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243786,
+  "lat": 47.6532053,
+  "lon": -2.7166942,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Centre de Tri",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancen1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243787,
+  "lat": 47.6536664,
+  "lon": -2.7169856,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Centre de Tri",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancen2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243788,
+  "lat": 47.6534775,
+  "lon": -2.7083655,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bienvenu",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbie2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243789,
+  "lat": 47.6535291,
+  "lon": -2.7073006,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bienvenu",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbie1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243790,
+  "lat": 47.6572537,
+  "lon": -2.7059878,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Le Prat",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpra1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243791,
+  "lat": 47.6569280,
+  "lon": -2.7062044,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Le Prat",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpra2",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243792,
+  "lat": 47.6588839,
+  "lon": -2.7099175,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Abattoir",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanaba1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243793,
+  "lat": 47.6583779,
+  "lon": -2.7100994,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Abattoir",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanaba2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243794,
+  "lat": 47.6595471,
+  "lon": -2.7130563,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "ESAT du Prat",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanesa1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243795,
+  "lat": 47.6594441,
+  "lon": -2.7119803,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "ESAT du Prat",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanesa2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243796,
+  "lat": 47.6595198,
+  "lon": -2.7146985,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Michelin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmic2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243797,
+  "lat": 47.6596174,
+  "lon": -2.7150698,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Michelin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmic1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243798,
+  "lat": 47.6598112,
+  "lon": -2.7201240,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kergolven",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanven2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243799,
+  "lat": 47.6596660,
+  "lon": -2.7194082,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kergolven",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanven1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3820243800,
+  "lat": 47.6613523,
+  "lon": -2.7256990,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kersec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansec3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663215,
+  "lat": 47.6802010,
+  "lon": -2.7737995,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ténénio",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanten1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663216,
+  "lat": 47.6778083,
+  "lon": -2.7748161,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Audic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanaud1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663217,
+  "lat": 47.6776373,
+  "lon": -2.7747825,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Audic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanaud2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663218,
+  "lat": 47.6770805,
+  "lon": -2.7720716,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Papin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpap1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663219,
+  "lat": 47.6775052,
+  "lon": -2.7720350,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Papin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpap2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827663220,
+  "lat": 47.6819170,
+  "lon": -2.7657891,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerniol",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanker2",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827716253,
+  "lat": 47.6799704,
+  "lon": -2.7636214,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Keréliza",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaniza1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827716255,
+  "lat": 47.6774806,
+  "lon": -2.7614611,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ménimur",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmen1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827716256,
+  "lat": 47.6772086,
+  "lon": -2.7613062,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ménimur",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmen2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717057,
+  "lat": 47.6771240,
+  "lon": -2.7632179,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gauguin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangau2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717058,
+  "lat": 47.6772529,
+  "lon": -2.7642853,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gauguin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangau1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717059,
+  "lat": 47.6773080,
+  "lon": -2.7672161,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Montherlant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmon2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717060,
+  "lat": 47.6755052,
+  "lon": -2.7705169,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanexu2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717061,
+  "lat": 47.6735639,
+  "lon": -2.7689242,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Monet",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannet2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717062,
+  "lat": 47.6739036,
+  "lon": -2.7691459,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Monet",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannet1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717067,
+  "lat": 47.6732403,
+  "lon": -2.7634665,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Degas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandeg2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827717068,
+  "lat": 47.6734531,
+  "lon": -2.7627110,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Degas",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandeg1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827742057,
+  "lat": 47.6730728,
+  "lon": -2.7593435,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Moulin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmou1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827742058,
+  "lat": 47.6732785,
+  "lon": -2.7597566,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Moulin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmou2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827742059,
+  "lat": 47.6708783,
+  "lon": -2.7572785,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Guen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangue2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3827742060,
+  "lat": 47.6705682,
+  "lon": -2.7573679,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Guen",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangue1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002437,
+  "lat": 47.6519842,
+  "lon": -2.7872130,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Chambre de Métiers",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmet1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002438,
+  "lat": 47.6539696,
+  "lon": -2.7793756,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Kergypt",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangyp1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002439,
+  "lat": 47.6539908,
+  "lon": -2.7798417,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Kergypt",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangyp2",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002440,
+  "lat": 47.6553830,
+  "lon": -2.7730738,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Guyot-Jomard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanguy4",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002441,
+  "lat": 47.6553700,
+  "lon": -2.7725590,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Guyot-Jomard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanguy3",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3830002442,
+  "lat": 47.6549126,
+  "lon": -2.7712283,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Guyot-Jomard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanguy1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3830016725,
+  "lat": 47.6555510,
+  "lon": -2.7664454,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rouillé",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrou1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3830016726,
+  "lat": 47.6559422,
+  "lon": -2.7666071,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Rouillé",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrou2",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3831868559,
+  "lat": 47.6685793,
+  "lon": -2.7320304,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Plaisance",
+    "name:br": "Plaisance",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpla2",
+    "shelter": "no",
+    "source:name:br": "ofis publik ar brezhoneg",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3831868560,
+  "lat": 47.6667404,
+  "lon": -2.7357532,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gerbault",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanger1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3831868561,
+  "lat": 47.6667807,
+  "lon": -2.7359135,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gerbault",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanger2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470691,
+  "lat": 47.6592208,
+  "lon": -2.7735737,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Madeleine",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmad2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470692,
+  "lat": 47.6589898,
+  "lon": -2.7726168,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Madeleine",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmad1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470693,
+  "lat": 47.6581864,
+  "lon": -2.7666272,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Carmel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancar1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470694,
+  "lat": 47.6593261,
+  "lon": -2.7769423,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Bris",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanris1",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470695,
+  "lat": 47.6596005,
+  "lon": -2.7793970,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Patriotes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpat2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470696,
+  "lat": 47.6594982,
+  "lon": -2.7798629,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Patriotes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpat1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470697,
+  "lat": 47.6596435,
+  "lon": -2.7825025,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Pargo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpar1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470698,
+  "lat": 47.6598221,
+  "lon": -2.7831756,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Le Pargo",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpar2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3836470699,
+  "lat": 47.6601938,
+  "lon": -2.7913055,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Fourchêne 2",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanche1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3837755053,
+  "lat": 47.6489627,
+  "lon": -2.7666626,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Fromentin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfro2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3837755054,
+  "lat": 47.6491375,
+  "lon": -2.7673953,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Fromentin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfro3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3837757978,
+  "lat": 47.6490454,
+  "lon": -2.7696134,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Radieuse",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrad2",
+    "shelter": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252662,
+  "lat": 47.6465731,
+  "lon": -2.7599766,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ampère",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanamp1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252663,
+  "lat": 47.6464832,
+  "lon": -2.7600059,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ampère",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanamp2",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252664,
+  "lat": 47.6463818,
+  "lon": -2.7618184,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Valéry",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanval2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252665,
+  "lat": 47.6467123,
+  "lon": -2.7642421,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "A. France",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfra1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252666,
+  "lat": 47.6469014,
+  "lon": -2.7643993,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "A. France",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfra2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252667,
+  "lat": 47.6484396,
+  "lon": -2.7642329,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Manoir de Trussac",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannar1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838252668,
+  "lat": 47.6485692,
+  "lon": -2.7644158,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Manoir de Trussac",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannar2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838285219,
+  "lat": 47.6490475,
+  "lon": -2.7715623,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Radieuse",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrad1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838309952,
+  "lat": 47.6388823,
+  "lon": -2.7773345,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ponant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannan2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838309953,
+  "lat": 47.6386398,
+  "lon": -2.7774778,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ponant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannan1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838309954,
+  "lat": 47.6367052,
+  "lon": -2.7785319,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Cassard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancas1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838389850,
+  "lat": 47.6376685,
+  "lon": -2.7631255,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Parc du Golfe",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangol2",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838389851,
+  "lat": 47.6384405,
+  "lon": -2.7625296,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Parc du Golfe",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangol1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3838426577,
+  "lat": 47.6620484,
+  "lon": -2.7958014,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Touffreau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838426578,
+  "lat": 47.6621466,
+  "lon": -2.7960564,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Touffreau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3838426579,
+  "lat": 47.6586297,
+  "lon": -2.7935311,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Cendrars",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838430614,
+  "lat": 47.6550504,
+  "lon": -2.7760304,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Manac'h",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanman2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838430615,
+  "lat": 47.6555595,
+  "lon": -2.7756628,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Manac'h",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanman1",
+    "shelter": "yes",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 3838430616,
+  "lat": 47.6576256,
+  "lon": -2.7745855,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bécel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancel2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838430617,
+  "lat": 47.6577353,
+  "lon": -2.7743457,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bécel",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancel1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838445017,
+  "lat": 47.6443316,
+  "lon": -2.7435323,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Tohannic",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantoh3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838512974,
+  "lat": 47.6612288,
+  "lon": -2.7576662,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Paix",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpai1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3838512975,
+  "lat": 47.6614938,
+  "lon": -2.7588070,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Paix",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089557,
+  "lat": 47.6431881,
+  "lon": -2.7713672,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "De Coubertin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancou1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089558,
+  "lat": 47.6438484,
+  "lon": -2.7712543,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "De Coubertin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancou2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089560,
+  "lat": 47.6451949,
+  "lon": -2.7706368,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Lesage",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanles1",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089561,
+  "lat": 47.6482720,
+  "lon": -2.7704506,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Radieuse",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrad4",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089562,
+  "lat": 47.6670283,
+  "lon": -2.7701846,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pompidou",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089563,
+  "lat": 47.6672667,
+  "lon": -2.7698169,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pompidou",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3846089564,
+  "lat": 47.6535988,
+  "lon": -2.7833542,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3846381937,
+  "lat": 47.6659946,
+  "lon": -2.7946952,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kergrain",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangra1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846381938,
+  "lat": 47.6657751,
+  "lon": -2.7949565,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kergrain",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vangra2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846381939,
+  "lat": 47.6550971,
+  "lon": -2.7633456,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpas2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3846381940,
+  "lat": 47.6558134,
+  "lon": -2.7627712,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pasteur",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpas1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847562576,
+  "lat": 47.6587270,
+  "lon": -2.7274627,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ostermeyer",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanost2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847562577,
+  "lat": 47.6583907,
+  "lon": -2.7279421,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ostermeyer",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanost1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847562578,
+  "lat": 47.6587206,
+  "lon": -2.7329995,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Berlioz",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlio1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847562579,
+  "lat": 47.6567569,
+  "lon": -2.7380885,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Beaupré",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbea1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847562580,
+  "lat": 47.6553858,
+  "lon": -2.7394009,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Delestraint",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandel3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847648718,
+  "lat": 47.6550046,
+  "lon": -2.7644012,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Descartes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandes1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3847648719,
+  "lat": 47.6542420,
+  "lon": -2.7645898,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Descartes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandes2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3874921285,
+  "lat": 47.6505994,
+  "lon": -2.7706906,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Dunant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandun2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3874980248,
+  "lat": 47.6292940,
+  "lon": -2.7794839,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Conleau",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancon1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3874980254,
+  "lat": 47.6329665,
+  "lon": -2.7797247,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Camping",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancam1",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3874980255,
+  "lat": 47.6331577,
+  "lon": -2.7796022,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Camping",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancam2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031158,
+  "lat": 47.6493517,
+  "lon": -2.7703605,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Radieuse",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanrad3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031159,
+  "lat": 47.6511818,
+  "lon": -2.7704330,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Dunant",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vandun1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031160,
+  "lat": 47.6526791,
+  "lon": -2.7703585,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Noguès",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannog2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031161,
+  "lat": 47.6528526,
+  "lon": -2.7705183,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Noguès",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannog1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031162,
+  "lat": 47.6549195,
+  "lon": -2.7713272,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Guyot-Jomard",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanguy2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031163,
+  "lat": 47.6597520,
+  "lon": -2.7514934,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Étang au Duc",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaneta2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3875031164,
+  "lat": 47.6596309,
+  "lon": -2.7515451,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Étang au Duc",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaneta1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3895710866,
+  "lat": 47.6502462,
+  "lon": -2.7773955,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Lallement",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlal1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3895710868,
+  "lat": 47.6486316,
+  "lon": -2.7798109,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Vénètes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanete2",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3895710869,
+  "lat": 47.6485274,
+  "lon": -2.7802864,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Vénètes",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanete1",
+    "shelter": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3895710870,
+  "lat": 47.6586155,
+  "lon": -2.7883644,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Mare",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlam2",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3895710871,
+  "lat": 47.6581510,
+  "lon": -2.7890999,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "La Mare",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlam1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4100149880,
+  "lat": 47.6615160,
+  "lon": -2.7549548,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Clisson",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancls1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4741688039,
+  "lat": 47.6409102,
+  "lon": -2.7509531,
+  "tags": {
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "CNFPT",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancnf2"
+  }
+},
+{
+  "type": "node",
+  "id": 4741688040,
+  "lat": 47.6411986,
+  "lon": -2.7510995,
+  "tags": {
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "CNFPT",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancnf1"
+  }
+},
+{
+  "type": "node",
+  "id": 4755128956,
+  "lat": 47.6662779,
+  "lon": -2.7416072,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Troadec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantro2",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4755128959,
+  "lat": 47.6660558,
+  "lon": -2.7413345,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Vannes - Troadec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantro1",
+    "shelter": "no",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 4755128964,
+  "lat": 47.6523258,
+  "lon": -2.7642776,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Albert Ier",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanalb2",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4755128966,
+  "lat": 47.6521125,
+  "lon": -2.7645814,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Albert Ier",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanalb1",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4756659373,
+  "lat": 47.6386980,
+  "lon": -2.7649581,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kérino",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanino1",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4758484899,
+  "lat": 47.6744960,
+  "lon": -2.7590126,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Moulin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmou3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4758484901,
+  "lat": 47.6738946,
+  "lon": -2.7587846,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Moulin",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmou4",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4758487942,
+  "lat": 47.6821400,
+  "lon": -2.7653206,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerniol",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanker3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4758540822,
+  "lat": 47.6774887,
+  "lon": -2.7612880,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Ménimur",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanmen3",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4979922217,
+  "lat": 47.6651898,
+  "lon": -2.7516900,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Gare SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansnc3",
+    "shelter": "yes",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5038849132,
+  "lat": 47.6718398,
+  "lon": -2.7655508,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerizac",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanzac4",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5038852169,
+  "lat": 47.6718555,
+  "lon": -2.7653874,
+  "tags": {
+    "bench": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Kerizac",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanzac3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5704454533,
+  "lat": 47.6308651,
+  "lon": -2.7803701,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conleau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5875925097,
+  "lat": 47.6584725,
+  "lon": -2.7644847,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vannes - Libération",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanlib3",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5935288484,
+  "lat": 47.6649560,
+  "lon": -2.7523840,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vannes - Gare SNCF",
+    "public_transport": "platform",
+    "ref:fr:BREIZHGO": "StopPoint:LRRNav75",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5935288797,
+  "lat": 47.6649560,
+  "lon": -2.7523840,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vannes - Gare SNCF",
+    "public_transport": "platform",
+    "ref:fr:BREIZHGO": "StopPoint:LRRNav70",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6145190793,
+  "lat": 47.6524698,
+  "lon": -2.7833603,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tréhornec",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6145193548,
+  "lat": 47.6425370,
+  "lon": -2.7515345,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "PIBS 2",
+    "public_transport": "platform",
+    "ref": "Kicéo",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6250572092,
+  "lat": 47.6649738,
+  "lon": -2.7515876,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Vannes - Gare Routière SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vansnc2",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6746617575,
+  "lat": 47.6390928,
+  "lon": -2.7683537,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Le Racker",
+    "network:wikidata": "Q3537959",
+    "network:wikipedia": "fr:Transports en commun de Vannes",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 7097893662,
+  "lat": 47.6695027,
+  "lon": -2.7222766,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Chapeau Rouge",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vaneau3"
+  }
+},
+{
+  "type": "node",
+  "id": 8360808719,
+  "lat": 47.6750780,
+  "lon": -2.7155780,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Tréalvé",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vantre1"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728097,
+  "lat": 47.6425100,
+  "lon": -2.7514450,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "PIBS 2",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanagg4"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728098,
+  "lat": 47.6718180,
+  "lon": -2.7455760,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bilaire",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanbil1"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728099,
+  "lat": 47.6309106,
+  "lon": -2.7803265,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Conleau",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vancon2"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728100,
+  "lat": 47.6747460,
+  "lon": -2.7708350,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Le Foso",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanfos1"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728102,
+  "lat": 47.6525120,
+  "lon": -2.7836530,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Tréhornec",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vannec2",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8371728103,
+  "lat": 47.6633950,
+  "lon": -2.7557830,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont SNCF",
+    "public_transport": "platform",
+    "ref:KICEO": "KICEO:vanpon2"
+  }
+},
+{
+  "type": "node",
+  "id": 8389805156,
+  "lat": 47.6709831,
+  "lon": -2.7878170,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CPAM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8389805157,
+  "lat": 47.6711258,
+  "lon": -2.7874174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "CPAM",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8901066545,
+  "lat": 47.6620074,
+  "lon": -2.7266573,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Kersec",
+    "network:wikidata": "Q3537959",
+    "network:wikipedia": "fr:Transports en commun de Vannes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8901088139,
+  "lat": 47.6549507,
+  "lon": -2.7530956,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Garenne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8901088140,
+  "lat": 47.6539951,
+  "lon": -2.7472407,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Étang de Tohannic",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8901088141,
+  "lat": 47.6542860,
+  "lon": -2.7455384,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Étang de Tohannic",
+    "network:wikidata": "Q3537959",
+    "network:wikipedia": "fr:Transports en commun de Vannes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 8901093546,
+  "lat": 47.6843920,
+  "lon": -2.7684590,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dolmen",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8901093547,
+  "lat": 47.6841852,
+  "lon": -2.7693212,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dolmen",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8901098823,
+  "lat": 47.6798703,
+  "lon": -2.7768082,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville aux Pies",
+    "network:wikidata": "Q3537959",
+    "network:wikipedia": "fr:Transports en commun de Vannes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8901098824,
+  "lat": 47.6797666,
+  "lon": -2.7766214,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ville aux Pies",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8904772885,
+  "lat": 47.6533224,
+  "lon": -2.7416769,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Petit Tohannic",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8904772886,
+  "lat": 47.6840610,
+  "lon": -2.7740612,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lenglen",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 8904772887,
+  "lat": 47.6840112,
+  "lon": -2.7736853,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lenglen",
+    "public_transport": "platform"
+  }
+}
+
+  ]
+}

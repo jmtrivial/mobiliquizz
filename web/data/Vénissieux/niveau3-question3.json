@@ -1,0 +1,2391 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:28:39Z",
+    "timestamp_areas_base": "2022-02-13T06:29:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 454200489,
+  "lat": 45.7115436,
+  "lon": 4.9013975,
+  "tags": {
+    "gtfs_id": "CG38:19038",
+    "highway": "bus_stop",
+    "mapillary": "v6rx2eP5_JWB2TPDBqPgmQ",
+    "name": "Cité Berliet",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "522",
+    "route_ref": "296:R,C25B:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2018-08-12"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967817,
+  "lat": 45.7197350,
+  "lon": 4.8861310,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33947",
+    "route_ref": "79A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967860,
+  "lat": 45.7198136,
+  "lon": 4.8868199,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11392",
+    "route_ref": "26A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967866,
+  "lat": 45.7127987,
+  "lon": 4.8991587,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berliet Vénissieux",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "191",
+    "route_ref": "C25B:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967880,
+  "lat": 45.7202232,
+  "lon": 4.8871270,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "33845",
+    "route_ref": "26A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967913,
+  "lat": 45.7192691,
+  "lon": 4.8880015,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45804",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967919,
+  "lat": 45.7190760,
+  "lon": 4.8876959,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11323",
+    "route_ref": "296:R,C25B:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967931,
+  "lat": 45.7197874,
+  "lon": 4.8881556,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11321",
+    "route_ref": "C25B:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967937,
+  "lat": 45.7199868,
+  "lon": 4.8879028,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11322",
+    "route_ref": "111A:A,111A:R,296:A,326A:A,326A:R,39A:A,39A:R,79A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967943,
+  "lat": 45.7173107,
+  "lon": 4.8918993,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade de Parilly",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2897",
+    "route_ref": "C25B:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967974,
+  "lat": 45.7132871,
+  "lon": 4.8985277,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berliet Vénissieux",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "192",
+    "route_ref": "C25B:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 2019967980,
+  "lat": 45.7172026,
+  "lon": 4.8918859,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade de Parilly",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2896",
+    "route_ref": "C25B:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2098030473,
+  "lat": 45.7219898,
+  "lon": 4.8795794,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cambon",
+    "network": "TCL",
+    "operator": "Sytral",
+    "public_transport": "platform",
+    "ref:FR:TCL": "339",
+    "route_ref": "26A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2098030533,
+  "lat": 45.7233877,
+  "lon": 4.8747141,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "1Q8A-8um6ivXvFG3FKMa2Q",
+    "name": "Valensaut",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3031",
+    "route_ref": "26A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2017-02-25",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2425164213,
+  "lat": 45.6901141,
+  "lon": 4.8807233,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Nouveau Cimetière Vénissieux",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2143",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2425164214,
+  "lat": 45.6901933,
+  "lon": 4.8806140,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Nouveau Cimetière Vénissieux",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2142",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2606894027,
+  "lat": 45.7110311,
+  "lon": 4.8820287,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "La Borelle",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1320",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2606894029,
+  "lat": 45.7112060,
+  "lon": 4.8823395,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "La Borelle",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1321",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902543301,
+  "lat": 45.6862910,
+  "lon": 4.8917957,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hénaff",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10900",
+    "route_ref": "111A:A,54A:A",
+    "source": "SYTRAL 09/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902543302,
+  "lat": 45.6858017,
+  "lon": 4.8923901,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hénaff",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10901",
+    "route_ref": "111A:R,54A:R",
+    "source": "SYTRAL 09/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902545889,
+  "lat": 45.6901509,
+  "lon": 4.8909398,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Corbas",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2638",
+    "route_ref": "54A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902545890,
+  "lat": 45.6909042,
+  "lon": 4.8908041,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Route de Corbas",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2639",
+    "route_ref": "54A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902549595,
+  "lat": 45.6930330,
+  "lon": 4.8900318,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Collège Louis Aragon",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "306",
+    "route_ref": "54A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902549596,
+  "lat": 45.6937458,
+  "lon": 4.8900130,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "z6n_5tbcCb8JzVshppRukQ",
+    "name": "Collège Louis Aragon",
+    "network": "TCL",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "307",
+    "route_ref": "54A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2017-01-14",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902551396,
+  "lat": 45.6965992,
+  "lon": 4.8910557,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Laurent Gerin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2907",
+    "route_ref": "54A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2902551397,
+  "lat": 45.6965350,
+  "lon": 4.8909424,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Laurent Gerin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2906",
+    "route_ref": "54A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2902557740,
+  "lat": 45.6984905,
+  "lon": 4.8945307,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vénissieux Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3101",
+    "route_ref": "35A:R,54A:R,87A:R,ZI1A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902557741,
+  "lat": 45.6984794,
+  "lon": 4.8943859,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vénissieux Saint-Exupéry",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3100",
+    "route_ref": "35A:A,54A:A,87A:A,ZI1A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902566112,
+  "lat": 45.7005606,
+  "lon": 4.8921380,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Coblod - Rosenberg",
+    "public_transport": "platform",
+    "ref:FR:TCL": "573",
+    "route_ref": "35A:R,54A:R,87A:R,ZI1A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902566113,
+  "lat": 45.7004754,
+  "lon": 4.8920910,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Coblod - Rosenberg",
+    "public_transport": "platform",
+    "ref:FR:TCL": "572",
+    "route_ref": "35A:A,54A:A,87A:A,ZI1A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2902582711,
+  "lat": 45.7043504,
+  "lon": 4.8916452,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berliet Porte E",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11335",
+    "route_ref": "54A:A,62A:A,87A:A,93A:A,ZI1A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4582158434,
+  "lat": 45.7198773,
+  "lon": 4.8680122,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Levy",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11628",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4582158491,
+  "lat": 45.7199885,
+  "lon": 4.8681242,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "mapillary": "0gG4ZvRKxBtwFvH7_elyaQ",
+    "name": "Georges Levy",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11629",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-02-25",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4582158492,
+  "lat": 45.7241864,
+  "lon": 4.8872797,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "image": "https://storage4.openstreetcam.org/files/photo/2017/6/3/lth/441188_cf70c_59324b653e164.jpg",
+    "name": "Mont Blanc",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2021",
+    "route_ref": "26A:A,79A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2017-06-03"
+  }
+},
+{
+  "type": "node",
+  "id": 4582158514,
+  "lat": 45.7238529,
+  "lon": 4.8648908,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "p8VbVFwyrEXozd5rXueOzQ",
+    "name": "Pressensé - Marrane",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10013",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-02-25",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4582158515,
+  "lat": 45.7232345,
+  "lon": 4.8652298,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "V60DpIel03WvioDrj0Fn2Q",
+    "name": "Pressensé - Marrane",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10012",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2017-02-19",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017599,
+  "lat": 45.7139703,
+  "lon": 4.8784734,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Joliot Curie - Marcel Sembat",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39975",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017600,
+  "lat": 45.7138337,
+  "lon": 4.8784757,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Joliot Curie - Marcel Sembat",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47424",
+    "route_ref": "79A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017601,
+  "lat": 45.7175322,
+  "lon": 4.8843590,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Labourbe",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11396",
+    "route_ref": "79A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017602,
+  "lat": 45.7123282,
+  "lon": 4.8755594,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Titilleux",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2989",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017603,
+  "lat": 45.7174287,
+  "lon": 4.8844517,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Labourbe",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11397",
+    "route_ref": "79A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017604,
+  "lat": 45.7139176,
+  "lon": 4.8794101,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Joliot Curie - Marcel Sembat",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39974",
+    "route_ref": "35A:A,79A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017605,
+  "lat": 45.7121142,
+  "lon": 4.8803588,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "La Borelle",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43307",
+    "route_ref": "79A:A,79A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017607,
+  "lat": 45.7189270,
+  "lon": 4.8924796,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "6uEmu1rtC36LCe-7pqLE6g",
+    "name": "Clos Verger",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "41978",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2020-04-24",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017608,
+  "lat": 45.7215373,
+  "lon": 4.8938829,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "41980",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017611,
+  "lat": 45.7237771,
+  "lon": 4.8924240,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc de Parilly",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "41976",
+    "route_ref": "39A:A,39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017618,
+  "lat": 45.7093700,
+  "lon": 4.8853226,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Curie - Jules Guesde",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "656",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017620,
+  "lat": 45.7162046,
+  "lon": 4.8546071,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Pont de Bourgoin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2467",
+    "route_ref": "C12A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017624,
+  "lat": 45.7123065,
+  "lon": 4.8752316,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Titilleux",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2990",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017628,
+  "lat": 45.7092153,
+  "lon": 4.8874116,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Curie - Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10007",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017631,
+  "lat": 45.7066229,
+  "lon": 4.8882477,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "guidepost": "yes",
+    "highway": "bus_stop",
+    "name": "Gare de Vénissieux",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39976",
+    "route_ref": "62A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017639,
+  "lat": 45.7158218,
+  "lon": 4.8880929,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thioley",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2984",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017640,
+  "lat": 45.7092640,
+  "lon": 4.8872283,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Curie - Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10006",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017647,
+  "lat": 45.7158684,
+  "lon": 4.8878912,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Thioley",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2983",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017650,
+  "lat": 45.7119787,
+  "lon": 4.9026129,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parilly Jean Zay",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43716",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017652,
+  "lat": 45.7155554,
+  "lon": 4.8716457,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Tâche Velin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2940",
+    "route_ref": "35A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017653,
+  "lat": 45.7090897,
+  "lon": 4.8851911,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Curie - Jules Guesde",
+    "public_transport": "platform",
+    "ref:FR:TCL": "655",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017656,
+  "lat": 45.7161469,
+  "lon": 4.8714228,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Tâche Velin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2941",
+    "route_ref": "35A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017704,
+  "lat": 45.7129691,
+  "lon": 4.8880630,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marcel Pagnol",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1895",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017705,
+  "lat": 45.7126195,
+  "lon": 4.8881938,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marcel Pagnol",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1896",
+    "route_ref": "39A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017706,
+  "lat": 45.7188886,
+  "lon": 4.8926172,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "bMe17bXw8T3Ec-seGZIwCw",
+    "name": "Clos Verger",
+    "network": "TCL",
+    "pole": "yes",
+    "public_transport": "platform",
+    "ref:FR:TCL": "41979",
+    "route_ref": "39A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2018-08-12",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017707,
+  "lat": 45.7220215,
+  "lon": 4.8942578,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Anatole France",
+    "public_transport": "platform",
+    "ref:FR:TCL": "58",
+    "route_ref": "39A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017721,
+  "lat": 45.7047607,
+  "lon": 4.8909770,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Berliet Porte E",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11336",
+    "route_ref": "62A:R,93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017728,
+  "lat": 45.7200213,
+  "lon": 4.8874284,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform",
+    "ref:FR:TCL": "46312",
+    "route_ref": "112A:A,112A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4603017735,
+  "lat": 45.7155414,
+  "lon": 4.9065699,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Boulevard de Parilly",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "43755",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072824,
+  "lat": 45.6885386,
+  "lon": 4.8754928,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase Alain Colas",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47337",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072825,
+  "lat": 45.7013546,
+  "lon": 4.8638180,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Chassagnon",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1065",
+    "route_ref": "60A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072827,
+  "lat": 45.6911808,
+  "lon": 4.8830117,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jodino - A.F.P.A.",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3327",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072828,
+  "lat": 45.7007282,
+  "lon": 4.8880496,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "amC9KFoEcWJBO6eUvWUErQ",
+    "name": "Croizat - Paul Bert",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40179",
+    "route_ref": "35A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "survey:date": "2018-08-15",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072829,
+  "lat": 45.6978837,
+  "lon": 4.8580037,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière de Saint-Fons",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39947",
+    "route_ref": "60A:R,93A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072833,
+  "lat": 45.7012756,
+  "lon": 4.8637078,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Grand Chassagnon",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1064",
+    "route_ref": "60A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072836,
+  "lat": 45.6916184,
+  "lon": 4.8862061,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Georges Roudil",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3286",
+    "route_ref": "39A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072837,
+  "lat": 45.7028148,
+  "lon": 4.8862059,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vénissieux Émile Zola",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11332",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072838,
+  "lat": 45.7008005,
+  "lon": 4.8757574,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Langevin - Blanqui",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3496",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072839,
+  "lat": 45.6912945,
+  "lon": 4.8824594,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jodino - A.F.P.A.",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3326",
+    "route_ref": "39A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072840,
+  "lat": 45.7021629,
+  "lon": 4.8737962,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vénissieux Blanqui",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3289",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072841,
+  "lat": 45.6999510,
+  "lon": 4.8631277,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Thorez",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39950",
+    "route_ref": "60A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072843,
+  "lat": 45.6976587,
+  "lon": 4.8874829,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Duclos",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "788",
+    "route_ref": "111A:A,112A:A,39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072844,
+  "lat": 45.6925565,
+  "lon": 4.8875198,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "5ZnnSTqH0oEh-hHHySDFUg",
+    "name": "Georges Roudil",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3287",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "survey:date": "2018-08-17",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072848,
+  "lat": 45.6921108,
+  "lon": 4.8607865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Deux Fermes",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45837",
+    "route_ref": "60A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072850,
+  "lat": 45.7043389,
+  "lon": 4.8821379,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Maison du Peuple",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11329",
+    "route_ref": "93A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072852,
+  "lat": 45.7000246,
+  "lon": 4.8878005,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Croizat - Paul Bert",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40135",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072854,
+  "lat": 45.7026830,
+  "lon": 4.8696067,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Commune de Paris",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40035",
+    "route_ref": "93A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072855,
+  "lat": 45.7023733,
+  "lon": 4.8831844,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Laurent Gérin",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11917",
+    "route_ref": "93A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072856,
+  "lat": 45.6886470,
+  "lon": 4.8633760,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "11 Novembre 1918",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11877",
+    "route_ref": "93A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072858,
+  "lat": 45.7029194,
+  "lon": 4.8867116,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vénissieux Émile Zola",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11331",
+    "route_ref": "93A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072859,
+  "lat": 45.6957860,
+  "lon": 4.8589728,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Yves Farge - Corsière",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "45835",
+    "route_ref": "60A:R",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072860,
+  "lat": 45.6973632,
+  "lon": 4.8878207,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Duclos",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "789",
+    "route_ref": "111A:R,112A:R,39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072862,
+  "lat": 45.7032017,
+  "lon": 4.8786739,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité SNCF",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11328",
+    "route_ref": "93A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072866,
+  "lat": 45.6997604,
+  "lon": 4.8633167,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Maurice Thorez",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39949",
+    "route_ref": "60A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072869,
+  "lat": 45.6887358,
+  "lon": 4.8631883,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "11 Novembre 1918",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "12203",
+    "route_ref": "93A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072872,
+  "lat": 45.6884269,
+  "lon": 4.8752688,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gymnase Alain Colas",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3513",
+    "route_ref": "39A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072873,
+  "lat": 45.7027634,
+  "lon": 4.8696159,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Commune de Paris",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40034",
+    "route_ref": "93A:R",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072878,
+  "lat": 45.7001879,
+  "lon": 4.8599351,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "19 Mars 1962",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40857",
+    "route_ref": "60A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072879,
+  "lat": 45.7020045,
+  "lon": 4.8739300,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vénissieux Blanqui",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3288",
+    "route_ref": "93A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072881,
+  "lat": 45.6995276,
+  "lon": 4.8874615,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Croizat - Paul Bert",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40222",
+    "route_ref": "39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072883,
+  "lat": 45.7006078,
+  "lon": 4.8880911,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Croizat - Paul Bert",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40178",
+    "route_ref": "35A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072884,
+  "lat": 45.7025023,
+  "lon": 4.8874352,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Croizat - Coblod",
+    "public_transport": "platform",
+    "ref:FR:TCL": "645",
+    "route_ref": "35A:A,39A:A",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4611072885,
+  "lat": 45.7000701,
+  "lon": 4.8597838,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "19 Mars 1962",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "40856",
+    "route_ref": "60A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301907,
+  "lat": 45.6960115,
+  "lon": 4.9033791,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Vénissieux Allende",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "34453",
+    "route_ref": "ZI1A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301913,
+  "lat": 45.6939698,
+  "lon": 4.8976563,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jean-Sébastien Bach",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39674",
+    "route_ref": "35A:A,35A:R,87A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301920,
+  "lat": 45.6957563,
+  "lon": 4.8972379,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Novy Jicin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3380",
+    "route_ref": "35A:A,35A:R,87A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301922,
+  "lat": 45.6915064,
+  "lon": 4.9006575,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Timbaud",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2985",
+    "route_ref": "87A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301952,
+  "lat": 45.6984224,
+  "lon": 4.9006274,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vénissieux Le Charréard",
+    "public_transport": "platform",
+    "ref:FR:TCL": "3090",
+    "route_ref": "35A:A,35A:R,ZI1A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301956,
+  "lat": 45.6892185,
+  "lon": 4.9098431,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "99 Chemin du Charbonnier",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "42614",
+    "route_ref": "ZI1A:A",
+    "shelter": "no",
+    "source": "SYTRAL 12/2016",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301959,
+  "lat": 45.6909490,
+  "lon": 4.9078058,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hénaff - Charbonnier",
+    "public_transport": "platform",
+    "ref:FR:TCL": "34456",
+    "route_ref": "ZI1A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301967,
+  "lat": 45.6940938,
+  "lon": 4.8977531,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jean-Sébastien Bach",
+    "public_transport": "platform",
+    "ref:FR:TCL": "39675",
+    "route_ref": "35A:A,35A:R,87A:R",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301972,
+  "lat": 45.6983676,
+  "lon": 4.8973183,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Max Barel",
+    "public_transport": "platform",
+    "ref:FR:TCL": "31242",
+    "route_ref": "35A:A,ZI1A:A",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301976,
+  "lat": 45.6969842,
+  "lon": 4.9015865,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Vénissieux Allende",
+    "public_transport": "platform",
+    "ref:FR:TCL": "11025",
+    "route_ref": "35A:R,ZI1A:R",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301980,
+  "lat": 45.6876093,
+  "lon": 4.9024879,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pelloutier",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2253",
+    "route_ref": "87A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301981,
+  "lat": 45.6875653,
+  "lon": 4.9027006,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pelloutier",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2252",
+    "route_ref": "87A:R",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4688301987,
+  "lat": 45.6925407,
+  "lon": 4.8985844,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Laquay",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1495",
+    "route_ref": "35A:A,35A:R,87A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4688302296,
+  "lat": 45.6912556,
+  "lon": 4.9005757,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Timbaud",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "10547",
+    "route_ref": "87A:A",
+    "source": "SYTRAL 12/2016"
+  }
+},
+{
+  "type": "node",
+  "id": 4688302298,
+  "lat": 45.6964456,
+  "lon": 4.8969445,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Novy Jicin",
+    "public_transport": "platform",
+    "ref:FR:TCL": "2146",
+    "route_ref": "35A:A,35A:R,87A:R,ZI1A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020",
+    "tactile_paving": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4688302300,
+  "lat": 45.6923060,
+  "lon": 4.8988103,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Laquay",
+    "public_transport": "platform",
+    "ref:FR:TCL": "1496",
+    "route_ref": "35A:A,35A:R,87A:R",
+    "shelter": "yes",
+    "source": "SYTRAL 03/2020"
+  }
+},
+{
+  "type": "node",
+  "id": 4688302302,
+  "lat": 45.6933586,
+  "lon": 4.9058674,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Timbaud - Charbonnier",
+    "network": "TCL",
+    "public_transport": "platform",
+    "ref:FR:TCL": "34454",
+    "route_ref": "ZI1A:A",
+    "source": "SYTRAL 12/2016",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5444026822,
+  "lat": 45.7150456,
+  "lon": 4.8722227,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "195",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7363266453,
+  "lat": 45.7279004,
+  "lon": 4.8615197,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Beauvisage - Pressensé",
+    "public_transport": "platform",
+    "ref:FR:TCL": "47595",
+    "route_ref": "35A:A",
+    "shelter": "no",
+    "source": "SYTRAL 03/2020",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9236205581,
+  "lat": 45.7200611,
+  "lon": 4.8878187,
+  "tags": {
+    "gtfs_id": "CG38:19300",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9236205582,
+  "lat": 45.7193231,
+  "lon": 4.8881113,
+  "tags": {
+    "gtfs_id": "CG38:19301",
+    "highway": "bus_stop",
+    "name": "Parilly",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9343944123,
+  "lat": 45.7052933,
+  "lon": 4.8876438,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Gare de Vénissieux",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9344039124,
+  "lat": 45.7046929,
+  "lon": 4.8874120,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9353090672,
+  "lat": 45.6962157,
+  "lon": 4.8831795,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Marcel Houël - Hôtel de Ville",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9353090673,
+  "lat": 45.6963806,
+  "lon": 4.8830400,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Marcel Houël - Hôtel de Ville",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9474213584,
+  "lat": 45.6937090,
+  "lon": 4.8753274,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Herriot - Cagne",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9474213585,
+  "lat": 45.6937832,
+  "lon": 4.8756825,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Herriot - Cagne",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9474277618,
+  "lat": 45.6949974,
+  "lon": 4.8797785,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lycée Jacques Brel",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9474277619,
+  "lat": 45.6949740,
+  "lon": 4.8801607,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lycée Jacques Brel",
+    "network": "TCL",
+    "network:wikidata": "Q8700",
+    "network:wikipedia": "fr:Transports en commun lyonnais",
+    "operator": "Keolis Lyon",
+    "operator:wikidata": "Q61456136",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+}
+
+  ]
+}

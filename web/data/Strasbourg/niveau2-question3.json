@@ -1,0 +1,9040 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.57.1 74a55df1",
+  "osm3s": {
+    "timestamp_osm_base": "2022-02-13T13:18:30Z",
+    "timestamp_areas_base": "2022-02-13T02:36:10Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 419735413,
+  "lat": 48.5905722,
+  "lon": 7.7452982,
+  "tags": {
+    "direction": "E",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Place de Pierre",
+    "public_transport": "platform",
+    "route_ref": "2;10",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 474735244,
+  "lat": 48.5646174,
+  "lon": 7.7058856,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Ostwald",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 475527480,
+  "lat": 48.5660737,
+  "lon": 7.7033231,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Blaesheim",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 475527481,
+  "lat": 48.5660476,
+  "lon": 7.7034623,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Blaesheim",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 486590549,
+  "lat": 48.5957929,
+  "lon": 7.7218824,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Église Saint-Florent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 486590550,
+  "lat": 48.5958754,
+  "lon": 7.7219194,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Église Saint-Florent",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre ; mise à jour : 2009",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 493845112,
+  "lat": 48.5907225,
+  "lon": 7.7448893,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "direction": "W",
+    "highway": "bus_stop",
+    "name": "Place de Pierre",
+    "public_transport": "platform",
+    "route_ref": "2;10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 506535546,
+  "lat": 48.5914806,
+  "lon": 7.7219047,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rue Neuve",
+    "public_transport": "platform",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 506535555,
+  "lat": 48.5915966,
+  "lon": 7.7218127,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "image": "http://storage9.openstreetcam.org/files/photo/2018/10/7/lth/1296619_3_8c7cd_50.jpg",
+    "name": "Rue Neuve",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "survey:date": "2018-10-07"
+  }
+},
+{
+  "type": "node",
+  "id": 508468373,
+  "lat": 48.5873330,
+  "lon": 7.7824055,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conseil des Quinze",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 572452481,
+  "lat": 48.5983135,
+  "lon": 7.7612197,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Wacken",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2009",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 614710034,
+  "lat": 48.5858870,
+  "lon": 7.7438197,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles Pont de Paris",
+    "passenger_information_display": "yes",
+    "public_transport": "stop_position",
+    "route_ref": "L3;L6",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 620847020,
+  "lat": 48.5917245,
+  "lon": 7.7324560,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Dépôt CTS",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 620847022,
+  "lat": 48.5918706,
+  "lon": 7.7325345,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare aux Marchandises",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "718",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 636044970,
+  "lat": 48.5662066,
+  "lon": 7.7588574,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neudorf Marché",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010;survey",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 636062707,
+  "lat": 48.5644529,
+  "lon": 7.7665197,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ziegelau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 637520207,
+  "lat": 48.5907386,
+  "lon": 7.7443287,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Pierre",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 637520633,
+  "lat": 48.5908742,
+  "lon": 7.7444549,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Place de Pierre",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 638590783,
+  "lat": 48.5683241,
+  "lon": 7.7495015,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Léon",
+    "public_transport": "platform",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 638590784,
+  "lat": 48.5681194,
+  "lon": 7.7515207,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Schluthfeld",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 638590796,
+  "lat": 48.5681765,
+  "lon": 7.7522752,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "mapillary": "DpbUdoh688E8jhXpIqCBzg",
+    "name": "Schluthfeld",
+    "pole": "no",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2017-10-12"
+  }
+},
+{
+  "type": "node",
+  "id": 665313676,
+  "lat": 48.5877064,
+  "lon": 7.7412138,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Place des Halles",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+  }
+},
+{
+  "type": "node",
+  "id": 665550230,
+  "lat": 48.5789174,
+  "lon": 7.7440658,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Thomas Finkwiller",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 665550231,
+  "lat": 48.5784996,
+  "lon": 7.7482037,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Nicolas",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 896353078,
+  "lat": 48.5947631,
+  "lon": 7.7105053,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile d'Or",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 896353166,
+  "lat": 48.5947863,
+  "lon": 7.7108677,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile d'Or",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 896973010,
+  "lat": 48.5968909,
+  "lon": 7.7056787,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Catherine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 896973025,
+  "lat": 48.5966570,
+  "lon": 7.7059601,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Catherine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 897018878,
+  "lat": 48.5986241,
+  "lon": 7.7021914,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Duntzenheim",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 897018903,
+  "lat": 48.5986053,
+  "lon": 7.7024287,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Duntzenheim",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 897884842,
+  "lat": 48.6009839,
+  "lon": 7.6978644,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Banlieue",
+    "public_transport": "platform",
+    "ref:FR:CTS": "BANLI_01",
+    "ref:FR:CTS_SMS": "42A",
+    "shelter": "yes",
+    "source": "survey",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 897884866,
+  "lat": 48.6007748,
+  "lon": 7.6980355,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Banlieue",
+    "public_transport": "platform",
+    "ref:FR:CTS": "BANLI_02",
+    "ref:FR:CTS_SMS": "42B",
+    "shelter": "no",
+    "source": "survey",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 900177454,
+  "lat": 48.5923206,
+  "lon": 7.7175625,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jacob",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 900177458,
+  "lat": 48.5920447,
+  "lon": 7.7249986,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rotonde",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 900177460,
+  "lat": 48.5924544,
+  "lon": 7.7173240,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jacob",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 903719634,
+  "lat": 48.5981226,
+  "lon": 7.7141891,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Stutzheim",
+    "public_transport": "platform",
+    "route_ref": "19;29",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 903719640,
+  "lat": 48.6000688,
+  "lon": 7.7117081,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Berstett",
+    "public_transport": "platform",
+    "route_ref": "19;29;50;203;210",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 903719642,
+  "lat": 48.6046031,
+  "lon": 7.7167542,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 903719643,
+  "lat": 48.6031352,
+  "lon": 7.7130514,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Haldenbourg",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 903719653,
+  "lat": 48.6001319,
+  "lon": 7.7118804,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Berstett",
+    "public_transport": "platform",
+    "route_ref": "19;29;50;203;210",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 903719660,
+  "lat": 48.6016558,
+  "lon": 7.7104994,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Manoeuvre",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 903719662,
+  "lat": 48.5982982,
+  "lon": 7.7140972,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Stutzheim",
+    "public_transport": "platform",
+    "route_ref": "19;29",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 903719670,
+  "lat": 48.6047376,
+  "lon": 7.7172713,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 903719671,
+  "lat": 48.6015942,
+  "lon": 7.7106112,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Manoeuvre",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1025367239,
+  "lat": 48.5933005,
+  "lon": 7.7575610,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Kléber",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1025367257,
+  "lat": 48.5940935,
+  "lon": 7.7585629,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Lycée Kleber",
+    "note": "Bus de remplacement",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1025367353,
+  "lat": 48.5934559,
+  "lon": 7.7581306,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Kléber",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1035302078,
+  "lat": 48.5723089,
+  "lon": 7.7948275,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Port du Rhin",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1035302229,
+  "lat": 48.5724335,
+  "lon": 7.7948679,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Port du Rhin",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1036881223,
+  "lat": 48.5238504,
+  "lon": 7.7832536,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Eurofret",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 1036881741,
+  "lat": 48.5438882,
+  "lon": 7.7887751,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Lorient",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1036881932,
+  "lat": 48.5241578,
+  "lon": 7.7826823,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Eurofret",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 1036881934,
+  "lat": 48.5314039,
+  "lon": 7.7806195,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Saint-Nazaire",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1036882215,
+  "lat": 48.5446450,
+  "lon": 7.7873971,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Neuhof Lorient",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1036882241,
+  "lat": 48.5314118,
+  "lon": 7.7802400,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "lines": "27",
+    "name": "Saint-Nazaire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "timetable": "no",
+    "waste_basket": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1037757461,
+  "lat": 48.5159150,
+  "lon": 7.7752965,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Port Autonome Sud",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038943553,
+  "lat": 48.5442379,
+  "lon": 7.7734118,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Klebsau",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038943574,
+  "lat": 48.5438544,
+  "lon": 7.7810961,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Neuhof Corps Européen",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038943948,
+  "lat": 48.5413234,
+  "lon": 7.7756160,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944016,
+  "lat": 48.5352882,
+  "lon": 7.7854084,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lines": "27",
+    "name": "La Rochelle",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "timetable": "yes",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944044,
+  "lat": 48.5465346,
+  "lon": 7.7665269,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Rodolphe Reuss",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944057,
+  "lat": 48.5456452,
+  "lon": 7.7722209,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Ingold",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944065,
+  "lat": 48.5498349,
+  "lon": 7.7526374,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Schulmeister",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944133,
+  "lat": 48.5441967,
+  "lon": 7.7732032,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Klebsau",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944140,
+  "lat": 48.5334606,
+  "lon": 7.7828923,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Cherbourg",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944253,
+  "lat": 48.5447226,
+  "lon": 7.7819720,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Neuhof Corps Européen",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944270,
+  "lat": 48.5455540,
+  "lon": 7.7612055,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Abbé de l'Épée",
+    "public_transport": "platform",
+    "route_ref": "27;40",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944296,
+  "lat": 48.5454096,
+  "lon": 7.7606925,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Abbé de l'Épée",
+    "public_transport": "platform",
+    "route_ref": "27;40",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944341,
+  "lat": 48.5362393,
+  "lon": 7.7868711,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "La Rochelle",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944360,
+  "lat": 48.5455031,
+  "lon": 7.7722007,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Ingold",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944368,
+  "lat": 48.5501178,
+  "lon": 7.7522671,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Schulmeister",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944374,
+  "lat": 48.5499833,
+  "lon": 7.7510775,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Île de France",
+    "public_transport": "platform",
+    "route_ref": "27;40",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944378,
+  "lat": 48.5464696,
+  "lon": 7.7670169,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Rodolphe Reuss",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944394,
+  "lat": 48.5499711,
+  "lon": 7.7508704,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Île de France",
+    "public_transport": "platform",
+    "route_ref": "27;40",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944408,
+  "lat": 48.5416356,
+  "lon": 7.7755450,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Jean Moulin",
+    "public_transport": "platform",
+    "route_ref": "14;27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944438,
+  "lat": 48.5335484,
+  "lon": 7.7827575,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Cherbourg",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944444,
+  "lat": 48.5476981,
+  "lon": 7.7568339,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Meinau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944504,
+  "lat": 48.5533313,
+  "lon": 7.7445596,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Émile Mathis",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1038944506,
+  "lat": 48.5479175,
+  "lon": 7.7566595,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Meinau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040756923,
+  "lat": 48.5552169,
+  "lon": 7.7349839,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Frères Eberts",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040756924,
+  "lat": 48.5547413,
+  "lon": 7.7393649,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Bartischgut",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040756932,
+  "lat": 48.5492419,
+  "lon": 7.7402553,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Hohwart",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757010,
+  "lat": 48.5512835,
+  "lon": 7.7334395,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "CARSAT",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757022,
+  "lat": 48.5491475,
+  "lon": 7.7409447,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Hohwart",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757087,
+  "lat": 48.5496928,
+  "lon": 7.7356173,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdon",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757318,
+  "lat": 48.5548663,
+  "lon": 7.7393286,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Bartischgut",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757464,
+  "lat": 48.5553336,
+  "lon": 7.7345885,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Frères Eberts",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1040757469,
+  "lat": 48.5495578,
+  "lon": 7.7364257,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Verdon",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1042291752,
+  "lat": 48.5783831,
+  "lon": 7.7315222,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Obernai-Lyon",
+    "public_transport": "platform",
+    "route_ref": "4;4a;10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1042291758,
+  "lat": 48.5785446,
+  "lon": 7.7391922,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel du Département",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042291808,
+  "lat": 48.5825127,
+  "lon": 7.7330720,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Strasbourg - Sainte-Aurélie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042291930,
+  "lat": 48.5781484,
+  "lon": 7.7310802,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Obernai-Lyon",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1042291950,
+  "lat": 48.5880158,
+  "lon": 7.7388841,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Wilson",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292007,
+  "lat": 48.5779143,
+  "lon": 7.7351843,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Moderne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292031,
+  "lat": 48.5786532,
+  "lon": 7.7397327,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel du Département",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292169,
+  "lat": 48.5784754,
+  "lon": 7.7315304,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Obernai-Lyon",
+    "public_transport": "platform",
+    "route_ref": "4;4a;10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292232,
+  "lat": 48.5781287,
+  "lon": 7.7351903,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Moderne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292235,
+  "lat": 48.5824334,
+  "lon": 7.7326005,
+  "tags": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Aurélie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1042292248,
+  "lat": 48.5787632,
+  "lon": 7.7311689,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Obernai-Lyon",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1046419455,
+  "lat": 48.5628000,
+  "lon": 7.7002208,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Molkenbronn",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1046419675,
+  "lat": 48.5629902,
+  "lon": 7.7013756,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Molkenbronn",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1046419959,
+  "lat": 48.5619446,
+  "lon": 7.6965170,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Tanneries",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1046420771,
+  "lat": 48.5645617,
+  "lon": 7.7060580,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Ostwald",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1046421815,
+  "lat": 48.5619006,
+  "lon": 7.6971171,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Tanneries",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1198890759,
+  "lat": 48.5772630,
+  "lon": 7.7680327,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "public_transport": "platform",
+    "route_ref": "15;30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1199362104,
+  "lat": 48.5781949,
+  "lon": 7.7692495,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1199362128,
+  "lat": 48.5785321,
+  "lon": 7.7696096,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Esplanade",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1207544300,
+  "lat": 48.5901415,
+  "lon": 7.7490496,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Palais des Fêtes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1207544478,
+  "lat": 48.5904510,
+  "lon": 7.7485569,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Palais des Fêtes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1210189141,
+  "lat": 48.5897461,
+  "lon": 7.7510839,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Vosges-Oberlin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1210189221,
+  "lat": 48.5892449,
+  "lon": 7.7522648,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Vosges-Oberlin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1210841448,
+  "lat": 48.5913386,
+  "lon": 7.7493464,
+  "tags": {
+    "bench": "yes",
+    "direction": "E",
+    "highway": "bus_stop",
+    "name": "Phalsbourg",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1210841534,
+  "lat": 48.5914232,
+  "lon": 7.7483357,
+  "tags": {
+    "bench": "yes",
+    "direction": "W",
+    "highway": "bus_stop",
+    "name": "Phalsbourg",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1212830993,
+  "lat": 48.5921377,
+  "lon": 7.7545035,
+  "tags": {
+    "bench": "yes",
+    "direction": "W",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1212831050,
+  "lat": 48.5919518,
+  "lon": 7.7547982,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Clemenceau",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1212907393,
+  "lat": 48.5944370,
+  "lon": 7.7579061,
+  "tags": {
+    "bench": "yes",
+    "check_date:shelter": "2021-02-13",
+    "highway": "bus_stop",
+    "name": "Lycée Kleber",
+    "note": "Bus de remplacement",
+    "operator": "CTS",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1219310842,
+  "lat": 48.5899969,
+  "lon": 7.7669558,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dordogne",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1219310932,
+  "lat": 48.5898663,
+  "lon": 7.7668204,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dordogne",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1219310983,
+  "lat": 48.5923705,
+  "lon": 7.7608493,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Bethesda",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1219311048,
+  "lat": 48.5923232,
+  "lon": 7.7613117,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bethesda",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1219724609,
+  "lat": 48.5890532,
+  "lon": 7.7666671,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dordogne",
+    "public_transport": "platform",
+    "route_ref": "6;30;72",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1219724746,
+  "lat": 48.5896172,
+  "lon": 7.7668889,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dordogne",
+    "public_transport": "platform",
+    "route_ref": "6;30;72",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1235550602,
+  "lat": 48.5883199,
+  "lon": 7.7692777,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tauler",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1235550717,
+  "lat": 48.5880572,
+  "lon": 7.7697214,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tauler",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1236527334,
+  "lat": 48.5855509,
+  "lon": 7.7616568,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brant Université",
+    "public_transport": "platform",
+    "route_ref": "6;15a;30;72",
+    "shelter": "yes",
+    "source": "bing;survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1236527404,
+  "lat": 48.5856501,
+  "lon": 7.7613210,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Brant Université",
+    "public_transport": "platform",
+    "route_ref": "6;10;15a;30;72",
+    "shelter": "yes",
+    "source": "bing;survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1236949773,
+  "lat": 48.5992977,
+  "lon": 7.7672692,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parlement Européen",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2011"
+  }
+},
+{
+  "type": "node",
+  "id": 1236949794,
+  "lat": 48.5813595,
+  "lon": 7.7365025,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Marguerite",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1236949859,
+  "lat": 48.5812712,
+  "lon": 7.7369412,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Marguerite",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "survey:date": "2011-04-08"
+  }
+},
+{
+  "type": "node",
+  "id": 1236949871,
+  "lat": 48.5994001,
+  "lon": 7.7665492,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "description": "Bus de remplacement",
+    "highway": "bus_stop",
+    "name": "Parlement Européen",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2011",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1243973876,
+  "lat": 48.5973132,
+  "lon": 7.7409836,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "C",
+    "name": "Sainte-Hélène",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref": "610",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1243973901,
+  "lat": 48.5970586,
+  "lon": 7.7413809,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Hélène",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1243973931,
+  "lat": 48.5967910,
+  "lon": 7.7420706,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Hélène",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1243973935,
+  "lat": 48.5971743,
+  "lon": 7.7417674,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Sainte-Hélène",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1245210103,
+  "lat": 48.5781783,
+  "lon": 7.7245622,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Abbé Lemire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1245210223,
+  "lat": 48.5781201,
+  "lon": 7.7247023,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Abbé Lemire",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1245210273,
+  "lat": 48.5755204,
+  "lon": 7.7307945,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Laiterie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1245210285,
+  "lat": 48.5759918,
+  "lon": 7.7325800,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Laiterie",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1245322815,
+  "lat": 48.5783246,
+  "lon": 7.7338541,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Moderne",
+    "public_transport": "platform",
+    "route_ref": "4;10",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1246669988,
+  "lat": 48.5896768,
+  "lon": 7.7417994,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Travail",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1246670022,
+  "lat": 48.5901647,
+  "lon": 7.7414580,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Wissembourg",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1246670046,
+  "lat": 48.5899708,
+  "lon": 7.7420238,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Travail",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1246670063,
+  "lat": 48.5899752,
+  "lon": 7.7409865,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "A",
+    "name": "Wissembourg",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref": "668",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1248867917,
+  "lat": 48.5829489,
+  "lon": 7.7382471,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Pont Kuss",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1249709973,
+  "lat": 48.5834347,
+  "lon": 7.7398294,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Pont Kuss",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1262415985,
+  "lat": 48.5844116,
+  "lon": 7.7589797,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gallia",
+    "public_transport": "platform",
+    "route_ref": "10;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1262415991,
+  "lat": 48.5833310,
+  "lon": 7.7579470,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Saint-Guillaume",
+    "public_transport": "platform",
+    "route_ref": "10;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1262415995,
+  "lat": 48.5843903,
+  "lon": 7.7592446,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gallia",
+    "public_transport": "platform",
+    "route_ref": "10;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1262415998,
+  "lat": 48.5828044,
+  "lon": 7.7576561,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Saint-Guillaume",
+    "public_transport": "platform",
+    "route_ref": "10;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1263063435,
+  "lat": 48.5871533,
+  "lon": 7.7596177,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pont des Vosges",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1263063439,
+  "lat": 48.5872977,
+  "lon": 7.7597964,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Pont des Vosges",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1264146507,
+  "lat": 48.5883082,
+  "lon": 7.7562145,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lamey",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1264146515,
+  "lat": 48.5883467,
+  "lon": 7.7554682,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lamey",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1294277481,
+  "lat": 48.5856741,
+  "lon": 7.7719671,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maurice",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1294277489,
+  "lat": 48.5841048,
+  "lon": 7.7753074,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruxelles",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1294277527,
+  "lat": 48.5841992,
+  "lon": 7.7751674,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bruxelles",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1294277545,
+  "lat": 48.5857045,
+  "lon": 7.7721716,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Maurice",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1331974484,
+  "lat": 48.5977871,
+  "lon": 7.7094477,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Antoine",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1331974504,
+  "lat": 48.5977194,
+  "lon": 7.7095906,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Antoine",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1333158272,
+  "lat": 48.5988619,
+  "lon": 7.6952002,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Parc des Sports",
+    "public_transport": "platform",
+    "ref:FR:CTS": "MONTE_02",
+    "ref:FR:CTS_SMS": "398B",
+    "shelter": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1333158397,
+  "lat": 48.5986914,
+  "lon": 7.6950874,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Sports",
+    "public_transport": "platform",
+    "ref:FR:CTS": "MONTE_01",
+    "ref:FR:CTS_SMS": "398A",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1335903513,
+  "lat": 48.5946659,
+  "lon": 7.7042997,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Shakespeare",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1335904004,
+  "lat": 48.5943611,
+  "lon": 7.7035002,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Shakespeare",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1342580018,
+  "lat": 48.5729556,
+  "lon": 7.7707738,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danube",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1342580064,
+  "lat": 48.5766144,
+  "lon": 7.7705196,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ankara",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1342580073,
+  "lat": 48.5729265,
+  "lon": 7.7709461,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Danube",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1352190833,
+  "lat": 48.5664775,
+  "lon": 7.7731266,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1352190835,
+  "lat": 48.5668079,
+  "lon": 7.7734765,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1352190836,
+  "lat": 48.5671082,
+  "lon": 7.7720653,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "note": "Bus de remplacement",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1352190838,
+  "lat": 48.5672781,
+  "lon": 7.7724117,
+  "tags": {
+    "bench": "no",
+    "check_date:shelter": "2020-12-25",
+    "highway": "bus_stop",
+    "name": "Jean Jaurès",
+    "note": "Bus de remplacement",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1354006046,
+  "lat": 48.5681002,
+  "lon": 7.7574782,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Mulhouse",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1354006057,
+  "lat": 48.5683622,
+  "lon": 7.7574435,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mulhouse",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118364,
+  "lat": 48.5796507,
+  "lon": 7.7498060,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ancienne Douane",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118375,
+  "lat": 48.5549483,
+  "lon": 7.7663189,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Kibitzenau",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118380,
+  "lat": 48.5550414,
+  "lon": 7.7665299,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Kibitzenau",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118389,
+  "lat": 48.5472742,
+  "lon": 7.7704679,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kiefer",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118401,
+  "lat": 48.5475600,
+  "lon": 7.7700153,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kiefer",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118405,
+  "lat": 48.5635275,
+  "lon": 7.7616119,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lazaret",
+    "pole": "public_transport",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "no",
+    "source:shelter": "Mapillary",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118408,
+  "lat": 48.5634877,
+  "lon": 7.7614414,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Lazaret",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "no",
+    "source:shelter": "Mapillary"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118415,
+  "lat": 48.5612576,
+  "lon": 7.7638236,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neudorf Gravière",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118417,
+  "lat": 48.5614085,
+  "lon": 7.7638631,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neudorf Gravière",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118424,
+  "lat": 48.5664797,
+  "lon": 7.7585258,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Neudorf Marché",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118428,
+  "lat": 48.5494596,
+  "lon": 7.7691033,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hautefort",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "shelter": "no",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118433,
+  "lat": 48.5498986,
+  "lon": 7.7687888,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Hautefort",
+    "pole": "public_transport",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "shelter": "no",
+    "source": "survey;bing",
+    "source:shelter": "Mapillary"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118439,
+  "lat": 48.5575578,
+  "lon": 7.7660519,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118441,
+  "lat": 48.5578394,
+  "lon": 7.7662572,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Polygone",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118453,
+  "lat": 48.5781036,
+  "lon": 7.7504665,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Porte de l'Hôpital",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118460,
+  "lat": 48.5781589,
+  "lon": 7.7509279,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Porte de l'Hôpital",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118470,
+  "lat": 48.5514012,
+  "lon": 7.7669680,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Christophe",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357118475,
+  "lat": 48.5514729,
+  "lon": 7.7670186,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Saint-Christophe",
+    "public_transport": "platform",
+    "route_ref": "14",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357119109,
+  "lat": 48.5742296,
+  "lon": 7.7536616,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile Bourse",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1357119114,
+  "lat": 48.5743763,
+  "lon": 7.7537611,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile Bourse",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1357119123,
+  "lat": 48.5716505,
+  "lon": 7.7556190,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile Polygone",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357119125,
+  "lat": 48.5719414,
+  "lon": 7.7550619,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Étoile Polygone",
+    "public_transport": "platform",
+    "route_ref": "14;24",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1357238335,
+  "lat": 48.5463918,
+  "lon": 7.7581215,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Provence",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1357238336,
+  "lat": 48.5467230,
+  "lon": 7.7582043,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Provence",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182297,
+  "lat": 48.5691524,
+  "lon": 7.7767709,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182301,
+  "lat": 48.5690718,
+  "lon": 7.7767834,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182303,
+  "lat": 48.5685951,
+  "lon": 7.7764012,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "route_ref": "21;31",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182313,
+  "lat": 48.5960401,
+  "lon": 7.7753871,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Droits de l'Homme",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182319,
+  "lat": 48.5961211,
+  "lon": 7.7749625,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Droits de l'Homme",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182336,
+  "lat": 48.5974756,
+  "lon": 7.7760817,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bœcklin",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182345,
+  "lat": 48.5976852,
+  "lon": 7.7761917,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Bœcklin",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182361,
+  "lat": 48.6089807,
+  "lon": 7.7795870,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cimetière Nord",
+    "pole": "public_transport",
+    "public_transport": "platform",
+    "route_ref": "6;15a;30",
+    "shelter": "no",
+    "source": "survey;bing",
+    "source:shelter": "Mapillary",
+    "tactile_paving": "yes",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182370,
+  "lat": 48.6091543,
+  "lon": 7.7797857,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cimetière Nord",
+    "public_transport": "platform",
+    "route_ref": "6;15a;30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "source:shelter": "Mapillary",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182379,
+  "lat": 48.5779097,
+  "lon": 7.7618314,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "public_transport": "platform",
+    "route_ref": "15;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182388,
+  "lat": 48.6022236,
+  "lon": 7.7754612,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Universitaire",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182398,
+  "lat": 48.6025719,
+  "lon": 7.7757866,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Universitaire",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182405,
+  "lat": 48.5879293,
+  "lon": 7.7653090,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique de l'Orangerie",
+    "public_transport": "platform",
+    "route_ref": "6;30;72",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182416,
+  "lat": 48.6049419,
+  "lon": 7.7778661,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort Louis",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "no",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182417,
+  "lat": 48.6056586,
+  "lon": 7.7780728,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Fort Louis",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182422,
+  "lat": 48.5802157,
+  "lon": 7.7575858,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Krutenau",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182423,
+  "lat": 48.5611520,
+  "lon": 7.7813434,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Musau",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182424,
+  "lat": 48.5613084,
+  "lon": 7.7806319,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Musau",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182425,
+  "lat": 48.5918617,
+  "lon": 7.7696812,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Orangerie",
+    "public_transport": "platform",
+    "route_ref": "6;30;72",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182426,
+  "lat": 48.5776388,
+  "lon": 7.7638726,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Palerme",
+    "public_transport": "platform",
+    "route_ref": "15;30",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182427,
+  "lat": 48.5609124,
+  "lon": 7.7835705,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Place de Wattwiller",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182428,
+  "lat": 48.5607619,
+  "lon": 7.7839120,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Place de Wattwiller",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182430,
+  "lat": 48.6234797,
+  "lon": 7.7865047,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Chasseurs",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182431,
+  "lat": 48.6153338,
+  "lon": 7.7862721,
+  "tags": {
+    "alt_name": "Robertsau Sainte-Anne",
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Clinique Sainte-Anne",
+    "name:en": "St. Anne's Clinic",
+    "public_transport": "platform",
+    "route_ref": "15a;30;72",
+    "shelter": "no",
+    "source": "survey;bing",
+    "source:name": "Mapillary",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182432,
+  "lat": 48.6153748,
+  "lon": 7.7852314,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Clinique Sainte-Anne",
+    "public_transport": "platform",
+    "route_ref": "15a;30;72",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182433,
+  "lat": 48.6186977,
+  "lon": 7.7874251,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Fischacker",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182434,
+  "lat": 48.6187950,
+  "lon": 7.7880073,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Fischacker",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182435,
+  "lat": 48.6206178,
+  "lon": 7.7871139,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Gardes Forestiers",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182436,
+  "lat": 48.6210742,
+  "lon": 7.7871641,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Gardes Forestiers",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182437,
+  "lat": 48.6117639,
+  "lon": 7.7816301,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Papeterie",
+    "public_transport": "platform",
+    "route_ref": "15a;30;72",
+    "shelter": "yes",
+    "source": "survey;BDOrthoIGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182438,
+  "lat": 48.6116402,
+  "lon": 7.7817421,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Papeterie",
+    "public_transport": "platform",
+    "route_ref": "15a;30;72",
+    "shelter": "yes",
+    "source": "survey;BDOrthoIGN",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182439,
+  "lat": 48.6172897,
+  "lon": 7.7882043,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Sainte-Anne",
+    "public_transport": "platform",
+    "ref": "549B",
+    "route_ref": "30;72;72a",
+    "shelter": "yes",
+    "source": "survey;local knowledge",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182440,
+  "lat": 48.6169013,
+  "lon": 7.7880886,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Sainte-Anne",
+    "public_transport": "platform",
+    "ref": "549A",
+    "route_ref": "15a;30",
+    "shelter": "yes",
+    "source": "survey;local knowledge",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182449,
+  "lat": 48.5771519,
+  "lon": 7.7682231,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rome",
+    "public_transport": "platform",
+    "route_ref": "15;30",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182453,
+  "lat": 48.5652146,
+  "lon": 7.7783840,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Soultz",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182454,
+  "lat": 48.5653385,
+  "lon": 7.7785225,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Soultz",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1360182459,
+  "lat": 48.5612493,
+  "lon": 7.7859687,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Wattwiller",
+    "public_transport": "platform",
+    "route_ref": "30;31",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374968898,
+  "lat": 48.5780182,
+  "lon": 7.7057552,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Capucins",
+    "public_transport": "platform",
+    "route_ref": "4a;4b",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374968912,
+  "lat": 48.5780237,
+  "lon": 7.7048398,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Capucins",
+    "public_transport": "platform",
+    "route_ref": "4a;4b",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374968929,
+  "lat": 48.5797154,
+  "lon": 7.7168328,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Comtes",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374968942,
+  "lat": 48.5797826,
+  "lon": 7.7160380,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Comtes",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969043,
+  "lat": 48.6008566,
+  "lon": 7.7152573,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Copernic",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969057,
+  "lat": 48.6009513,
+  "lon": 7.7153004,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Copernic",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969100,
+  "lat": 48.5786071,
+  "lon": 7.7099902,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Gruber",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969113,
+  "lat": 48.5786426,
+  "lon": 7.7095987,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Gruber",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969125,
+  "lat": 48.5820727,
+  "lon": 7.7009983,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Hohberg",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969138,
+  "lat": 48.5827770,
+  "lon": 7.6992535,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Horace",
+    "public_transport": "platform",
+    "route_ref": "4;50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969155,
+  "lat": 48.5853505,
+  "lon": 7.6945604,
+  "tags": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Marcel Rudolff",
+    "public_transport": "platform",
+    "route_ref": "4;50;205",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969169,
+  "lat": 48.5745457,
+  "lon": 7.7272363,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Montagne Verte",
+    "public_transport": "platform",
+    "route_ref": "2;13;15;50;50a",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969178,
+  "lat": 48.5746624,
+  "lon": 7.7272434,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Montagne Verte",
+    "public_transport": "platform",
+    "route_ref": "2;13;15;50;50a",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969259,
+  "lat": 48.5799142,
+  "lon": 7.7038570,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Romains",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969285,
+  "lat": 48.5793930,
+  "lon": 7.7036125,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Place des Romains",
+    "public_transport": "platform",
+    "route_ref": "4;4a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969295,
+  "lat": 48.6027367,
+  "lon": 7.7191070,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "719",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969338,
+  "lat": 48.6029387,
+  "lon": 7.7190134,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "719",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969340,
+  "lat": 48.5790226,
+  "lon": 7.7125720,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Schnockeloch",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969341,
+  "lat": 48.5790492,
+  "lon": 7.7121693,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Schnockeloch",
+    "public_transport": "platform",
+    "route_ref": "4;4a;50;50a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969343,
+  "lat": 48.5813678,
+  "lon": 7.6999663,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Virgile",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969344,
+  "lat": 48.5986422,
+  "lon": 7.7610509,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wacken",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969345,
+  "lat": 48.5784520,
+  "lon": 7.7007326,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969351,
+  "lat": 48.5784144,
+  "lon": 7.7011516,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Romains",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969356,
+  "lat": 48.5799216,
+  "lon": 7.6976350,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Henri Frenay",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969413,
+  "lat": 48.5817749,
+  "lon": 7.7030093,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Bosco",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1374969425,
+  "lat": 48.5818032,
+  "lon": 7.7028213,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Bosco",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1375592832,
+  "lat": 48.5836473,
+  "lon": 7.7731542,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marne",
+    "public_transport": "platform",
+    "route_ref": "2;15",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1387234881,
+  "lat": 48.5783549,
+  "lon": 7.7606698,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cité Administrative",
+    "public_transport": "platform",
+    "route_ref": "15;30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287766,
+  "lat": 48.5542788,
+  "lon": 7.7630455,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bergerac",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287774,
+  "lat": 48.5526392,
+  "lon": 7.7494078,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dietterlin",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287781,
+  "lat": 48.5528095,
+  "lon": 7.7489415,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Dietterlin",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287801,
+  "lat": 48.5535370,
+  "lon": 7.7454391,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Émile Mathis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287807,
+  "lat": 48.5516919,
+  "lon": 7.7514853,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Franche-Comté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287815,
+  "lat": 48.5519677,
+  "lon": 7.7516870,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Franche-Comté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287839,
+  "lat": 48.5492578,
+  "lon": 7.7418062,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hohwart",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287845,
+  "lat": 48.5493395,
+  "lon": 7.7414103,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Hohwart",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287848,
+  "lat": 48.5493551,
+  "lon": 7.7581151,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Loucheur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287874,
+  "lat": 48.5492584,
+  "lon": 7.7579876,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Louis Loucheur",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287876,
+  "lat": 48.5546093,
+  "lon": 7.7531990,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pfister",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287878,
+  "lat": 48.5548897,
+  "lon": 7.7534895,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Pfister",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287895,
+  "lat": 48.5531710,
+  "lon": 7.7579536,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Rhin Tortu",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1531287897,
+  "lat": 48.5528217,
+  "lon": 7.7578839,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Rhin Tortu",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706565,
+  "lat": 48.5543769,
+  "lon": 7.7622699,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bergerac",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706572,
+  "lat": 48.5780343,
+  "lon": 7.7834547,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Dunkerque",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706573,
+  "lat": 48.5784047,
+  "lon": 7.7831796,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Dunkerque",
+    "public_transport": "platform",
+    "roof:colour": "white",
+    "roof:shape": "flat",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706574,
+  "lat": 48.5545444,
+  "lon": 7.7669793,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Kibitzenau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706579,
+  "lat": 48.5814557,
+  "lon": 7.7704289,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "public_transport": "platform",
+    "route_ref": "2;15",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706581,
+  "lat": 48.5815288,
+  "lon": 7.7703159,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706583,
+  "lat": 48.5624827,
+  "lon": 7.7734756,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Orbey",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706584,
+  "lat": 48.5630995,
+  "lon": 7.7736990,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Orbey",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706595,
+  "lat": 48.5802173,
+  "lon": 7.7762085,
+  "tags": {
+    "amenity": "shelter",
+    "bench": "yes",
+    "bin": "yes",
+    "building": "yes",
+    "building:levels": "1",
+    "building:material": "glass",
+    "highway": "bus_stop",
+    "name": "Place d'Islande",
+    "public_transport": "platform",
+    "roof:colour": "white",
+    "roof:shape": "flat",
+    "route_ref": "2",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706598,
+  "lat": 48.5808160,
+  "lon": 7.7767080,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Islande",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706603,
+  "lat": 48.5542529,
+  "lon": 7.7603794,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Vanneaux",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1533706605,
+  "lat": 48.5543866,
+  "lon": 7.7588998,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Vanneaux",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1602682545,
+  "lat": 48.5799469,
+  "lon": 7.7579127,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Krutenau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803438,
+  "lat": 48.5733080,
+  "lon": 7.7182994,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Camping",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803439,
+  "lat": 48.5733243,
+  "lon": 7.7191917,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Camping",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803440,
+  "lat": 48.5700544,
+  "lon": 7.7109970,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bruche",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803441,
+  "lat": 48.5701981,
+  "lon": 7.7113133,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bruche",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803442,
+  "lat": 48.5676730,
+  "lon": 7.7091978,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gliesberg",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803446,
+  "lat": 48.5679093,
+  "lon": 7.7092268,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Gliesberg",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803450,
+  "lat": 48.5723154,
+  "lon": 7.7146571,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Nid de Cigognes",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1631803463,
+  "lat": 48.5724443,
+  "lon": 7.7155051,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Nid de Cigognes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1642750902,
+  "lat": 48.5870932,
+  "lon": 7.7660759,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Golbery",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1642750903,
+  "lat": 48.5874620,
+  "lon": 7.7667791,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Golbery",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1654034015,
+  "lat": 48.5985247,
+  "lon": 7.7619196,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wacken",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "Direction Générale des Finances Publiques - Cadastre. Mise à jour : 2009"
+  }
+},
+{
+  "type": "node",
+  "id": 1716908630,
+  "lat": 48.5892089,
+  "lon": 7.7825977,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quartier des Quinze",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1716934487,
+  "lat": 48.5862122,
+  "lon": 7.7806127,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ypres",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1716934494,
+  "lat": 48.5874211,
+  "lon": 7.7822602,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Conseil des Quinze",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1716934498,
+  "lat": 48.5837910,
+  "lon": 7.7727704,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Marne",
+    "public_transport": "platform",
+    "route_ref": "2;15",
+    "shelter": "no",
+    "source": "bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1721061708,
+  "lat": 48.5648005,
+  "lon": 7.7278756,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Tintoret",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2018"
+  }
+},
+{
+  "type": "node",
+  "id": 1721061709,
+  "lat": 48.5645617,
+  "lon": 7.7257302,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Titien",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1721061710,
+  "lat": 48.5645393,
+  "lon": 7.7267231,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Titien",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 1826852278,
+  "lat": 48.5850539,
+  "lon": 7.7351826,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Centrale",
+    "name:de": "Hauptbahnhof",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1826852280,
+  "lat": 48.5852167,
+  "lon": 7.7354989,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Centrale",
+    "route_ref": "10",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1826852281,
+  "lat": 48.5854231,
+  "lon": 7.7358835,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Centrale",
+    "name:de": "Hauptbahnhof",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1826852714,
+  "lat": 48.5855032,
+  "lon": 7.7357321,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Gare Centrale",
+    "name:de": "Hauptbahnhof",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1830179228,
+  "lat": 48.5590833,
+  "lon": 7.7121191,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Mürhof",
+    "public_transport": "platform",
+    "route_ref": "13",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1830179230,
+  "lat": 48.5590654,
+  "lon": 7.7118694,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Mürhof",
+    "public_transport": "platform",
+    "route_ref": "13",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1831310442,
+  "lat": 48.5858791,
+  "lon": 7.7398013,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Faubourg de Saverne",
+    "public_transport": "platform",
+    "route_ref": "6;6a",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1831310443,
+  "lat": 48.5855497,
+  "lon": 7.7401542,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Faubourg de Saverne",
+    "public_transport": "platform",
+    "route_ref": "6;6a",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1866997558,
+  "lat": 48.5921911,
+  "lon": 7.7695737,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Orangerie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1866999111,
+  "lat": 48.5877163,
+  "lon": 7.7646967,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clinique de l'Orangerie",
+    "public_transport": "platform",
+    "route_ref": "6;30;72",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 1867002896,
+  "lat": 48.5777333,
+  "lon": 7.7641921,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Palerme",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867026497,
+  "lat": 48.6132485,
+  "lon": 7.7692628,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Phario",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056332,
+  "lat": 48.6104209,
+  "lon": 7.7859741,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Coehorn",
+    "public_transport": "platform",
+    "ref:FR:CTS": "COEHO_01",
+    "ref:FR:CTS_SMS": "121A",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056334,
+  "lat": 48.6116094,
+  "lon": 7.7804169,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papeterie",
+    "public_transport": "platform",
+    "ref:FR:CTS": "PAPET_01",
+    "ref:FR:CTS_SMS": "459A",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056336,
+  "lat": 48.6122870,
+  "lon": 7.7762041,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Hechner",
+    "public_transport": "platform",
+    "ref:FR:CTS": "HECHN_02",
+    "ref:FR:CTS_SMS": "264B",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056339,
+  "lat": 48.6107548,
+  "lon": 7.7823558,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Herrmann",
+    "public_transport": "platform",
+    "ref:FR:CTS": "ESCAL_01",
+    "ref:FR:CTS_SMS": "181A",
+    "shelter": "yes",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056341,
+  "lat": 48.6123047,
+  "lon": 7.7768774,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Hechner",
+    "public_transport": "platform",
+    "ref:FR:CTS": "HECHN_01",
+    "ref:FR:CTS_SMS": "264A",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056344,
+  "lat": 48.6106213,
+  "lon": 7.7863093,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Coehorn",
+    "public_transport": "platform",
+    "ref:FR:CTS": "COEHO_02",
+    "ref:FR:CTS_SMS": "121B",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056346,
+  "lat": 48.6106909,
+  "lon": 7.7821768,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Jean Herrmann",
+    "public_transport": "platform",
+    "ref:FR:CTS": "ESCAL_02",
+    "ref:FR:CTS_SMS": "181B",
+    "shelter": "yes",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056349,
+  "lat": 48.6129089,
+  "lon": 7.7736307,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cité de l'Ill",
+    "public_transport": "platform",
+    "ref:FR:CTS": "CIILL_01",
+    "ref:FR:CTS_SMS": "99A",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056351,
+  "lat": 48.6128527,
+  "lon": 7.7733127,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cité de l'Ill",
+    "public_transport": "platform",
+    "ref:FR:CTS": "CIILL_02",
+    "ref:FR:CTS_SMS": "99B",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 1867056353,
+  "lat": 48.6114717,
+  "lon": 7.7803848,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Papeterie",
+    "public_transport": "platform",
+    "ref:FR:CTS": "PAPET_02",
+    "ref:FR:CTS_SMS": "459B",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1919712682,
+  "lat": 48.5952005,
+  "lon": 7.7184387,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Matthieu Zell",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "Bing (mai 2012)",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1919712683,
+  "lat": 48.5953636,
+  "lon": 7.7187620,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Matthieu Zell",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "Bing (mai 2012)",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1920882572,
+  "lat": 48.5808471,
+  "lon": 7.7705420,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Observatoire",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1931798269,
+  "lat": 48.5857902,
+  "lon": 7.6954564,
+  "tags": {
+    "bench": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Marcel Rudolff",
+    "public_transport": "platform",
+    "route_ref": "4;50;205",
+    "shelter": "yes",
+    "source": "survey",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2026939913,
+  "lat": 48.6128666,
+  "lon": 7.7882725,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Général Lejeune",
+    "public_transport": "platform",
+    "ref:FR:CTS": "GELEJ_02",
+    "ref:FR:CTS_SMS": "240B",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2026939914,
+  "lat": 48.6130370,
+  "lon": 7.7883451,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Général Lejeune",
+    "public_transport": "platform",
+    "ref:FR:CTS": "GELEJ_01",
+    "ref:FR:CTS_SMS": "240A",
+    "shelter": "yes",
+    "source": "Bing",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2026939929,
+  "lat": 48.6144803,
+  "lon": 7.7900695,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Renaissance",
+    "public_transport": "platform",
+    "ref:FR:CTS": "ROREN_02",
+    "ref:FR:CTS_SMS": "545A",
+    "shelter": "yes",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2014",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2037015079,
+  "lat": 48.5862428,
+  "lon": 7.7429262,
+  "tags": {
+    "bench": "yes",
+    "bicycle": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles Sébastopol",
+    "public_transport": "platform",
+    "ref:FR:CTS": "LHSEB_01",
+    "ref:FR:CTS_SMS": "342A",
+    "shelter": "yes",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 2037015081,
+  "lat": 48.5894795,
+  "lon": 7.7421823,
+  "tags": {
+    "bench": "no",
+    "bicycle": "yes",
+    "highway": "bus_stop",
+    "name": "Travail",
+    "public_transport": "platform",
+    "ref:FR:CTS": "TRAVA_03",
+    "ref:FR:CTS_SMS": "633C",
+    "shelter": "no",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "source:ref:FR:CTS": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 2178546746,
+  "lat": 48.5682215,
+  "lon": 7.7762429,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "route_ref": "21;30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2335283853,
+  "lat": 48.5920535,
+  "lon": 7.7249149,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rotonde",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2363175040,
+  "lat": 48.5764453,
+  "lon": 7.7711066,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ankara",
+    "public_transport": "platform",
+    "route_ref": "30",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2364278399,
+  "lat": 48.5783578,
+  "lon": 7.7480383,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Nicolas",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "no",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 2364278400,
+  "lat": 48.5788676,
+  "lon": 7.7435561,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Thomas Finkwiller",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368329784,
+  "lat": 48.5861297,
+  "lon": 7.7807973,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Ypres",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368329805,
+  "lat": 48.5892399,
+  "lon": 7.7827513,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Quartier des Quinze",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330023,
+  "lat": 48.5960084,
+  "lon": 7.7879487,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carpe Haute",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330024,
+  "lat": 48.5961372,
+  "lon": 7.7881819,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Carpe Haute",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330029,
+  "lat": 48.5991884,
+  "lon": 7.7908675,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brême",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330030,
+  "lat": 48.5987874,
+  "lon": 7.7910712,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Brême",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330071,
+  "lat": 48.6019952,
+  "lon": 7.7925478,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Lamproie",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330072,
+  "lat": 48.6017280,
+  "lon": 7.7927774,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Lamproie",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330074,
+  "lat": 48.6033879,
+  "lon": 7.7907533,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Fleuri",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330075,
+  "lat": 48.6033658,
+  "lon": 7.7903802,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bois Fleuri",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330078,
+  "lat": 48.6035145,
+  "lon": 7.7871944,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-François",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330079,
+  "lat": 48.6035772,
+  "lon": 7.7871147,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Saint-François",
+    "public_transport": "platform",
+    "route_ref": "15;15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330087,
+  "lat": 48.6032555,
+  "lon": 7.7836103,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Robertsau Eglise",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330088,
+  "lat": 48.6030073,
+  "lon": 7.7834355,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Robertsau Eglise",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330089,
+  "lat": 48.6020838,
+  "lon": 7.7826543,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Robertsau Église",
+    "public_transport": "platform",
+    "route_ref": "6;15;72",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2368330090,
+  "lat": 48.6023152,
+  "lon": 7.7829277,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Robertsau Église",
+    "public_transport": "platform",
+    "route_ref": "6;15;72",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581816,
+  "lat": 48.5869605,
+  "lon": 7.7774155,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wagner",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581817,
+  "lat": 48.5871873,
+  "lon": 7.7759653,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Wagner",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581818,
+  "lat": 48.5879165,
+  "lon": 7.7743797,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581819,
+  "lat": 48.5881297,
+  "lon": 7.7728624,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Verdun",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581820,
+  "lat": 48.5887165,
+  "lon": 7.7694547,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tauler",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2461581821,
+  "lat": 48.5884141,
+  "lon": 7.7703995,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Tauler",
+    "public_transport": "platform",
+    "route_ref": "15a",
+    "shelter": "no",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 2512612226,
+  "lat": 48.5766087,
+  "lon": 7.7878171,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Capitainerie",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2512612227,
+  "lat": 48.5764820,
+  "lon": 7.7877471,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Capitainerie",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2512612228,
+  "lat": 48.5747253,
+  "lon": 7.7928637,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "highway": "bus_stop",
+    "name": "Coopérative",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2512612229,
+  "lat": 48.5745775,
+  "lon": 7.7930736,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Coopérative",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 2877655451,
+  "lat": 48.5878123,
+  "lon": 7.7383527,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Wilson",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "667",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3036744114,
+  "lat": 48.5751230,
+  "lon": 7.7524979,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Étoile Bourse",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3036744115,
+  "lat": 48.5750389,
+  "lon": 7.7530262,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Étoile Bourse",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3084731917,
+  "lat": 48.6047897,
+  "lon": 7.7162671,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "136",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3084731918,
+  "lat": 48.6046303,
+  "lon": 7.7163073,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Arago",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "136",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3187382497,
+  "lat": 48.5792268,
+  "lon": 7.7511727,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "highway": "bus_stop",
+    "local_ref": "N1;N3",
+    "name": "Corbeau",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "no",
+    "toilets:wheelchair": "no",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3187760203,
+  "lat": 48.5819966,
+  "lon": 7.7504823,
+  "tags": {
+    "bus": "yes",
+    "covered": "no",
+    "description": "Durée: 40 minutes environ Rotation toutes les 30 minutes de 10 h à 18 h (2 petits trains)",
+    "highway": "bus_stop",
+    "name": "Départ du Petit Train Touristique",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "http://www.petit-train-strasbourg.fr",
+    "tactile_paving": "no",
+    "website": "http://www.petit-train-strasbourg.fr"
+  }
+},
+{
+  "type": "node",
+  "id": 3413160673,
+  "lat": 48.5844992,
+  "lon": 7.7345480,
+  "tags": {
+    "bench": "no",
+    "bin": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Strasbourg - Place de la Gare",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3629506886,
+  "lat": 48.5401133,
+  "lon": 7.7881158,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Boulogne",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3629506887,
+  "lat": 48.5395785,
+  "lon": 7.7877385,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Boulogne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3632682401,
+  "lat": 48.5619480,
+  "lon": 7.7110776,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Elmerforst",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3632682402,
+  "lat": 48.5625021,
+  "lon": 7.7102370,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Elmerforst",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3640583724,
+  "lat": 48.5939892,
+  "lon": 7.7719891,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Conseil de l'Europe",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3640603207,
+  "lat": 48.5861593,
+  "lon": 7.7579496,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Liberté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3640603208,
+  "lat": 48.5859566,
+  "lon": 7.7581734,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Liberté",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3640651200,
+  "lat": 48.6069681,
+  "lon": 7.7799600,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baillis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3640651201,
+  "lat": 48.6065797,
+  "lon": 7.7800163,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Baillis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3643033389,
+  "lat": 48.5798173,
+  "lon": 7.6975548,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Henri Frenay",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 3650410640,
+  "lat": 48.5911125,
+  "lon": 7.7029642,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Dante",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3726222778,
+  "lat": 48.5906030,
+  "lon": 7.7158276,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "image": "http://storage9.openstreetcam.org/files/photo/2018/10/7/lth/1296619_4_00526_27.jpg",
+    "name": "Ducs d'Alsace",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "survey:date": "2021-09-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672494,
+  "lat": 48.5761030,
+  "lon": 7.7566572,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Sécurité Sociale",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672495,
+  "lat": 48.5759633,
+  "lon": 7.7566082,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Sécurité Sociale",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672498,
+  "lat": 48.5982826,
+  "lon": 7.7775503,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bœcklin",
+    "public_transport": "platform",
+    "route_ref": "6;72",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672502,
+  "lat": 48.5981620,
+  "lon": 7.7789949,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Bœcklin",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "yes",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672503,
+  "lat": 48.6004405,
+  "lon": 7.7805674,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Schott",
+    "public_transport": "platform",
+    "route_ref": "6;15",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672504,
+  "lat": 48.6003748,
+  "lon": 7.7805674,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Schott",
+    "public_transport": "platform",
+    "route_ref": "6",
+    "shelter": "yes",
+    "source": "survey;bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3731672505,
+  "lat": 48.6004174,
+  "lon": 7.7810596,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Schott",
+    "public_transport": "platform",
+    "route_ref": "15",
+    "shelter": "no",
+    "source": "survey;bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4011478945,
+  "lat": 48.6014315,
+  "lon": 7.7230486,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "stop_position",
+    "ref:FR:CTS_SMS": "533",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4111088152,
+  "lat": 48.5368779,
+  "lon": 7.7706618,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "line": "24",
+    "name": "Neuhof Église",
+    "note": "check position",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4144078099,
+  "lat": 48.5957959,
+  "lon": 7.7276671,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hochfelden",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "733",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4144078100,
+  "lat": 48.5956182,
+  "lon": 7.7276559,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hochfelden",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "733",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4144103571,
+  "lat": 48.5879270,
+  "lon": 7.7383399,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Wilson",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "667",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4216657642,
+  "lat": 48.6015067,
+  "lon": 7.7229945,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "covered": "yes",
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "stop_position",
+    "ref:FR:CTS_SMS": "533",
+    "route_ref": "G",
+    "shelter": "yes",
+    "source": "observation",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4216657643,
+  "lat": 48.5918582,
+  "lon": 7.7327867,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Gare aux Marchandises",
+    "public_transport": "platform",
+    "ref:FR:CTS_SMS": "718",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4346485156,
+  "lat": 48.5645550,
+  "lon": 7.7069102,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Ostwald",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4346485157,
+  "lat": 48.5645225,
+  "lon": 7.7067400,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place d'Ostwald",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4346485158,
+  "lat": 48.5648847,
+  "lon": 7.7110784,
+  "tags": {
+    "bench": "no",
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Salm",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4346485159,
+  "lat": 48.5630021,
+  "lon": 7.7114456,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Elmerforst",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4825316494,
+  "lat": 48.5963772,
+  "lon": 7.6961124,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Karine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4825316495,
+  "lat": 48.5962486,
+  "lon": 7.6956980,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Karine",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4869963900,
+  "lat": 48.5919355,
+  "lon": 7.6931977,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Edmond Rostand",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4869963901,
+  "lat": 48.5921227,
+  "lon": 7.6931601,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Edmond Rostand",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4869964062,
+  "lat": 48.5913562,
+  "lon": 7.7030939,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Dante",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4956931984,
+  "lat": 48.5936489,
+  "lon": 7.6947404,
+  "tags": {
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Jacqueline",
+    "public_transport": "platform",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4956931985,
+  "lat": 48.5936968,
+  "lon": 7.6949529,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Jacqueline",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4988160492,
+  "lat": 48.6052686,
+  "lon": 7.7209056,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kepler",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "https://www.cts-strasbourg.eu/export/sites/default/pdf/01Accueil/CTS-plan-2017-semi-geographique-HD-sans-tetiere.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 4988160493,
+  "lat": 48.6048442,
+  "lon": 7.7209083,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Kepler",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "https://www.cts-strasbourg.eu/export/sites/default/pdf/01Accueil/CTS-plan-2017-semi-geographique-HD-sans-tetiere.pdf"
+  }
+},
+{
+  "type": "node",
+  "id": 4994274772,
+  "lat": 48.5795986,
+  "lon": 7.7561554,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "3vaoxyzTiqs1e0bJeYovJg",
+    "name": "Zurich",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "survey:date": "2017-10-11",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4994274773,
+  "lat": 48.5796616,
+  "lon": 7.7560654,
+  "tags": {
+    "bench": "yes",
+    "bin": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "mapillary": "gWftU40-MKZN0TVprJmmbw",
+    "name": "Zurich",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "survey:date": "2017-10-11",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4994274774,
+  "lat": 48.5779984,
+  "lon": 7.7540279,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Austerlitz",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4994274775,
+  "lat": 48.5780978,
+  "lon": 7.7543135,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Austerlitz",
+    "public_transport": "platform",
+    "route_ref": "10",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435694,
+  "lat": 48.5513776,
+  "lon": 7.7660646,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Christophe",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435695,
+  "lat": 48.5512626,
+  "lon": 7.7659607,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Christophe",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435696,
+  "lat": 48.5455812,
+  "lon": 7.7655342,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Rodolphe Reuss",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435697,
+  "lat": 48.5456069,
+  "lon": 7.7657099,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Rodolphe Reuss",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435698,
+  "lat": 48.5428696,
+  "lon": 7.7661324,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Riehl",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435699,
+  "lat": 48.5428332,
+  "lon": 7.7660009,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Riehl",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435700,
+  "lat": 48.5397024,
+  "lon": 7.7681601,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Dalis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435701,
+  "lat": 48.5396527,
+  "lon": 7.7680367,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Dalis",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435703,
+  "lat": 48.5275850,
+  "lon": 7.7694362,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Stéphanie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435704,
+  "lat": 48.5301641,
+  "lon": 7.7684176,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Colombes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435705,
+  "lat": 48.5335415,
+  "lon": 7.7683009,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Welsch",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435706,
+  "lat": 48.5368383,
+  "lon": 7.7705077,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Église",
+    "note": "check position",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435707,
+  "lat": 48.5333470,
+  "lon": 7.7714304,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Goldschmidt",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435708,
+  "lat": 48.5334989,
+  "lon": 7.7715035,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Goldschmidt",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4997435709,
+  "lat": 48.5307059,
+  "lon": 7.7738142,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Coucou des Bois",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4998057414,
+  "lat": 48.5187257,
+  "lon": 7.7778080,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Royan",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4998057415,
+  "lat": 48.5186413,
+  "lon": 7.7777758,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Royan",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 4998057417,
+  "lat": 48.5214581,
+  "lon": 7.7822484,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Rochefort",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 4998057418,
+  "lat": 48.5209917,
+  "lon": 7.7819078,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Rochefort",
+    "public_transport": "platform",
+    "route_ref": "27",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 4998388378,
+  "lat": 48.5814387,
+  "lon": 7.6998321,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Virgile",
+    "public_transport": "platform",
+    "route_ref": "50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 4998388379,
+  "lat": 48.5831927,
+  "lon": 7.6995879,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Horace",
+    "public_transport": "platform",
+    "route_ref": "4;50",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068796,
+  "lat": 48.5908059,
+  "lon": 7.7160904,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Ducs d'Alsace",
+    "public_transport": "platform",
+    "shelter": "no",
+    "survey:date": "2021-09-07",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068797,
+  "lat": 48.5815558,
+  "lon": 7.7148988,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Geroldseck",
+    "note": "check_position",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068798,
+  "lat": 48.5818468,
+  "lon": 7.7150638,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Geroldseck",
+    "note": "check_position",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068799,
+  "lat": 48.5794522,
+  "lon": 7.7127088,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Schnokeloch",
+    "public_transport": "platform",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068800,
+  "lat": 48.5796128,
+  "lon": 7.7128067,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Schnokeloch",
+    "public_transport": "platform",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068801,
+  "lat": 48.5842706,
+  "lon": 7.7145247,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Herrade",
+    "public_transport": "platform",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068802,
+  "lat": 48.5842187,
+  "lon": 7.7146507,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Herrade",
+    "public_transport": "platform",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068805,
+  "lat": 48.5945582,
+  "lon": 7.7174810,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mathieu Zell",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068806,
+  "lat": 48.5946826,
+  "lon": 7.7176742,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mathieu Zell",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068807,
+  "lat": 48.6015465,
+  "lon": 7.7095840,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Manoeuvre",
+    "public_transport": "platform",
+    "ref": "29",
+    "route_ref": "29",
+    "shelter": "no",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5000068808,
+  "lat": 48.6017401,
+  "lon": 7.7095461,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Champ de Manoeuvre",
+    "public_transport": "platform",
+    "ref": "29",
+    "route_ref": "29",
+    "shelter": "no",
+    "source": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2017",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935543,
+  "lat": 48.5272595,
+  "lon": 7.7602610,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Neuhof Ganzau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935544,
+  "lat": 48.5343549,
+  "lon": 7.7603126,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Faisanderie",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935545,
+  "lat": 48.5346858,
+  "lon": 7.7604380,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Faisanderie",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935546,
+  "lat": 48.5313551,
+  "lon": 7.7616497,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Saint-Ignace",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935548,
+  "lat": 48.5390764,
+  "lon": 7.7610992,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jésuites",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935549,
+  "lat": 48.5414188,
+  "lon": 7.7625677,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pont Schuhansen",
+    "pole": "public_transport",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "source:shelter": "Mapillary"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935550,
+  "lat": 48.5413611,
+  "lon": 7.7623766,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Pont Schuhansen",
+    "pole": "public_transport",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing",
+    "source:shelter": "Mapillary",
+    "waste_basket": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935551,
+  "lat": 48.5381627,
+  "lon": 7.7607585,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Jésuites",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935552,
+  "lat": 48.5434104,
+  "lon": 7.7647564,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Glaubitz",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935553,
+  "lat": 48.5430774,
+  "lon": 7.7642186,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Glaubitz",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935554,
+  "lat": 48.5461290,
+  "lon": 7.7520454,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Weeber",
+    "note": "check position",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935555,
+  "lat": 48.5460482,
+  "lon": 7.7517490,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Weeber",
+    "note": "check position",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935556,
+  "lat": 48.5458280,
+  "lon": 7.7568680,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Sud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935557,
+  "lat": 48.5459434,
+  "lon": 7.7558917,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Cimetière Sud",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935558,
+  "lat": 48.5478753,
+  "lon": 7.7481307,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935559,
+  "lat": 48.5477537,
+  "lon": 7.7477552,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Bourgogne",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935560,
+  "lat": 48.5587134,
+  "lon": 7.7482769,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Couffignal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935561,
+  "lat": 48.5585372,
+  "lon": 7.7483479,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Couffignal",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935562,
+  "lat": 48.5621385,
+  "lon": 7.7396737,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Plaine des Bouchers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935563,
+  "lat": 48.5624163,
+  "lon": 7.7393076,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Plaine des Bouchers",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935564,
+  "lat": 48.5605116,
+  "lon": 7.7436756,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lefèbvre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935565,
+  "lat": 48.5601974,
+  "lon": 7.7441691,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lefèbvre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935566,
+  "lat": 48.5644568,
+  "lon": 7.7387631,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fédération",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935567,
+  "lat": 48.5641266,
+  "lon": 7.7385794,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Fédération",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935568,
+  "lat": 48.5684034,
+  "lon": 7.7392586,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Doubs",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935569,
+  "lat": 48.5683954,
+  "lon": 7.7390836,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Doubs",
+    "public_transport": "platform",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935570,
+  "lat": 48.5677631,
+  "lon": 7.7261570,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Elsau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935571,
+  "lat": 48.5676402,
+  "lon": 7.7260964,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Elsau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935572,
+  "lat": 48.5666067,
+  "lon": 7.7234658,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Rembrandt",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935573,
+  "lat": 48.5665193,
+  "lon": 7.7236542,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Rembrandt",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935574,
+  "lat": 48.5661102,
+  "lon": 7.7202880,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Martin Schongauer",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935575,
+  "lat": 48.5654938,
+  "lon": 7.7199689,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Martin Schongauer",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "Bing"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935576,
+  "lat": 48.5641284,
+  "lon": 7.7206179,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Michel Ange",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935577,
+  "lat": 48.5641954,
+  "lon": 7.7203162,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Michel Ange",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002935579,
+  "lat": 48.5621518,
+  "lon": 7.7298937,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Unterelsau",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978782,
+  "lat": 48.6021285,
+  "lon": 7.7223251,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978783,
+  "lat": 48.6022440,
+  "lon": 7.7225947,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "platform",
+    "shelter": "no",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978784,
+  "lat": 48.5855823,
+  "lon": 7.7069313,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Forges",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978785,
+  "lat": 48.5857233,
+  "lon": 7.7070862,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Forges",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978786,
+  "lat": 48.5865718,
+  "lon": 7.7042605,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jacobi Netter",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978787,
+  "lat": 48.5866459,
+  "lon": 7.7040473,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Jacobi Netter",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978788,
+  "lat": 48.5826928,
+  "lon": 7.7073933,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cuivre",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978789,
+  "lat": 48.5830441,
+  "lon": 7.7074939,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Cuivre",
+    "public_transport": "platform",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978790,
+  "lat": 48.5805555,
+  "lon": 7.7075690,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Engelbreit",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5002978791,
+  "lat": 48.5805129,
+  "lon": 7.7077702,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Engelbreit",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 5082999409,
+  "lat": 48.5845363,
+  "lon": 7.7349503,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Strasbourg - Place de la Gare",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5130544036,
+  "lat": 48.5691081,
+  "lon": 7.7947050,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jardin des Deux Rives",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5130550002,
+  "lat": 48.5690117,
+  "lon": 7.7947870,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Jardin des Deux Rives",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 5216128022,
+  "lat": 48.5701380,
+  "lon": 7.7855241,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "waste_basket": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5216136438,
+  "lat": 48.5720169,
+  "lon": 7.7933085,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name:signed": "no",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "shelter_type": "public_transport",
+    "tactile_paving": "yes",
+    "waste_basket": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5233005030,
+  "lat": 48.6020559,
+  "lon": 7.7191930,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5233005031,
+  "lat": 48.6020933,
+  "lon": 7.7196617,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Lavoisier",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5662912458,
+  "lat": 48.6176153,
+  "lon": 7.7886207,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau Sainte-Anne",
+    "public_transport": "platform",
+    "ref": "549C",
+    "route_ref": "30;72;72a",
+    "shelter": "yes",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 5745975186,
+  "lat": 48.5934437,
+  "lon": 7.7715305,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Conseil de l'Europe",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5793398615,
+  "lat": 48.5699814,
+  "lon": 7.7962721,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Cirque - Centre Equestre",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5793398616,
+  "lat": 48.5706199,
+  "lon": 7.7960127,
+  "tags": {
+    "bench": "no",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Cirque - Centre Equestre",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 5941269586,
+  "lat": 48.5838316,
+  "lon": 7.7340745,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Boulevard de Metz",
+    "name:en": "Lufthansa express bus",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "LHX-Bus(Frankfurt-Straßburg)"
+  }
+},
+{
+  "type": "node",
+  "id": 6034940941,
+  "lat": 48.5879038,
+  "lon": 7.7389233,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "local_ref": "B",
+    "name": "Wilson",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "ref": "667",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6034941434,
+  "lat": 48.5860897,
+  "lon": 7.7407922,
+  "tags": {
+    "bench": "no",
+    "highway": "bus_stop",
+    "name": "Faubourg de Saverne",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6216400568,
+  "lat": 48.5830897,
+  "lon": 7.6915084,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poteries",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6216400571,
+  "lat": 48.5835034,
+  "lon": 7.6916489,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poteries",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6240460070,
+  "lat": 48.5844676,
+  "lon": 7.7419070,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles Pont de Saverne",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6244337483,
+  "lat": 48.5841820,
+  "lon": 7.7400048,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles Pont de Saverne",
+    "public_transport": "stop_position"
+  }
+},
+{
+  "type": "node",
+  "id": 6340673054,
+  "lat": 48.5749088,
+  "lon": 7.7337490,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Lyon Pasteur",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "no",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6340673061,
+  "lat": 48.5744953,
+  "lon": 7.7386122,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Lycée Pasteur",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6340673062,
+  "lat": 48.5742775,
+  "lon": 7.7388177,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Lycée Pasteur",
+    "public_transport": "platform",
+    "route_ref": "2",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6342128824,
+  "lat": 48.6068089,
+  "lon": 7.7886187,
+  "tags": {
+    "bench": "yes",
+    "fixme": "code cts",
+    "highway": "bus_stop",
+    "name": "Kempf",
+    "shelter": "yes",
+    "source": "CTS",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6342128825,
+  "lat": 48.6068882,
+  "lon": 7.7884933,
+  "tags": {
+    "bench": "yes",
+    "fixme": "code cts",
+    "highway": "bus_stop",
+    "name": "Kempf",
+    "shelter": "yes",
+    "source": "CTS",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2012",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6342128826,
+  "lat": 48.6114695,
+  "lon": 7.7888346,
+  "tags": {
+    "bench": "yes",
+    "fixme": "position",
+    "highway": "bus_stop",
+    "name": "Angle",
+    "source": "CTS",
+    "source:ref": "Compagnie des Transports Strasbourgeois. edition 2012"
+  }
+},
+{
+  "type": "node",
+  "id": 6470105145,
+  "lat": 48.5827204,
+  "lon": 7.7727771,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "no",
+    "highway": "bus_stop",
+    "name": "Marne (jours de marché)",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6538259097,
+  "lat": 48.5682677,
+  "lon": 7.7776261,
+  "tags": {
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Aristide Briand",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6567225958,
+  "lat": 48.5493418,
+  "lon": 7.7658695,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clairvivre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6567225959,
+  "lat": 48.5498490,
+  "lon": 7.7657524,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Clairvivre",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6569448120,
+  "lat": 48.5404129,
+  "lon": 7.7690756,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bouguer",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 6569448121,
+  "lat": 48.5407420,
+  "lon": 7.7696658,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Bouguer",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 6569448122,
+  "lat": 48.5425559,
+  "lon": 7.7711742,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Michel Walter",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 6569448123,
+  "lat": 48.5430489,
+  "lon": 7.7716650,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Stade Michel Walter",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "source": "BDOrtho IGN"
+  }
+},
+{
+  "type": "node",
+  "id": 6576535049,
+  "lat": 48.5782297,
+  "lon": 7.7340073,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Musée d'Art Moderne",
+    "public_transport": "platform",
+    "route_ref": "4",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6618534463,
+  "lat": 48.5808693,
+  "lon": 7.7226503,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Parc des Romains",
+    "network": "CTS",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6681839148,
+  "lat": 48.5875011,
+  "lon": 7.7414493,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Strasbourg - Gare Routière des halles",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6687922247,
+  "lat": 48.5842160,
+  "lon": 7.7399579,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Les Halles Pont de Saverne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6699767745,
+  "lat": 48.5985357,
+  "lon": 7.7607026,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Wacken",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6757793293,
+  "lat": 48.5819959,
+  "lon": 7.7011002,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hohberg",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6763838314,
+  "lat": 48.6129476,
+  "lon": 7.7687314,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Pont Phario",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6766064440,
+  "lat": 48.6098539,
+  "lon": 7.7846624,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau l'Escale",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6769114112,
+  "lat": 48.5834402,
+  "lon": 7.6923059,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Poteries",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6771410556,
+  "lat": 48.5780401,
+  "lon": 7.7504227,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Porte de l'Hôpital",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6771716267,
+  "lat": 48.5781723,
+  "lon": 7.7337386,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Musée d'Art Moderne",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6776560508,
+  "lat": 48.6035893,
+  "lon": 7.7845865,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mélanie",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6776560509,
+  "lat": 48.6034851,
+  "lon": 7.7855770,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Mélanie",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6777706480,
+  "lat": 48.5917440,
+  "lon": 7.7248994,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Rotonde",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6777828226,
+  "lat": 48.6031490,
+  "lon": 7.7132566,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Haldenbourg",
+    "public_transport": "platform",
+    "route_ref": "19",
+    "shelter": "yes",
+    "source": "survey",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6778910866,
+  "lat": 48.5950529,
+  "lon": 7.7259408,
+  "tags": {
+    "covered": "no",
+    "highway": "bus_stop",
+    "name": "Villa Vénitienne",
+    "public_transport": "platform",
+    "tactile_paving": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6778922943,
+  "lat": 48.5950228,
+  "lon": 7.7260481,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Villa Vénitienne",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6781290265,
+  "lat": 48.5547984,
+  "lon": 7.7673263,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Kibitzenau",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6786452560,
+  "lat": 48.6015727,
+  "lon": 7.7230199,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6786452561,
+  "lat": 48.6013793,
+  "lon": 7.7230246,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Rieth",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6788379191,
+  "lat": 48.5508192,
+  "lon": 7.7512005,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Île de France",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269807,
+  "lat": 48.6259896,
+  "lon": 7.8038630,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Fuchs Am Buckel",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269808,
+  "lat": 48.6260436,
+  "lon": 7.8040159,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Fuchs Am Buckel",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269810,
+  "lat": 48.6212726,
+  "lon": 7.7978589,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bussière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269811,
+  "lat": 48.6211211,
+  "lon": 7.7974029,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Bussière",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269814,
+  "lat": 48.6192771,
+  "lon": 7.7923644,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Belzwœrth",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6812269815,
+  "lat": 48.6192514,
+  "lon": 7.7929544,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Belzwœrth",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6817441344,
+  "lat": 48.5745189,
+  "lon": 7.7488495,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Police",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6817441346,
+  "lat": 48.5746400,
+  "lon": 7.7503093,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel de Police",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6817441348,
+  "lat": 48.5739886,
+  "lon": 7.7435414,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hôpital Civil",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6817441351,
+  "lat": 48.5741741,
+  "lon": 7.7423599,
+  "tags": {
+    "highway": "bus_stop",
+    "name": "Hôpital Civil",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 6915062626,
+  "lat": 48.5979231,
+  "lon": 7.7770027,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Bœcklin",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 6960939661,
+  "lat": 48.6405468,
+  "lon": 7.8085195,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Honau",
+    "public_transport": "platform",
+    "shelter": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 7153519104,
+  "lat": 48.5839064,
+  "lon": 7.6911566,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Poteries",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7329455894,
+  "lat": 48.5962332,
+  "lon": 7.7592879,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Palais de la Musique et des Congrés",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7329579192,
+  "lat": 48.5962648,
+  "lon": 7.7591823,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "name": "Palais de la Musique et des Congrés",
+    "shelter": "yes",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 7720366426,
+  "lat": 48.6096339,
+  "lon": 7.7850611,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Robertsau l'Escale",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7760542386,
+  "lat": 48.5702485,
+  "lon": 7.7852488,
+  "tags": {
+    "bench": "yes",
+    "highway": "bus_stop",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7809228661,
+  "lat": 48.5805565,
+  "lon": 7.7226174,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Parc des Romains",
+    "network": "CTS",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 7809228665,
+  "lat": 48.5796834,
+  "lon": 7.7167821,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Comtes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 7809228667,
+  "lat": 48.5798341,
+  "lon": 7.7154592,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Comtes",
+    "public_transport": "platform",
+    "shelter": "yes",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8895745473,
+  "lat": 48.5963235,
+  "lon": 7.7554411,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Hôtel Hilton",
+    "passenger_information_display": "yes",
+    "public_transport": "platform",
+    "route_ref": "LHX-Bus(Frankfurt-Straßburg)",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8922482249,
+  "lat": 48.5909215,
+  "lon": 7.7327962,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Dépôt CTS",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8922736761,
+  "lat": 48.5630524,
+  "lon": 7.6949222,
+  "tags": {
+    "bench": "yes",
+    "bin": "yes",
+    "bus": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Roethig Gare",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8941543176,
+  "lat": 48.5933110,
+  "lon": 7.7136471,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "realtime",
+    "highway": "bus_stop",
+    "name": "Brasseurs",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8941543177,
+  "lat": 48.5932987,
+  "lon": 7.7140661,
+  "tags": {
+    "bench": "yes",
+    "bus": "yes",
+    "departures_board": "timetable",
+    "highway": "bus_stop",
+    "name": "Brasseurs",
+    "public_transport": "platform",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 8941696206,
+  "lat": 48.5308998,
+  "lon": 7.7706636,
+  "tags": {
+    "bus": "yes",
+    "highway": "bus_stop",
+    "name": "Place des colombes",
+    "public_transport": "platform"
+  }
+},
+{
+  "type": "node",
+  "id": 9014204743,
+  "lat": 48.5839487,
+  "lon": 7.7407350,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "name": "Les Halles Pont de Saverne",
+    "public_transport": "platform",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9024664496,
+  "lat": 48.5858542,
+  "lon": 7.7436729,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "yes",
+    "name": "Les Halles Pont de Paris",
+    "public_transport": "platform",
+    "route_ref": "L3;L6",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 9024664498,
+  "lat": 48.5851719,
+  "lon": 7.7434191,
+  "tags": {
+    "bench": "no",
+    "bin": "yes",
+    "highway": "bus_stop",
+    "lit": "no",
+    "name": "Les Halles Pont de Paris",
+    "public_transport": "platform",
+    "route_ref": "L3;L6",
+    "shelter": "no",
+    "tactile_paving": "yes"
+  }
+}
+
+  ]
+}
