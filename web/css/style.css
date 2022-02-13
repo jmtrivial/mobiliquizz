@@ -4,7 +4,7 @@ body {
     background: #ccc;
     color: #fff;
     Font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
-    font-size: 120%;
+    font-size: 18px;
 }
 
 body p {
@@ -158,7 +158,7 @@ input {
     #main { max-width: 440px; }
     body {    font-size: 80%; }
 }
-@media only screen and (device-width:768px){
+@media only screen and (max-device-width:768px){
     /* default iPad screens */
     #main { max-width: 740px; }
     body {    font-size: 90%; }
