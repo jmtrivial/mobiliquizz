@@ -120,6 +120,24 @@ input {
     display: none;
 }
 
+#attente {
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 8em;
+    height: 1em;
+    margin: auto;
+    z-index: 1000;
+    background: #262626;
+    padding: 2em 5em;
+    font-size: 130%;
+    border-radius: 1em;
+    text-align: center;
+}
+
 @media only screen and (min-width:960px){
     /* styles for browsers larger than 960px; */
     #main { max-width: 1000px; }

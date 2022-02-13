@@ -37,6 +37,13 @@ function get_dir_name() {
     return window.location.pathname;
 }
 
+function afficher_attente() {
+    document.getElementById("attente").style.display = "block";
+}
+
+function cacher_attente() {
+    document.getElementById("attente").style.display = "none";
+}
 
 function get_data_set_interface_question(city, niveau, question, courant) {
     const request = new XMLHttpRequest();
@@ -77,6 +84,7 @@ function get_data_set_interface_question(city, niveau, question, courant) {
             window.layergroup = L.featureGroup(window.layers).addTo(window.mmap).bringToBack();
             if (courant == 1)
                 window.mmap.fitBounds(window.layergroup.getBounds());
+            cacher_attente();
         }
         else
             get_data_set_interface_question(city, niveau, question, courant - 1);
@@ -99,6 +107,8 @@ function get_data_set_interface(city, niveau, question) {
         }
     }
     window.layers = [];
+
+    afficher_attente();
 
     get_data_set_interface_question(city, niveau, question, question);
 }
