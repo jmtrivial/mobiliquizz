@@ -10,6 +10,7 @@ import re
 from itertools import accumulate
 import json
 import math
+import operator
 
 # Paramètre du script: taille des communes à garder
 min_population = 50000
@@ -65,30 +66,49 @@ def fusion_arrondissements(data, nom):
 data = fusion_arrondissements(data, "Paris")
 data = fusion_arrondissements(data, "Marseille")
 
-print("filtrage des données")
+
+def ajouter_somme_cumulee(input_data):
+    cumul = list(accumulate([d[1] for d in input_data]))
+    input_data = [[d[0], c] for d, c in zip(input_data, cumul)]
+    return input_data
+
+def sauver_villes(input_data, nom_niveau):
+    dossier, script = os.path.split(os.path.abspath(__file__))
+    dossier_data = os.path.abspath(dossier  + os.path.sep + dir_sortie)
+    # création du dossier cible
+    if not os.path.exists(dossier_data):
+        os.makedirs(dossier_data)
+
+    # écriture dans un fichier json
+    sortie_complete = dossier_data + os.path.sep + territoire.lower() + "-" + nom_niveau + ".json"
+    print("écriture du résultat dans le fichier", sortie_complete)
+
+    with open(sortie_complete, 'w') as outfile:
+        json.dump(input_data, outfile)
+
+
+### Génération des fichiers pour le niveau 1
+print("filtrage des données niveau 1")
 # filtrage des communes suivant leur taille (on ne garde que les plus grosses)
-data = [ d for d in data if d[1] >= min_population ]
+data_level1 = sorted(data, key=operator.itemgetter(1), reverse=True)[:10]
+
+# sauver dans le dossier data
+sauver_villes(data_level1, "level1")
+
+### Génération des fichiers pour le niveau 2
+
+print("filtrage des données niveau 2")
+# filtrage des communes suivant leur taille (on ne garde que les plus grosses)
+data_level2 = [ d for d in data if d[1] >= min_population ]
 
 # on applique un log pour réduire l'influence des grandes villes dans le tirage au sort
-data = [ [d[0], d[1] ** (8/10)] for d in data]
+data_level2 = [ [d[0], d[1] ** (8/10)] for d in data_level2]
 
 # ajout de la somme cummulée
-cumul = list(accumulate([d[1] for d in data]))
-data = [[d[0], c] for d, c in zip(data, cumul)]
+data_level2 = ajouter_somme_cumulee(data_level2)
 
-
-dossier, script = os.path.split(os.path.abspath(__file__))
-dossier_data = os.path.abspath(dossier  + os.path.sep + dir_sortie)
-# création du dossier cible
-if not os.path.exists(dossier_data):
-    os.makedirs(dossier_data)
-
-# écriture dans un fichier json
-sortie_complete = dossier_data + os.path.sep + territoire.lower() + "-" + str(min_population) + ".json"
-print("écriture du résultat dans le fichier", sortie_complete)
-
-with open(sortie_complete, 'w') as outfile:
-    json.dump(data, outfile)
+# sauver dans le dossier data
+sauver_villes(data_level2, "level2")
 
 
 
